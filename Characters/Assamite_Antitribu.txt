@@ -1,0 +1,102 @@
+Name: 
+Clan: Assamite Antitribu (Warrior Caste)
+Nature: 
+Demeanor: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 5
+			Specialty: Feline Grace
+		Stamina: 2
+	Social: (3)
+		Charisma: 1
+		Manipulation: 3
+		Appearance: 2
+	Mental: (5)
+		Perception: 2
+		Intelligence: 2
+		Wits: 4
+			Specialty: Getting the Jump on Others
+
+Abilities: (13/9/5, none above 3)
+	Talents: (9)
+		Alertness: 2
+		Athletics: 2
+		Brawl: 2
+		Dodge: 2
+		Streetwise: 1
+	Skills: (13)
+		Drive: 1
+		Firearms: 2
+		Melee: 3
+		Security: 3
+		Stealth: 3
+		Survival: 1
+	Knowledges: (5)
+		Black Hand Lore: 2 (Guide to the Sabbat pg. 90)
+		Investigation: 1
+		The Art of Memory: 2
+
+Disciplines: (4 + 2 from freebie points)
+	Celerity: 1
+	Fortitude: 1
+	Obfuscate: 2
+	Potence: 1
+	Quietus: 1
+	
+
+Backgrounds: (None free, due to Sabbat)
+	Black Hand Membership: 1 (Guide to the Sabbat pg. 93)
+	Mentor: 2
+
+Path of Enlightenment: Path of Caine  (Chaining The Beast pg. ?)
+Path Rating: 2
+Virtues: (5 above base of 1 in Courage, zero in others)
+	Conviction (replaces Conscience): 1
+	Instinct (replaces Self-Control): 2
+	Courage: 4
+	
+Willpower: 5 (equal to Courage + 1 for freebie point)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Infertile Vitae (5 pt. flaw, Guide to the Sabbat pg. 95)
+
+Freebie points (15 + 5 from flaws)
+	3 on backgrounds
+	2 on 1 pt. of Courage (Will 5 is necessary to follow a path)
+	1 on Willpower (Will 5 is necessary to follow a path)
+	7 on Fortitude 1
+	7 on Potence 1
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-Was a thief
+		-Heard word of a big score to be had at a secluded estate
+			-Got a lot more than he expected when he broke in
+			-In reality, the estate was a training compound for a group of Assamite Black Hand
+			-The tip he followed had been an attempt to recruit, and a final test/display of his abilities by his sponsor
+	-Mentor is his sire and the one who sponsored him into the Hand
+		-Sire is young (reflecting this character's high generation) but is a dominion
+			-This is the result of the sudden absence of many elder Assamite Antitribu from the
+			 Black Hand after the awakening of Ur-Shulgi
+
+Equipment (stuff to start with or obtain):
+	Sword
+	Gloves (covering his Black Hand mark)
+
+Advancement:
+	-Tentative schedule:
+		 5 Celerity 2
+		10 Celerity 3
+		 6 Melee 4
+		 8 Melee 5
+		 7 Fortitude 2
+		 5 Quietus 2
+		15 Celerity 4
+		10 Quietus 3
+		15 Quietus 4
+		20 Celerity 5

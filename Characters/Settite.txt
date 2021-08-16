@@ -1,0 +1,80 @@
+Name: 
+Clan: 
+Nature: 
+Demeanor: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: ()
+		Strength: 
+		Dexterity: 
+		Stamina: 
+	Social: ()
+		Charisma:  (P1, P2, P4, P5)
+		Manipulation: 
+		Appearance:  (P3)
+	Mental: ()
+		Perception: 
+		Intelligence: 
+		Wits: 
+
+Abilities: (13/9/5, max of 3)
+	Talents: ()
+		Empathy:  (D3)
+		Expression: 
+		Intimidation:  (P2, P5)
+		Leadership: 
+		Subterfuge:  (P4)
+	Skills: ()
+		Drive: 
+		Etiquette: 
+		Firearms: 
+		Performance:  (P1)
+	Knowledges: ()
+		Computer: 
+		Finance: 
+
+Disciplines: (3)
+	Obfuscate: 1 (+2?)
+	Presence: 1
+	Serpentis: 1
+
+Backgrounds: (5)
+	Resources: 
+	Retainers: 
+	Herd: 
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 
+	Self-Control: 
+	Courage: 
+	
+Willpower:  (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: BELOW FROM SIMILAR VENTRUE
+	Bad Sight (1 pt. Flaw, Core pg. 297)
+		Can wear glasses for it, or it would be more points
+	Natural Leader (1 pt. Merit, Core pg. 300)
+		2 extra dice for Leadership roles
+	Enchanting Voice (2 pt. Merit, Core pg. 296)
+		-2 difficulty for "all die rolls involving the use of the voice to persuade, charm or command"
+		As written, sounds like it should affect disciplines
+			Though that certainly makes it powerful. As such many internet posts argued against it.
+
+Freebie points: 15 (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		

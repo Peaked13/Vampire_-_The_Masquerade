@@ -1,0 +1,170 @@
+Name: 
+Clan: Tremere
+Nature: Scientist (Pg. 67 of The Guide to the Camarilla)
+Demeanor: Soldier (Pg. 66 of The Guide to the Camarilla)
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 1
+		Dexterity: 3
+		Stamina: 2
+	Social: (5)
+		Charisma: 3
+		Manipulation: 3
+		Appearance: 2
+	Mental: (7)
+		Perception: 3
+		Intelligence: 5
+			Specialty: Book Knowledge
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (9)
+		Dodge: 3
+		Empathy: 2
+		Expression: 2
+		Subterfuge: 2
+	Skills: (5)
+		Drive: 1
+		Firearms: 2 (maybe change to melee?)
+		Security: 2
+	Knowledges: (13)
+		Academics: 3
+		Occult: 5 (+ 2 from freebie points)
+			Specialty: Rituals
+		Computer: 2
+		Investigation: 2
+		Linguistics: 3
+			Latin
+			Greek
+			Hebrew
+			German
+
+Disciplines: (3)
+	Thaumaturgy: 5
+		Path of Blood (Primary): 5
+		Rituals: (1 free lvl. 1 ritual)
+			Expedient Paperwork (lvl. 1, Blood Magic: Secrets of Thaumaturgy	Pg. 87)
+
+Backgrounds: (5)
+	Generation: 5
+		Eighth generation: 15 blood pool, can spend 3 points per turn
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 9 (equal to Courage + 4 for spent freebie points)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Twitch (1 pt. flaw, Guide to the Camarilla pg. 73)
+		Wringing hands when stressed?
+	New Arrival (1 pt. flaw, Guide to the Camarilla pg. 77)
+	Bad Sight (1 pt. Flaw, Core pg. 297)
+		Can wear glasses for it, or it would be more points
+	Short (1 pt. Flaw, Core pg. 297)
+	Repulsed by Garlic (1 pt. Flaw, Core pg. 301)
+	Eerie Presence  (2 pt. Flaw, Core pg. 302)
+
+Freebie points: 22 (15 + 7 from flaws)
+	14 Thaumaturgy 4 & 5
+	4 Occult 4 & 5
+	4 Willpower 6, 7, 8, & 9
+
+Character Description and Background:
+	-Appearance:
+		-Embraced in your late 30's, you have salt and pepper hair.
+		-Well under 5 ft. tall.
+		-You have a strange presence that makes most mortals uncomfortable.
+			-It began after your embrace and grew with your arcane studies.
+			-Your height probably doesn't help the impression much.
+	-As a mortal:
+		-
+		-You swear your aversion to garlic preexisted your embrace, and are tired of the jokes about it.
+			-You'd really prefer that others simply didn't find out.
+	-Sire embraced you to help in some grand ritual, his (un)life's work.
+		-You will be pissed if you ever learn that your height was a factor.
+			-"You had to fit in the ritual apparatus!"
+				-The Path of Conjuration's limit of object size to the size of the caster is probably a factor here.
+		-As such, your training in Thaumaturgy was narrow and relentless.
+			-His focus was on making you into a high level ritual practitioner as soon as possible.
+				-Your stats reflect both that training and what he selected you for.
+			-You quickly resented this, a feeling that grew dramatically as your reading and limited interaction
+			 with the rest of Clan Tremere suggested it wasn't typically like this.
+				-Other apprentices, even at the same chantry, clearly saw vastly more of (un)life outside it.
+				-You were also fascinated by the various Paths, but your sire refused you instruction in any but
+				 that of blood.
+					-He went so far as to interfere with any instruction from fellow apprentices too.
+					-"You only need master the blood for our great work!"
+						-You really hated that "our".
+		-He was regent of the isolated chantry where you were trained.
+			-It was actually a rather low position for one so old and well versed in Thaumaturgy.
+			-He somehow prevented you from being transfered, staying at one chantry far longer than the clan would
+			 usually allow.
+			-That, and the freedom and resources he had to pursue his ritual, suggested some kind of pull higher in
+			 the pyramid.
+			-That changed abruptly one night.
+				-You awoke and your sire was already gone, replaced by a stranger who introduced herself as the new
+				 regent.
+				-Your sire's ritual laboratory and notes were packed away and shipped to an unknown location.
+		-The new regent interviewed and tested you extensively.
+			-What she found clearly impressed her.
+				-Though you're training had been narrow, you were indeed a powerful thaumaturge.
+			-As such, when she arranged the transfer you were long overdue for, there were many regents eager to
+			 claim some credit for the talent your sire had hidden away.
+			-You had, in your interviews with your sire's replacement, mentioned an interest in The Path of the
+			 Focused Mind.
+				-Perhaps that's why you found yourself in the chantry you were recently relocated to, as it's
+				 regent is a master of the path.
+				-Or, perhaps, the clan sees in the path an opportunity to further hone the ritual practitioner it
+				 has been handed.
+	-Your rescue from your sire at the hands of Clan Tremere's standard practices have engendered in you a lot of
+	 affection for, and faith in, The Pyramid.
+		-Accurate or not (probably at least a little bit), you view your sire's treatment of you as pretty typical
+		 of the average vampire.
+			-You believe Clan Tremere to be different, as it's normal rules should have prevented your sire's
+			 monopolization of an apprentice and The Pyramid at least claims to be for the good of all it's members.
+		-It's politics are also a somewhat comfortable return to the politics of your beloved academia, at least
+		 compared to your sire's dictatorial mandates.
+	-You seek training in additional paths, particularly The Focused Mind.
+		-First, though, you likely need to prove yourself to your new regent.
+		-In other words, you've a ready made plot hook for anything your regent would support.
+	-What rank are you in The Pyramid?
+		-Probably lower than you should be.
+		-Do ranks correspond to the status background or anything like that?
+	-Do you know any rituals other than the one that a single dot of Thaumaturgy grants you?
+		-Probably not, unless the Storyteller is feeling generous.
+		-If not, it's a bit odd, given your knowledge and Thaumaturgy rating.
+			-Still, it can be worked into your background. Your sire didn't much care about your ability to do any
+			 ritual but his grand one.
+		-You'd certainly like to learn more.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		7  The Focused Mind 1
+		4  The Focused Mind 2
+		8  The Focused Mind 3
+		12 The Focused Mind 4
+		16 The Focused Mind 5
+		9  Willpower 10
+		7  Movement of the Mind 1
+		4  Movement of the Mind 2
+		8  Movement of the Mind 3
+		12 Movement of the Mind 4
+		10 Auspex 1
+		5  Auspex 2
+		10 Auspex 3
+		15 Auspex 4
+		20 Auspex 5
+	-Oh god. A Tremere can do terrible things with rituals and melee weapons.
+	 Like, flaming sword that drinks blood for you and acts as a talisman,
+	 making most of your Thaumaturgy easier, terrible.
+		-Taking melee instead of firearms would aid this.
+			-Maybe you fence? Your height would at least come with some
+			 advantages there, rather than _just_ disadvantages.

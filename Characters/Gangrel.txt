@@ -1,0 +1,87 @@
+Name: 
+Clan: Gangrel
+Nature: Survivor
+Demeanor: Survivor
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 4
+		Stamina: 3
+	Social: (3)
+		Charisma: 2
+		Manipulation: 2
+		Appearance: 2
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (9 + 2 from freebie points)
+		Athletics: 3
+		Brawl: 5
+		Dodge: 3
+	Skills: (13)
+		Drive: 2
+		Firearms: 2
+		Intimidation: 3
+		Stealth: 3
+		Survival: 3
+	Knowledges: (5)
+		Investigation: 3
+		Linguistics: 1
+			Spanish
+		Medicine: 1
+
+Disciplines: (3 + 2 from freebie points)
+	Celerity: 1
+	Fortitude: 1
+	Potence: 1
+	Protean: 2
+
+Backgrounds: (5)
+	Generation: 5
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 4
+	Courage: 4
+	
+Willpower: 4 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Accute Senses (1 pt. merit):
+		pg. 296
+		-2 difficulty for all tasks involving the chosen sense
+			Smell would be an interesting choice
+			Sight would be the most commonly relevant
+	Grip of the Damned (4 pt. flaw):
+		pg. 302
+		People freak out when you feed on them, rather than relaxing, screaming and requiring that you keep grappling them
+
+Freebie points:  (15 + 3 from Merits and Flaws)
+	Celerity 1: 7
+	Potence 1: 7
+	Brawl 4: 2
+	Brawl 5: 2
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		Fortitude 2: 10
+		Protean 3: 15
+		Celerity 2: 14
+		Celerity 3: 21
+		Celerity 4: 28
+		Fortitude 3: 15
+		Potence 2: 14

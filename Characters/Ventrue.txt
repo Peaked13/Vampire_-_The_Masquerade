@@ -1,0 +1,106 @@
+Name: 
+Clan: Ventrue
+Nature: Autocrat
+Demeanor: Architect
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 4 (P1, P2, P4, P5, D4, D5)
+		Manipulation: 3 (D1, D2)
+		Appearance: 3 (P3)
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3 (D3)
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Empathy: 3 (P3, D3)
+		Expression: 2
+		Intimidation: 3 (P2, P5, D1, D5)
+		Leadership: 3 (D2, D4)
+		Subterfuge: 2 (P4)
+	Skills: (9)
+		Drive: 2
+		Etiquette: 2
+		Firearms: 2
+		Performance: 3 (P1)
+			Specialty: Oratory/conference theatrics
+	Knowledges: (5)
+		Computer: 3
+		Finance: 2
+
+Disciplines: (3 + 1 for freebie points spent)
+	Dominate: 1
+	Presence: 3
+
+Backgrounds: (5 + 5 for freebie points spent)
+	Resources: 4
+	Retainers: 3
+	Herd: 3
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 4
+	Courage: 4
+	
+Willpower: 5 (equal to Courage + 1 for freebie points spent)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Bad Sight (1 pt. Flaw, Core pg. 297)
+		Can wear glasses for it, or it would be more points
+	Natural Leader (1 pt. Merit, Core pg. 300)
+		2 extra dice for Leadership roles
+	Enchanting Voice (2 pt. Merit, Core pg. 296)
+		-2 difficulty for "all die rolls involving the use of the voice to persuade, charm or command"
+		As written, sounds like it should affect disciplines
+			Though that certainly makes it powerful. As such many internet posts argued against it.
+
+Freebie points: 13 (15 - 2 from Merits and Flaws)
+	7 Dominate 1
+	5 additional backgrounds
+	1 Willpower 5
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-You took the idea of tech startup personality cults and ran with it
+		-Your retainers and herd are all part of the network of small startups you control
+			-Your herd talk of you having a dose of Steve Jobs's "reality distortion field". If only
+			 they knew. . .
+		-In fact, your feeding restriction (Ventrue weakness) is that you only drink from those
+		 who hold options in one of your companies
+			-Options being indicative of current employees, as opposed to shares sold to investors
+				-Employees have been vetted in some way, and you hold high standards.
+					-You *may* have also peeked at some medical and insurance records you really
+					 shouldn't have access to. All the companies in your network are clients of your
+					 HR Automation and medical-focused Employee Assistance Program (with "AI"!) ones.
+				-Investors are often times those you plan to bilk, diverting the money to your own ends
+				 from a company you plan to let fail
+					-Others may be representative of other Kindred you've cut in on some deal
+			-A less restrictive option would be something like programmers in general, should this
+			 character be used for a more mobile game, where this would be unsuitable
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		5  Dominate 2
+		10 Dominate 3
+		6  Empathy 3
+		15 Presence 4
+		16 Charisma 5
+		10 Fortitude 1
+		5  Fortitude 2
+		15 Dominate 4
+		10 Fortitude 3
+		20 Presence 5

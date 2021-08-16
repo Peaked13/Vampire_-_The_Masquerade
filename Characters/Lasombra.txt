@@ -1,0 +1,182 @@
+Name: 
+Clan: Lasombra
+Nature: Celebrant (you truely love The Abyss)
+Demeanor: Monster
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 1 (Is this questionably low?)
+		Dexterity: 3
+		Stamina: 2
+	Social: (7)
+		Charisma: 2
+		Manipulation: 5
+			Specialty: Persuasive
+		Appearance: 3
+	Mental: (5)
+		Perception: 2
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (13/9/5, none above 3)
+	Talents: (13)
+		Brawl: 2
+		Dodge: 1
+		Empathy: 1
+		Expression: 2
+		Intimidation: 3
+		Leadership: 1
+		Subterfuge: 3
+	Skills: (5)
+		Drive: 1
+		Ettiquette: 1
+		Stealth: 3
+	Knowledges: (9)
+		Academics: 1
+		Computer: 1
+		Linguistics: 1
+			Spanish
+		Investigation: 1
+		Occult: 5
+			Specialty: Abyss Mysticism
+		Politics: 2
+
+Disciplines: (4 + 1 for freebie points)
+	Obtenebration 5
+
+Rituals: (5 freebie points spent)
+	The Heart That Beats in Silence (Level 2)
+		Player's Guide to High Clans (Dark Ages) pg. 177
+	Drinking the Blood of Ahriman (Level 3)
+		Player's Guide to High Clans (Dark Ages) pg. 178
+
+Backgrounds: (None free, due to Sabbat)
+	
+
+Path of Enlightenment: Path of Night
+Path Rating: 2
+Virtues: (5 above base of 1 in Courage, zero in others)
+	Conviction (replaces Conscience): 1
+	Instinct (replaces Self-Control): 1
+	Courage: 5 (+ 1 from freebie point)
+	
+Willpower: 5 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Touch of Frost (1 pt. flaw)
+		Core pg. 301
+	Eerie Presence (2 pt. flaw)
+		Core pg. 302
+
+Freebie points (15 + 3 from flaws)
+	2	Occult 4
+	2	Occult 5
+	2	The Heart That Beats in Silence
+	3	Drinking the Blood of Ahriman (Level 3)
+	7	Obtenebration 5
+	2	Courage 5
+
+Character Description and Background:
+	-Appearance:
+		-A slight latina girl in life, your appearance now readily betrays your flirtation with The
+		 Abyss. Your skin has darkened to nearly the same jet black as your hair (Blood of Ahriman
+		 ritual). Your touch is colder than even a Kindred has right to be and mortals tremble in
+		 your presence (your flaws).
+	-As a mortal:
+		-Probably not the greatest childhood.
+		-You were a mean girl.
+			-You delighted in belittling and tormenting others.
+				-You were about as hard on yourself.
+			-Really, you feared abandonment and that others would inevitably let you down. If they
+			 (and you) saw them as pathetic, maybe they wouldn't go. Inevitably, this ensured that
+			 they did.
+			-Nonetheless, you always managed to drag new "friends" into your circle, for a time, at
+			 least.
+		-You spoke Spanish at home, but mostly English otherwise.
+	-Your embrace:
+		-At age 19, you were part of a Sabbat mass embrace.
+		-The last memory you have of your mortal life is darkness.
+			-Your sire surrounded you in a Shroud of Night, drained you, and dragged you off to
+			 perform the embrace.
+			-In that darkness, you first felt peace, even if it was the peace that causes a rabbit
+			 to go limp in a wolf's jaws.
+	-After the embrace, you and twelve others were turned loose as part of a Sabbat siege.
+		-By the time other vampires of the Sabbat came to collect the survivors, just before
+		 dawn, you were the only one that remained, hiding in an alley and shrouded in wisps of
+		 darkness.
+			-Several died protecting you, while the last died distracting a Camarilla vampire
+			 that was pursuing you. You told him the way you'd come was clear, then ran the
+			 opposite direction.
+	-You sire met his final death in the siege, but you were adopted into his pack, all Lasombra.
+		-One member, in particular, took a liking to you.
+			-He was older than the rest of the pack, and a master of Obtenebration.
+			-He was a also a relative newcomer to the pack.
+			-He'd witnessed a bit of your manipulation of the others you were embraced with, and
+			 was the one who found you in the alley, swathed in shadows.
+		-As they tutored you in Obtenebration, the darkness you loved even before your first
+		 drop of blood, the abyssal secrets he could share quickly made him your favorite too.
+		-From him, you not only grew powerful in Obtenebration, you also learned the secrets
+		 and rituals of Abyss Mysticism as well. Soon, you too were following his footsteps on
+		 The Path of Night.
+		-The pack as a whole, though, slowly grew more dysfunctional during your time with them.
+			-More cruel, too.
+			-Eventually, as the tenants of the Path of Night were revealed to you, you recognized
+			 your tutor's hand in this.
+			-He would set them against each other, formenting needless conflicts.
+			-When you confronted him about it, he used it as an excuse to lecture about the path,
+			 saying his evil influence would only strengthen the best of the pack, breaking only
+			 what was weak.
+				-"Ahriman consumes, but the weak fall first into his maw."
+		-Then, when you awoke one evening, your tutor was gone. None of the other pack members
+		 could (or would) tell you where he had gone.
+		-You strongly suspect they killed him or drove him off.
+		-As far as you're concerned, that suspicion was confirmed when, a short while after he
+		 disappeard, they moved to get rid of you.
+			-They left you with a newly formed pack of similarly young Sabbat.
+			-They said the pack was moving to take part in a dangerous crusade, and that there
+			 you'd find a mission more suited to your talents.
+			-You believe they wanted to get rid of the last of your tutor's influence.
+	-You love The Abyss.
+		-What fault can you possibly find in *nothing*? And, you know it wants you, with a. . .
+		 hunger that no one else ever has. You felt it that very first night of your new life.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Disciplines:
+		-Fortitude would be the most important discipline to acquire.
+			-Beyond protecting you, your Arms even benefit from it.
+			-Sweet combo too: Armor of Darkness (Dark Ages Companion, page 87, column 2), Obtenebration 4, Fortitude 2
+		-Celerity would be pretty good too.
+		-Dominate also has potential.
+			-It's a clan discipline and the checks requires are well suited to your attributes and
+			 abilities.
+		-Obfuscate has some mild potential too.
+		-Potence, your other clan discipline, isn't very good for you, since it doesn't read like
+		 it applies to the tentacles (*maybe* to attack with attached to you lvl 4 tentacles).
+			-It allows an *amazing* combo, Dark Steel, though, for Obtenebration 3 and Potence 3.
+				-Libellus Sanguinus 1, page 33
+			-Armory of the Abyss lets you make weapons from shadows with the same requirements, and
+			 armor too, with Fortitude 3.
+		-Koldunic Sorcery would also be an option
+			-The Ways of Fire and Sorrow both benefit from your high manipulation
+				-The former isn't too thematic, given your love of _darkness_, but the latter very much is
+			-The easy rituals that recover willpower are so good that, if power gaming, essentially 
+			 _everyone_ should take a dot
+			-If you're going to use one of the Ways (maybe not, if you just want the level 1 rituals),
+			 you'll want The Way of the Spirit too.
+			-It unfortunately uses it's own Knowledge, Koldunism, rather than Occult
+		-Otherwise, as generation permits it, advancing Obtenebration is probably the most beneficial
+		 thing you can do.
+	-You're extremely interested in any Abyss Mysticism rituals you can possibly learn about.
+		-Both for roleplay and power reasons.
+	-Until then, and until you can learn new disciplines, Brawl and Dodge are decent abilities to increase.
+	-In an especially stable and immobile pack, you might consider the Herd background, to solve
+	 that high blood expenditure.
+	-Your real advancement likely only comes with diablerie.
+		-You burn blood like crazy, and need the expanded pool.
+		-That's the only way you'll ever further increase your Obtenebration too.
+	-Tentative schedule:
+		

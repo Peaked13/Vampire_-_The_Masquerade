@@ -1,0 +1,153 @@
+Name: 
+Clan: Brujah
+Nature: Gallant (Look at how great I am (now that I'm a vampire. . .)!)
+Demeanor: Celebrant (You're really into this vampire business!!1)
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 4
+		Dexterity: 4
+		Stamina: 2
+	Social: (3)
+		Charisma: 1
+		Manipulation: 3
+		Appearance: 2
+	Mental: (5)
+		Perception: 2
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (9)
+		Alertness: 1
+		Athletics: 2
+		Brawl: 3
+		Dodge: 3
+	Skills: (13 + 2 for Freebie Points spent)
+		Archery: 3 (Secondary, Storyteller's Companion pg. 22)
+		Crafts: 3
+			Mandatory Specialty: Miniatures
+		Drive: 1
+		Firearms: 2
+		Melee: 5
+		Professional Skill: 3 (Secondary, Storyteller's Companion pg. 27)
+			Mandatory Specialty: Game Playing ("Professional" skill actually listed this in the book.)
+		Survival: 1
+	Knowledges: (5)
+		Academics: 1
+		Computer: 3
+		Camarilla Lore: 2 (Secondary, Storyteller's Companion pg. 28)
+
+Disciplines: (3 + 2 for Freebie Points spent)
+	Celerity: 3
+	Fortitude: 1
+	Potence: 1
+
+Backgrounds: (5)
+	Generation: 1
+	Mentor: 2
+	Resources: 2
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each + 1 for Freebie Points spent)
+	Conscience: 3
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Ambidexterous (1 pt. Merit, Core pg. 296):
+		-No penalty for using your off hand, helping the use of two weapons.
+	Disgrace to the Blood (3 pt. Flaw, Guide to The Camarilla pg. 78)
+		-Your sire was (unknown to you) tricked into embracing you. She made a go of it, probably
+		 intent on saving face, but eventually grew fed up, and publicly renounced you, cutting her
+		 losses.
+	New Kid (1 pt. Flaw, Guide to The Camarilla pg. 77)
+		-"All Social-related rolls are +1 difficulty when you are dealing with other neonates."
+		-The latest embracee aspect of it is less important than emphasizing just how big a geek
+		 your peers view you as. They're perhaps especially sensitive to it, being recently mortal
+		 themselves, compared to some 700-year-old fossil who has no idea what the M:tG collection
+		 you keep going on about even is.
+	Stereotype (2 pt. Flaw, Guide to The Camarilla pg. 74)
+		-"+2 difficult to Social rolls with other vampires who don't share your habits"
+		-You're _way_ too excited about this all. You were already inclined to wear a cloak around
+		 town as a mortal and that's only gotten worse. If you don't look like you're on your way
+		 to a LARP, you dress like Blade. Being a pudgy white guy, though, it comes off a bit more
+		 mall ninja.
+
+Freebie points: 20 (15 + 5 for Merits & Flaws)
+	7	Fortitude 1
+	7	Celerity 3
+	4	Melee 4 & 5
+	2	Courage 5
+	
+
+Character Description and Background:
+	-Appearance:
+		-You look like 21 from The Venture Brothers.
+	-As a mortal:
+		-SCA nerd.
+	-Your sire spotted you at an art gallery event that featured a medieval fencing demonstration
+	 you did.
+		-(Andy definitely has something he personally went to in mind here.)
+		-She had been there for other reasons.
+			-Since she already had permission to embrace someone, perhaps she was observing her
+			 _intended_ target?
+		-Two local Kindred, a Ventrue and a Toreador, showed up to the event, but ignored her.
+			-"Those two have seen me around before. That Ventrue prick XXXX definitely knows me."
+			-"This is a snub! It's gotta be a snub. . ."
+		-They wandered the gallery, talking, and ended up standing near your sire for your fencing
+		 demonstration.
+			-You were genuinely good at it, and your sire overheard XXXX comment on it approvingly,
+			 even remarking that he'd like to pursue your embrace.
+			-Your sire overheard that, and, later that night, did something rash, to avenge the
+			 snub, and generally stick it to "that Ventrue asshat".
+	-Your sire was tricked into embracing you.
+		-This fact is unknown to you, though someone a bit less oblivious might have figured it out.
+		-She made a go of it, probably
+		 intent on saving face, but eventually grew fed up, and publicly renounced you, cutting her
+		 losses.
+			-You're hurt, but you're not really _mad_ at her. You still think "your sexy vampire
+			 chick" is super cool. (She has to be restrained from strangling you.)
+	-Your mentor is XXXX, the Ventrue who tricked your sire.
+		-Fairly old, he was embraced when the Ventrue were still Teutonic marcher lords, waging
+		 nightly war against the Tzimisce of Eastern Europe.
+		-He genuinely was impressed by your fencing, and knows the subject well.
+			-He'd actually seen it before the night of your embrace, his whole ploy being thoroughly
+			 premeditated.
+		-You had potential as a sparring partner, something he'd lacked for nearly a century.
+		-Despite that skill with a blade still having relevance to current nights, if no longer to
+		 current days, you manifestly _did not_ have potential as a childe.
+			-It took only a very brief interaction with you to see you could never be a Ventrue.
+		-However, he saw another use for you. Perhaps he could have his sparring partner, and a
+		 useful soldier, all at no cost to him while shaming a rival to boot. . .
+		-Having successfully executed his plan, XXXX didn't have to wait long before you had
+		 infuriated your sire and become a mockery among the local Kindred, after which he swooped
+		 in.
+			-He got what he wanted from you, and credit from the local Kindred as well, for looking
+			 after someone else's mistake and making sure you don't threaten The Masquerade.
+			-You, meanwhile, are eager to please, glad of the help and attention, especially after
+			 the rejection by your sire.
+				-You think XXXX is just the coolest, you're thrilled by the tidbits of, "When I was
+				 mortal. . ." Medieval trivia he drops you, and love "roleplaying" the role of a
+				 fuedal sworn sword with this actual dark ages (vampire!) noble.
+				-That said, while he has you wrapped around his finger, you _do_ get real benefit
+				 from the relationship. It's where you knowledge of Fortitude, and most of your
+				 knowledge of The Camarilla, came from, and you've grown as a swordsman, particular
+				 in the direction of more. . . practical application.
+					-XXXX may view you as a tool, but he believes in keeping his tools sharp, and
+					 and knows these little gifts bind you all the closer to him.
+	-Nerd rage!
+	-You make a living (your Resources) from nerd stuff online. Running a games blog, miniature
+	 painting services, selling terrain pieces, etc.
+		-Your Crafts, Professional Skill, and Computer abilities all factor into it.
+		-It's easily maintained in your new unlife.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		

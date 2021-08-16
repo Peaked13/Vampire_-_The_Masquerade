@@ -1,0 +1,210 @@
+Name: 
+Clan: Tzimisce
+Nature: Eye of the Storm (Guide to The Sabbat pg. 87)
+Demeanor: Guru (Guide to The Sabbat pg. 87)
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 3
+		Stamina: 4
+			Specialty: Tough as Nails
+	Social: (3)
+		Charisma: 3
+		Manipulation: 2
+		Appearance: 1
+	Mental: (5)
+		Perception: 2
+		Intelligence: 4
+			Specialty: Subject Authority (Koldunism)
+		Wits: 2
+
+Abilities: (13/9/5, none above 3)
+	Talents: (13)
+		Alertness: 2
+		Brawl: 3
+		Dodge: 3
+		Intimidation: 3
+		Leadership: 2
+	Skills: (9)
+		Body Crafts: 3
+		Drive: 1
+		Medicine: 2
+		Melee: 3
+	Knowledges: (5)
+		Koldunism: 3
+		Occult: 2
+
+Disciplines: (4)
+	Vicissitude 4
+	Koldunic Sorcery 1
+		The Way of Earth 1 (Stamina + Koldunism)
+		The Way of the Spirit 1 (Charisma + Koldunism)
+		Rituals: (Intelligence + Koldunism)
+			Reawakening the Dead Water (free for a level in Koldunic Sorcery, if it works like Thaumaturgy)
+				Pg. 133 of Secrets of Thaumaturgy
+
+Backgrounds: (None free, due to Sabbat)
+	Rituals 1 (3 auctoris ritae)
+		The Vaulderie
+		Creation Rites
+		Games of Instinct
+	Sabbat Status 1
+		Pack Priest
+
+Path of Enlightenment: Metamorphosis (Chaining The Beast pg. 65)
+Path Rating: 2
+Virtues: (5 above base of 1 in Courage, base of zero in others)
+	Conviction (replaces Conscience): 1
+	Instinct (replaces Self-Control): 1
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Ancestral Soil Dependence
+		2 pt. supernatural flaw
+		Pg. 71 of Clanbook Tzimisce
+		Require soil from the old world when sleeping
+	Smell of the Grave
+		1 pt. physical 
+		Pg. 297 of Core Rulebooks
+		Penalizes social with mortals
+
+Freebie points (15 + 3 from flaws)
+	2 on 1 pt. of Courage (necessary to follow a path)
+	7 on Koldunic Sorcery 1
+	7 on The Way of the Spirit 1
+	2 on backgrounds
+	(If another appealing flaw is found, more points into Courage/Willpower would be attractive.)
+	(Alternately, the Generation background might be attractive.)
+
+Character Description and Background:
+	-Appearance:
+		-Large, powerful build. Somewhat overweight.
+		-Never a looker to begin with, his use of Vicissitude on himself has made him terrible to behold
+			-Functional modifications include both knuckle spikes and quills made with Bonecraft
+			-It also leaves his apparent age ambiguous
+	-As a mortal:
+		-Reluctant apprentice/heir of his father, a butcher
+			-Lacked both excitement and respect
+			-Felt he *must* be destined for greater things
+				-He admittedly was a bit too clever for a butcher, and for his own good
+		-Got interested in the occult
+			-He failed to escape his father's job, so sought escape and greater things here
+		-Fell in with a group of mostly fraudulent occultists
+			-Helped that he could provide. . . materials
+			-It was here his sire found him, embracing him in his late thirties
+	-His grandsire is a Koldun and follower of Metamorphosis, who took an interest in him
+		-Survived awakening with his ancestral soil dependence by virtue of this
+			-Grandsire recognized the symptoms and was able to obtain some suitable soil
+				-The smell helped
+			-Grandsire considers the trait a good omen
+				-She does not possess it herself, nor does the sire
+		-After discovering the flaw, she took a very active interest in his education
+			-She's the source of his depth and breadth of Koldunic knowledge
+			-She also helped set him down the Path of Metamorphosis
+				-Though his mortal life primed him well for it
+		-Eventually, she set him up with a pack of other Sabbat and turned him loose on the world
+		 to pursue his metamorphosis
+			-She gave him a basic education in the rituals of the Sabbat, and used her influence
+			 to establish him as a pack priest
+	-Sire took a less active role, especially after his swooped in
+		-Maybe some resentment there?
+		-Also involved with Koldunism to some degree
+			-It's why he was fucking around with some mortal occultists
+	-He seeks metamorphosis not just through Vicissitude, but also through Koldunic Sorcery
+		-As he learns to bend both flesh and reality to his will, he finds it ever clearer that he
+		 must will his way to metamorphosis
+			-This is also tied to his nature
+				-He views his calm in the midst of chaos as a triumph of his will
+				-As such, he also seeks out such chaos, to further test and stretch his willpower
+
+Equipment (stuff to start with or obtain):
+	Koldunic ritual implements
+	Body crafting "tools" (mostly, repurposed butcher's tools)
+	Axe
+		Oh shit. Storyteller's Companion lists a two handed sword as dealing Strenght+5, and
+		wieldable one handed at Strenth 7+
+	Stakes
+
+Advancement:
+	-Tentative schedule:
+		6 for Melee 4
+		7 for Koldunic Sorcery 2
+			Way of Earth 2
+		4 for Way of Spirit 2
+		2 for Instinct 2
+		4 for Instinct 3
+		5 for Willpower 6
+		14 for Koldunic Sorcery 3
+			Way of Earth 3
+		6 for Koldunism 4
+		21 for Koldunic Sorcery 4
+			Way of Earth 4
+		6 for Willpower 7
+		10 for Fortitude 1
+		7 for Fortitude 2
+		8 for Way of Spirit 3
+		8 for Koldunism 5
+		7 for Way of Fire 1
+		4 for Way of Fire 2
+		. . .
+		If you can diablerize your way up to generation 7:
+			20 for Visscitude 5
+			25 for Visscitude 6
+			If not, Protean may become more attractive
+	-More Koldunism
+		-Advance the discipline (current rating * 7)
+			-The Way of Earth is probably the first priority for the free points
+				-Every step is pretty great
+			-More points in Spirit eventually will be nice too
+				-Advancing paths without advancing the discipline looks to be (current rating * 4)
+			-Fire is probably next most attractive, but Wind could also be good
+				-New paths are 7
+		-Learn more rituals
+			-Koldunic, of course
+				-There's a great level 4 one on pg. 133 of Secrets of Thaumaturgy
+				-There's also a couple more on pg. 85 of Blood Sacrifice
+					-Including a good level 1 ritual
+				-There's more on pg. 98 of Sins of Blood too
+					-Including a good level 1 ritual
+				-Duplicated Thaumaturgy rituals is also probably an option
+			-But maybe also Sabbat
+				-Would it necessarily require the XP expenditure?
+					-If so, then only if the story is going down this road, focusing on Sabbat politics
+		-Eventually, advance the skill
+			-That will be 8 XP, making it somewhat cheap, but probably behind various discipline related spending
+	-Willpower (current rating)
+	-Protean might be a useful discipline to pick up
+		-Especially if game is more combat focused
+		-Feral Claws and Eyes of the Beast both seem useful
+		-Lots of multi-discipline powers involving this and Visscitude
+			-Perhaps eventually get Body Armory, from pg. 111 of Guide to the Sabbat
+				-20 XP to get and also requires Protean 3
+				-Lets you build melee weapons from your body that do aggravated damage
+					-Definitely sounds like they may be grafted to you
+						-Unclear if they can be detached, but I'd expect so
+					-Doesn't let you do the same to Ghouls and the like
+			-I believe I saw other stuff in the Tzimisce book
+		-Where do you learn it?
+			-Signature of the Gangrel, whose Antitribu exist within the Sabbat
+			-Seems like Tzimisce may commonly know it too
+				-All those combined-with-Visscitude powers
+				-They once enslaved the Gangrel, I think
+		-Alternately, many of it's perks are obviated by levels 6+ of Vicissitude
+	-Fortitude, Potence, and maybe Celerity are also attractive combat disciplines
+		-Of them, Fortitude is probably most useful
+	-Ghouls would be fun if you're stationary-ish
+		-Obviously lots of potential with Visscitude
+		-Not clear you need to put points in the background if you make them in game
+		-Would then make Dominate attractive
+	-Points in mentor might be useful
+		-Representing coming back to your grandsire after proved success
+			-The willingness of the grandsire to help, though, may actually indicate she's not all that
+			 far along in, or invested in, the Path of Metamorphosis
+				-Due to the fact that sharing knowledge is a sin at some of the highest ratings
+		-Could be a source of new paths and disciplines
+			-Maybe for advancement in them too, if that's actually required or otherwise helpful
+				-I know in Mage the equivalent made XP costs a bit cheaper

@@ -1,0 +1,140 @@
+Name: 
+Clan: Toreador
+Nature: Scientist (Guide to The Camarilla, pg. 67)
+Demeanor: Visionary (Core, pg. 115; also debated just Scientist again)
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (5)
+		Charisma: 3 (P1, P2, P4, P5)
+		Manipulation: 3 (Animalism)
+		Appearance: 2 (P3)
+	Mental: (7)
+		Perception: 3
+		Intelligence: 5
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (9)
+		Empathy: 2 (P3, A2)
+		Expression: 3
+		Intimidation:  (P2, P5)
+		Leadership: 2
+		Subterfuge: 2 (P4)
+	Skills: (5)
+		Animal Ken: 2
+		Performance: 3 (P1)
+			(Mandatory?) Specialty: Science Communication (teaching, presentations, etc.)
+	Knowledges: (13 + 2 for freebie points spent)
+		Academics: 1
+		Computer: 1
+		Finance: 1
+		Investigation: 2
+		Medicine: 3
+		Occult: 1
+		Politics: 1
+		Science: 5
+
+Disciplines: (3 + 1 for freebie points)
+	Animalism: 1
+	Auspex: 1
+	Celerity: 1
+	Presence: 1
+
+Backgrounds: (5 + 5 for freebie points spent)
+	Mentor: 2
+	Resources: 3
+	Retainers: 3
+	Herd: 2
+	Status: 1
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 4
+	Courage: 4
+	
+Willpower: 4 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: 
+	Bad Sight (1 pt. Flaw, Core pg. 297)
+		Difficulty of any roll involving eyesight is +2.
+		Can wear glasses for it, or it would be more points.
+	Deep Sleeper (1 pt. Flaw, Core pg. 299)
+		Difficulty of any roll to awaken during the day is +2.
+	
+
+Freebie points: 15 (15 + 2 for flaws)
+	7	Animalism 1
+	6	Backgrounds
+	4	Science 4 & 5
+
+Character Description and Background:
+	-Appearance:
+		-
+	-Embedded in acadamia.
+		-Your focus was, and remains, biology.
+			-You're gifted in finding the wonder and beauty in scientific understanding, and
+			 perhaps more importantly, at communictaing it.
+				-It's what attracted your sire to you.
+				-Biology also offers interesting living art projects, in which you've dabbled.
+					-You admit to yourself, though probably not to your sire, that all that has
+					 more to do with securing publicity and grant money than genuine passion.
+					-You're more into the actual investigation and discovery, but are continuing
+					 to play a bit of that same grant money game with your sire.
+				-This plays into your flaw, and the sort of things the enrapture you.
+					-You're safer than the average Toreador in an art gallery, but can be
+					 enraptured by scientific work, things in the natural world, or perhaps even
+					 something found in a Tzimisce's lair. . .
+		-Your sire, and mentor, found you at the university you remain embedded in, and helps
+		 enable your continued presences there.
+			-She likely has a more typically Toreador focus, academically.
+		-Your herd, resources, and retainers are also all tied to the university.
+			-Resources is probably higher than your personal wealth, reflecting university and
+			 grant money that you have a somewhat free hand with.
+				-Your haven is also within your lab space at the university.
+					-Not too unusual to have an old walk in refrigerator in a secluded corner of a
+					 biology lab, even one with a lock.
+			-Similarly, an accredited biology research has various opportunities to draw blood from
+			 volunteers or even outright purchase it.
+				-They also reflect students and other hangers on involved in your research, who are
+				 happy to volunteer for blood "tests", or simply work late with you in the lab. . .
+			-Your retainers know a lot more of what's going on, and are ghouls.
+				-One or more of them assist you in your research, and definitely need to know the
+				 full score.
+	-Your embrace has effectively provided you a vast new vista to which to apply your passion,
+	 studying your new condition and it's implications.
+		-If anything, it has _invigorated_ you, pushing you to heights of effort and depths of
+		 understanding unknown to you as a mortal
+		-Your disciplines represent your broad sampling of the vampiric condition.
+	-Topics of research:
+		-Microbiomes of the undead.
+			-You're cold and otherwise unliving, which must impact it heavily.
+			-Could this be manipulated? Perhaps disguising the scent of Kindred, from animals,
+			 Gangrel, or perhaps even lupines?!?
+			-Kindred sweat blood, and Kindred blood changes living things strangely. What does it
+			 do to microbes?
+		-You can talk to lab animals now. Run with that.
+			-That's probably an ability you actively sought out, arranging training from another
+			 Kindred, likely with the help of your sire.
+		-Auspex 2 will similarly open up interesting avenues of research, giving you objective-ish
+		 insight into emotional states.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Auspex, especially 2, is exciting for you.
+	-You're probably all to tempted by disciplines you can't, and probably shouldn't, have.
+		-Thaumaturgy fascinates you endlessly, representing as it does truely miraculous manipulation
+		 of the vampiric condition.
+			-You clearly share a bit of the Tremere approach to vampirisim, at least that of the
+			 first Tremere, anyways, albeit with a more modern approach to exploring.
+			-Paths like Biothamaturgy or The Green Path would excite you to no end.
+		-Similarly, the potential applications of Vicisstude are. . . fascinating.
+	-Tentative schedule:
+		

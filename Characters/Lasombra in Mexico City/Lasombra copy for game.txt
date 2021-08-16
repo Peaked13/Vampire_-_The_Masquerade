@@ -1,0 +1,315 @@
+Name: Maria
+Clan: Lasombra
+Nature: Celebrant (you truely love The Abyss)
+Demeanor: Monster
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 2
+		Manipulation: 5
+			Specialty: Persuasive
+		Appearance: 3
+	Mental: (5)
+		Perception: 2
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (13/9/5, none above 3)
+	Talents: (13)
+		Brawl: 2
+		Dodge: 1
+		Empathy: 1
+		Expression: 2
+		Intimidation: 3
+		Leadership: 1
+		Subterfuge: 3
+	Skills: (5)
+		Drive: 1
+		Ettiquette: 1
+		Stealth: 3
+	Knowledges: (9)
+		Academics: 1
+		Computer: 1
+		Linguistics: 1
+			Spanish
+		Investigation: 1
+		Occult: 5
+			Specialty: Abyss Mysticism
+		Politics: 2
+
+Disciplines: (4 + 1 for freebie points)
+	Obtenebration 5
+		Page 70 of Clanbook Lasombra has all sorts of suggestions for use of the various powers.
+
+Rituals: (5 freebie points spent)
+	The Shadow of Hands That Serve (Level 1)
+		Player's Guide to High Clans (Dark Ages) pg. 177
+	The Heart That Beats in Silence (Level 2)
+		Player's Guide to High Clans (Dark Ages) pg. 177
+	Drinking the Blood of Ahriman (Level 3)
+		Player's Guide to High Clans (Dark Ages) pg. 178
+
+Backgrounds: (None free, due to Sabbat)
+	Generation 3
+	Rituals 1 (3 auctoris ritae)
+		The Vaulderie
+		Creation Rites
+		Games of Instinct
+
+Path of Enlightenment: The Lightless Path of Night (Clanbook Lasombra pg. 68)
+Path Rating: 3
+Virtues: (5 above base of 1 in Courage, zero in others)
+	Conviction (replaces Conscience): 2 (+1 from freebie point)
+	Self-Control (due to Lightless version of the path): 1
+	Courage: 5 (+1 from freebie point)
+	
+Willpower: 8 (equal to Courage + 3 for freebie points)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Movement:
+	Normal: Dex + 12, or 14' and 17' when Drinking the Blood of Ahriman
+	Sprinting: Dex * 4 + 20, or 28' and 40' when Drinking the Blood of Ahriman
+
+Merits & Flaws:
+	Harbinger of the Abyss (5-pt. Flaw)
+		You are a conduit to the ultimate darkness
+		that lies Beyond. Lights dim in your presence and
+		shadows rustle at the edge of vision in dire anticipation
+		of your blasphemy. Small fires extinguish
+		when you draw close and the chill of the Void is in
+		your touch. Your player must roll your
+		Obtenebration rating against the soak difficulty of
+		any mundane flame within two yards of you. This
+		roll is reflexive and mandatory, and success extinguishes
+		the flame. This dimming is in addition to
+		suffering the effects of Touch of Frost and Eerie
+		Presence (Dark Ages: Vampire pp. 308–9). The
+		Flaw conveys one benefit: Your unnatural radiance reduces
+		the difficulty of all Intimidation rolls
+		by 3, to a minimum difficulty of 4. Characters
+		must have at least one dot of Obtenebration to
+		purchase this Flaw
+			Effectively includes Touch of Frost (Core pg. 301) and Eerie Presence (Core pg. 302)
+	Animate Shadow (3-pt. Flaw)
+		Your shadow has a bizarre unlife of its own,
+		reaching out with claws to grasp the shadows of
+		those around you in a parody of feeding or billowing
+		to a demonic mien when frenzy threatens to
+		overtake you. Some Lasombra believe this curse
+		afflicts only those who delve too deeply into the
+		mysticism of the Abyss; others attribute it to infernal
+		pacts, the wrath of God or a shameful lack of
+		self-control. Regardless, you lose two dice from all
+		Social rolls with other Lasombra who know of your
+		problem. This Flaw occasionally manifests among
+		vampires who do not belong to the Clan of Shadows,
+		but such accursed individuals invariably
+		disappear under mysterious circumstances, perhaps
+		swallowed by their own alien darkness.
+	Death’s Reflection (3-pt. Supernatural Flaw)
+		You cast a reflection normally, which would cancel
+		out the clan weakness — except that your reflection
+		always shows the state you’d be in if you were dead.
+		Any Lasombra more than a few decades old looks in
+		reflection like an ambling skeleton. Younger vampires
+		appear as rotting corpses
+
+Freebie points (15 + ? from flaws)
+	2	Occult 4
+	2	Occult 5
+	2	The Heart That Beats in Silence
+	3	Drinking the Blood of Ahriman (Level 3)
+	7	Obtenebration 5
+	2	Courage 5
+	2	Conviction 2
+	3	Willpower 6-8
+
+Character Description and Background:
+	-Appearance:
+		-A slight latina girl in life, your appearance now readily betrays your flirtation with The
+		 Abyss. Your skin has darkened to nearly the same jet black as your hair (Blood of Ahriman
+		 ritual). Your touch is colder than even a Kindred has right to be and mortals tremble in
+		 your presence (your flaws).
+	-As a mortal:
+		-Probably not the greatest childhood.
+		-You were a mean girl.
+			-You delighted in belittling and tormenting others.
+				-You were about as hard on yourself.
+			-Really, you feared abandonment and that others would inevitably let you down. If they
+			 (and you) saw them as pathetic, maybe they wouldn't go. Inevitably, this ensured that
+			 they did.
+			-Nonetheless, you always managed to drag new "friends" into your circle, for a time, at
+			 least.
+		-You spoke Spanish at home, but mostly English otherwise.
+	-Your embrace:
+		-At age 19, you were part of a Sabbat mass embrace.
+		-The last memory you have of your mortal life is darkness.
+			-Your sire surrounded you in a Shroud of Night, drained you, and dragged you off to
+			 perform the embrace.
+			-In that darkness, you first felt peace, even if it was the peace that causes a rabbit
+			 to go limp in a wolf's jaws.
+	-After the embrace, you and twelve others were turned loose as part of a Sabbat siege.
+		-By the time other vampires of the Sabbat came to collect the survivors, just before
+		 dawn, you were the only one that remained, hiding in an alley and shrouded in wisps of
+		 darkness.
+			-Several died protecting you, while the last died distracting a Camarilla vampire
+			 that was pursuing you. You told him the way you'd come was clear, then ran the
+			 opposite direction.
+	-You sire mfound you after the seige and you were adopted into his pack, all Lasombra.
+		-Your sire, Zadkiel Ben Aron, stood out a bit from the others of the pack.
+			-He was older than the rest of the pack, and a master of Obtenebration.
+			-He'd witnessed a bit of your manipulation of the others you were embraced with, and
+			 was the one who found you in the alley, swathed in shadows.
+		-As they tutored you in Obtenebration, the darkness you loved even before your first
+		 drop of blood, you dived deep into the abyssal secrets your sire could share.
+		-From him, you not only grew powerful in Obtenebration, you also learned the secrets
+		 and rituals of Abyss Mysticism as well. Soon, you too were following his footsteps on
+		 The Path of Night.
+		-The pack as a whole, though, slowly grew more dysfunctional during your time with them.
+			-More cruel, too.
+			-Eventually, as the tenants of the Path of Night were revealed to you, you recognized
+			 your tutor's hand in this.
+			-He would set them against each other, formenting needless conflicts.
+			-When you confronted him about it, he used it as an excuse to lecture about the path,
+			 saying his evil influence would only strengthen the best of the pack, breaking only
+			 what was weak.
+				-"Ahriman consumes, but the weak fall first into his maw."
+		-One by one, they fell in the campaign against the Camarilla that you had been embraced
+		 for.
+			-
+		-THIS NO LONGER APPLIES:
+			-Then, when you awoke one evening, your tutor was gone. None of the other pack members
+			 could (or would) tell you where he had gone.
+			-You strongly suspect they killed him or drove him off.
+			-As far as you're concerned, that suspicion was confirmed when, a short while after he
+			 disappeard, they moved to get rid of you.
+				-They left you with a newly formed pack of similarly young Sabbat.
+				-They said the pack was moving to take part in a dangerous crusade, and that there
+				 you'd find a mission more suited to your talents.
+				-You believe they wanted to get rid of the last of your tutor's influence.
+	-You love The Abyss.
+		-What fault can you possibly find in *nothing*? And, you know it wants you, with a. . .
+		 hunger that no one else ever has. You felt it that very first night of your new life.
+
+Equipment:
+	-Pack of cheap folding knives, unused.
+		-Drinking the Blood of Ahriman requires "a knife that has never tasted blood."
+	-A black handled folding straight razor, used only for The Vaulderie.
+	-A pack of tea light candles and a pair of cigarette lighters.
+		-Shadow of Hands that Serve and Heart That Beats in Silence both require crushing a lit
+		 candle.
+	-Clothing:
+		-Maria wears a T-shirt, jeans, and a thigh-length hooded jacket.
+		-She's got a pair of gloves in one pocket of the jacket and dark sunglasses in another.
+			-She occasionally find it prudent to hide her strange coloration as much as possible.
+
+Advancement:
+	-Disciplines:
+		-Fortitude would be the most important discipline to acquire.
+			-Beyond protecting you, your Arms even benefit from it.
+			-Sweet combo too: Armor of Darkness (Dark Ages Companion, page 87, column 2), Obtenebration 4, Fortitude 2
+				-Distinct from Armory of the Abyss, below, it's about soaking fire and sun
+			-Fortitude also protects your from the point of aggravated damage from your summoning
+			 rituals, taking them from expensive to cheap or free.
+				-_Free_ makes them terrifying.
+		-Potence, a clan discipline, isn't very good for you _immediately_, since it doesn't read
+		 like it applies to the tentacles (*maybe* to attack with attached to you lvl 4 tentacles).
+			-It allows an *amazing* combo, Dark Steel, though, for Obtenebration 3 and Potence 3.
+				-Libellus Sanguinus 1, page 33
+				-Another point of Generation would be necessary to pay its cost in one turn, though.
+			-Armory of the Abyss lets you make weapons from shadows with the same requirements, and
+			 armor too, with Fortitude 3.
+				-The way the rules are written, there's sharp XP incentive to only get it once you
+				 have both Fortitude and Potence at 3, though you could maybe ask about that.
+			-In the meantime, it also buffs you in regular close combat, which is no small benefit,
+			 especially if you've got Drinking the Blood of Ahriman up.
+		-Celerity would be decent too.
+		-Dominate also has potential.
+			-It's a clan discipline and the checks requires are well suited to your attributes and
+			 abilities.
+		-Obfuscate has some mild potential too.
+		-Koldunic Sorcery would also be an option
+			-The Ways of Fire and Sorrow both benefit from your high manipulation
+				-The former isn't too thematic, given your love of _darkness_, but the latter very much is.
+			-The easy rituals that recover willpower are so good that, if power gaming, essentially 
+			 _everyone_ should take a dot
+			-If you're going to use one of the Ways (maybe not, if you just want the level 1 rituals),
+			 you'll want The Way of the Spirit too.
+			-It unfortunately uses it's own Knowledge, Koldunism, rather than Occult
+		-Otherwise, as generation permits it, advancing Obtenebration is probably the most beneficial
+		 thing you can do.
+	-You're extremely interested in any Abyss Mysticism rituals you can possibly learn about.
+		-Both for roleplay and power reasons.
+		-Clanbook Lasombra has two weird alternate uses of powers (Ob 3 and 6), and a few other weird
+		 options (blood point to taste/smell with tentacles. . .). They don't seem to require any XP
+		 or ritual learning, as written.
+		-V20 has more if you want to dip into that, in Rites of the Blood at least
+			-Including one where you can feed with your tentacles.
+	-Until then, and until you can learn new disciplines, Brawl and Dodge are decent abilities to increase.
+	-In an especially stable and immobile pack, you might consider the Herd background, to solve
+	 that high blood expenditure.
+	-Your real advancement likely only comes with diablerie.
+		-You burn blood like crazy, and need the expanded pool.
+		-That's the only way you'll ever further increase your Obtenebration too.
+	-Tentative schedule:
+		
+Currently known rituals:
+	-Abyss Mysticism Rituals:
+		The Shadow of Hands That Serve (Level 1)
+			-Player's Guide to High Clans (Dark Ages) pg. 177
+			-Extinguish a candle with your palm to summon a Shadow of Hands That Serve.
+			-Unsoakable aggravated, then diff. 4 to avoid Rötschreck or fail. Next, Intelligence +
+			 Occult (diff. 6). Botch is another unsoakable aggravated. Summon lasts
+			 one night per success.
+		The Heart That Beats in Silence (Level 2)
+			-Player's Guide to High Clans (Dark Ages) pg. 177
+			-Same as above, but instead sommons a Heart That Beats in Silence.
+		Drinking the Blood of Ahriman (Level 3)
+			-Player's Guide to High Clans (Dark Ages) pg. 178
+			-An hour of agony (-2 dice for the duration), then Manipulation + Occult 
+	-Thaumaturgy Rituals (Int+Occult; difficulty 4+level; five minutes per level to cast):
+		Blood Rush (Level 1):
+			-Guide to The Sabbat pg. 119
+			-Creates the sensation of feeding without doing so. 
+			-Blood Rush allays the Beast for one hour, at which point the Cainite feels hungry
+			 again (assuming they did before). This ritual takes only one turn to enact.
+		Illuminate Trail of Prey (Level 1):
+			-Guide to The Sabbat pg. 119
+			-You must have a mental picture of or know the name of your prey.
+			-The prey’s foot prints or tire tracks (or whatever) glows with a brightness depending
+			 on how recent they are until they reach their destination or wade through water.
+			-The Thaumaturge must burn a length of white satin ribbon that has been in her
+			 possession for at least 24 hours
+		Epistle of Babel (Level 1):
+			-Player's Guide to Low Clans pg. 169
+			-The Thaumaturge writes the message in blood over the course of a night and speaks the
+			 name of the person he wishes to read it. Only the writer and the person to whom the
+			 letter is addressed can read the document, it appearing as gibberish to others.
+		Sanguineous Phial (Level 1):
+			-Blood Magic: Secrets of Thaumaturgy pg. 90
+			-The caster takes a covered earthenware jar and buries it in the earth for two nights,
+			 then digs it up the following evening. He crumbles a dried ash leaf into the empty
+			 canister and pours the blood in, closing the container and sealing the lid with tallow
+			 melted from a candle. The blood will remain fresh until the seal is broken.
+			-Lesley said the amphora used can hold up to 20 blood points. Size of the amphora
+			 doesn't actually matter.
+		Burning Blade (Level 2):
+			-Player's Guide to Low Clans pg. 169
+			-Enchant one melee weapon by cutting your palm for one unsoakable lethal and spending
+			 3 blood, causing it to deal aggravated for the next succesess number of hits.
+			-Ends at the next new moon, if unused (https://www.timeanddate.com/moon/phases/). 
+		Recure of the Homeland (Level 2):
+			-Guide to The Sabbat pg. 119
+			-Mix a handful of dirt from the town of your birth with two points of your blood to
+			 heal one point of aggravated damage.
+	-Sabbat Ritae:
+		The Vaulderie:
+			-
+		Creation Rites:
+			-
+		Games of Instinct:
+			-

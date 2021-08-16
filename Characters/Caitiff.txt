@@ -1,0 +1,125 @@
+Name: 
+Clan: Caitiff
+Nature: Survivor
+Demeanor: Survivor
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 4
+		Stamina: 3
+	Social: (3)
+		Charisma: 1
+		Manipulation: 3
+		Appearance: 2
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Alertness: 3
+		Athletics: 3
+		Brawl: 3
+		Dodge: 2
+		Empathy: 1
+		Subterfuge: 1
+	Skills: (5 + 1 for freebie points spent)
+		Drive: 1
+		Security: 1
+		Stealth: 4
+	Knowledges: (9)
+		Academics: 1
+		Computer: 3
+		Finance: 1
+		Investigation: 3
+		Medicine: 1
+
+Disciplines: (3 + 1 for freebie points spent)
+	Auspex: 1
+	Obfuscate: 2
+	Protean: 1
+
+Backgrounds: (5)
+	Generation: 4
+	Resources: 2
+
+Humanity Rating: 8 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each + 1 for freebie points spent)
+	Conscience: 4
+	Self-Control: 4
+	Courage: 3
+	
+Willpower: 3 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Acute Sense: 1 pt. merit
+		Hearing
+	Light Sleeper: 2 pt. merit
+
+Freebie points: 12 (15 - 3 for merits)
+	7	Protean 1
+	2	Stealth 4
+	2	Self-Control 4
+	1	Generation 4
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-High school and college athelete.
+			-Played football.
+			-Used to being popular.
+			-Effectively, had status as a mortal, and resultingly felt charismatic.
+		-Embraced shortly out of college.
+	-Embraced by a sire who disappeared the next night.
+		-Said he'd be coming back, but never returned to the apartment in which you both had holed up.
+		-You had met him at a bar.
+		-A few nights later, after "nursing" a beer there for hours each night, hoping to see him,
+		 again, you instead saw a woman you thought he had been with the night you two met.
+		-After getting across to her what you were, she immediately pulled you aside, down the
+		 hall towards the kitchen.
+		-She told you your sire was dead, but wouldn't say more.
+		-Your sire had given you the bare basics about the fact that you're a vampire, in the night
+		 you had together.
+		-In 30 minutes, she told you what the Camarilla is, that you should present yourself to a
+		 prince in a new city. She also told you you need to never come back here and to get the fuck
+		 out of town (". . . or you'll be seeing your sire soon after all.").
+			-She seemed frightened.
+		-It was only later that you learned to think it odd that neither mentioned clan, though they
+		 may have just been in a hurry.
+	-(Un)life since has been rough.
+		-You've drifted from city to city, as your welcome wears out.
+		-As a caitiff, and one still ignorant of many important things, you're not the popular, well
+		 liked person you'd been as a mortal.
+		-You're scorned, and regularly subject to abuse.
+		-You've definitely been changed by the experience.
+			-Low charisma (now), relative to manipulation. You're unsure and shy these days, but
+			 have learned to lie when you have to, to survive.
+			-Your disciplines and merits reflect this, focusing on sensing danger and hiding.
+				-You overheard an acquaintance decribe you as more prey than predator. It was
+				 meant cruely, and did hurt, but you have to admit it rings a little true.
+	-You've got a job, as a tech contractor.
+		-You worked in tech after college.
+		-After you were embraced, you reached out to a friend who worked as a contractor, telling
+		 him you needed something that allowed remote work and a flexible schedule.
+			-You sounded pretty desperate, and he pointed you in the right direction.
+		-It lets you travel freely and keep up your resources as you do.
+	-You've got a car.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Protean 2 is a high priority for you.
+		-It's cheap (6 XP) and turns you into a powerful combatant.
+	-Auspex is probably the next thing to increase, helping your scout/spy role.
+	-Fortitude is probably the most attractive discipline for you to get.
+		-More important the more combat there is.
+		-Also solid roleplaying. You're afraid of getting hurt and struggling to survive.
+	-If there's lots of combat, Celerity and Potence are the melee staples.
+	-You've a variety of abilities you might want to increase too.
+	-Tentative schedule:
+		

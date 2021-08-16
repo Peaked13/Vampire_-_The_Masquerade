@@ -1,0 +1,102 @@
+Name: 
+Clan: Daitya (Indian Setite Bloodline; see Clanboook - Setites)
+Nature: 
+Demeanor: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (5)
+		Charisma: 3 (P1, P2, P4, P5)
+		Manipulation: 3
+		Appearance: 2 (P3)
+	Mental: (7)
+		Perception: 3
+		Intelligence: 4
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Athletics: 2
+		Empathy: 3 (D3)
+		Fortune-Telling: 3 (Guide To The Sabbat pg. 88)
+		Intimidation: 2 (P2, P5)
+		Subterfuge: 3 (P4)
+	Skills: (9)
+		Etiquette: 1
+		Meditation: 3 (Secondary; Storyteller's Companion pg. 24)
+		Performance: 3 (P1)
+		Sleight of Hand: 1 (Secondary; Storyteller's Companion pg. 27)
+		Stealth: 3
+	Knowledges: (5)
+		Academics: 1
+		Linguistics: 1
+			Hindi is your native language, and English your second
+		Occult: 3
+
+Disciplines: (3 + 2 from freebie points)
+	Obfuscate: 2
+	Presence: 1
+	Sadhana: 1 (Thaumaturgy; see Clanboook - Setites and Blood Sacrifice)
+		Path of Karma (Primary): 1 (Blood Sacrifice pg. 63)
+		Path of Praapti: 1 (Blood Sacrifice pg. 64)
+		Rituals:
+			Level 1:
+				Armor of Diamond Serenity (Blood Sacrifice pg. 64; free with first dot of "Thaumaturgy")
+
+Backgrounds: (5)
+	Resources: 2
+	Retainers: 1
+	Herd: 2
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 4
+	Courage: 4
+	
+Willpower: 7 (equal to Courage + 3 for freebie points spent)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Bad Sight (1 pt. Flaw, Core pg. 297)
+		-Can wear glasses for it, or it would be more points
+	Lunacy: (2 pt. Flaw, Core pg. 300)
+		-Tied to Sadhu astrological practices, as briefly described on pg. 59 of Blood Sacrifice.
+		-Your ritual allows you to overcome this somewhat, but at substantial cost.
+	New Arrival (1 pt. Flaw, Guide to the Camarilla pg. 77)
+	Oracular Ability (3 pt. Merit, Core 300)
+	Prey exclusion (1 pt. Flaw, Core pg. 299)
+		-Something tied to your ascetic practices?
+		-Maybe you refuse to feed from vegetarians, _only_ feeding from carnivores, in a perversion
+		 of mortal sadhus practicing vegetarianism, as befits the embodied demon you believe yourself
+		 to be.
+
+Freebie points: 15 (15 + 2 from merits and flaws)
+	7	Sadhana 1
+	7	Sadhana 2
+	3	Willpower + 3
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-Not a Brahmin in life, the Daitya's belief that all they embrace are _undead_ Brahmins is
+		 a big deal to you, affecting your philosophy and beliefs about your role in the world.
+		-Perhaps a criminal past?
+			-Your abilities lean a bit in that direction. They're tied to your new unlife, but
+			 there's likely a reason you have all those already, and little else.
+	-Fled India at the beginning of The Week of Nightmares.
+		-To someone with your oracular ability, the beginning was as loud as a trumpet, and only
+		 grew worse from there. You had the occult knowledge to interpret the psychic onslaught,
+		 and figured getting the whole planet between you and India would be wise.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		

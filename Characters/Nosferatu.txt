@@ -1,0 +1,102 @@
+Name: 
+Clan: Nosferatu
+Nature: Celebrant
+Demeanor: Architect
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 5
+			Specialty: Powerful Arms
+		Dexterity: 3
+		Stamina: 3
+	Social: (3)
+		Charisma: 2
+		Manipulation: 3
+		Appearance: 0
+	Mental: (5)
+		Perception: 2
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Alertness: 2
+		Athletics: 3
+		Brawl: 3
+		Dodge: 2
+		Subterfuge: 3
+	Skills: (9) 
+		Crafts: 3
+			(Mandatory/Free) Specialty: Architecture (which you made up)
+		Security: 3
+		Stealth: 3
+	Knowledges: (5)
+		Academics: 1
+		Computer: 1
+		Investigation: 1
+		Science: 2
+
+Disciplines: (3 + 2 for freebie points spent)
+	Obfuscate: 2
+	Potence: 1
+	Protean: 2
+
+Backgrounds: (5)
+	Contacts: 3
+		-City Department of Streets and Sanitation and the like, good for learning what runs
+		 beneath a location, and among your fellow Nosferatu, good for learning all _sorts_ of
+		 things, reflecting favors done around The Warrens (help expanding a room, help running
+		 cables, etc.).
+	Status: 2
+		Other Nosferatu respect your work on The Warrens.
+
+Humanity Rating: 7 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 3
+	Self-Control: 4
+	Courage: 3
+	
+Willpower: 3 (equal to Courage)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Bad Sight (1 pt. Flaw, Core pg. 297) ???
+		Can wear glasses for it, or it would be more points
+	Smell of the Grave (1 pt. Flaw, Core pg. 297) ???
+		Penalizes social with mortals, increasing the difficulty by 1
+		You smell like your work.
+	Anosmia (2 pt. Flaw, Clanbook Nosferatu pg. 73)
+		No sense of smell or taste.
+		Might have something to do with your underground hobbies, and the above smell.
+
+Freebie points: 15 (15 + 4 from flaws)
+	7	Protean 1
+	7	Protean 2
+	5	Strength 5
+
+Character Description and Background:
+	-Appearance:
+		-Hideous, of course.
+		-Not helping matters, your hands rarely end in anything other than claws, and are
+		 invariably encrusted with dirt and other, less pleasant filth.
+	-As a mortal:
+		-Very much into urban exploration, you were fascinated by the various tunnels worming their
+		 way beneath the city, and delighted in gaining access to them.
+		-In retrospect, that clearly attracted the attention of the Nosferatu, leading to your
+		 Embrace.
+		-You were a college student at the time of your Embrace, with your field of study, Civil
+		 Engineering, also tied to your hobby.
+	-You're a tunnel digging specialist.
+		-The Warrens of your city were a wonder to you and you are thrilled to both make your home
+		 there and assist in their expansion.
+	-Concerning your nature, you're quite happy to help your Clan in expanding and improving The
+	 Warrens, but care less about the practicalities (and favors in return) than you let on. At
+	 heart, you're still that UrbEx geek that can't wait to see what's beneath the surface.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Earth Meld would radically increase both your ability to travel and your security while sleeping.
+	-Tentative schedule:
+		
