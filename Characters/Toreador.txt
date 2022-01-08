@@ -129,7 +129,7 @@ Equipment (stuff to start with or obtain):
 
 Advancement:
 	-Auspex, especially 2, is exciting for you.
-	-You're probably all to tempted by disciplines you can't, and probably shouldn't, have.
+	-You're probably all too tempted by disciplines you can't, and probably shouldn't, have.
 		-Thaumaturgy fascinates you endlessly, representing as it does truely miraculous manipulation
 		 of the vampiric condition.
 			-You clearly share a bit of the Tremere approach to vampirisim, at least that of the

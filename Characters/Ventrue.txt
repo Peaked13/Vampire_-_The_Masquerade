@@ -56,7 +56,7 @@ Merits & Flaws:
 	Bad Sight (1 pt. Flaw, Core pg. 297)
 		Can wear glasses for it, or it would be more points
 	Natural Leader (1 pt. Merit, Core pg. 300)
-		2 extra dice for Leadership roles
+		2 extra dice for Leadership rolls
 	Enchanting Voice (2 pt. Merit, Core pg. 296)
 		-2 difficulty for "all die rolls involving the use of the voice to persuade, charm or command"
 		As written, sounds like it should affect disciplines
