@@ -64,15 +64,15 @@ Merits & Flaws:
 		Wringing hands when stressed?
 	New Arrival (1 pt. flaw, Guide to the Camarilla pg. 77)
 	Bad Sight (1 pt. Flaw, Core pg. 297)
-		Can wear glasses for it, or it would be more points
+		Can wear glasses for it, or it would be more points.
 	Short (1 pt. Flaw, Core pg. 297)
 	Repulsed by Garlic (1 pt. Flaw, Core pg. 301)
 	Eerie Presence  (2 pt. Flaw, Core pg. 302)
 
 Freebie points: 22 (15 + 7 from flaws)
-	14 Thaumaturgy 4 & 5
-	4 Occult 4 & 5
-	4 Willpower 6, 7, 8, & 9
+	14	Thaumaturgy 4 & 5
+	4	Occult 4 & 5
+	4	Willpower 6, 7, 8, & 9
 
 Character Description and Background:
 	-Appearance:
@@ -163,8 +163,8 @@ Advancement:
 		15 Auspex 4
 		20 Auspex 5
 	-Oh god. A Tremere can do terrible things with rituals and melee weapons.
-	 Like, flaming sword that drinks blood for you and acts as a talisman,
-	 making most of your Thaumaturgy easier, terrible.
+	 Like, _flaming sword that drinks blood for you and acts as a talisman,
+	 making most of your Thaumaturgy easier_ terrible.
 		-Taking melee instead of firearms would aid this.
 			-Maybe you fence? Your height would at least come with some
 			 advantages there, rather than _just_ disadvantages.
