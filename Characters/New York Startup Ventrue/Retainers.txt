@@ -1,0 +1,315 @@
+Name: Hacker-Seneschal
+Ventrue Vassal 
+Nature: 
+Demeanor: 
+
+Attributes: (6/4/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (6)
+		Charisma: 3
+		Manipulation: 4
+		Appearance: 2
+	Mental: (4)
+		Perception: 2
+		Intelligence: 3
+		Wits: 2
+
+Abilities: (11/7/4, max of 3)
+	Talents: (7)
+		Empathy: 2
+		Expression: 2
+		Subterfuge: 3
+	Skills: (4)
+		Drive: 1
+		Etiquette: 1
+		Performance: 2
+			Specialty: Oratory
+	Knowledges: (11 + 1 for Freebies spent)
+		Computer: 4
+		Finance: 2
+		Investigation: 3
+		Law: 2
+		Technology: 1
+
+Disciplines: (1, plus Potence 1)
+	Potence: 1
+	Presence: 1
+
+Backgrounds: (5)
+	Allies: 
+	Contacts: 
+	Influence: 
+	Resources: 
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 
+	Self-Control: 
+	Courage: 
+	
+Willpower:  (equal to Courage)
+Blood Pool: 1 (1, max storage 2)
+
+Merits & Flaws:
+	Bad Sight (1 pt. Flaw, V20 Core pg. 481)
+		Can wear glasses for it, or it would be more points.
+	Bound (2 pt. Flaw, V20 Core pg. 490)?
+		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
+	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)?
+		-2 difficulty to rolls involving computers.
+	Friendly Face (1 pt. Merit, V20 Core pg. 480)?
+		-1 difficulty on "appropriate Social-based rolls (yes for Seduction, no for intimidation,
+		for example)".
+	
+
+Freebie points: 15 (15 -  from Merits and Flaws)
+	2	Computer 4
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment:
+	
+
+
+Name: Ex-military, tech industry
+Ventrue Vassal 
+Nature: 
+Demeanor: 
+
+Attributes: (6/4/3 above base of 1 in each)
+	Physical: (4)
+		Strength: 2
+		Dexterity: 3
+		Stamina: 2
+	Social: (3)
+		Charisma: 2
+		Manipulation: 2
+		Appearance: 2
+	Mental: (6)
+		Perception: 3
+		Intelligence: 3
+		Wits: 3
+
+Abilities: (11/7/4, max of 3)
+	Talents: (4)
+		Alertness: 2
+		Athletics: 1
+		Brawl: 1
+	Skills: (11 + 1 for Freebies spent)
+		Drive: 2
+		Firearms: 4
+		Larceny: 3
+		Stealth: 2
+		Survival: 1
+	Knowledges: (7 + 1 for Freebies spent)
+		Computer: 4
+		Investigation: 2
+		Technology: 2
+
+Disciplines: (1, plus Potence 1)
+	Fortitude: 1
+	Potence: 1
+
+Backgrounds: (5)
+	Allies: 
+	Contacts: 
+	Influence: 
+	Resources: 
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 3
+	Self-Control: 3
+	Courage: 4
+	
+Willpower: 4 (equal to Courage)
+Blood Pool: 1 (1, max storage 2)
+
+Merits & Flaws:
+	Bound (2 pt. Flaw, V20 Core pg. 490)?
+		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
+	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)?
+		-2 difficulty to rolls involving computers.
+	Nightmares (1 pt. Flaw, V20 Core pg. 485)?
+		Willpower difficulty 7 each awakening or lose die on all actions for day/night. Botches are
+		extra bad, leaving you "locked in a nightmare" while awake.
+	
+
+Freebie points: 15 (15 -  from Merits and Flaws)
+	2	Computer 4
+	2	Firearms 4
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment:
+	
+
+
+Name: Ex-military, ex-merc
+Ventrue Vassal 
+Nature: 
+Demeanor: 
+
+Attributes: (6/4/3 above base of 1 in each)
+	Physical: (6)
+		Strength: 3
+		Dexterity: 3
+		Stamina: 3
+	Social: (3)
+		Charisma: 2
+		Manipulation: 2
+		Appearance: 2
+	Mental: (4)
+		Perception: 2
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (11/7/4, max of 3)
+	Talents: (7)
+		Alertness: 1
+		Athletics: 2
+		Brawl: 2
+		Intimidation: 2
+	Skills: (11 + 1 for Freebies spent)
+		Drive: 2
+		Firearms: 4
+		Melee: 2
+		Stealth: 2
+		Survival: 2
+	Knowledges: (4)
+		Computer: 1
+		Investigation: 3
+
+Disciplines: (1, plus Potence 1)
+	Fortitude: 1
+	Potence: 1
+
+Backgrounds: (5)
+	Allies: 
+	Contacts: 
+	Influence: 
+	Resources: 
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool: 1 (1, max storage 2)
+
+Merits & Flaws:
+	Bound (2 pt. Flaw, V20 Core pg. 490)?
+		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
+	Bruiser (1 pt. Merit, V20 Core pg. 480)?
+		-1 difficulty to Intimidation against any target that has "not demonstrated their physical
+		superiority to you".
+	Huge Size (4 pt. Merit, V20 Core pg. 480)?
+		Extra Bruised health leverl and unspecified bonus to pushing objects, avoiding knockdown, etc.
+	Nightmares (1 pt. Flaw, V20 Core pg. 485)?
+		Willpower difficulty 7 each awakening or lose die on all actions for day/night. Botches are
+		extra bad, leaving you "locked in a nightmare" while awake.
+	
+
+Freebie points: 15 (15 -  from Merits and Flaws)
+	2	Firearms 4
+
+Character Description and Background:
+	-Appearance:
+		-
+	-
+
+Equipment:
+	
+
+
+Template, from V20 Core pg. 497:
+	Name: 
+	Ventrue Vassal 
+	Nature: 
+	Demeanor: 
+
+	Attributes: (6/4/3 above base of 1 in each)
+		Physical: ()
+			Strength: 
+			Dexterity: 
+			Stamina: 
+		Social: ()
+			Charisma: 
+			Manipulation: 
+			Appearance: 
+		Mental: ()
+			Perception: 
+			Intelligence: 
+			Wits: 
+
+	Abilities: (11/7/4, max of 3)
+		Talents: ()
+			Alertness: 
+			Athletics: 
+			Brawl: 
+			Empathy: 
+			Expression: 
+			Intimidation: 
+			Leadership:
+			Streetwise: 
+			Subterfuge: 
+		Skills: ()
+			Drive: 
+			Etiquette: 
+			Firearms: 
+			Larceny: 
+			Melee: 
+			Stealth: 
+			Survival: 
+		Knowledges: ()
+			Computer: 
+			Finance: 
+			Investigation: 
+			Law: 
+			Politics; 
+			Technology: 
+
+	Disciplines: (1, plus Potence 1)
+		Potence: 1
+
+	Backgrounds: (5)
+		Allies: 
+		Contacts: 
+		Influence: 
+		Resources: 
+
+	Humanity Rating:  (Conscience + Self-Control)
+	Virtues: (7 above base of 1 in each)
+		Conscience: 
+		Self-Control: 
+		Courage: 
+		
+	Willpower:  (equal to Courage)
+	Blood Pool: 1 (1, max storage 2)
+
+	Merits & Flaws:
+		
+
+	Freebie points: 15 (15 -  from Merits and Flaws)
+		
+
+	Character Description and Background:
+		-Appearance:
+			-
+		-
+
+	Equipment:
+		
