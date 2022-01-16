@@ -124,3 +124,24 @@ Advancement:
 		15 Dominate 4
 		10 Fortitude 3
 		20 Presence 5
+	-Interesting coterie Disciplines:
+		-Essentially all the Malkavian Disciplines.
+			-Lots of combos of interest, especially with Auspex and Obfuscate.
+			-Some Dementation powers also dovetail with your abilities, but it's a poor flavor fit.
+	-Combos:
+		-Useful links:
+			-Descriptions of many combos, sans reference pg. numbers: https://saligia.fandom.com/wiki/Combination_Disciplines
+			-Names, sans description, with reference numbers: https://whitewolf.fandom.com/wiki/List_of_Combination_Disciplines_(VTM)
+		-Clanbook Ventrue pg 77. has a 4 experience combo, Lifesong, that you already qualify for. It
+		 lets you identify a _mortal's_ nature from a single statment (if you succeed on Int+Emp vs.
+		 difficulty of their Manip+Exp). _Potentially_ useful.
+		-Honeyed Words would be amazing if you pick up Auspex 2 and can learn it: 	https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Ah, Impeccable Manners is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Rescue Beacon (Fortitude 1 and Presence 4) calls you're nearest ghoul if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Just need Fortitude 1 to get Retaliatory Terror. Explicitly Ventrue, allows reflexive Dread
+		 Gazes if Brawl or Melee damage is taken: https://saligia.fandom.com/wiki/Combination_Disciplines#Retaliatory_Terror_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
+		-Already qualify for Unflinching Stare-down, though only useful if combat heavy: https://saligia.fandom.com/wiki/Combination_Disciplines#Unflinching_Stare-down_.28Dominate_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
+		-Marshal the Posse (D2/P3) would be another possibly useful combat one: https://saligia.fandom.com/wiki/Combination_Disciplines#Marshal_the_Posse_.28Dominate_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Aura of Inescapable Truth is an eventual super power for you (D4/P4): https://saligia.fandom.com/wiki/Combination_Disciplines#Aura_of_Inescapable_Truth_.28Dominate_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Chain of Slavery (A2/D2) determines if someone is Dominated, and by who: https://saligia.fandom.com/wiki/Combination_Disciplines#Chain_of_Slavery_.28Auspex_.E2.80.A2.E2.80.A2.2C_Dominate_.E2.80.A2.E2.80.A2.29
+		-Exquisite Corpse (F3/Obf3) is _way_ off and combat focused, but _so_ flavorful: https://saligia.fandom.com/wiki/Combination_Disciplines#Exquisite_Corpse_.28Fortitude_.E2.80.A2.E2.80.A2.E2.80.A2.2C_Obfuscate_.E2.80.A2.E2.80.A2.E2.80.A2.29
