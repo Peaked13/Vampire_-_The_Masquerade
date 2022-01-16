@@ -9,8 +9,10 @@ Attributes: (6/4/3 above base of 1 in each)
 		Dexterity: 2
 		Stamina: 2
 	Social: (6)
-		Charisma: 3
+		Charisma: 4
+			Specialty: Smooth Talker
 		Manipulation: 4
+			Specialty: Persuasive
 		Appearance: 2
 	Mental: (4)
 		Perception: 2
@@ -18,31 +20,34 @@ Attributes: (6/4/3 above base of 1 in each)
 		Wits: 2
 
 Abilities: (11/7/4, max of 3)
-	Talents: (7)
-		Empathy: 2
-		Expression: 2
-		Subterfuge: 3
-	Skills: (4)
+	Talents: (7 + 3 for Freebies spent)
+		Empathy: 3
+		Expression: 3
+		Subterfuge: 4
+			Specialty: Impeccable Lies
+	Skills: (4 + 2 for Freebies spent)
 		Drive: 1
-		Etiquette: 1
+		Etiquette: 3
 		Performance: 2
 			Specialty: Oratory
-	Knowledges: (11 + 1 for Freebies spent)
+	Knowledges: (11 + 2 for Freebies spent)
 		Computer: 4
+			Specialty: Internet
 		Finance: 2
 		Investigation: 3
 		Law: 2
-		Technology: 1
+		Politics: 2
 
 Disciplines: (1, plus Potence 1)
 	Potence: 1
 	Presence: 1
 
-Backgrounds: (5)
-	Allies: 
-	Contacts: 
-	Influence: 
-	Resources: 
+Backgrounds: (5 + 1 for Freebies spent)
+	Contacts: 2
+		Major Contacts: TODO
+			Tech reporter?
+	Influence(Tech Industry): 1
+	Resources: 3
 
 Humanity Rating: 7 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -50,25 +55,31 @@ Virtues: (7 above base of 1 in each)
 	Self-Control: 4
 	Courage: 2
 	
-Willpower: 2 (equal to Courage)
+Willpower: 3 (equal to Courage + 1 for Freebies spent)
 Blood Pool: 1 (1, max storage 2)
 
 Merits & Flaws:
 	Bad Sight (1 pt. Flaw, V20 Core pg. 481)
 		Can wear glasses for it, or it would be more points.
 	Bound (2 pt. Flaw, V20 Core pg. 490)?
-		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
-	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)?
+		Obviously true, and Lesley OK'd it.
+	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)
 		-2 difficulty to rolls involving computers.
-	Friendly Face (1 pt. Merit, V20 Core pg. 480)?
+	Friendly Face (1 pt. Merit, V20 Core pg. 480)
 		-1 difficulty on "appropriate Social-based rolls (yes for Seduction, no for intimidation,
 		for example)".
 	
 
-Freebie points: 15 (15 -  from Merits and Flaws)
+Freebie points: 21 (21 - 0 from Merits and Flaws)
+	5	Charisma 4
 	2	Computer 4
-		Dominate 1? No blood cost is a big perk. Needs Intimidation, though.
-		Willpower? Base is very low.
+	2	Empathy 3
+	4	Etiquette 2 & 3
+	2	Expression 3
+	2	Politics 2
+	2	Subterfuge 4
+	1	Contacts 2
+	1	Willpower
 	
 
 Character Description and Background:
@@ -94,24 +105,27 @@ Attributes: (6/4/3 above base of 1 in each)
 		Charisma: 2
 		Manipulation: 2
 		Appearance: 2
-	Mental: (6)
+	Mental: (6 + 1 for Freebies spent)
 		Perception: 3
-		Intelligence: 3
+		Intelligence: 4
+			Specialty: Problem Solver
 		Wits: 3
 
 Abilities: (11/7/4, max of 3)
-	Talents: (4)
-		Alertness: 2
-		Athletics: 1
-		Brawl: 1
+	Talents: (4 + 3 for Freebies spent)
+		Alertness: 3
+		Athletics: 3
+		Brawl: 2
 	Skills: (11 + 2 for Freebies spent)
 		Drive: 3
 		Firearms: 4
+			Specialty: Pistols
 		Larceny: 3
 		Stealth: 2
 		Survival: 1
 	Knowledges: (7 + 2 for Freebies spent)
 		Computer: 4
+			Specialty: Security
 		Investigation: 2
 		Technology: 3
 
@@ -123,7 +137,8 @@ Backgrounds: (5)
 	Allies: 
 	Contacts: 
 	Influence: 
-	Resources: 
+	Mentor: 
+	Resources: 2
 
 Humanity Rating: 6 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -135,16 +150,17 @@ Willpower: 4 (equal to Courage)
 Blood Pool: 1 (1, max storage 2)
 
 Merits & Flaws:
-	Bound (2 pt. Flaw, V20 Core pg. 490)?
-		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
-	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)?
+	Bound (2 pt. Flaw, V20 Core pg. 490)
+		Obviously true, and Lesley OK'd it.
+	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)
 		-2 difficulty to rolls involving computers.
-	Nightmares (1 pt. Flaw, V20 Core pg. 485)?
-		Willpower difficulty 7 each awakening or lose die on all actions for day/night. Botches are
-		extra bad, leaving you "locked in a nightmare" while awake.
 	
 
-Freebie points: 15 (15 -  from Merits and Flaws)
+Freebie points: 21 (21 - 0 from Merits and Flaws)
+	5	Intelligence
+	2	Alertness 3
+	4	Athletics 2 & 3
+	2 	Brawl 2
 	2	Computer 4
 	2	Drive 3
 	2	Firearms 4
@@ -180,20 +196,23 @@ Attributes: (6/4/3 above base of 1 in each)
 		Wits: 3
 
 Abilities: (11/7/4, max of 3)
-	Talents: (7 + 1 for Freebies spent)
-		Alertness: 1
-		Athletics: 2
+	Talents: (7 + 5 for Freebies spent)
+		Alertness: 3
+		Athletics: 3
 		Brawl: 3
-		Intimidation: 2
-	Skills: (11 + 3 for Freebies spent)
+		Intimidation: 3
+	Skills: (11 + 5 for Freebies spent)
 		Drive: 3
 		Firearms: 4
-		Melee: 3
+			Specialty: Shotguns
+		Melee: 2
 		Stealth: 2
+		Streetwise: 2
 		Survival: 2
 	Knowledges: (4)
 		Computer: 1
-		Investigation: 3
+		Investigation: 2
+		Medicine: 1
 
 Disciplines: (1, plus Potence 1)
 	Fortitude: 1
@@ -201,9 +220,11 @@ Disciplines: (1, plus Potence 1)
 
 Backgrounds: (5)
 	Allies: 
+	Alternate Identity: 
 	Contacts: 
 	Influence: 
-	Resources: 
+	Mentor: 
+	Resources: 2
 
 Humanity Rating: 5 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -215,23 +236,24 @@ Willpower: 5 (equal to Courage)
 Blood Pool: 1 (1, max storage 2)
 
 Merits & Flaws:
-	Bound (2 pt. Flaw, V20 Core pg. 490)?
-		Obviously true, but is it reasonable for a Retainer to have bonuse points for it?
-	Bruiser (1 pt. Merit, V20 Core pg. 480)?
+	Bound (2 pt. Flaw, V20 Core pg. 490)
+		Obviously true, and Lesley OK'd it.
+	Bruiser (1 pt. Merit, V20 Core pg. 480)
 		-1 difficulty to Intimidation against any target that has "not demonstrated their physical
 		superiority to you".
-	Huge Size (4 pt. Merit, V20 Core pg. 480)?
-		Extra Bruised health leverl and unspecified bonus to pushing objects, avoiding knockdown, etc.
-	Nightmares (1 pt. Flaw, V20 Core pg. 485)?
-		Willpower difficulty 7 each awakening or lose die on all actions for day/night. Botches are
-		extra bad, leaving you "locked in a nightmare" while awake.
+	Huge Size (4 pt. Merit, V20 Core pg. 480)
+		Extra Bruised health level and unspecified bonus to pushing objects, avoiding knockdown, etc.
 	
 
-Freebie points: 15 (15 -  from Merits and Flaws)
+Freebie points: 18 (21 - 3 from Merits and Flaws)
+	4	Alertness 2 & 3
+	2	Athletics 3
 	2	Brawl 3
 	2	Drive 3
 	2	Firearms 4
-	2	Melee 3
+	2	Intimidation 3
+	4	Streetwise 1 & 2
+	What else?
 
 Character Description and Background:
 	-Appearance:
@@ -310,7 +332,7 @@ Template, from V20 Core pg. 497:
 	Merits & Flaws:
 		
 
-	Freebie points: 15 (15 -  from Merits and Flaws)
+	Freebie points: 21 (21 -  from Merits and Flaws)
 		
 
 	Character Description and Background:
