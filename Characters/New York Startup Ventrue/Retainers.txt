@@ -1,7 +1,7 @@
-Name: Hacker-Seneschal
+Name: Rebecca Veck
 Ventrue Vassal 
-Nature: 
-Demeanor: 
+Nature: Conniver
+Demeanor: Competitor
 
 Attributes: (6/4/3 above base of 1 in each)
 	Physical: (3)
@@ -34,8 +34,8 @@ Abilities: (11/7/4, max of 3)
 		Computer: 4
 			Specialty: Internet
 		Finance: 2
-		Investigation: 3
-		Law: 2
+		Investigation: 2
+		Law: 3
 		Politics: 2
 
 Disciplines: (1, plus Potence 1)
@@ -44,9 +44,11 @@ Disciplines: (1, plus Potence 1)
 
 Backgrounds: (5 + 1 for Freebies spent)
 	Contacts: 2
-		Major Contacts: TODO
-			Tech reporter?
-	Influence(Tech Industry): 1
+		Major Contacts:
+			-Tech reporter
+			-Someone in the US Attorney's Office for the Southern District of New York.
+				-The office's website: https://www.justice.gov/usao-sdny
+	Influence (Tech Industry): 1
 	Resources: 3
 
 Humanity Rating: 7 (Conscience + Self-Control)
@@ -85,16 +87,22 @@ Freebie points: 21 (21 - 0 from Merits and Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	-
+	-A hacker and social engineer, turned pro. She learned how to get the same trickster thrills
+	 _and_ get paid, getting a series of tech jobs, getting good at office politics, and eventually
+	 getting a law degree. It all turned out it was all the same fun as fucking with telco employees
+	 when she was 15 was.
+	-Eventually, at a work function, she met someone who that took what she did with people and turned
+	 it up to _11_. She had to know how he did it. Now that she does, she's hooked.
+	-She serves as a kind of seneschal.
 
 Equipment:
 	
 
 
-Name: Ex-military, tech industry
+Name: Bob Horton
 Ventrue Vassal 
-Nature: 
-Demeanor: 
+Nature: Judge
+Demeanor: Judge
 
 Attributes: (6/4/3 above base of 1 in each)
 	Physical: (4)
@@ -134,10 +142,15 @@ Disciplines: (1, plus Potence 1)
 	Potence: 1
 
 Backgrounds: (5)
-	Allies: 
-	Contacts: 
-	Influence: 
-	Mentor: 
+	Allies: 1
+		-Years back, he helped a buddy stand up a custom fabrication business, with CNC machines and
+		 some electronics work. That's since turned into a thriving company, and his friend loves
+		 tackling interesting special projects, for Bob's "penetration testing" jobs. . .
+	Influence (Computer Security Community): 1
+		-He's a well respected contributor to several different open source projects in the area,
+		 and has published a variety of influential whitepapers.
+	Mentor: 1
+		-His mentor is an influential mortal professor, an expert on information security.
 	Resources: 2
 
 Humanity Rating: 6 (Conscience + Self-Control)
@@ -170,16 +183,16 @@ Freebie points: 21 (21 - 0 from Merits and Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	-
+	-Ex-military, tech industry
 
 Equipment:
 	
 
 
-Name: Ex-military, ex-merc
+Name: Rick Hubbard
 Ventrue Vassal 
-Nature: 
-Demeanor: 
+Nature: Bravo
+Demeanor: Soldier
 
 Attributes: (6/4/3 above base of 1 in each)
 	Physical: (6)
@@ -219,11 +232,22 @@ Disciplines: (1, plus Potence 1)
 	Potence: 1
 
 Backgrounds: (5)
-	Allies: 
-	Alternate Identity: 
-	Contacts: 
-	Influence: 
-	Mentor: 
+	Alternate Identity: 1
+		-In a past private "security" gig, he heard about someone who could put together a backup
+		 identity, in case things went South. He never ended up in a very _public_ messs, so he
+		 still has an unpracticed and somewhat thin alternate identity: a passport, a few mostly
+		 empty bank accounts, and other documents.
+	Contacts: 2
+		Major Contacts: 
+			-Private security recruiter:
+				-They worked together in the past. Can help with who to hire, and perhaps even more
+				 interesting, who's _hiring_ in the area.
+			-Theft ring member:
+				-Another old coworker, one who decided the outright criminal paid even better.
+				-Might have word of weird stuff being shipped into the city and the like.
+				-Also serves as a way to get information _out_. Stuff like, "There's something
+				 valuable in this truck," or even, "There's someone _here_ who would pay good money
+				 for the contents of that truck."
 	Resources: 2
 
 Humanity Rating: 5 (Conscience + Self-Control)
@@ -253,12 +277,11 @@ Freebie points: 18 (21 - 3 from Merits and Flaws)
 	2	Firearms 4
 	2	Intimidation 3
 	4	Streetwise 1 & 2
-	What else?
 
 Character Description and Background:
 	-Appearance:
 		-
-	-
+	-Ex-military, ex-merc
 
 Equipment:
 	
