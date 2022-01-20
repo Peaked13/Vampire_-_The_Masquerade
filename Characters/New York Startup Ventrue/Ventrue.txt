@@ -1,4 +1,4 @@
-Name: 
+Name: Robert Nielsen
 Clan: Ventrue
 Nature: Autocrat
 Demeanor: Architect
@@ -146,6 +146,7 @@ Character Description and Background:
 				 occasionally, hinting at fictional cosmetic work or hair dye, as you'd like to hold
 				 onto your mortal identity as possible. There is substantial assets and influence
 				 tied to it.
+				-If this is roughly the current date, as seems so, you were born in the late 80's.
 		-What was unique about your childhood?
 			-How did you spend your early years? How were
 			your basic motivations and attitudes forged? Where
@@ -222,9 +223,19 @@ Character Description and Background:
 			long to return to your mortal life? Do you have
 			ambitions in Kindred society? If you could achieve
 			anything in the world, what would it be?
+	-TODO:
+		-Detail your companies.
+		-Detail your properties and havens.
 
-Equipment (stuff to start with or obtain):
-	TODO
+Equipment:
+	-Cellphone running Horton's customized Android build.
+		-Adapter cables, for connecting the cellphone to all sorts of devices.
+		-TODO: Flesh out what's on the phone somewhere. Improved security, call encryption, pen.
+			   testing tools, etc.
+	-Expensive tailored suit, artfully rumpled.
+	-Cars:
+		-Fancy sedan (maybe armored?)
+		-White Cargo Van
 
 
 TODO:

@@ -70,7 +70,6 @@ Merits & Flaws:
 	Friendly Face (1 pt. Merit, V20 Core pg. 480)
 		-1 difficulty on "appropriate Social-based rolls (yes for Seduction, no for intimidation,
 		for example)".
-	
 
 Freebie points: 21 (21 - 0 from Merits and Flaws)
 	5	Charisma 4
@@ -82,7 +81,6 @@ Freebie points: 21 (21 - 0 from Merits and Flaws)
 	2	Subterfuge 4
 	1	Contacts 2
 	1	Willpower
-	
 
 Character Description and Background:
 	-Appearance:
@@ -96,7 +94,9 @@ Character Description and Background:
 	-She serves as a kind of seneschal.
 
 Equipment:
-	
+	-Cellphone running Horton's customized Android build.
+		-Adapter cables, for connecting the cellphone to all sorts of devices.
+	-Laptop
 
 
 Name: Bob Horton
@@ -167,7 +167,6 @@ Merits & Flaws:
 		Obviously true, and Lesley OK'd it.
 	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)
 		-2 difficulty to rolls involving computers.
-	
 
 Freebie points: 21 (21 - 0 from Merits and Flaws)
 	5	Intelligence
@@ -179,14 +178,27 @@ Freebie points: 21 (21 - 0 from Merits and Flaws)
 	2	Firearms 4
 	2	Technology 3
 	
-
 Character Description and Background:
 	-Appearance:
 		-
-	-Ex-military, tech industry
+	-Ex-military, tech industry.
 
 Equipment:
-	
+	-Cellphone running Horton's customized Android build.
+		-Adapter cables, for connecting the cellphone to all sorts of devices.
+	-Lock pick set, including a vibrating lock pick.
+	-Swiss Army Knife (Cybertool)
+	-Laptop
+	-Some subset of (depending on the dress code or danger of an occasion, or liklihood of search):
+		-Heavy Pistol (V20 Core pg. 281, Dmg: 5, Rng. 25, Rate: 3, Cap: 13+1, Conceal J)
+		-Kevlar Vest (V20 Core pg. 280, Armor 3, Penalty 1)
+		-Reinforced Clothing (V20 Core pg. 280, Armor 1, Penalty 0)
+			-Under the Kevlar, protecting the rest of the body.
+		-Black Trenchcoat
+		-2x Wooden Stake (V20 Core pg. 280, Strength+1, Conceal T)
+		-Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
+	-On specific occasions, otherwise stored:
+		-Rifle (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
 
 
 Name: Rick Hubbard
@@ -267,7 +279,6 @@ Merits & Flaws:
 		superiority to you".
 	Huge Size (4 pt. Merit, V20 Core pg. 480)
 		Extra Bruised health level and unspecified bonus to pushing objects, avoiding knockdown, etc.
-	
 
 Freebie points: 18 (21 - 3 from Merits and Flaws)
 	4	Alertness 2 & 3
@@ -284,7 +295,19 @@ Character Description and Background:
 	-Ex-military, ex-merc
 
 Equipment:
-	
+	-Cellphone running Horton's customized Android build
+	-Pocket Knife
+	-Some subset of (depending on the dress code or danger of an occasion, or liklihood of search):
+		-Heavy Pistol (V20 Core pg. 281, Dmg: 5, Rng. 25, Rate: 3, Cap: 13+1, Conceal J)
+		-Fighting Knife (V20 Core pg. 280, Strength+1, Conceal J)
+		-Kevlar Vest (V20 Core pg. 280, Armor 3, Penalty 1)
+		-Reinforced Clothing (V20 Core pg. 280, Armor 1, Penalty 0)
+			-Under the Kevlar, protecting the rest of the body.
+		-Black Trenchcoat
+		-2x Wooden Stake (V20 Core pg. 280, Strength+1, Conceal T)
+		-Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
+	-On specific occasions, otherwise stored:
+		-Rifle (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
 
 
 Template, from V20 Core pg. 497:
