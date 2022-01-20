@@ -29,7 +29,7 @@ Abilities: (11/7/4, max of 3)
 		Drive: 1
 		Etiquette: 3
 		Performance: 2
-			Specialty: Oratory
+			Specialty: Acting
 	Knowledges: (11 + 2 for Freebies spent)
 		Computer: 4
 			Specialty: Internet

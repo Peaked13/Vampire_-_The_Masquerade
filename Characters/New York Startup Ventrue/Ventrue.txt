@@ -55,25 +55,60 @@ Willpower: 5 (equal to Courage + 1 for freebie points spent)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
 Merits & Flaws:
-	Bad Sight (1 pt. Flaw, V20 Core pg. 481)
+	Bad Sight (1 pt. Flaw, V20 Core pg. 481):
 		Can wear glasses for it, or it would be more points.
-	Natural Leader (1 pt. Merit, Core pg. 300)
+	Natural Leader (1 pt. Merit, Core pg. 487):
 		2 extra dice for Leadership rolls.
-	Enchanting Voice (2 pt. Merit, Core pg. 296)
+	Enchanting Voice (2 pt. Merit, Core pg. 480):
 		-2 difficulty for "all die rolls involving the use of the voice to persuade, charm or command"
 		As written, sounds like it should affect disciplines.
 			Though that certainly makes it powerful. As such many internet posts argued against it.
-	TODO: Lesley suggested owing a boon for another Flaw, to get stuff like "clan status, or for a
-		  point of influence (tech industry)"
-		-He recommended probably avoiding Status, since he's aiming for starting us as fledglings.
-		-Maybe Domain?
-			-It reads more like physical territory, which is not exactly what you're going for, but,
-			 for Domain 2, it could be an office building you own, housing your companies.
-		-Boon for access to something in the city? Finance? Maybe bloodbank-adjacent activity, to
-		 the Tremere?
-		-Hmm. . . neither V20 Core or any of the likely seeming Revised books seem to what exactly
-		 constitutes a boon of a given point value.
-			-Nor that you can take _owed_ boons, but it seems obvious enough how to flip the sign.
+	Boons Owed (X pt. Flaw, V20 Core pg. 488):
+		X pt. boon owed to Clan Tremere:
+			-You formally requested and were granted permission to operate your "blood testing"
+			 research startup, it being adjacent to the Tremere Primogen's domain of hospitals,
+			 blood banks, and emergency services.
+			-Or owed to someone specific? Their Primogen? Though the Tremere are more cohesive than
+			 most clans, and I could see them treating the debt as "The Pyramid's" property.
+				-Maybe depends on what exactly Lesley intends with those domains he gave.
+		X pt. boon owed to SOME VENTRUE:
+			-For the introduction that made the above boon possible?
+				-Spreads the plot hooks across a couple of factions.
+				-Ideally _not_ your sire, for a similar reason, and because he expects you to stand
+				 on your own feet.
+		2? pt. boon owed to your sire:
+			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
+			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training
+			 period), something your sire very much encouraged. He created you for a reason, after
+			 all. He means to see a return on his investment, and that no shame is brought to him.
+			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
+			 a debt you didn't exactly sign yourself up for.
+		-Spend these points on (in rough order, while you figure out boon values):
+			2	Domain 2
+					-Owned mid-rise building. TODO: rules text
+			1	Domain 3
+					-Extra dot for security of the building, rather than size. TODO: rules text
+			1	Status 1
+					-You're a childe of Clan Ventrue and were properly presented to the Prince of
+					 New York.
+					-Or some Ventrue Status variant thereof? Lesley mentioned something like that,
+					 but V20 Core and Clanbook Ventrue, at least, don't discuss it, though some stuff
+					 online alludes to it.
+				Willpower?
+				Abilities?
+				Generation?
+		TODO: Lesley suggested owing a boon for another Flaw, to get stuff like "clan status, or for a
+			  point of influence (tech industry)"
+			-He recommended probably avoiding Status, since he's aiming for starting us as fledglings.
+			-Maybe Domain?
+				-It reads more like physical territory, which is not exactly what you're going for, but,
+				 for Domain 2, it could be an office building you own, housing your companies.
+			-Boon for access to something in the city? Finance? Maybe bloodbank-adjacent activity, to
+			 the Tremere?
+			-Hmm. . . neither V20 Core or any of the likely seeming Revised books seem to what exactly
+			 constitutes a boon of a given point value.
+				-Nor that you can take _owed_ boons, but it seems obvious enough how to flip the sign.
+				-Lesley gave some guidance: https://discord.com/channels/@me/772891797726822481/933143649917730846
 
 Freebie points: 13 (15 - 2 from Merits and Flaws)
 	7 Dominate 1
@@ -102,6 +137,91 @@ Character Description and Background:
 					-Others may be representative of other Kindred you've cut in on some deal.
 			-A less restrictive option would be something like programmers in general, should this
 			 character be used for a more mobile game, where this would be unsuitable.
+	-Lesley's background questions:
+		-How old are you?
+			-When were you born? How old were you when you were Embraced? How long have you existed
+			 as a vampire? How old do you look? Are you more mature than you seem? Less?
+				-You were embraced at age 26, close to a decade ago. Your apparent youthfulness is
+				 an asset in your industry, though. You actually go out of your way to bring that up
+				 occasionally, hinting at fictional cosmetic work or hair dye, as you'd like to hold
+				 onto your mortal identity as possible. There is substantial assets and influence
+				 tied to it.
+		-What was unique about your childhood?
+			-How did you spend your early years? How were
+			your basic motivations and attitudes forged? Where
+			did you go to school? Who were your immediate
+			family? What is your clearest childhood memory?
+			Did you go to high school? Did you have a hometown,
+			or was your family constantly on the move?
+			Did you go to college? Did you run away from
+			home? Did you play sports? Did any of your childhood
+			friendships last to adulthood?
+		-What kind of person were you?
+			-Were you a decent person, or were you an asshole?
+			-Were you popular? Did you have a family?
+			-How did you earn a living? Did you have any real
+			friends? What kept you going from day to day? Will
+			anyone miss you?
+		-What was your first brush with the supernatural?
+			-When did you realize you were being stalked?
+				-
+			-Did you believe in the occult before your Embrace?
+				-Nope, but you _do_ pride yourself on your ability to quickly pivot. . .
+			-When did you first meet a vampire? Were you afraid? Disbelieving? Angry? What
+			 frightened you most?
+				-
+		-How did the Embrace change you?
+			-How did your sire catch you? Was the Embrace
+			painful? Did you get a kinky pleasure out of it? Did
+			the Hunger tear at you? Did it frighten you? Did
+			it feel right? Are you grateful to your sire? Do you
+			want to kill him for what he did to you?
+		-Who was your sire, and how did he treat you?
+			-What do you know of your sire? Was he abusive,
+			arrogant, cryptic. or open? Why do you think he
+			chose you? Did you even know your sire at all?
+				-TODO: Embraced for similar, "expertise of the day" reasons as you? Maybe thus an
+				 East Coast shipping magnate, grappling with the now _digitally_ globalized world?
+			-How long did you stay with your sire? Did he teach
+			you anything at all? How long was your “apprenticeship”?
+			-Where did you stay? Where did you go?
+			-Did you meet any other vampires during that time
+			(such as the Prince or Archbishop)? Do you judge
+			other vampires in general by your opinion of your
+			sire? When did he teach you the laws of your Sect?
+		-How did you meet the others in your coterie?
+			-Were you brought together by chance or design?
+			-Are you all of one Sect? Are you united in purpose
+			and attitude? How long have you been together in
+			the city? Did you know any of the others before the
+			Embrace? Are your sires in cooperation, or are they
+			rivals? What holds your coterie together when things
+			are at their worst?
+		-Where is your haven?
+			-Where do you hide during the day? Do you have
+			a permanent home at all? Do you stay in the place
+			you inhabited in your mortal life? Do you hide in
+			an abandoned building? The sewers? Do you have
+			anyone to protect you during the day?
+		-Do you retain any connections to
+		your mortal life?
+			-Are you presumed dead? Do you still watch over
+			relatives from afar? Do you pretend to be still alive?
+			-Did you abandon your mortal existence entirely?
+		-What are your habitual feeding grounds?
+			-Whom do you feed upon, and where? Do you
+			have a territory that you consider exclusively yours?
+			-Is your favorite hunting ground used by others? Do
+			you compete with others? What is your preferred
+			prey? Do you ever kill when you feed? Do you have
+			a specific herd? Do you seduce your prey? Kidnap
+			them? Assault them on the street? Do they come to
+			you?
+		-What motivates you?
+			-Do you seek revenge on any enemies? Do you
+			long to return to your mortal life? Do you have
+			ambitions in Kindred society? If you could achieve
+			anything in the world, what would it be?
 
 Equipment (stuff to start with or obtain):
 	TODO
