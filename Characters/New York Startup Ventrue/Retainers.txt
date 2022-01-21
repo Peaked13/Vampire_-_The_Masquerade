@@ -87,11 +87,12 @@ Character Description and Background:
 		-
 	-A hacker and social engineer, turned pro. She learned how to get the same trickster thrills
 	 _and_ get paid, getting a series of tech jobs, getting good at office politics, and eventually
-	 getting a law degree. It all turned out it was all the same fun as fucking with telco employees
+	 getting a law degree. It turned out it was all the same fun as fucking with telco employees
 	 when she was 15 was.
-	-Eventually, at a work function, she met someone who that took what she did with people and turned
-	 it up to _11_. She had to know how he did it. Now that she does, she's hooked.
-	-She serves as a kind of seneschal.
+	-Eventually, at a work function, she met someone who that took what she did with people and
+	 turned it up to _11_. She had to know how he did it. Now that she does, she's hooked.
+	-She serves as a kind of seneschal, and takes the most active roll in Mr. Nielsen's companies
+	 out of all of the retainers, sitting on their boards, fielding daylight inqueries, etc.
 
 Equipment:
 	-Cellphone running Horton's customized Android build.
@@ -120,9 +121,9 @@ Attributes: (6/4/3 above base of 1 in each)
 		Wits: 3
 
 Abilities: (11/7/4, max of 3)
-	Talents: (4 + 3 for Freebies spent)
+	Talents: (4 + 2 for Freebies spent)
 		Alertness: 3
-		Athletics: 3
+		Athletics: 2
 		Brawl: 2
 	Skills: (11 + 2 for Freebies spent)
 		Drive: 3
@@ -131,10 +132,11 @@ Abilities: (11/7/4, max of 3)
 		Larceny: 3
 		Stealth: 2
 		Survival: 1
-	Knowledges: (7 + 2 for Freebies spent)
+	Knowledges: (7 + 3 for Freebies spent)
 		Computer: 4
 			Specialty: Security
 		Investigation: 2
+		Science: 1
 		Technology: 3
 
 Disciplines: (1, plus Potence 1)
@@ -171,17 +173,43 @@ Merits & Flaws:
 Freebie points: 21 (21 - 0 from Merits and Flaws)
 	5	Intelligence
 	2	Alertness 3
-	4	Athletics 2 & 3
+	2	Athletics 2
 	2 	Brawl 2
 	2	Computer 4
 	2	Drive 3
 	2	Firearms 4
-	2	Technology 3
+	2	Science 1
+	2	Technology 4
 	
 Character Description and Background:
 	-Appearance:
 		-
-	-Ex-military, tech industry.
+	-Bob Horton served in the army in Afghanistan, and then used the tuition assistance to fund a
+	 computer engineering degree and launch a career in information security.
+		-Maybe was a Signal Support Systems Specialist?
+			-https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/locations-stats-frequencies/25u-signal-support-systems-specialist.html
+	-Several years ago, he was recruited by a "high-speed video signal processing" startup that was
+	 spending lavishly on it's internal secruity and the security of the product (talking lots about
+	 potential Federal applications).
+	-In fact, it was spending lavishly on all _sorts_ of things. The pay was great, even if you
+	 ignored the options. Bob certainly _did_ ignore them, as he couldn't see how the place would
+	 _ever_ turn a profit before it ran out of investment capital.
+	-That is until Bob met one of the board members, at a catered dinner after work one night. Mr.
+	 Nielsen gave a talk about the company's future and potential that received no less than three
+	 standing ovations. It had Bob sold, and Mr. Nielsen surrounded by people clammoring for his
+	 attention.
+	-Mr. Nielsen, though, spent most of the rest of the event talking to Bob. After a brief word
+	 to a few of the company's exectutives, he pushed through the crowd and approached Bob. He
+	 seemed to know quite a bit about Bob, actually, and peppered him with questions, not only about
+	 his work here, but also about Bob's personal life and his past career, both civilian and military.
+	-It felt to Bob a lot like a job interview and, enthralled by Mr. Nielsen, he very much wanted
+	 whatever the job was. Soon, he found he'd followed Mr. Nielsen back to another office nearby,
+	 and, with a cocktail Mr. Nielsen had mixed for him, they were toasting a "long and prosperous
+	 future together."
+	-Bob serves now as a bodyguard and secruity consultant for Mr. Nielsen, employeed by a small IT
+	 security consultancy that Mr. Nielsen mantains majority control over.
+		-The consultant job not only pays Bob's bills, but provides cover for all sorts of things,
+		 under the umbrella of "penetration testing."
 
 Equipment:
 	-Cellphone running Horton's customized Android build.
