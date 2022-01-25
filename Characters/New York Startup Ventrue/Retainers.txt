@@ -63,12 +63,12 @@ Blood Pool: 1 (1, max storage 2)
 Merits & Flaws:
 	Bad Sight (1 pt. Flaw, V20 Core pg. 481)
 		Can wear glasses for it, or it would be more points.
-	Bound (2 pt. Flaw, V20 Core pg. 490)?
+	Bound (2 pt. Flaw, V20 Core pg. 490)
 		Obviously true, and Lesley OK'd it.
 	Computer Aptitude (2 pt. Merit, V20 Core pg. 484)
 		-2 difficulty to rolls involving computers.
 	Friendly Face (1 pt. Merit, V20 Core pg. 480)
-		-1 difficulty on "appropriate Social-based rolls (yes for Seduction, no for intimidation,
+		-1 difficulty on "appropriate Social-based rolls (yes for Seduction, no for Intimidation,
 		for example)".
 
 Freebie points: 21 (21 - 0 from Merits and Flaws)
@@ -92,7 +92,7 @@ Character Description and Background:
 	-Eventually, at a work function, she met someone who that took what she did with people and
 	 turned it up to _11_. She had to know how he did it. Now that she does, she's hooked.
 	-She serves as a kind of seneschal, and takes the most active roll in Mr. Nielsen's companies
-	 out of all of the retainers, sitting on their boards, fielding daylight inqueries, etc.
+	 out of all of the retainers, sitting on their boards, fielding daylight inquiries, etc.
 
 Equipment:
 	-Cellphone running Horton's customized Android build.
@@ -249,18 +249,18 @@ Attributes: (6/4/3 above base of 1 in each)
 		Wits: 3
 
 Abilities: (11/7/4, max of 3)
-	Talents: (7 + 5 for Freebies spent)
+	Talents: (7 + 7 for Freebies spent)
 		Alertness: 3
 		Athletics: 3
 		Brawl: 3
 		Intimidation: 3
-	Skills: (11 + 5 for Freebies spent)
+		Streetwise: 2
+	Skills: (11 + 3 for Freebies spent)
 		Drive: 3
 		Firearms: 4
-			Specialty: Shotguns
+			Specialty: Shotgun
 		Melee: 2
 		Stealth: 2
-		Streetwise: 2
 		Survival: 2
 	Knowledges: (4)
 		Computer: 1
@@ -320,7 +320,7 @@ Freebie points: 18 (21 - 3 from Merits and Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	-Ex-military, ex-merc
+	-Ex-military, ex-merc.
 
 Equipment:
 	-Cellphone running Horton's customized Android build

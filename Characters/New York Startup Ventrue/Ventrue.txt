@@ -40,10 +40,13 @@ Disciplines: (3 + 1 for freebie points spent)
 	Dominate: 1
 	Presence: 3
 
-Backgrounds: (5 + 5 for freebie points spent)
+Backgrounds: (5 + 11 for freebie points spent)
+	Generation: 4 (9th. 14 pt. pool and 2/turn)
+	Herd: 3
+	Influence (Tech Industry): 1
 	Resources: 4
 	Retainers: 3
-	Herd: 3
+	Status (Clan Ventrue): 1
 
 Humanity Rating: 6 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -64,19 +67,14 @@ Merits & Flaws:
 		As written, sounds like it should affect disciplines.
 			Though that certainly makes it powerful. As such many internet posts argued against it.
 	Boons Owed (6 pt. Flaw, V20 Core pg. 488):
-		2 pt. boon owed to Clan Tremere:
+		2 pt. boon owed to Morgan Durley, the Tremere Primogen:
 			-You formally requested and were granted permission to operate your "blood testing"
 			 research startup, it being adjacent to the Tremere Primogen's domain of hospitals,
 			 blood banks, and emergency services.
-			-Or owed to someone specific? Their Primogen? Though the Tremere are more cohesive than
-			 most clans, and I could see them treating the debt as "The Pyramid's" property.
-				-Maybe depends on what exactly Lesley intends with those domains he gave.
-			-Feedback: premogin specifically! 2 pt.!
-		2 pt. boon owed to the Ventrue Primogen, TODO lookup:
-			-For the introduction that made the above boon possible?
+		2 pt. boon owed to Kenneth Wright, the Ventrue Primogen:
+			-For the introduction that made the above boon possible, and his assistance in winning
+			 a favorable deal there.
 				-Spreads the plot hooks across a couple of factions.
-				-Ideally _not_ your sire, for a similar reason, and because he expects you to stand
-				 on your own feet.
 		2 pt. boon owed to your sire:
 			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
 			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training
@@ -84,61 +82,11 @@ Merits & Flaws:
 			 all. He means to see a return on his investment, and that no shame is brought to him.
 			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
 			 a debt you didn't exactly sign yourself up for.
-		-What to spend these points on:
-			2	Domain 2
-					-Owned mid-rise building.
-			1	Domain 3
-					-Extra dot for security of the building, rather than size.
-			-Feedback: Shared domain incoming. Maybe save the points for that, as Lesley suggested?
-				-Maybe save 2 dots to spend on eventual shared-domain security?
-				-Ehhh, or, with the gaining of backgrounds being undefined, you might just be able
-				 to point at your capacity to secure the area and obviate saving points for this.
-			1	Status 1
-					-You're a childe of Clan Ventrue and were properly presented to the Prince of
-					 New York.
-					-Or some Ventrue Status variant thereof? Lesley mentioned something like that,
-					 but V20 Core and Clanbook Ventrue, at least, don't discuss it, though some stuff
-					 online alludes to it.
-					-Feedback: Your boon stuff is good justification for Clan Status.
-				Willpower?
-				Abilities?
-					-Maybe another dot in Empathy, now that you've moved a dot from Appearance (the
-					 other half of P3) to Charisma?
-				Generation?
-					-9th's 2 blood per turn is attractive, but the prince is 8th, and that might feel
-					 off, story-wise. 10th?
-					-Well, she's the childe of the not-too-long-gone old prince, and has an embrace
-					 date in the 1930's. If you're the childe of an early American shipping magnate,
-					 maybe 9th isn't far out of line. Perhaps from a less prestigious lineage?
-						-Ah, that last would well fit your counting on a big startup break. Another
-						 thing you can't change holding you back. . .
-						-Yeah, this genealogy page provides plenty of examples of similar 9th
-						 generation childre recently embraced.
-				Other merits?
-					Early Riser (1 pt. Merit, V20 Core pg. 480)?
-					Elysium Regular (1 pt. Merit, V20 Core pg. 487)?
-			-Proposal:
-				1	Elysium Regular
-				1	Clan Ventrue Status 1
-				4	Generation 4 (9th. 14 pt. pool and 2/turn)
-		-TODO: Lesley suggested owing a boon for another Flaw, to get stuff like "clan status, or for a
-			   point of influence (tech industry)"
-			-He recommended probably avoiding Status, since he's aiming for starting us as fledglings.
-			-Maybe Domain?
-				-It reads more like physical territory, which is not exactly what you're going for, but,
-				 for Domain 2, it could be an office building you own, housing your companies.
-			-Boon for access to something in the city? Finance? Maybe bloodbank-adjacent activity, to
-			 the Tremere?
-			-Hmm. . . neither V20 Core or any of the likely seeming Revised books seem to what exactly
-			 constitutes a boon of a given point value.
-				-Nor that you can take _owed_ boons, but it seems obvious enough how to flip the sign.
-				-Lesley gave some guidance: https://discord.com/channels/@me/772891797726822481/933143649917730846
 
-Freebie points: 13 (15 + 4 from Merits and Flaws)
+Freebie points: 18 (15 + 4 from Merits and Flaws)
 	7 Dominate 1
-	5 additional backgrounds
+	11 additional backgrounds
 	1 Willpower 5
-	TODO: spend more, now that you have the boons
 
 Character Description and Background:
 	-Appearance:
@@ -189,12 +137,21 @@ Character Description and Background:
 			anyone miss you?
 		-What was your first brush with the supernatural?
 			-When did you realize you were being stalked?
-				-
+				-You had a sense of. . . someone closing in on you well before your embrace, but
+				 you had believed it to be in the service of some kind of investment or buy out.
+				 Though you did not meet your sire before your embrace, you met numerous people you
+				 now know to have been proxies for him, prospective investors and supposed
+				 journalists that seemed a lot more interested in you than any particular company
+				 you were involved with. You knew _something_ was coming, but you never suspected
+				 just what. . .
 			-Did you believe in the occult before your Embrace?
 				-Nope, but you _do_ pride yourself on your ability to quickly pivot. . .
 			-When did you first meet a vampire? Were you afraid? Disbelieving? Angry? What
 			 frightened you most?
-				-
+				-Your sire was the first of the Kindred you met, and only on the night of your
+				 embrace. You reacted with disbelief when he reveal just what his plans for you were,
+				 with your assessment of the situation going from joke, to prank, and finally to 
+				 horror only as your life ended.
 		-How did the Embrace change you?
 			-How did your sire catch you? Was the Embrace
 			painful? Did you get a kinky pleasure out of it? Did
@@ -257,6 +214,7 @@ Equipment:
 		-TODO: Flesh out what's on the phone somewhere. Improved security, call encryption, pen.
 			   testing tools, etc.
 	-Expensive tailored suit, artfully rumpled.
+	-Spare pair of glasses.
 	-Cars:
 		-Fancy sedan (maybe armored?)
 		-White Cargo Van
