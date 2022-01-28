@@ -159,14 +159,28 @@ Character Description and Background:
 			it feel right? Are you grateful to your sire? Do you
 			want to kill him for what he did to you?
 		-Who was your sire, and how did he treat you?
-			-What do you know of your sire? Was he abusive,
-			arrogant, cryptic. or open? Why do you think he
-			chose you? Did you even know your sire at all?
-				-TODO: Embraced for similar, "expertise of the day" reasons as you? Maybe thus an
-				 East Coast shipping magnate, grappling with the now _digitally_ globalized world?
-			-How long did you stay with your sire? Did he teach
-			you anything at all? How long was your “apprenticeship”?
+			-What do you know of your sire? Was he abusive, arrogant, cryptic. or open? Why do you
+			 think he chose you? Did you even know your sire at all?
+				-Your sire is Elias Barre, a fellow resident of New York City.
+				-In some ways, your sire's story mirrors your own. He was an East coast shipping
+				 magnate, embraced in the late 18th century. During your agoge, Elias was quite
+				 frank with you that his sire chose him for his expertise, seeking purchase in a
+				 rapidly globalizing world, and also that he done the same with you, looking for
+				 someone that could aid him in this now _digitally_ globalized world.
+			-How long did you stay with your sire? Did he teach you anything at all? How long was
+			 your “apprenticeship”?
+				-Elias arranged for you the typical Ventrue agoge, lasting for more than a year. It
+				 was harsh, but even more thorough, a fact you came to appreciate once you were
+				 presented to the Prince and began to see the ignorant, thrown-together nature of
+				 your fellow fledglings from other clans.
+				-You're grateful to Elias for the more robust induction into your new (un)life, the
+				 knowledge and introductions he provided you being the same sort of thing you made
+				 your old _living_ on too. Elias has also done more than a bit to encourage that
+				 gratitude. After all, he sired you for a purpose, and means to see a return on that
+				 investment. You, meanwhile, also see the potential for much dignitas in repaying,
+				 rather than shirking, a debt, even though you didn't exactly sign yourself up for it.
 			-Where did you stay? Where did you go?
+				-TODO: Mostly NYC? Depends on Lesley's feelings about your sire being around.
 			-Did you meet any other vampires during that time
 			(such as the Prince or Archbishop)? Do you judge
 			other vampires in general by your opinion of your
@@ -185,11 +199,24 @@ Character Description and Background:
 			you inhabited in your mortal life? Do you hide in
 			an abandoned building? The sewers? Do you have
 			anyone to protect you during the day?
-		-Do you retain any connections to
-		your mortal life?
-			-Are you presumed dead? Do you still watch over
-			relatives from afar? Do you pretend to be still alive?
+		-Do you retain any connections to your mortal life?
+			-Are you presumed dead? Do you still watch over relatives from afar? Do you pretend to
+			 be still alive?
+				-You had substantial wealth and influence before your embrace, and have every
+				 intention of hanging onto very direct control of those resources as long as you
+				 can. You're even already laying the groundwork for the lies to sustain that,
+				 alluding to cosmetic surgeries you've had ("A youthful image is critical in our
+				 forward-looking industry. . .") and extreme diets for health and longevity ("I'm on
+				 a calorie restricted greens-and-soylent regimen these days. But, please, eat! It's_
+				 still on me!").
+				-You were never the most dutiful son, always busy with your latest business as a
+				 mortal, so keeping family at arms length since your embrace has proved no great
+				 difficulty. Though your parents are only upstate, you haven't seen them, or your
+				 brother in Knoxville, in years now. They'd always seemed happier with a "big shot
+				 son" to brag about, and the occasional lavish gift, than the reality of you taking
+				 taking work calls on Christmas anyways.
 			-Did you abandon your mortal existence entirely?
+				-Nope!
 		-What are your habitual feeding grounds?
 			-Whom do you feed upon, and where? Do you
 			have a territory that you consider exclusively yours?
