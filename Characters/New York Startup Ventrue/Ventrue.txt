@@ -104,11 +104,14 @@ Character Description and Background:
 					-You *may* have also peeked at some medical and insurance records you really
 					 shouldn't have access to. All the companies in your network are clients of your
 					 HR Automation and medical-focused Employee Assistance Program (with "AI"!) ones.
+					-Yeah, lean into the health records angle: "Feed from any random kine?!? That's
+					 disgusting, a recipe for disease or worse. I keep a carefully vetted herd. . ."
+						-Options probably aren't enough, if you don't have the records access. But,
+						 neither is the access alone sufficent (like, say, 3rd-party customers of the
+						 HR and EAP firms). They're just not. . . yours.
 				-Investors are often times those you plan to bilk, diverting the money to your own ends
 				 from a company you plan to let fail.
 					-Others may be representative of other Kindred you've cut in on some deal.
-			-A less restrictive option would be something like programmers in general, should this
-			 character be used for a more mobile game, where this would be unsuitable.
 	-Lesley's background questions:
 		-How old are you?
 			-When were you born? How old were you when you were Embraced? How long have you existed
@@ -180,7 +183,8 @@ Character Description and Background:
 				 investment. You, meanwhile, also see the potential for much dignitas in repaying,
 				 rather than shirking, a debt, even though you didn't exactly sign yourself up for it.
 			-Where did you stay? Where did you go?
-				-TODO: Mostly NYC? Depends on Lesley's feelings about your sire being around.
+				-Just like your mortal life, you stuck to the city. Alive or dead, it's still the
+				 beating heart of the world, filled with even more opportunities than you knew.
 			-Did you meet any other vampires during that time
 			(such as the Prince or Archbishop)? Do you judge
 			other vampires in general by your opinion of your
@@ -218,14 +222,27 @@ Character Description and Background:
 			-Did you abandon your mortal existence entirely?
 				-Nope!
 		-What are your habitual feeding grounds?
-			-Whom do you feed upon, and where? Do you
-			have a territory that you consider exclusively yours?
-			-Is your favorite hunting ground used by others? Do
-			you compete with others? What is your preferred
-			prey? Do you ever kill when you feed? Do you have
-			a specific herd? Do you seduce your prey? Kidnap
-			them? Assault them on the street? Do they come to
-			you?
+			-Whom do you feed upon, and where? Do you have a territory that you consider exclusively
+			 yours? Is your favorite hunting ground used by others? Do you compete with others? What
+			 is your preferred prey? Do you ever kill when you feed? Do you have a specific herd? Do
+			 you seduce your prey? Kidnap them? Assault them on the street? Do they come to you?
+				-As a Ventrue, you have a specific feeding restriction, detailed above (search for
+				 "your feeding restriction"). Given the nature of the restriction, you feed
+				 exclusively from your herd, and do so through deception.
+				-Your companies run a series of blood drives, free blood tests, and donations for
+				 "cutting edge medical research", all pressuring the employees of your businesses
+				 to turn over their blood under the comforting supervision of a nurse. It's all
+				 voluntary, of course, but you take a personal interest in the various causes, and
+				 can be very persuasive.
+				-This also offers on opportunity for vitae to flow the other way too. You've been
+				 known to offer key personnel "the opportunity to participate in a research study
+				 for a cutting edge performance enhancement technique. It's like blood-doping! It
+				 might be banned in the Olympics, but it's practically a moral imperative if it
+				 offers an edge to people engaged in Changing the World! You'll make a couple of
+				 donations, and then receive an IV with your processed blood during crunch time.
+				 Just don't go attempting any feats of Olypmic strength, ha! Seriously, though,
+				 that might damage your muscles. But it's supposed to help the brain too, and sure
+				 as hell _feels_ great!"
 		-What motivates you?
 			-Do you seek revenge on any enemies? Do you
 			long to return to your mortal life? Do you have
