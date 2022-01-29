@@ -119,8 +119,10 @@ Character Description and Background:
 				-You were embraced at age 26, close to a decade ago. Your apparent youthfulness is
 				 an asset in your industry, though. You actually go out of your way to bring that up
 				 occasionally, hinting at fictional cosmetic work or hair dye, as you'd like to hold
-				 onto your mortal identity as possible. There is substantial assets and influence
+				 onto your mortal identity as possible. There are substantial assets and influence
 				 tied to it.
+					-TODO: Maybe that embrace should have been more recent, since the agoge seems to
+						   rarely last more than a year, and because Lesley said we're fledglings.
 				-If this is roughly the current date, as seems so, you were born in the late 80's.
 		-What was unique about your childhood?
 			-How did you spend your early years? How were
@@ -244,13 +246,55 @@ Character Description and Background:
 				 that might damage your muscles. But it's supposed to help the brain too, and sure
 				 as hell _feels_ great!"
 		-What motivates you?
-			-Do you seek revenge on any enemies? Do you
-			long to return to your mortal life? Do you have
-			ambitions in Kindred society? If you could achieve
-			anything in the world, what would it be?
-	-TODO:
-		-Detail your companies.
-		-Detail your properties and havens.
+			-Do you seek revenge on any enemies? Do you long to return to your mortal life? Do you
+			 have ambitions in Kindred society? If you could achieve anything in the world, what
+			 would it be?
+				-You value the trappings of your mortal life, but don't miss it. Even then, your
+				 intention had been to use tech to climb to the top, to carve out a chunk of the
+				 world that was _yours_. Your eyes have been opened to new heights and new depths,
+				 but the plan remains the same.
+	-Your companies:
+		-HR Automation firm, with a medical-focused Employee Assistance Program (with "AI"!),
+		 and a blood testing automation and medical research company:
+			-These are almost wholly owned by you yourself, and are money-losing ventures.
+			 Instead of seeking profit, they essentially act as the legally-above-the-board
+			 mechanism by which you surveil people and buy their blood. You even write the loss
+			 off on your taxes.
+		-Security consultancy:
+			-This one is also almost wholly owned by you, with the rest in the hands of it's
+			 employees, among them all three of your retainers.
+			-It, however, actually makes a profit, it being one of the ways by which you extract
+			 money from your incestuous network of self-dealing companies.
+			-It's also the primary mechanism by which you run your own security, digital,
+			 electronic, physical all. You've purchased all sorts of equipment, and engaged the
+			 the services of various contractors, through this company.
+		-Naviuck, a logistics technology firm aiming for a buyout from a major shipping company:
+			-This is typical of other companies in your past, and probably your future. It's
+			 a decent idea, a plausible exit, and thus all you need to sell it to investors.
+			-Maybe that acquisition will happen, maybe it won't. Either way, you'll extract more
+			 money (and blood) from it than you put in, with any loss backstopped by the
+			 investors you pitch it to.
+				-If it looks like it's going to stick the landing, though, you'll likely engaged
+				 in a kind of nepotism by offering stakes to your. . . Kindred, in return for
+				 more intangible things.
+			-The tech-talent cofounder insisted on the horrible name.
+		-TODO: More?
+	-Your properties and havens:
+		-Greenwich Village townhouse:
+			-Your single most expensive splurge after the first time a company you were involved
+			 with made it big. It's mortgaged, but still a substantial status symbol, and close
+			 to a lot of the action in the city's startup scene.
+			-These days, it features extensive security cameras on an airgapped network, an
+			 expensive fire suppression system, alarms, and reinforced doors. The basement also
+			 has a fortified and secured "panic room".
+		-You have access to variety of rented offices belonging to your companies:
+			-You maintain a haven at your security consultancy (a secured, windowless storage room)
+			 in TODO (off Manhatten?).
+			-You also have a haven at your blood testing firm (a locked walk in freezer, with
+			 "safety" escape handle inside. It's located in TODO (near home?).
+		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
+		 taken from the blood testing firm's supply (Your herd. System?).
+		-TODO: Bug out haven. Check drive from NYC to various places?
 
 Equipment:
 	-Cellphone running Horton's customized Android build.
@@ -260,7 +304,8 @@ Equipment:
 	-Expensive tailored suit, artfully rumpled.
 	-Spare pair of glasses.
 	-Cars:
-		-Fancy sedan (maybe armored?)
+		-Fancy sedan (armored)
+			-Paranoid chic is often in, in tech circles, helping you stand out _just_ the right amount.
 		-White Cargo Van
 
 
