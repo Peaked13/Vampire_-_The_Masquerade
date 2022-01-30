@@ -295,6 +295,9 @@ Character Description and Background:
 		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
 		 taken from the blood testing firm's supply (Your herd. System?).
 		-TODO: Bug out haven. Check drive from NYC to various places?
+			-Purchased with Mr. Hubbard's alternate identity.
+			-You've never even been there, mindful of your sire's warnings of. . . things in the
+			 wilderness between the cities. Better to have the option than to not, though.
 
 Equipment:
 	-Cellphone running Horton's customized Android build.
@@ -306,19 +309,7 @@ Equipment:
 	-Cars:
 		-Fancy sedan (armored)
 			-Paranoid chic is often in, in tech circles, helping you stand out _just_ the right amount.
-		-White Cargo Van
-
-
-TODO:
-	-Answer the background questions in Roll20.
-	-Flesh out your retainers.
-		-All ghouls?
-			-Creation rules for them are on pg. 496 of V20 Core.
-		-Hacker-Seneschal?
-		-2 body guards?
-			-Both ex-military.
-			-One who went in to tech. Secruity focus.
-			-Other went merc, Blackwater-esque. Crueler.
+		-White cargo van
 
 
 Advancement:
