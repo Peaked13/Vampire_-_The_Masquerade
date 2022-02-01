@@ -279,6 +279,7 @@ Character Description and Background:
 				 more intangible things.
 			-The tech-talent cofounder insisted on the horrible name.
 		-TODO: More?
+			-Promising moonshot one?
 	-Your properties and havens:
 		-Greenwich Village townhouse:
 			-Your single most expensive splurge after the first time a company you were involved
@@ -289,7 +290,10 @@ Character Description and Background:
 			 has a fortified and secured "panic room".
 		-You have access to variety of rented offices belonging to your companies:
 			-You maintain a haven at your security consultancy (a secured, windowless storage room)
-			 in TODO (off Manhatten?).
+			 in Brooklyn. The consultancy's employees spend most of their time remote, but it
+			 maintains rented storage and office space in an old manufacturing building, providing
+			 equipment storage, workshops, meeting space, and a loading dock where your van is
+			 generally kept.
 			-You also have a haven at your blood testing firm (a locked walk in freezer, with
 			 "safety" escape handle inside. It's located in TODO (near home?).
 		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
@@ -345,3 +349,5 @@ Advancement:
 		-Aura of Inescapable Truth is an eventual super power for you (D4/P4): https://saligia.fandom.com/wiki/Combination_Disciplines#Aura_of_Inescapable_Truth_.28Dominate_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Chain of Slavery (A2/D2) determines if someone is Dominated, and by who: https://saligia.fandom.com/wiki/Combination_Disciplines#Chain_of_Slavery_.28Auspex_.E2.80.A2.E2.80.A2.2C_Dominate_.E2.80.A2.E2.80.A2.29
 		-Exquisite Corpse (F3/Obf3) is _way_ off and combat focused, but _so_ flavorful: https://saligia.fandom.com/wiki/Combination_Disciplines#Exquisite_Corpse_.28Fortitude_.E2.80.A2.E2.80.A2.E2.80.A2.2C_Obfuscate_.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Denial Of Aphrodite's Kiss (D3/P3), making generation impact Presence like Dominate, seems tempting, now that you're higher gen than originally planned.
+		-Measure The Will (A2/D2) determines Willpower and virtues, and found here: https://mowcadah.proboards.com/thread/31/combination-disciplines
