@@ -57,6 +57,11 @@ Virtues: (7 above base of 1 in each)
 Willpower: 5 (equal to Courage + 1 for freebie points spent)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
+Movement:
+	Walking: 7 yards per turn
+	Jogging: 14 yards per turn (12+Dex)
+	Running: 26 yards per turn (20+3*Dex)
+
 Merits & Flaws:
 	Bad Sight (1 pt. Flaw, V20 Core pg. 481):
 		Can wear glasses for it, or it would be more points.
@@ -294,7 +299,7 @@ Character Description and Background:
 			 maintains rented storage and office space in an old manufacturing building, providing
 			 equipment storage, workshops, meeting space, and a loading dock where your van is
 			 generally kept.
-			-You also have a haven at your blood testing firm (a locked walk in freezer, with
+			-You also have a haven at your blood testing firm (a combo-locked walk-in freezer, with
 			 "safety" escape handle inside. It's located in TODO (near home?).
 		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
 		 taken from the blood testing firm's supply (Your herd. System?).
@@ -336,6 +341,7 @@ Advancement:
 		-Useful links:
 			-Descriptions of many combos, sans reference pg. numbers: https://saligia.fandom.com/wiki/Combination_Disciplines
 			-Names, sans description, with reference numbers: https://whitewolf.fandom.com/wiki/List_of_Combination_Disciplines_(VTM)
+			-Ah, this has both: https://mowcadah.proboards.com/thread/31/combination-disciplines
 		-Clanbook Ventrue pg 77. has a 4 experience combo, Lifesong, that you already qualify for. It
 		 lets you identify a _mortal's_ nature from a single statment (if you succeed on Int+Emp vs.
 		 difficulty of their Manip+Exp). _Potentially_ useful.
@@ -351,3 +357,4 @@ Advancement:
 		-Exquisite Corpse (F3/Obf3) is _way_ off and combat focused, but _so_ flavorful: https://saligia.fandom.com/wiki/Combination_Disciplines#Exquisite_Corpse_.28Fortitude_.E2.80.A2.E2.80.A2.E2.80.A2.2C_Obfuscate_.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Denial Of Aphrodite's Kiss (D3/P3), making generation impact Presence like Dominate, seems tempting, now that you're higher gen than originally planned.
 		-Measure The Will (A2/D2) determines Willpower and virtues, and found here: https://mowcadah.proboards.com/thread/31/combination-disciplines
+		-Retaliatory Terror (F1/P2) is Dread Gaze as a free action whenever struck, albeit at the cost of a blood point.

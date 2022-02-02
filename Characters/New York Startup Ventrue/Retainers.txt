@@ -226,7 +226,8 @@ Equipment:
 		-2x Wooden Stake (V20 Core pg. 280, Strength+1, Conceal T)
 		-Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
 	-On specific occasions, otherwise stored:
-		-Rifle (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
+		-Rifle with scope (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
+			-Scope adds additional dice when aiming. See V20 Core pg. 277.
 
 
 Name: Rick Hubbard
@@ -335,7 +336,8 @@ Equipment:
 		-2x Wooden Stake (V20 Core pg. 280, Strength+1, Conceal T)
 		-Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
 	-On specific occasions, otherwise stored:
-		-Rifle (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
+		-Rifle with scope (V20 Core pg. 281, Dmg: 8, Rng. 200, Rate: 1, Cap: 3+1, Conceal N)
+			-Scope adds additional dice when aiming. See V20 Core pg. 277.
 
 
 Template, from V20 Core pg. 497:
