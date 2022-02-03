@@ -321,7 +321,8 @@ Freebie points: 18 (21 - 3 from Merits and Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	-Ex-military, ex-merc.
+	-Mr. Hubbard served in the marines, in Iraq and Afghanistan both.
+	-TODO: Ex-merc
 
 Equipment:
 	-Cellphone running Horton's customized Android build

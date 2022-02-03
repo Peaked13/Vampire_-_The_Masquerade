@@ -80,7 +80,7 @@ Merits & Flaws:
 			-For the introduction that made the above boon possible, and his assistance in winning
 			 a favorable deal there.
 				-Spreads the plot hooks across a couple of factions.
-		2 pt. boon owed to your sire:
+		2 pt. boon owed to your sire, Reece Dooley:
 			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
 			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training
 			 period), something your sire very much encouraged. He created you for a reason, after
@@ -171,21 +171,22 @@ Character Description and Background:
 		-Who was your sire, and how did he treat you?
 			-What do you know of your sire? Was he abusive, arrogant, cryptic. or open? Why do you
 			 think he chose you? Did you even know your sire at all?
-				-Your sire is Elias Barre, a fellow resident of New York City.
+				-Your sire is Reece Dooley, a fellow resident of New York City.
+					-_His_ sire is Kenneth Wright, the Ventrue Primogen of NYC.
 				-In some ways, your sire's story mirrors your own. He was an East coast shipping
-				 magnate, embraced in the late 18th century. During your agoge, Elias was quite
+				 magnate, embraced in the late 18th century. During your agoge, Reece was quite
 				 frank with you that his sire chose him for his expertise, seeking purchase in a
 				 rapidly globalizing world, and also that he done the same with you, looking for
 				 someone that could aid him in this now _digitally_ globalized world.
 			-How long did you stay with your sire? Did he teach you anything at all? How long was
 			 your “apprenticeship”?
-				-Elias arranged for you the typical Ventrue agoge, lasting for more than a year. It
+				-Reece arranged for you the typical Ventrue agoge, lasting for more than a year. It
 				 was harsh, but even more thorough, a fact you came to appreciate once you were
 				 presented to the Prince and began to see the ignorant, thrown-together nature of
 				 your fellow fledglings from other clans.
-				-You're grateful to Elias for the more robust induction into your new (un)life, the
+				-You're grateful to Reece for the more robust induction into your new (un)life, the
 				 knowledge and introductions he provided you being the same sort of thing you made
-				 your old _living_ on too. Elias has also done more than a bit to encourage that
+				 your old _living_ on too. Reece has also done more than a bit to encourage that
 				 gratitude. After all, he sired you for a purpose, and means to see a return on that
 				 investment. You, meanwhile, also see the potential for much dignitas in repaying,
 				 rather than shirking, a debt, even though you didn't exactly sign yourself up for it.
@@ -259,8 +260,8 @@ Character Description and Background:
 				 world that was _yours_. Your eyes have been opened to new heights and new depths,
 				 but the plan remains the same.
 	-Your companies:
-		-HR Automation firm, with a medical-focused Employee Assistance Program (with "AI"!),
-		 and a blood testing automation and medical research company:
+		-HR Automation firm, Apexi, with a medical-focused Employee Assistance Program (with "AI"!),
+		 and a blood testing automation and medical research company, Energence:
 			-These are almost wholly owned by you yourself, and are money-losing ventures.
 			 Instead of seeking profit, they essentially act as the legally-above-the-board
 			 mechanism by which you surveil people and buy their blood. You even write the loss
@@ -284,7 +285,7 @@ Character Description and Background:
 				 more intangible things.
 			-The tech-talent cofounder insisted on the horrible name.
 		-TODO: More?
-			-Promising moonshot one?
+			-Promising moonshot one? Tessearch, doing deep packet inspection stuff?
 	-Your properties and havens:
 		-Greenwich Village townhouse:
 			-Your single most expensive splurge after the first time a company you were involved
@@ -300,10 +301,16 @@ Character Description and Background:
 			 equipment storage, workshops, meeting space, and a loading dock where your van is
 			 generally kept.
 			-You also have a haven at your blood testing firm (a combo-locked walk-in freezer, with
-			 "safety" escape handle inside. It's located in TODO (near home?).
+			 "safety" escape handle inside. It's located in the Flatiron District, a short distance
+			 from your townhouse.
 		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
 		 taken from the blood testing firm's supply (Your herd. System?).
-		-TODO: Bug out haven. Check drive from NYC to various places?
+		-Bug out haven:
+			-Located in Cherrytown, NY a bit more than two hour's drive outside the city:
+			 https://www.google.com/maps/place/Cherrytown,+NY+12446/@40.7328324,-74.2566578,10z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89dce6d92ceaded5:0x9d2c32606c32ffac!8m2!3d41.8250923!4d-74.3293333?hl=en
+			-A small rural cabin, with an old root cellar below the cabin.
+				-The old external entrance to the cellar was bricked up by Mr. Hubbard and then
+				 filled with dirt, in favor of a section of closet floor cut and now removable.
 			-Purchased with Mr. Hubbard's alternate identity.
 			-You've never even been there, mindful of your sire's warnings of. . . things in the
 			 wilderness between the cities. Better to have the option than to not, though.
@@ -318,6 +325,7 @@ Equipment:
 	-Cars:
 		-Fancy sedan (armored)
 			-Paranoid chic is often in, in tech circles, helping you stand out _just_ the right amount.
+			-It's also had a limo-style refridgerated mini-bar installed, though it seldom contains liquor.
 		-White cargo van
 
 
@@ -325,14 +333,21 @@ Advancement:
 	-Tentative schedule:
 		5  Dominate 2
 		10 Dominate 3
-		6  Empathy 3
+		4  Subterfuge 3
+		6  Subterfuge 4
+		4  Empathy 3
 		15 Presence 4
-		16 Charisma 5
 		10 Fortitude 1
 		5  Fortitude 2
 		15 Dominate 4
 		10 Fortitude 3
 		20 Presence 5
+	-Add some more ability increases to that? Maybe Manipulation 4 and 5?
+		12 Manipulation 4
+		16 Manipulation 5
+		6  Intimidation 4
+		8  Intimidation 5
+		2  Politics 2
 	-Interesting coterie Disciplines:
 		-Essentially all the Malkavian Disciplines.
 			-Lots of combos of interest, especially with Auspex and Obfuscate.
