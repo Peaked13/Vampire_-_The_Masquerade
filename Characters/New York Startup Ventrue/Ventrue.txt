@@ -93,228 +93,6 @@ Freebie points: 18 (15 + 4 from Merits and Flaws)
 	11 additional backgrounds
 	1 Willpower 5
 
-Character Description and Background:
-	-Appearance:
-		-
-	-As a mortal:
-		-
-	-You took the idea of tech startup personality cults and ran with it.
-		-Your retainers and herd are all part of the network of small startups you control
-			-Your herd talk of you having a dose of Steve Jobs's "reality distortion field". If only
-			 they knew. . .
-		-In fact, your feeding restriction (Ventrue weakness) is that you only drink from those
-		 who hold options in one of your companies.
-			-Options being indicative of current employees, as opposed to shares sold to investors.
-				-Employees have been vetted in some way, and you hold high standards.
-					-You *may* have also peeked at some medical and insurance records you really
-					 shouldn't have access to. All the companies in your network are clients of your
-					 HR Automation and medical-focused Employee Assistance Program (with "AI"!) ones.
-					-Yeah, lean into the health records angle: "Feed from any random kine?!? That's
-					 disgusting, a recipe for disease or worse. I keep a carefully vetted herd. . ."
-						-Options probably aren't enough, if you don't have the records access. But,
-						 neither is the access alone sufficent (like, say, 3rd-party customers of the
-						 HR and EAP firms). They're just not. . . yours.
-				-Investors are often times those you plan to bilk, diverting the money to your own ends
-				 from a company you plan to let fail.
-					-Others may be representative of other Kindred you've cut in on some deal.
-	-Lesley's background questions:
-		-How old are you?
-			-When were you born? How old were you when you were Embraced? How long have you existed
-			 as a vampire? How old do you look? Are you more mature than you seem? Less?
-				-You were embraced at age 26, close to a decade ago. Your apparent youthfulness is
-				 an asset in your industry, though. You actually go out of your way to bring that up
-				 occasionally, hinting at fictional cosmetic work or hair dye, as you'd like to hold
-				 onto your mortal identity as possible. There are substantial assets and influence
-				 tied to it.
-					-TODO: Maybe that embrace should have been more recent, since the agoge seems to
-						   rarely last more than a year, and because Lesley said we're fledglings.
-				-If this is roughly the current date, as seems so, you were born in the late 80's.
-		-What was unique about your childhood?
-			-How did you spend your early years? How were
-			your basic motivations and attitudes forged? Where
-			did you go to school? Who were your immediate
-			family? What is your clearest childhood memory?
-			Did you go to high school? Did you have a hometown,
-			or was your family constantly on the move?
-			Did you go to college? Did you run away from
-			home? Did you play sports? Did any of your childhood
-			friendships last to adulthood?
-		-What kind of person were you?
-			-Were you a decent person, or were you an asshole?
-			-Were you popular? Did you have a family?
-			-How did you earn a living? Did you have any real
-			friends? What kept you going from day to day? Will
-			anyone miss you?
-		-What was your first brush with the supernatural?
-			-When did you realize you were being stalked?
-				-You had a sense of. . . someone closing in on you well before your embrace, but
-				 you had believed it to be in the service of some kind of investment or buy out.
-				 Though you did not meet your sire before your embrace, you met numerous people you
-				 now know to have been proxies for him, prospective investors and supposed
-				 journalists that seemed a lot more interested in you than any particular company
-				 you were involved with. You knew _something_ was coming, but you never suspected
-				 just what. . .
-			-Did you believe in the occult before your Embrace?
-				-Nope, but you _do_ pride yourself on your ability to quickly pivot. . .
-			-When did you first meet a vampire? Were you afraid? Disbelieving? Angry? What
-			 frightened you most?
-				-Your sire was the first of the Kindred you met, and only on the night of your
-				 embrace. You reacted with disbelief when he reveal just what his plans for you were,
-				 with your assessment of the situation going from joke, to prank, and finally to 
-				 horror only as your life ended.
-		-How did the Embrace change you?
-			-How did your sire catch you? Was the Embrace
-			painful? Did you get a kinky pleasure out of it? Did
-			the Hunger tear at you? Did it frighten you? Did
-			it feel right? Are you grateful to your sire? Do you
-			want to kill him for what he did to you?
-		-Who was your sire, and how did he treat you?
-			-What do you know of your sire? Was he abusive, arrogant, cryptic. or open? Why do you
-			 think he chose you? Did you even know your sire at all?
-				-Your sire is Reece Dooley, a fellow resident of New York City.
-					-_His_ sire is Kenneth Wright, the Ventrue Primogen of NYC.
-				-In some ways, your sire's story mirrors your own. He was an East coast shipping
-				 magnate, embraced in the late 18th century. During your agoge, Reece was quite
-				 frank with you that his sire chose him for his expertise, seeking purchase in a
-				 rapidly globalizing world, and also that he done the same with you, looking for
-				 someone that could aid him in this now _digitally_ globalized world.
-			-How long did you stay with your sire? Did he teach you anything at all? How long was
-			 your “apprenticeship”?
-				-Reece arranged for you the typical Ventrue agoge, lasting for more than a year. It
-				 was harsh, but even more thorough, a fact you came to appreciate once you were
-				 presented to the Prince and began to see the ignorant, thrown-together nature of
-				 your fellow fledglings from other clans.
-				-You're grateful to Reece for the more robust induction into your new (un)life, the
-				 knowledge and introductions he provided you being the same sort of thing you made
-				 your old _living_ on too. Reece has also done more than a bit to encourage that
-				 gratitude. After all, he sired you for a purpose, and means to see a return on that
-				 investment. You, meanwhile, also see the potential for much dignitas in repaying,
-				 rather than shirking, a debt, even though you didn't exactly sign yourself up for it.
-			-Where did you stay? Where did you go?
-				-Just like your mortal life, you stuck to the city. Alive or dead, it's still the
-				 beating heart of the world, filled with even more opportunities than you knew.
-			-Did you meet any other vampires during that time
-			(such as the Prince or Archbishop)? Do you judge
-			other vampires in general by your opinion of your
-			sire? When did he teach you the laws of your Sect?
-		-How did you meet the others in your coterie?
-			-Were you brought together by chance or design?
-			-Are you all of one Sect? Are you united in purpose
-			and attitude? How long have you been together in
-			the city? Did you know any of the others before the
-			Embrace? Are your sires in cooperation, or are they
-			rivals? What holds your coterie together when things
-			are at their worst?
-		-Where is your haven?
-			-Where do you hide during the day? Do you have
-			a permanent home at all? Do you stay in the place
-			you inhabited in your mortal life? Do you hide in
-			an abandoned building? The sewers? Do you have
-			anyone to protect you during the day?
-		-Do you retain any connections to your mortal life?
-			-Are you presumed dead? Do you still watch over relatives from afar? Do you pretend to
-			 be still alive?
-				-You had substantial wealth and influence before your embrace, and have every
-				 intention of hanging onto very direct control of those resources as long as you
-				 can. You're even already laying the groundwork for the lies to sustain that,
-				 alluding to cosmetic surgeries you've had ("A youthful image is critical in our
-				 forward-looking industry. . .") and extreme diets for health and longevity ("I'm on
-				 a calorie restricted greens-and-soylent regimen these days. But, please, eat! It's_
-				 still on me!").
-				-You were never the most dutiful son, always busy with your latest business as a
-				 mortal, so keeping family at arms length since your embrace has proved no great
-				 difficulty. Though your parents are only upstate, you haven't seen them, or your
-				 brother in Knoxville, in years now. They'd always seemed happier with a "big shot
-				 son" to brag about, and the occasional lavish gift, than the reality of you taking
-				 taking work calls on Christmas anyways.
-			-Did you abandon your mortal existence entirely?
-				-Nope!
-		-What are your habitual feeding grounds?
-			-Whom do you feed upon, and where? Do you have a territory that you consider exclusively
-			 yours? Is your favorite hunting ground used by others? Do you compete with others? What
-			 is your preferred prey? Do you ever kill when you feed? Do you have a specific herd? Do
-			 you seduce your prey? Kidnap them? Assault them on the street? Do they come to you?
-				-As a Ventrue, you have a specific feeding restriction, detailed above (search for
-				 "your feeding restriction"). Given the nature of the restriction, you feed
-				 exclusively from your herd, and do so through deception.
-				-Your companies run a series of blood drives, free blood tests, and donations for
-				 "cutting edge medical research", all pressuring the employees of your businesses
-				 to turn over their blood under the comforting supervision of a nurse. It's all
-				 voluntary, of course, but you take a personal interest in the various causes, and
-				 can be very persuasive.
-				-This also offers on opportunity for vitae to flow the other way too. You've been
-				 known to offer key personnel "the opportunity to participate in a research study
-				 for a cutting edge performance enhancement technique. It's like blood-doping! It
-				 might be banned in the Olympics, but it's practically a moral imperative if it
-				 offers an edge to people engaged in Changing the World! You'll make a couple of
-				 donations, and then receive an IV with your processed blood during crunch time.
-				 Just don't go attempting any feats of Olypmic strength, ha! Seriously, though,
-				 that might damage your muscles. But it's supposed to help the brain too, and sure
-				 as hell _feels_ great!"
-		-What motivates you?
-			-Do you seek revenge on any enemies? Do you long to return to your mortal life? Do you
-			 have ambitions in Kindred society? If you could achieve anything in the world, what
-			 would it be?
-				-You value the trappings of your mortal life, but don't miss it. Even then, your
-				 intention had been to use tech to climb to the top, to carve out a chunk of the
-				 world that was _yours_. Your eyes have been opened to new heights and new depths,
-				 but the plan remains the same.
-	-Your companies:
-		-HR Automation firm, Apexi, with a medical-focused Employee Assistance Program (with "AI"!),
-		 and a blood testing automation and medical research company, Energence:
-			-These are almost wholly owned by you yourself, and are money-losing ventures.
-			 Instead of seeking profit, they essentially act as the legally-above-the-board
-			 mechanism by which you surveil people and buy their blood. You even write the loss
-			 off on your taxes.
-		-Security consultancy:
-			-This one is also almost wholly owned by you, with the rest in the hands of it's
-			 employees, among them all three of your retainers.
-			-It, however, actually makes a profit, it being one of the ways by which you extract
-			 money from your incestuous network of self-dealing companies.
-			-It's also the primary mechanism by which you run your own security, digital,
-			 electronic, physical all. You've purchased all sorts of equipment, and engaged the
-			 the services of various contractors, through this company.
-		-Naviuck, a logistics technology firm aiming for a buyout from a major shipping company:
-			-This is typical of other companies in your past, and probably your future. It's
-			 a decent idea, a plausible exit, and thus all you need to sell it to investors.
-			-Maybe that acquisition will happen, maybe it won't. Either way, you'll extract more
-			 money (and blood) from it than you put in, with any loss backstopped by the
-			 investors you pitch it to.
-				-If it looks like it's going to stick the landing, though, you'll likely engaged
-				 in a kind of nepotism by offering stakes to your. . . Kindred, in return for
-				 more intangible things.
-			-The tech-talent cofounder insisted on the horrible name.
-		-TODO: More?
-			-Promising moonshot one? Tessearch, doing deep packet inspection stuff?
-	-Your properties and havens:
-		-Greenwich Village townhouse:
-			-Your single most expensive splurge after the first time a company you were involved
-			 with made it big. It's mortgaged, but still a substantial status symbol, and close
-			 to a lot of the action in the city's startup scene.
-			-These days, it features extensive security cameras on an airgapped network, an
-			 expensive fire suppression system, alarms, and reinforced doors. The basement also
-			 has a fortified and secured "panic room".
-		-You have access to variety of rented offices belonging to your companies:
-			-You maintain a haven at your security consultancy (a secured, windowless storage room)
-			 in Brooklyn. The consultancy's employees spend most of their time remote, but it
-			 maintains rented storage and office space in an old manufacturing building, providing
-			 equipment storage, workshops, meeting space, and a loading dock where your van is
-			 generally kept.
-			-You also have a haven at your blood testing firm (a combo-locked walk-in freezer, with
-			 "safety" escape handle inside. It's located in the Flatiron District, a short distance
-			 from your townhouse.
-		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
-		 taken from the blood testing firm's supply (Your herd. System?).
-		-Bug out haven:
-			-Located in Cherrytown, NY a bit more than two hour's drive outside the city:
-			 https://www.google.com/maps/place/Cherrytown,+NY+12446/@40.7328324,-74.2566578,10z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89dce6d92ceaded5:0x9d2c32606c32ffac!8m2!3d41.8250923!4d-74.3293333?hl=en
-			-A small rural cabin, with an old root cellar below the cabin.
-				-The old external entrance to the cellar was bricked up by Mr. Hubbard and then
-				 filled with dirt, in favor of a section of closet floor cut and now removable.
-			-Purchased with Mr. Hubbard's alternate identity.
-			-You've never even been there, mindful of your sire's warnings of. . . things in the
-			 wilderness between the cities. Better to have the option than to not, though.
-
 Equipment:
 	-Cellphone running Horton's customized Android build.
 		-Adapter cables, for connecting the cellphone to all sorts of devices.
@@ -327,6 +105,7 @@ Equipment:
 			-Paranoid chic is often in, in tech circles, helping you stand out _just_ the right amount.
 			-It's also had a limo-style refridgerated mini-bar installed, though it seldom contains liquor.
 		-White cargo van
+			-Generally kept in Brooklyn, at the security consultancy's loading dock.
 
 
 Advancement:
@@ -348,10 +127,21 @@ Advancement:
 		6  Intimidation 4
 		8  Intimidation 5
 		2  Politics 2
+	-Add some Auspex, and then some combos?
+		-Honeyed Words would be amazing if you pick up Auspex 2 and can learn it: 	https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Ah, Impeccable Manners is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Measure The Will (A2/D2) determines Willpower and virtues, and found here: https://mowcadah.proboards.com/thread/31/combination-disciplines
+	-There are some combos you'd really like even without extra disciplines:
+		-Marshal the Posse (D2/P3) would be another possibly useful combat one: https://saligia.fandom.com/wiki/Combination_Disciplines#Marshal_the_Posse_.28Dominate_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Aura of Inescapable Truth is an eventual super power for you (D4/P4): https://saligia.fandom.com/wiki/Combination_Disciplines#Aura_of_Inescapable_Truth_.28Dominate_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 	-Interesting coterie Disciplines:
 		-Essentially all the Malkavian Disciplines.
 			-Lots of combos of interest, especially with Auspex and Obfuscate.
-			-Some Dementation powers also dovetail with your abilities, but it's a poor flavor fit.
+			-Some Dementation powers also dovetail with your abilities, especially the first, but
+			 all but that one are poor flavor fits.
+				-The first is especially good for you.
+				-A couple of combos do similarly interesting social stuff too.
+				-However, needing a derrangement to do any of this is kind of dealbreaker.
 	-Combos:
 		-Useful links:
 			-Descriptions of many combos, sans reference pg. numbers: https://saligia.fandom.com/wiki/Combination_Disciplines
@@ -360,16 +150,17 @@ Advancement:
 		-Clanbook Ventrue pg 77. has a 4 experience combo, Lifesong, that you already qualify for. It
 		 lets you identify a _mortal's_ nature from a single statment (if you succeed on Int+Emp vs.
 		 difficulty of their Manip+Exp). _Potentially_ useful.
-		-Honeyed Words would be amazing if you pick up Auspex 2 and can learn it: 	https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
-		-Ah, Impeccable Manners is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Honeyed Words (A2/P1 would be amazing if you can learn it (text mentions "viziers"): https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+		-Ah, Impeccable Manners (A2/P1) is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
+			-The overlap of these two isn't clear. Could be entire, or they might allow a different range of things each.
 		-Rescue Beacon (Fortitude 1 and Presence 4) calls you're nearest ghoul if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Just need Fortitude 1 to get Retaliatory Terror. Explicitly Ventrue, allows reflexive Dread
 		 Gazes if Brawl or Melee damage is taken: https://saligia.fandom.com/wiki/Combination_Disciplines#Retaliatory_Terror_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
 		-Already qualify for Unflinching Stare-down, though only useful if combat heavy: https://saligia.fandom.com/wiki/Combination_Disciplines#Unflinching_Stare-down_.28Dominate_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
 		-Marshal the Posse (D2/P3) would be another possibly useful combat one: https://saligia.fandom.com/wiki/Combination_Disciplines#Marshal_the_Posse_.28Dominate_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.29
+			-Ah, source for these old west ones is dubious. Haven't found it anywhere else online, but this does exist: https://www.drivethrurpg.com/product/329428/Vampire-The-Wild-West
 		-Aura of Inescapable Truth is an eventual super power for you (D4/P4): https://saligia.fandom.com/wiki/Combination_Disciplines#Aura_of_Inescapable_Truth_.28Dominate_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Chain of Slavery (A2/D2) determines if someone is Dominated, and by who: https://saligia.fandom.com/wiki/Combination_Disciplines#Chain_of_Slavery_.28Auspex_.E2.80.A2.E2.80.A2.2C_Dominate_.E2.80.A2.E2.80.A2.29
 		-Exquisite Corpse (F3/Obf3) is _way_ off and combat focused, but _so_ flavorful: https://saligia.fandom.com/wiki/Combination_Disciplines#Exquisite_Corpse_.28Fortitude_.E2.80.A2.E2.80.A2.E2.80.A2.2C_Obfuscate_.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Denial Of Aphrodite's Kiss (D3/P3), making generation impact Presence like Dominate, seems tempting, now that you're higher gen than originally planned.
 		-Measure The Will (A2/D2) determines Willpower and virtues, and found here: https://mowcadah.proboards.com/thread/31/combination-disciplines
-		-Retaliatory Terror (F1/P2) is Dread Gaze as a free action whenever struck, albeit at the cost of a blood point.

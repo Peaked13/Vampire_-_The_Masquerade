@@ -1,3 +1,225 @@
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-You took the idea of tech startup personality cults and ran with it.
+		-Your retainers and herd are all part of the network of small startups you control
+			-Your herd talk of you having a dose of Steve Jobs's "reality distortion field". If only
+			 they knew. . .
+		-In fact, your feeding restriction (Ventrue weakness) is that you only drink from those
+		 who hold options in one of your companies.
+			-Options being indicative of current employees, as opposed to shares sold to investors.
+				-Employees have been vetted in some way, and you hold high standards.
+					-You *may* have also peeked at some medical and insurance records you really
+					 shouldn't have access to. All the companies in your network are clients of your
+					 HR Automation and medical-focused Employee Assistance Program (with "AI"!) ones.
+					-Yeah, lean into the health records angle: "Feed from any random kine?!? That's
+					 disgusting, a recipe for disease or worse. I keep a carefully vetted herd. . ."
+						-Options probably aren't enough, if you don't have the records access. But,
+						 neither is the access alone sufficent (like, say, 3rd-party customers of the
+						 HR and EAP firms). They're just not. . . yours.
+				-Investors are often times those you plan to bilk, diverting the money to your own ends
+				 from a company you plan to let fail.
+					-Others may be representative of other Kindred you've cut in on some deal.
+	-Lesley's background questions:
+		-How old are you?
+			-When were you born? How old were you when you were Embraced? How long have you existed
+			 as a vampire? How old do you look? Are you more mature than you seem? Less?
+				-You were embraced at age 26, close to a decade ago. Your apparent youthfulness is
+				 an asset in your industry, though. You actually go out of your way to bring that up
+				 occasionally, hinting at fictional cosmetic work or hair dye, as you'd like to hold
+				 onto your mortal identity as possible. There are substantial assets and influence
+				 tied to it.
+					-TODO: Maybe that embrace should have been more recent, since the agoge seems to
+						   rarely last more than a year, and because Lesley said we're fledglings.
+				-If this is roughly the current date, as seems so, you were born in the late 80's.
+		-What was unique about your childhood?
+			-How did you spend your early years? How were
+			your basic motivations and attitudes forged? Where
+			did you go to school? Who were your immediate
+			family? What is your clearest childhood memory?
+			Did you go to high school? Did you have a hometown,
+			or was your family constantly on the move?
+			Did you go to college? Did you run away from
+			home? Did you play sports? Did any of your childhood
+			friendships last to adulthood?
+		-What kind of person were you?
+			-Were you a decent person, or were you an asshole?
+			-Were you popular? Did you have a family?
+			-How did you earn a living? Did you have any real
+			friends? What kept you going from day to day? Will
+			anyone miss you?
+		-What was your first brush with the supernatural?
+			-When did you realize you were being stalked?
+				-You had a sense of. . . someone closing in on you well before your embrace, but
+				 you had believed it to be in the service of some kind of investment or buy out.
+				 Though you did not meet your sire before your embrace, you met numerous people you
+				 now know to have been proxies for him, prospective investors and supposed
+				 journalists that seemed a lot more interested in you than any particular company
+				 you were involved with. You knew _something_ was coming, but you never suspected
+				 just what. . .
+			-Did you believe in the occult before your Embrace?
+				-Nope, but you _do_ pride yourself on your ability to quickly pivot. . .
+			-When did you first meet a vampire? Were you afraid? Disbelieving? Angry? What
+			 frightened you most?
+				-Your sire was the first of the Kindred you met, and only on the night of your
+				 embrace. You reacted with disbelief when he reveal just what his plans for you were,
+				 with your assessment of the situation going from joke, to prank, and finally to 
+				 horror only as your life ended.
+		-How did the Embrace change you?
+			-How did your sire catch you? Was the Embrace
+			painful? Did you get a kinky pleasure out of it? Did
+			the Hunger tear at you? Did it frighten you? Did
+			it feel right? Are you grateful to your sire? Do you
+			want to kill him for what he did to you?
+		-Who was your sire, and how did he treat you?
+			-What do you know of your sire? Was he abusive, arrogant, cryptic. or open? Why do you
+			 think he chose you? Did you even know your sire at all?
+				-Your sire is Reece Dooley, a fellow resident of New York City.
+					-_His_ sire is Kenneth Wright, the Ventrue Primogen of NYC.
+				-In some ways, your sire's story mirrors your own. He was an East coast shipping
+				 magnate, embraced in the late 18th century. During your agoge, Reece was quite
+				 frank with you that his sire chose him for his expertise, seeking purchase in a
+				 rapidly globalizing world, and also that he done the same with you, looking for
+				 someone that could aid him in this now _digitally_ globalized world.
+			-How long did you stay with your sire? Did he teach you anything at all? How long was
+			 your “apprenticeship”?
+				-Reece arranged for you the typical Ventrue agoge, lasting for more than a year. It
+				 was harsh, but even more thorough, a fact you came to appreciate once you were
+				 presented to the Prince and began to see the ignorant, thrown-together nature of
+				 your fellow fledglings from other clans.
+				-You're grateful to Reece for the more robust induction into your new (un)life, the
+				 knowledge and introductions he provided you being the same sort of thing you made
+				 your old _living_ on too. Reece has also done more than a bit to encourage that
+				 gratitude. After all, he sired you for a purpose, and means to see a return on that
+				 investment. You, meanwhile, also see the potential for much dignitas in repaying,
+				 rather than shirking, a debt, even though you didn't exactly sign yourself up for it.
+			-Where did you stay? Where did you go?
+				-Just like your mortal life, you stuck to the city. Alive or dead, it's still the
+				 beating heart of the world, filled with even more opportunities than you knew.
+			-Did you meet any other vampires during that time
+			(such as the Prince or Archbishop)? Do you judge
+			other vampires in general by your opinion of your
+			sire? When did he teach you the laws of your Sect?
+		-How did you meet the others in your coterie?
+			-Were you brought together by chance or design?
+			-Are you all of one Sect? Are you united in purpose
+			and attitude? How long have you been together in
+			the city? Did you know any of the others before the
+			Embrace? Are your sires in cooperation, or are they
+			rivals? What holds your coterie together when things
+			are at their worst?
+		-Where is your haven?
+			-Where do you hide during the day? Do you have
+			a permanent home at all? Do you stay in the place
+			you inhabited in your mortal life? Do you hide in
+			an abandoned building? The sewers? Do you have
+			anyone to protect you during the day?
+		-Do you retain any connections to your mortal life?
+			-Are you presumed dead? Do you still watch over relatives from afar? Do you pretend to
+			 be still alive?
+				-You had substantial wealth and influence before your embrace, and have every
+				 intention of hanging onto very direct control of those resources as long as you
+				 can. You're even already laying the groundwork for the lies to sustain that,
+				 alluding to cosmetic surgeries you've had ("A youthful image is critical in our
+				 forward-looking industry. . .") and extreme diets for health and longevity ("I'm on
+				 a calorie restricted greens-and-soylent regimen these days. But, please, eat! It's_
+				 still on me!").
+				-You were never the most dutiful son, always busy with your latest business as a
+				 mortal, so keeping family at arms length since your embrace has proved no great
+				 difficulty. Though your parents are only upstate, you haven't seen them, or your
+				 brother in Knoxville, in years now. They'd always seemed happier with a "big shot
+				 son" to brag about, and the occasional lavish gift, than the reality of you taking
+				 taking work calls on Christmas anyways.
+			-Did you abandon your mortal existence entirely?
+				-Nope!
+		-What are your habitual feeding grounds?
+			-Whom do you feed upon, and where? Do you have a territory that you consider exclusively
+			 yours? Is your favorite hunting ground used by others? Do you compete with others? What
+			 is your preferred prey? Do you ever kill when you feed? Do you have a specific herd? Do
+			 you seduce your prey? Kidnap them? Assault them on the street? Do they come to you?
+				-As a Ventrue, you have a specific feeding restriction, detailed above (search for
+				 "your feeding restriction"). Given the nature of the restriction, you feed
+				 exclusively from your herd, and do so through deception.
+				-Your companies run a series of blood drives, free blood tests, and donations for
+				 "cutting edge medical research", all pressuring the employees of your businesses
+				 to turn over their blood under the comforting supervision of a nurse. It's all
+				 voluntary, of course, but you take a personal interest in the various causes, and
+				 can be very persuasive.
+				-This also offers on opportunity for vitae to flow the other way too. You've been
+				 known to offer key personnel "the opportunity to participate in a research study
+				 for a cutting edge performance enhancement technique. It's like blood-doping! It
+				 might be banned in the Olympics, but it's practically a moral imperative if it
+				 offers an edge to people engaged in Changing the World! You'll make a couple of
+				 donations, and then receive an IV with your processed blood during crunch time.
+				 Just don't go attempting any feats of Olypmic strength, ha! Seriously, though,
+				 that might damage your muscles. But it's supposed to help the brain too, and sure
+				 as hell _feels_ great!"
+		-What motivates you?
+			-Do you seek revenge on any enemies? Do you long to return to your mortal life? Do you
+			 have ambitions in Kindred society? If you could achieve anything in the world, what
+			 would it be?
+				-You value the trappings of your mortal life, but don't miss it. Even then, your
+				 intention had been to use tech to climb to the top, to carve out a chunk of the
+				 world that was _yours_. Your eyes have been opened to new heights and new depths,
+				 but the plan remains the same.
+	-Your companies:
+		-HR Automation firm, Apexi, with a medical-focused Employee Assistance Program (with "AI"!),
+		 and a blood testing automation and medical research company, Energence:
+			-These are almost wholly owned by you yourself, and are money-losing ventures.
+			 Instead of seeking profit, they essentially act as the legally-above-the-board
+			 mechanism by which you surveil people and buy their blood. You even write the loss
+			 off on your taxes.
+		-Security consultancy:
+			-This one is also almost wholly owned by you, with the rest in the hands of it's
+			 employees, among them all three of your retainers.
+			-It, however, actually makes a profit, it being one of the ways by which you extract
+			 money from your incestuous network of self-dealing companies.
+			-It's also the primary mechanism by which you run your own security, digital,
+			 electronic, physical all. You've purchased all sorts of equipment, and engaged the
+			 the services of various contractors, through this company.
+		-Naviuck, a logistics technology firm aiming for a buyout from a major shipping company:
+			-This is typical of other companies in your past, and probably your future. It's
+			 a decent idea, a plausible exit, and thus all you need to sell it to investors.
+			-Maybe that acquisition will happen, maybe it won't. Either way, you'll extract more
+			 money (and blood) from it than you put in, with any loss backstopped by the
+			 investors you pitch it to.
+				-If it looks like it's going to stick the landing, though, you'll likely engaged
+				 in a kind of nepotism by offering stakes to your. . . Kindred, in return for
+				 more intangible things.
+			-The tech-talent cofounder insisted on the horrible name.
+		-TODO: More?
+			-Promising moonshot one? Tessearch, doing deep packet inspection stuff?
+	-Your properties and havens:
+		-Greenwich Village townhouse:
+			-Your single most expensive splurge after the first time a company you were involved
+			 with made it big. It's mortgaged, but still a substantial status symbol, and close
+			 to a lot of the action in the city's startup scene.
+			-These days, it features extensive security cameras on an airgapped network, an
+			 expensive fire suppression system, alarms, and reinforced doors. The basement also
+			 has a fortified and secured "panic room".
+		-You have access to variety of rented offices belonging to your companies:
+			-You maintain a haven at your security consultancy (a secured, windowless storage room)
+			 in Brooklyn. The consultancy's employees spend most of their time remote, but it
+			 maintains rented storage and office space in an old manufacturing building, providing
+			 equipment storage, workshops, meeting space, and a loading dock where your van is
+			 generally kept.
+			-You also have a haven at your blood testing firm (a combo-locked walk-in freezer, with
+			 "safety" escape handle inside. It's located in the Flatiron District, a short distance
+			 from your townhouse.
+		-All of your above havens feature regularly consumed and refreshed refridgerated blood,
+		 taken from the blood testing firm's supply (Your herd. System?).
+		-Bug out haven:
+			-Located in Cherrytown, NY a bit more than two hour's drive outside the city:
+			 https://www.google.com/maps/place/Cherrytown,+NY+12446/@40.7328324,-74.2566578,10z/data=!4m13!1m7!3m6!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York,+NY!3b1!8m2!3d40.7127753!4d-74.0059728!3m4!1s0x89dce6d92ceaded5:0x9d2c32606c32ffac!8m2!3d41.8250923!4d-74.3293333?hl=en
+			-A small rural cabin, with an old root cellar below the cabin.
+				-The old external entrance to the cellar was bricked up by Mr. Hubbard and then
+				 filled with dirt, in favor of a section of closet floor cut and now removable.
+			-Purchased with Mr. Hubbard's alternate identity.
+			-You've never even been there, mindful of your sire's warnings of. . . things in the
+			 wilderness between the cities. Better to have the option than to not, though.
+
 Pregame stuff:
 	-The social scene:
 		-More aware of this than anyone else, but night 1 stuff for a Ventrue.
@@ -58,15 +280,15 @@ Pregame stuff:
 	-Elysium this evening was called by it's Keeper, Tony Perez, who contacted me through Ms. Veck.
 		-He said that we'd lost a member of The Camarilla tonight.
 		-My sire and I were thus chatting while looking around avidly, trying to see who's missing.
-			-A Gangrel ancillae seemed to be missing, but I could not put a name to his face. . .
+			-A Gangrel ancillae seemed to be missing, but I could not put a name to her face. . .
 		-My clanmates also talked amongst themselves about on TODO (asian name), who is seeking to
 		 embrace his secretary.
-			-He has heavy interested in construction companies.
+			-He has heavy interests in construction companies.
 		-I also overheard a nearby table say that their friend "Evelyn" did not make it, and one of
 		 them was even weeping over it.
 			-They're caitiff.
-			-I decided to approach the table, asking the weeping one, "What's the matter was, Ms. . ."
-				-Shockingly, as I approached, I realized those were regular tears running down her
+			-I decided to approach the table, asking the weeping one, "What's the matter, Ms. . ."
+				-Shockingly, as I approached, I realized those were actual _tears_ running down her
 				 face, and she took a drink from a glass of water in front of her.
 				-She said that her friend had been missing for weeks.
 				-The whole affair elicited jeers from a Brujah at the other table, saying that no
@@ -76,8 +298,8 @@ Pregame stuff:
 				-Ignoring the Brujah, another of the caitiff asked me, "What do you care about our
 				 problems?"
 				 "I heard someone in distress, and wondered if there was any help I could offer."
-				-That elicited a snort.
-				-Another at the table then spoke up: "Hey! He's offering to _help_ Cat. Lay off."
+				 That elicited a snort.
+				 Another at the table then spoke up: "Hey! He's offering to _help_ Cat. Lay off."
 				 "You want to help?" he responded, "Come down to the pier sometime, see what
 				  bullshit we put up with."
 				 "I would love to. Here, take my contact info," I said, handing him my card.
@@ -99,7 +321,7 @@ Pregame stuff:
 				 an emergency. That responsibility is now left vacant.
 			-As such, a new coterie is to be established, to look after this haven.
 			-He then asked for Sam Nier, Cadusis Nightwalker, and myself to step forward.
-				-He spoke of us as promising, and trusted, neonate, and said we would thus be
+				-He spoke of us as promising, and trusted, neonates, and said we would thus be
 				 entrusted with this task.
 		-Prince Panhard then spoke up, saying there was another reason we'd all been called here.
 			-"The Sabbat," she said, "are in the state again. There's been fighting in Rochester,
@@ -134,7 +356,7 @@ Pregame stuff:
 			-"Here," he said to me, "Have my card."
 			 He pulled something from his lapel, handing it to me. I took it reflexively, only to
 			 look in horror at the gray beard hair he had handed me."
-			-Noticing my reaction, he babled something about many cultures respecting the wisdom in
+			-Noticing my reaction, he babbled something about many cultures respecting the wisdom in
 			 the beards of the aged.
 			 "Is that any area of interest to you, then?" I asked, ". . . Anthropology?"
 			 "Yes, yes. I have connections in many of the city's universities, and a diverse set of
@@ -190,7 +412,7 @@ Pregame stuff:
 					 "Coming events?"
 					 "Well, I'm concerned about our security for a reason. . ."
 					-Bit of a paranoid, sounds like. I can work with that, though.
-		-I asked Ms. Veck to, in the next day, run a quick property search, and pull related
+		-I asked Ms. Veck to, over the next day, run a quick property search, and pull related
 		 documents: "This place is supposed to be in Mr. Wright's name, so I'm sure it's all in
 		 order, but it's best to be sure."
 		-Mr. Nightwalker offered to arrange the delivery of supplies discretely, a useful capability.
@@ -218,8 +440,8 @@ Pregame stuff:
 			 a warehouse in the building.
 			-That warehouse storage area is owned by "Panacea Pharmaceuticals".
 	-Mr. Nier soon returned too.
-		-He requested a moment of my time, describing a cop poking around "his" coffee, looking for
-		 a missing person.
+		-He requested a moment of my time, describing a cop poking around "his" coffee shop, looking
+		 for a missing person.
 		-I asked him if he "knew anything" about the disappearance himself, which he claimed not to,
 		 but he still did not want the attention.
 		-Talking to him further, he claimed to possess talents that would allow him to manipulate
@@ -233,12 +455,11 @@ Pregame stuff:
 	 in the city.
 		-Middle Easterners, they made their presence known at Mason's bar, and were asking about the
 		 Tremere.
-		-TODO: follow up with sheriff about that
 	-I also took this opportunity to ask Mr. Nightwalker about Ellie May.
 		-Turns out she's his sire, but he doesn't know why she has left the city.
 		-She was always erratic, though, which is why much of his education came from Mason.
 		-"What was she to Mason?" I then asked.
-		 "Let's say they had a. . . working relationship. The sheriff now says I'm even deader if If
+		 "Let's say they had a. . . working relationship. The sheriff now says I'm even deader if I
 		  try to leave too."
 	-We then decided to do some research into Panacea Pharmaceuticals.
 		-It's a subsidiary of another company, Mastodon, also pharmaceutical focused.
@@ -265,24 +486,263 @@ Pregame stuff:
 		 presence.
 
 
+2/16/22:
+	-Shortly after I rose the next night, I received a text message, inviting me to a salon at the
+	 Cooper Union, tonight at 12:00.
+		-The Cooper Union for the Advancement of the Sciences and Arts is a prestigious art school
+		 near the East Village.
+		-I didn't recognize the number, but I certainly recognized an opportunity.
+	-I made arrangements with Mr. Hubbard to keep an eye on the emergency haven, and letting him know
+	 I'll be busy for the evening. I also asked Ms. Veck to come along with me.
+	-In the process of that all, I also received a text from Mr. Nightwalker, asking if I had also
+	 been invited to the salon. (Of course I was!)
+		-He offered a ride, but, being only a short walk away in the Village, I let him know I was
+		 already nearby.
+	-Arriving at the school, there were a few off duty cops out front, acting as security.
+		-Other kindred were trickling in, including many I recognized from Elysium, and Mr.
+		 Nightwalker.
+		-We greeted each other, and I reassured him that our new haven was under careful watch.
+		-He also asked me if I knew what this was all about, to which I responded, "Seeing and being
+		 seen. Many of our kindred will be here."
+		-While we waited, Mr. Nightwalker and I also made the acquaintence of Ms. Gravel, doing
+		 introductions, and later of Ms. Arnautovic.
+		-Following that, a clanmate pulled me aside, Mr. Arkan. Quietly, he told me that the board
+		 had been "unable to get me out of last night's declaration", and that some of these other
+		 "riff raff" would soon be joining our coterie as well.
+			-Maybe not quite quietly enough, as Ms. Anautovic apologized after I returned to the
+			 group, for having to associate with "riff raff" like herself.
+			-I tried to reassure her that not all of us get to move in such rarified air as Mr.
+			 Arkan.
+	-We were eventually ushered inside by one of the (noteably glassy-eyed) cops.
+		-
+		-Inside, we recognized a few faces.
+		-One we didn't, a man, pulled out a sharpy, and wrote "Ew" on his forehead, while someone
+		 next to him wrote "Edward" on his own.
+			-They were saying something about the "talent" being there, and needing a "$5,000 deposit",
+			 which the other providing it by writing "$5,000" and "check" on a post-it, handing it
+			 to him.
+			-Ew fell to the gournd, then, and Edward walked over to another woman, who wrote
+			 something on her own forehead, and then pretended to be a telephone before falling over.
+			-This went on for some time with the three of them, beeping, falling down, and talking
+			 into invisible telephones.
+				-One Edward Van Buren was mentioned during the "telephone" conversations.
+			-A fourth joined their routine, and, at the end of it, all bowed, then shook their heads,
+			 looking confused.
+			-Kip DuBuque, a Nosfertu of Ms. Gravel's acquaintence commented that the display must
+			 have been "the show the harpy had planned."
+	-After the show, Ms. D'Franco, the Seneschal came out from an interior room, and requested the
+	 presences of the three women of our recent acquaintence.
+		-Behind her, I could see a couple of the primogen, those of Clans Nosferatu and Tremere, and
+		 heard still more voices.
+		-They joined Ms. D'Franco inside for 5 minutes or so.
+		-After they emerged, Ms. Felicity walked off with some speed, but I caught Ms. Gravel and Ms.
+		 Arnautovic, remarking, "My aren't we popular tonight!"
+		 Ms. Gravel: "Unfortunately"
+		 Me: "Oh? Bad news?"
+		 Ms. Arnautovic: "Apparently we are now neonates, fledglings no more."
+		 Me: "Then a cause for celebration, it would seem!"
+	-Sheriff Hawthorn then approached us.
+		-"The harpy's show aside, Van Buren was attacked tonight."
+		 "Oh?" I responded, "Well before the show? More recently?"
+		 "Dunno. I want the lot of you to look into it."
+			-Ms. Gravel rolled her eyes at the mention of the name.
+		-Turning to Ms. Anautovic, he said "Change of plans. Mr. Nielsen will be looking after you
+		 tonight instead of me."
+		-He then deputized me again, somewhat sarcastically with a mock knighting gesture with his
+		 arm (acknowledged gravely by Mr. Nielsen), carefully clarifying this time, though, that
+         it was "for this night only."
+		-He also added, "Oh, and, if you see Sam, kick him in the ass for me. He should have been
+		 here."
+		-He then turned to go, but I followed, asking if he had any information about Mr. Van Buren's
+		 last known location, or the location of the attack.
+			-In the corner of the room, Siobhan spoke up, saying, "Eddy is dying. Cobwebs are falling
+			 out of him ."
+			 Hawthorn: real helpful. My men say he was last seen South of Alphabet City.
+	-Ms. Anautovic then asked Mr. Nightwalker if he knew this Van Buren.
+		-He shook his head, but, having noted Ms. Gravel's reaction earlier, I turned and asked her
+		 if _she_ did.
+		 "He's a tool," she replied.
+		 "I suppose that won't make our task any more pleasant, then."
+	-Ms. Gravel stepped into another room for a bit, and, meanwhile, Ms. Anautovic boasted of some
+	 talents where finding people is concerned.
+		-Welcome news, with Mr. Nightwalker also having some talents in the area, given what we need
+		 to do.
+	-After Ms. Gravel returned, we arranged transport, loading into Mr. Nightwalker and my cars.
+		-During that, Ms. Gravel also asked us all what sort of things we're into.
+			-Mr. Nightwalker described his bailbonds business.
+			-I chimed in saying, "Software, mostly. Technology in general."
+				-Turning to Ms. Arnautovic, "I also have an arrangement with your clanmates, to
+				 operate a blood testing firm."
+			-Ms. Felicity responded that she's a dancer. "Burlesque, some stripping."
+			-She herself teaches online classes. What kind? "Pathology, of various sorts. . ."
+	-Ms. Gravel also mentioned that Mr. Van Buren has a gambling problem, and may have people after
+	 him for money.
+	-Mr. Nightwalker drove off with Ms. Gravel and Ms. Arnautovic, as I called Ms. Veck to bring my
+	 own car around.
+		-While we waited, Mr. Neir ran up, at a full sprint.
+		 "Running late, Mr. Neir?" I asked. "The sheriff was asking about you."
+		 "I had some things to take care of. Thought the world was ending."
+		 "Well, next time you think that may be so, please do let me know. I'd appreciate the. . .
+		  warning."
+		-I then introduced him to Ms. Arnautovic, and he inquired about what happened at the party.
+			-I let him know about the new job.
+	-The three of us then loaded into my car, once Ms. Veck arrived with it, and we drove towards
+	 Alphabet City.
+		-Mr. Neir asked her to step on it if she sees any birds. . .
+		-On the way, though, we got a message from Mr. Nightwalker, with a new address Ms. Gravel
+		 provided, in Queens.
+		-As we arrived, I could see Mr. Nightwalker's car down the street, and Ms. Gravel standing
+		 in front of the address.
+		-She led us inside, Mr. Neir still raving about birds, while Ms. Veck kept the car running.
+			-Inside, a man, presumably Van Buren, suffering from a shotgun wound.
+			-Ms. Gravel had gone to fetch a bag of blood from Mr. Nightwalker's trunk, but was not
+			 yet giving it to him, asking him instead about what happened to him.
+			-Mr. Neir interrupted, though, by causing a scene with a .38, raving about Mr. Van Buren
+			 being a "giant leech" and "eating his own tail".
+			-We calmed him, though, assuring him we'd "contain" the "leech".
+			-Mr. Nightwalker turned to me, asking what we should do with him, but, Ms. Arnautovic
+			 spoke first, saying, "Please, allow me."
+			 "Be my guest."
+			-She dug around in her bag, pulling out as purple gemstone. She moved it over him, while
+			 making hand symbols with her other hand, then saying, "He's lying."
+			 "Wait! Wait! You don't need to. . . steal my soul or whatever. I needed to repay my,
+			 but couldn't, so he shot me."
+			-He didn't seem to be lying. Instead, he seemed scared, scared that we found this out.
+			-Sam walked off raving about the paintings.
+			-"For this," I asked, "You want to stay at the haven? This _personal_ mess?"
+			 "Hell no," Mr. Nightwalker chimed in.
+			 "Also, you said this bookie shot you? Did he see you walk away? We may have a breach
+			 here," Ms. Arnautovic pointed out.
+			 "Look, I'll deal with it! If you just give me some blood, I'll take care of it!" Mr.
+			 Van Buren pleaded.
+			 "Not happening," Mr. Nightwalker said, "Who is this bookie?"
+			 "I'll deal with! Just give me the blood!"
+			 "No way," said Mr. Nightwalker again, "You've already fucked it up once."
+			-At this, Mr. Van Buren stepped toward Mr. Nightwalker, baring his fangs.
+			-"You do not want to disappoint us, Mr. Van Buren!" I snarled, with the force of my
+			 presence behind it.
+			-His face changed to a look of terror in response, and he fell to the ground, weeping.
+			-Nonetheless, Mr. Neir decided he still needed to unload his .38 into the crowd of us,
+			 winging Ms. Arnautovic.
+			-Mr. Nightwalker proved more prudent, though, tasering the weeping Mr. Van Buren.
+				-After Van Buren twitched for a bit, Mr. Nightwalker told him, "Stay down, or I'm
+				 tazing you again."
+				-He groanded, and seemed incapable of _not_ complying.
+			-Ms. Gravel then asked her associate, Ms. Aryel Hill, if there were any zip ties around,
+			 and she returned with some very suitable metal ones.
+			-While they bound him, I reprimanded Mr. Neir, saying, "I want to remind you, Mr. Neir,
+			 that, no matter what someone may look like, if the blood of our kindred runs through
+			 their veins, do not end their lives imprudently."
+				-In response, he maligned our new coterie members, asking how we knew they weren't
+				 owls. . .
+					-"By checking for feathers, Mr. Neir."
+			-As I turned back to the rest of the coterie, shaking my head, I saw Ms. Anautovic wipe
+			 a bloody tear from his face, and then lick it from her finger.
+			-Then, pulling the whimpering man upright, she said that, if he does not give us the name
+			 of his bookie, he will be staked, and delivered to the sheriff. She also said that she
+			 had taken a vial of his blood, and that, if he did not comply with us, she would curse
+			 him terribly. This began the whimpering and tears again.
+			-Ms. Gravel's "roommate", as she described her, was getting a bit testy, though, and we
+			 decided to head back to the "crash" haven.
+			-Mr. Nightwalker then ran out to his car, returning with a body bag and a sheriff's badge
+			 on his chest. He loaded Mr. Van Buren into the bag, along with some added hand cuffs,
+			 and I helped him get the whole thing into the trunk of his car.
+			-On our way out, I begged the pardon of Ms. Hill, asking that she forgive our intrusion.
+	-We loaded back into both cars, and headed back to the haven with Mr. Van Buren.
+		-On the ride back, the radio was reporting breaking news concerning a rash of kidnappings
+		 across the city. The mayor's daughter was apparently taken.
+		-Another station was talking about a cult out on Staten Island, The Brotherhood of the Second
+		 Dawn.
+			-We'd all heard the name. They're associated with an "angel" sighting on Staten Island,
+			 who had swooped down to rescue someone who had jumped off a building, then flying off.
+			-The cult believes the end of the world is coming (of course).
+	-We road the elevator up, introduced the new folks to Mr. Hubbard, and then dumped Mr. Van Buren
+	 in one of the apartments.
+		-Mr. Nightwalker, with Ms. Gravel's help, went to return his gear to his car.
+		-Ms. Arnautovic, Ms. Felicity, and I, accompanied by Mr. Hubbard and with Mr. Neir trailing behind, went
+		 to go interrogate Mr. Van Buren.
+			-The bookie is named Sergio, and he operates out of Hell's Kitchen.
+			-Mr. Van Buren apparently owes him $70,000.
+			-"What were you betting on, sugar?" Ms. Felicity asked.
+			 "Dog fighting, if you must know."
+			-"Where did this fight happen?" Ms. Arnautovic asked.
+			 "It was on the street. . . A homeless guy there might have seen too. I was stabbed
+			 several times, then the shotgun. . . I tripped over a trash can, then ran straight to Gravel's apartment
+			-"One more thing, hon," Felicity said, "This Sergio, does he have body guards? Muscle?"
+			 "Well. . . he drinks, and when he does, he likes to drink alone. A place called Smith's
+			 Bar, in Hell's Kitchen. Talks to some Arabic guy there. Might be the best place. . ."
+				-Ah, the place Mr. Nightwalker's ally, Mason, runs.
+			-Ms. Arnautovic then asked Mr. Van Buren for a description of Sergio, which he was able
+			 to provide with solid detail.
+	-Mr. Nightwalker and Ms. Gravel then returned, so we left Mr. Van Buren in Mr. Hubbard's care,
+	 while we talked over our next move.
+		-After relaying what we'd learned, Mr. Nightwalker even recognized Sergio.
+		-I suggested to Mr. Nightwalker that we speak with his friend Mason before doing anything
+		 in his establishment, and he vehemetly agreed.
+			-He also added some stern words for Mr. Neir, who talked of sneaking in.
+		-I also discussed the fact that I _could_ pay off Mr. Van Buren's debts, but didn't get the
+		 impression that Mr. Van Buren was a worthwhile investment.
+			-Ms. Gravel didn't do much to reassure me on that score, though she also didn't seem to
+			 want him _dead_.
+			-Ms. Arnautovic raised the very good point of her blood curse threat, which could go a
+			 long ways towards rendering him a bit more trustworthy.
+	-Ms. Gravel then left to find some dinner, and Mr. Nightwalker ducked into one of the apartments,
+	 to call Mason.
+	-While he was still on the phone, Mr. Hubbard emerged from the apartment, staggering a bit.
+	 "Where is Mr. Van Buren?!?" I asked.
+	 "He's fine. . . just needed a drink. . ."
+	-I rushed into the apartment, to see a still-bound Mr. Van Buren wiping blood from his face with
+	 his shoulder, saying as I entered, "Ah, that's better."
+	 "Though we've been neglectful hosts," I said, frostily, "Ask if you need a drink."
+		-Yeah, fuck this guy.
+	-There was then some commotion out in the hall, as Mr. Nightwalker called all of us back over.
+		-Apparently Mr. Mason and this Sergio are close, which may resolve that aspect of the
+		 Masquerade violation, but add other complications.
+		-Those complications are coming quick, as Mason is apparently heading over here, _with_
+		 Sergio, to talk this over.
+	-We set Ms. Arnautovic to watch over Mr. Van Buren, and she asked him more about this homeless
+	 man.
+
+
 TODO:
 	-Follow up on the missing caitiff, Ms. Cat's friend.
 	-You're already at the point you could be spending some XP.
 		-Training times are more or less undefined, though.
+	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 
 
 The Coterie:
 	-Bruce Halford, of Clan Brujah (played by Joe B.):
 		-
 	-Cadusis Nightwalker, of Clan Gangrel (played by Nate):
-		-
+		-Mentioned having been a marine.
+		-Referred to you during the first session as "the coteries leader by consensus". Might have
+		 been a bit tongue-in-cheek, but it's a start.
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
-	-Dr. Eli Green, of Clan Tremere (played by Joe G.):
-		-Sensitive about his title. As he should be.
-		-Connnections with his clans domain, blood banks and such.
+	-Vittoria Arnautovic, of Clan Tremere (played by Til)
+		-
+	-Gravel TODO, of Clan Nosferatu	(played by Ash)
+		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
+		 Buren. Ms. Hill seemed rather surly too.
+	-Felicity TODO, of Clan Toreador (played by Mike):
+		-
 
 
 Boons owed to you:
 	-Kelly Haley, a Malkavian:
 		-Minor boon: You fetched those boxes from that Times Square storage unit.
+
+
+TODONE:
+	-(DONE) Ask Mr. Neir how he identified the box in question.
+		-You're interested in Auspex, and might as well start laying the groundwork.
+		-Posted about it here: https://discord.com/channels/930231429286207539/933428895863160913/939649662145683517
+		-Ah, sounds like that was actually the work of Dementation.
+	-(DONE) Mr. Nightwalker made some noises about computer security. Get him in contact with Mr. Horton,
+	 to sound out his bonafides and then to work together securing the haven.
+		-Posted about it here: https://discord.com/channels/930231429286207539/933428895863160913/939658675495243817
+			"Mr. Nielsen told me that there are many who hate him for what he is, rival factions of his kind and fanatics among them, and informed me of the major security breach you're referring to," Mr. Horton says, adding that, "He asked me to ensure that all surveillance and alarm systems be run on air gapped networks, and that any recordings made be kept encrypted, and kept for a minimal duration, usually 24 hours or less, before secure destruction."
+			"Our plan is to install cameras monitoring the elevator and hallway. Given the purpose of this facility, the apartments will be unmonitored, and we ask that you and your. . . kin keep anything that shouldn't be seen confined to them."
+			_(On that last point, @DMJake#5594, I think you also get a quick talk from Mr. Nielsen, requesting that you maintain the Masquerade even in the common spaces of the haven, reserving anything that would violate that for the more private apartments.)_
+			"Oh, and Mr. Nielsen has also asked me to do the usual evaluation of the floor's fire suppression systems, doing what I can to improve them myself. If something more extensive is required, we'll see about finding some discrete contractors, but we'll avoid that if we can."
