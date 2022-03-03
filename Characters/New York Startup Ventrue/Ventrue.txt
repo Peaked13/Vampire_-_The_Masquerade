@@ -142,6 +142,9 @@ Advancement:
 				-The first is especially good for you.
 				-A couple of combos do similarly interesting social stuff too.
 				-However, needing a derrangement to do any of this is kind of dealbreaker.
+		-Ah, learning them, though, is costly, requiring a step towards the blood bond: https://discord.com/channels/930231429286207539/930231429286207542/944287129670922271
+			-That first step isn't _terrible_ (V20 Core pg. 287), but is not something you'd take
+			 lightly.
 	-Combos:
 		-Useful links:
 			-Descriptions of many combos, sans reference pg. numbers: https://saligia.fandom.com/wiki/Combination_Disciplines

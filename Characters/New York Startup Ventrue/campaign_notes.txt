@@ -514,9 +514,8 @@ Pregame stuff:
 			-I tried to reassure her that not all of us get to move in such rarified air as Mr.
 			 Arkan.
 	-We were eventually ushered inside by one of the (noteably glassy-eyed) cops.
-		-
 		-Inside, we recognized a few faces.
-		-One we didn't, a man, pulled out a sharpy, and wrote "Ew" on his forehead, while someone
+		-One we didn't, a man, pulled out a Sharpie, and wrote "Ew" on his forehead, while someone
 		 next to him wrote "Edward" on his own.
 			-They were saying something about the "talent" being there, and needing a "$5,000 deposit",
 			 which the other providing it by writing "$5,000" and "check" on a post-it, handing it
@@ -557,7 +556,7 @@ Pregame stuff:
 		 last known location, or the location of the attack.
 			-In the corner of the room, Siobhan spoke up, saying, "Eddy is dying. Cobwebs are falling
 			 out of him ."
-			 Hawthorn: real helpful. My men say he was last seen South of Alphabet City.
+			 Hawthorn: "Real helpful, Siobhan. My men say he was last seen South of Alphabet City.
 	-Ms. Anautovic then asked Mr. Nightwalker if he knew this Van Buren.
 		-He shook his head, but, having noted Ms. Gravel's reaction earlier, I turned and asked her
 		 if _she_ did.
@@ -579,8 +578,8 @@ Pregame stuff:
 	 him for money.
 	-Mr. Nightwalker drove off with Ms. Gravel and Ms. Arnautovic, as I called Ms. Veck to bring my
 	 own car around.
-		-While we waited, Mr. Neir ran up, at a full sprint.
-		 "Running late, Mr. Neir?" I asked. "The sheriff was asking about you."
+		-While we waited, Mr. Nier ran up, at a full sprint.
+		 "Running late, Mr. Nier?" I asked. "The sheriff was asking about you."
 		 "I had some things to take care of. Thought the world was ending."
 		 "Well, next time you think that may be so, please do let me know. I'd appreciate the. . .
 		  warning."
@@ -588,16 +587,17 @@ Pregame stuff:
 			-I let him know about the new job.
 	-The three of us then loaded into my car, once Ms. Veck arrived with it, and we drove towards
 	 Alphabet City.
-		-Mr. Neir asked her to step on it if she sees any birds. . .
+		-Mr. Nier asked her to step on it if she sees any birds. . .
 		-On the way, though, we got a message from Mr. Nightwalker, with a new address Ms. Gravel
 		 provided, in Queens.
 		-As we arrived, I could see Mr. Nightwalker's car down the street, and Ms. Gravel standing
 		 in front of the address.
-		-She led us inside, Mr. Neir still raving about birds, while Ms. Veck kept the car running.
+		-She led us inside, Mr. Nier still raving about birds, while Ms. Veck kept the car running.
 			-Inside, a man, presumably Van Buren, suffering from a shotgun wound.
 			-Ms. Gravel had gone to fetch a bag of blood from Mr. Nightwalker's trunk, but was not
 			 yet giving it to him, asking him instead about what happened to him.
-			-Mr. Neir interrupted, though, by causing a scene with a .38, raving about Mr. Van Buren
+			-He began to tell us about having been attacked by inquisitors. . .
+			-Mr. Nier interrupted, though, by causing a scene with a .38, raving about Mr. Van Buren
 			 being a "giant leech" and "eating his own tail".
 			-We calmed him, though, assuring him we'd "contain" the "leech".
 			-Mr. Nightwalker turned to me, asking what we should do with him, but, Ms. Arnautovic
@@ -606,8 +606,9 @@ Pregame stuff:
 			-She dug around in her bag, pulling out as purple gemstone. She moved it over him, while
 			 making hand symbols with her other hand, then saying, "He's lying."
 			 "Wait! Wait! You don't need to. . . steal my soul or whatever. I needed to repay my,
-			 but couldn't, so he shot me."
-			-He didn't seem to be lying. Instead, he seemed scared, scared that we found this out.
+			 debt but couldn't, so he shot me."
+			-He didn't seem to be lying about _that_. Instead, he seemed scared, scared that we
+			 found this out.
 			-Sam walked off raving about the paintings.
 			-"For this," I asked, "You want to stay at the haven? This _personal_ mess?"
 			 "Hell no," Mr. Nightwalker chimed in.
@@ -622,7 +623,7 @@ Pregame stuff:
 			-"You do not want to disappoint us, Mr. Van Buren!" I snarled, with the force of my
 			 presence behind it.
 			-His face changed to a look of terror in response, and he fell to the ground, weeping.
-			-Nonetheless, Mr. Neir decided he still needed to unload his .38 into the crowd of us,
+			-Nonetheless, Mr. Nier decided he still needed to unload his .38 into the crowd of us,
 			 winging Ms. Arnautovic.
 			-Mr. Nightwalker proved more prudent, though, tasering the weeping Mr. Van Buren.
 				-After Van Buren twitched for a bit, Mr. Nightwalker told him, "Stay down, or I'm
@@ -630,14 +631,14 @@ Pregame stuff:
 				-He groanded, and seemed incapable of _not_ complying.
 			-Ms. Gravel then asked her associate, Ms. Aryel Hill, if there were any zip ties around,
 			 and she returned with some very suitable metal ones.
-			-While they bound him, I reprimanded Mr. Neir, saying, "I want to remind you, Mr. Neir,
+			-While they bound him, I reprimanded Mr. Nier, saying, "I want to remind you, Mr. Nier,
 			 that, no matter what someone may look like, if the blood of our kindred runs through
 			 their veins, do not end their lives imprudently."
 				-In response, he maligned our new coterie members, asking how we knew they weren't
 				 owls. . .
-					-"By checking for feathers, Mr. Neir."
+					-"By checking for feathers, Mr. Nier."
 			-As I turned back to the rest of the coterie, shaking my head, I saw Ms. Anautovic wipe
-			 a bloody tear from his face, and then lick it from her finger.
+			 a bloody tear from Mr. Van Buren's face, and then lick it from her finger.
 			-Then, pulling the whimpering man upright, she said that, if he does not give us the name
 			 of his bookie, he will be staked, and delivered to the sheriff. She also said that she
 			 had taken a vial of his blood, and that, if he did not comply with us, she would curse
@@ -659,7 +660,7 @@ Pregame stuff:
 	-We road the elevator up, introduced the new folks to Mr. Hubbard, and then dumped Mr. Van Buren
 	 in one of the apartments.
 		-Mr. Nightwalker, with Ms. Gravel's help, went to return his gear to his car.
-		-Ms. Arnautovic, Ms. Felicity, and I, accompanied by Mr. Hubbard and with Mr. Neir trailing behind, went
+		-Ms. Arnautovic, Ms. Felicity, and I, accompanied by Mr. Hubbard and with Mr. Nier trailing behind, went
 		 to go interrogate Mr. Van Buren.
 			-The bookie is named Sergio, and he operates out of Hell's Kitchen.
 			-Mr. Van Buren apparently owes him $70,000.
@@ -679,7 +680,7 @@ Pregame stuff:
 		-After relaying what we'd learned, Mr. Nightwalker even recognized Sergio.
 		-I suggested to Mr. Nightwalker that we speak with his friend Mason before doing anything
 		 in his establishment, and he vehemetly agreed.
-			-He also added some stern words for Mr. Neir, who talked of sneaking in.
+			-He also added some stern words for Mr. Nier, who talked of sneaking in.
 		-I also discussed the fact that I _could_ pay off Mr. Van Buren's debts, but didn't get the
 		 impression that Mr. Van Buren was a worthwhile investment.
 			-Ms. Gravel didn't do much to reassure me on that score, though she also didn't seem to
@@ -699,16 +700,191 @@ Pregame stuff:
 		-Apparently Mr. Mason and this Sergio are close, which may resolve that aspect of the
 		 Masquerade violation, but add other complications.
 		-Those complications are coming quick, as Mason is apparently heading over here, _with_
-		 Sergio, to talk this over.
+		 Mr. Sergio, to talk this over.
 	-We set Ms. Arnautovic to watch over Mr. Van Buren, and she asked him more about this homeless
 	 man.
 
+
+3/2/22:
+	-Mr. Nightwalker arranged for us to meet Misters Mason and Sergio on the building's roof, with
+	 Ms. Arnautovic remaining behind to keep an eye on Mr. Van Buren.
+	-They arrived a short while later, Mr. Sergio with a .45 tucked into his belt and Mr. Mason
+	 with a chain and padlock hanging from his neck.
+		-Mr. Nightwalker described the issue to Mr. Mason, and introduced him to me.
+		-I openly offered Mr. Van Buren to him, explaining that my concern here was the Masquerade.
+		-Mr. Mason, though, didn't want to jepordize his relations with the other Toreador.
+			-He was in favor of delivering Mr. Van Buren to the sheriff, but wanted Mr. Sergio kept
+			 out of it. Mr. Van Buren had violated Mr. Mason's domain too, here, _attacking_ (they
+			 said) his retainer. Not pursuing the matter would be an embarassment, but pursuing it
+			 would jeopordize alliances with various Toreador.
+			-That leaves us unclear on what story to tell the sheriff, but the sheriff seemed like
+			 he wanted assurances more than details.
+		-We agreed, but wanted to ask Mr. Sergio about the details of the incident.
+		    -He confirmed that a homeless man saw the shot.
+			-Ms. Gravel asked him where the incident occurred, and he told us it was outside the
+			 Siamese Room, by the trash can alongside the building.
+		-Mr. Mason then pointed off to the East, saying the sun would soon rise, and requested that
+		 he be allowed to stay here for the day.
+			-"It's the safehouse, right?"
+			-We assented, but I made am excuse ("security") to head down first, to warn Mr. Van
+			 Buren to keep quiet.
+	-They spent the day here uneventfully, and left in the evening.
+		-On the way out, Mr. Mason revealed a somewhat more contemptuous relationship with his
+		 retainers, as he roughly fed from Mr. Sergio and then dragged him to the elevator.
+	-The next order of business, we decided, was to see about this witness.
+		-With some threats from Ms. Arnautovic, we insisted Mr. Van Buren stay put, though Mr.
+		 Nightwalker and I also kept watch over him while the others hunted.
+			-I simply had Ms. Veck fetch me some bags of blood from Energence, furnished by my
+			 herd.
+		-During that watch, though, I soon heard shouting out in the hall, and Mr. Hubbard calling
+		 for my attention while pointing at the security monitor window on his laptop.
+			-I ran out to the hall, where a now-clawed Mr. Nightwalker was stepping towards Mr. Van
+			 Buren while Van Buren called my name, saying Nightwalker was attacking him!
+			-I was already long since sick of his shit, though, and wasted not a moment to bare my
+			 fangs, shouting at him, "Why are you out of your room?!?" with the full force of my
+			 presence behind it.
+			-He did much the same, focusing his gaze on Mr. Nightwalker but to no effect, as he took
+			 a narrowly dodged swipe at Mr. Van Buren.
+			-Mr. Van Buren was no more afraid of me, but, after redoubling the force of my gaze, he
+			 did indeed flee into the room, slamming the door behind himself.
+	-The rest of the coterie slowly trickled in, witnessing the tense scene of us standing, armed,
+	 clawed, or whatever, outside the apartment door.
+		-We then had a heated debate about Mr. Van Buren's fate, but with no real conclusion.
+		-Ms. Arnautovic was most inclined to mercy, and asked that she be allowed to talk to him
+		 again.
+			-Mr. Nier concealed himself and accompanied her, into the apartment.
+		-She came out saying that he was claiming Mr. Nightwalker's attack was unprovoked, and that
+		 he intended to sing that song to the sheriff, citing the video recording.
+		-We reviewed it, and it did indeed support Van Buren's story, though, as I pointed out, many
+		 powers of the blood can go unseen on video.
+		-At that, Ms. Arnautovic suddenly began asking if there was time for her to visit her clan's
+		 "chantry". Perhaps she has some means of detecting such things?
+		-We agreed she did have time, and agreed it was time to stake Mr. Van Buren.
+	-Ms. Gravel, Mr. Nightwalker, and an invisible Mr. Nier all entered the apartment to accomplish
+	 said staking, with Mr. Hubbard and I waiting in the hall.
+	-They came back out, Mr. Nightwalker and Ms. Gravel now arguing with each other, though Mr.
+	 Nightwalker said the deed was done.
+	-That so, I suggested we see to our witness, as I did not want to present the matter to the
+	 sheriff with loose ends.
+		-Ms. Gravel, oddly, suggested bringing Mr. Van Buren along, to identify him.
+			-I thought we'd all agreed we'd had enough of his shit?
+		-All agreed we should deal with it as fast as possible, though, so we loaded into Mr.
+		 Nightwalker's and my cars.
+		-Pulling up out front, the neon-covered massage parlor was in a decidedly shady corner of
+		 town, though there was quite a bit of foot traffic.
+		-Sam spotted a dumpster nearby with a bunch of bullet holes, presumably the scene of our
+		 incident.
+		-Stepping into the alley, there was a man sitting against one wall.
+		-Approaching him, we could see he'd tied off one arm with a belt, and had a needle
+		 embedded in it.
+		-Ms. Felicity approached him, asking him if he was alright, but received only a some
+		 mumbling and a slow attempt to swat her hand away in response.
+		-Jostling him a bit further, he became a bit more alert, mumbling something about
+		 needing something to drink.
+		-Ms. Felicity ask him if he had any water or the like, and he responded, ". . . my bag."
+		-Opening it, she found the water, a panhandling sign with damage from buckshot (our man!),
+		 and a wallet far too nice for him.
+			-Mr. Nier grabbed at the last, and, opening it, it proved to be Mr. Van Buren's,
+			 still containing several hundred dollars.
+		-Mr. Nightwalker then pushed in, removing the belt from the man's arm, saying something
+		 about how he could be hemorrhaging.
+		-After removing the belt, though, the man slumped further, and Mr. Nightwalker began to
+		 call an ambulance.
+		-The rest of us got the hell out of the alley, though I grabbed the man's bag as I did so.
+		-Mr. Nightwalker called after us, though, shouting, "Sam, keep an eye on Gravel! Don't
+		 let her leave."
+		-We all turned to look at her after that, but she was already gone.
+		-"What the hell are you talking about?" I asked.
+		 "When we went to see to Van Buren," Mr. Nightwalker called back, "She started making out
+		  with him. I think she might try to free him. . ."
+		-I recognized the signs of entrancement, a feat I can manage myself when necessary.
+		-I quickly explained my hypothesis to the others, then made a couple of phone calls.
+			-First, to Mr. Hubbard, asking him to lock the haven elevator until he heard from me
+			 and warning him that Ms. Gravel is not to be trusted right now.
+			-Second, to Ms. Veck, who I asked to bring my car around.
+				-Mr. Nightwalker said he would remain here, waiting for the ambulance.
+		-As we loaded into the cars, we could hear sirens approaching.
+			-Rather than an ambulence, though, a man on a motorcycle with a chainsaw zoomed past,
+			 followed be several cop cars, from which the police were firing at him.
+			-"What was that?" Mr. Nier.
+			 "Seems the city is going to hell," I replied.
+			-Or maybe elsewhere? As he rode off, for a moment, the man on the motorcycle seemed to
+			 briefly have white wings. . .
+	-After that, though, we indeed headed to the haven.
+		-On the way, though, I recieved a call from Mr. Hubbard, saying that. . . something that
+		 looked like me had just entered the haven, and then he'd lost track of it.
+		 "What?!? Why did you open the elevator without me contacting you?!?"
+		 "I didn't. . ."
+		 ". . . just lock the place down, as best you can."
+		-Once there, I went to go check with Mr. Hubbard, to see if he'd seen more of our intruder,
+		 while the rest rushed to check on Mr. Van Buren.
+		-Mr. Hubbard hadn't seen anything further, and Mr. Nier emerged from the far apartment
+		 carrying Mr. Van Buren.
+		-He was still staked, but now had bruises around his head.
+		-They wanted to take him to the sheriff as quickly as possible.
+		-I had reservations about the situation still being a mess, so I said, "Wait! First, we
+		 should review the camera footage."
+			-What we saw was part of the hallway's wall bulging and breaking, spilling pink foam,
+			 from which _I_ emerged, or at least something wearing my face.
+			-This figure, presumably Ms. Gravel walked down the hall, where Mr. Hubbard ran out,
+			 asking _me_ how I got in.
+			 ". . . they let me in."
+			 ". . . Stop wearing that face."
+			 "I'm. . . I'm going to go check on Van Buren. . ." she said, as she ran towards the
+			 apartment, and he pulled out his phone.
+		-As we finished that, I heard a "Sorry about that." Turning, I saw _me_, presumably Ms.
+		 Gravel, standing next to us.
+		-At that, we all stared for a moment, and then Mr. Nier and Ms. Arnautovic renewed their
+		 push to contact the sheriff.
+		-I expressed discomfort at dumping this in his lap with so many loose ends. "First," I
+		 said, "Let me call Mr. Nightwalker, since he's in charge of our biggest loose end.
+		-Calling him, he told me he had the man taken to the hospital by a friend of his, and that
+		 he was going home.
+			-I was understandably furious. "What?!? You mean you're not with him? Our goal was to
+			 silence the man!"
+			 "I wasn't going to kill him! I guess I could ask my friend to. . . But he was
+			  overdosing. . ."
+			 "I'm not asking you to kill him! But we needed to talk to him, make sure he isn't
+			  telling stories. . . Get the address of the hospital you took him to!"
+			 "OK, OK. I'll find out. Call me if you need more. . ."
+		-I let the others know  and we argued further about whether we were ready to contact the,
+		 sheriff.
+			-Mr. Nier volunteered to follow up with the man in the hospital.
+			-Ms. Arnautovic volunteered her charm, _confident_ she could sway the sheriff and
+			 protect our interests.
+				-When asked, she would admit to no particular hold on him, but, still, I wonder,
+				 given how he said, when first she and I met, that I'd be looking after her instead
+				 of _him_, due to some change in plans. . .
+			-I eventually agreed to it, and of course was the only one with the means to contact
+			 him, so it's still very much my head in the noose.
+			-As such, I called the sheriff and, getting voicemail, left a message saying I had the
+			 man he was interested in hand, and that we should meet to discuss our next move.
+			-Two minutes later, I received a text saying he'd meet us at the haven.
+	-The sheriff arrived a short while later.
+		-Ms. Arnautovic did most of the talking, explaining that Mr. Van Buren's poor judgement had
+		 resulted in a Masquerade violation, but that we had the loose covered and wanted to turn
+		 Mr. Van Buren over to him.
+		-He agreed, but seemed distracted. He said something about it being a weird night, speculating
+		 it was "something in the water, maybe. . ."
+		-He then unceremoniously put Mr. Van Buren in a trash bag, and took him with as he left.
+	-With the rest of the night, those of us at the haven saw to repairing the wall that Ms. Gravel
+	 had destroyed.
+		-Turned out she'd broken in through one of the covered-over windows. We have to see to
+		 reinforcing those better.
+	-The next evening, we all woke up to news reports of a gunfight, starting in Times Square and
+	 running to the Bronx, during which an "angel" intervened to save a kid.
+		-They had a picture of the "angel", a hispanic man standing in front of a child, who
+		 noteably did _not_ look like the man we saw on a motorcycle ourselves. . .
+		-Ms. Gravel also contacted all of us to let us know that, 15 minutes before sunrise this
+		 morning, she felt her entrancement brake.
+			-_Probably_ a sign things turned out well for us there. . .
 
 TODO:
 	-Follow up on the missing caitiff, Ms. Cat's friend.
 	-You're already at the point you could be spending some XP.
 		-Training times are more or less undefined, though.
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
+	-Set someone to reinforcing the covered over windows, one of which Ms. Gravel broke in through.
 
 
 The Coterie:
@@ -718,10 +894,18 @@ The Coterie:
 		-Mentioned having been a marine.
 		-Referred to you during the first session as "the coteries leader by consensus". Might have
 		 been a bit tongue-in-cheek, but it's a start.
+		-Mason, his mentor, his a Brujah who runs a bar near the safe haven.
+			-Mr. Nightwalker considers him fearsome, a veteran of the battle of New York.
+		-His sire, Ellie May, was the previous operator of the safe haven.
+			-She fled the city under murky circumstances, leading to our inheriting the responsibility.
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
+		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
 	-Vittoria Arnautovic, of Clan Tremere (played by Til)
-		-
+		-She did an impressive job of leveraging her thaumaturgical talents to intimidate someone,
+		 beyond what she can actually do (I think?).
+		-She was weirdly unfamiliar with the operation of her cellphone. . . Like she'd never used
+		 one.
 	-Gravel TODO, of Clan Nosferatu	(played by Ash)
 		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
 		 Buren. Ms. Hill seemed rather surly too.
@@ -735,7 +919,7 @@ Boons owed to you:
 
 
 TODONE:
-	-(DONE) Ask Mr. Neir how he identified the box in question.
+	-(DONE) Ask Mr. Nier how he identified the box in question.
 		-You're interested in Auspex, and might as well start laying the groundwork.
 		-Posted about it here: https://discord.com/channels/930231429286207539/933428895863160913/939649662145683517
 		-Ah, sounds like that was actually the work of Dementation.
