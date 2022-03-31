@@ -141,7 +141,7 @@ Advancement:
 			 all but that one are poor flavor fits.
 				-The first is especially good for you.
 				-A couple of combos do similarly interesting social stuff too.
-				-However, needing a derrangement to do any of this is kind of dealbreaker.
+				-However, needing a derrangement to do any of this is kind of a dealbreaker.
 		-Ah, learning them, though, is costly, requiring a step towards the blood bond: https://discord.com/channels/930231429286207539/930231429286207542/944287129670922271
 			-That first step isn't _terrible_ (V20 Core pg. 287), but is not something you'd take
 			 lightly.
@@ -156,7 +156,7 @@ Advancement:
 		-Honeyed Words (A2/P1 would be amazing if you can learn it (text mentions "viziers"): https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 		-Ah, Impeccable Manners (A2/P1) is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 			-The overlap of these two isn't clear. Could be entire, or they might allow a different range of things each.
-		-Rescue Beacon (Fortitude 1 and Presence 4) calls you're nearest ghoul if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Rescue Beacon (Fortitude 1 and Presence 4) calls your nearest ghoul if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Just need Fortitude 1 to get Retaliatory Terror. Explicitly Ventrue, allows reflexive Dread
 		 Gazes if Brawl or Melee damage is taken: https://saligia.fandom.com/wiki/Combination_Disciplines#Retaliatory_Terror_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
 		-Already qualify for Unflinching Stare-down, though only useful if combat heavy: https://saligia.fandom.com/wiki/Combination_Disciplines#Unflinching_Stare-down_.28Dominate_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29

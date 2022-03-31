@@ -907,7 +907,7 @@ Pregame stuff:
 			-The Brujah are quiet about why, but many are behaving like they're gearing up for war.
 		-I spent the time tending to my personal affairs, including diving ever deeper into the
 		 minds of my herd (I trained Dominate 2).
-	-Mr. Nightwalker let us know that Ms. Cat, the caitiff with the missing had contacted him,
+	-Mr. Nightwalker let us know that Ms. Cat, the caitiff with the missing friend had contacted him,
 	 asking to meet, forwarding us her text.
 		-I agreed that we'd offered her our help, and referred him to Ms. Veck to schedule the
 		 matter.
@@ -941,7 +941,7 @@ Pregame stuff:
 		 holding back tears.
 		-She said that her friend Larry was dead, found in his car after visiting his family.
 			-The family believed he'd overdosed, but Ms. Cat pointed out that was impossible (of
-			 course) since his embrace: "He couldn't get high anymore. We watch him try."
+			 course) since his embrace: "He couldn't get high anymore. We watched him try."
 		-That was a few months back, and another friend, Tammy, had died recently, staked to a light
 		 pole on one of Coney Island's beaches and left for the sun.
 		-"Someone is killing my friends, and no one cares. They say we're barely kindred anyways. . ."
@@ -998,15 +998,15 @@ Pregame stuff:
 			-The company name was Mastodon Pharmaceuticals. We retrieved that "yellow" box from one
 			 of their subsideries, so maybe Kelly Haley would know more about them.
 				-If you can get a sane word out of her. . .
-		-As we got ready to depart. Mr. B.O.B. asked if Layla should not come with too, to which we
+		-As we got ready to depart. Mr. B.O.B. asked if Ms. White should not come with too, to which we
 		 vigorously agreed.
 			-She didn't wish to come, saying that Mr. Perez had invited her to a photoshoot.
 			-That elicited something of an "Oh honey!" from Ms. Gravel, who explained that he was
-			 clearly bullyingher.
+			 clearly bullying her.
 			-She went form crestfallen to near catatonic inside a of a minute or two. Mr. B.O.B
 			 said something about her having "another meltdown", tossed her over her shoulder, and
 			 then we were off.
-	-I had Ms. Veck bring my car around, and Ms. Arnautovic fetched or own. We then headed back to
+	-I had Ms. Veck bring my car around, and Ms. Arnautovic fetched her own. We then headed back to
 	 the haven.
 		-As we were nearing the building, I received a message from Mr. Hubbard, saying that, after
 		 reviewing security footage, they spotted a well, but anachronistically, dressed Nosferatu
@@ -1048,8 +1048,8 @@ Pregame stuff:
 				 matter was duely contained.
 	-We then reached out to Mr. Nightwalker, to see if his business for the night was done, as we
 	 needed some help tracking.
-		-And Nate was back from whatever he had going on tonight, free to join the rest of the
-		 session.
+		-(And Nate was back from whatever he had going on tonight, free to join the rest of the
+		 session.)
 		-We met him near Mr. Larry's family home.
 		-He showed up in full tactical gear, somewhat disheveled.
 		-"Mr. Nightwalker, either I gave you the wrong impression or you've had an interesting night
@@ -1095,7 +1095,7 @@ Pregame stuff:
 				-Actually, Ms. Felicity thought it may be a very rough looking capybara. More
 				 evidence it's tied to The Zookeeper.
 				-Ms. Arnautovic chimed in, saying, "Oh! Those giant Mexican rats? When I was in
-				 Mexico, there were always rumors of them carrying of children. . ."
+				 Mexico, there were always rumors of them carrying off children. . ."
 					-In Mexico?!? When was she in a Sabbat stronghold? Before or after her embrace?
 	-We then headed back to the safe haven.
 		-Once there, Mr. Nightwalker recounted his recent adventures.
@@ -1115,32 +1115,313 @@ Pregame stuff:
 				-He added something else that he said I should know: The Leech was claiming that a
 				 member of the coterie is Sabbat, and that he could prove it. . . (!!!)
 			-A short while later, I received a message from an unknown number requesting I attend a
-			 meeting at Wright Industries, and that I bring my coterie. It's too be in the penthouse
-			 of their headquarters at midnight.
+			 meeting at Wright Industries, and that I bring my coterie. It's to be in the penthouse
+			 of their headquarters, at 3:00 the following night.
 				-Kenneth Wright is the Ventrue Primogen, and my grand sire. He's very intense, and
 				 rumored to be the founder of the first bank (the _literally_ first bank, founded
 				 during The Crusades).
 
 
+3/30/22:
+	-Waking the following night, we heard further news reports about the "angels".
+		-Apparently the claim is now that it was a hoax, and word is that someone was arrested for
+		 wasting the NYPD's time.
+	-With some time before our meeting with Mr. Wright, I tasked Ms. Veck with researching Mastodon,
+	 and Ms. Gravel apparently spent her time doing the same.
+		-When I awoke, Ms. Veck hadn't been able to turn up much, but, meeting up later, Ms. Gravel
+		 had better luck.
+		-It's a subsidiery of Autumn Health Mangement Systems.
+		-Autumn, in turn, is controlled by another pharmaceutical company, Magadon.
+	-I also took a moment to ask Ms. Arnautovic about her past visit to Mexico.
+		-She claimed, convincingly, that it was while she was still a mortal, "10 or 20 years ago."
+		-She also seemed aware that it was now not a safe place for her, raising the good point that
+		 it is _particularly_ so for those embraced by Clan Tremere.
+	-I was also informed, via messages from a few clanmates, that my status is not in question, but
+	 that, for appearance's sake, I would be under investigation as well.
+		-"Of course. I've nothing to hide. . ."
+		-I also got word that Mr. Arkan has also shifted the focus of his media teams. Less concerned
+		 with the winged man, he's turned his attention a series of killings that had occured, aiming
+		 to calm public sentiment.
+	-With the time of our meeting near, we all made our way to Wright Industries's headquarters, a
+	 tall black skyscraper..
+		-Taking the elevator up, we were met by a pair of men straight out of casting for a Godfather
+		 movie, and were ushered into the penthouse's kitchen.
+		-The decor was of course opulent, with the theme of the artwork tending towards currency,
+		 with many forms of old coins and the like from across Christendom and the Middle East on
+		 display, along with some Medieval artwork and armor.
+			-Very much fits what they say of my grandsire's past.
+		-While waiting in the kitchen, we also met Mr. Corelli for the first time.
+			-We exchanged introductions TODO recent arrival, told to watch over us	
+	-We were eventually ushered into conference room, where, around a table, sat the most prominent
+	 Ventrue in the city, including Prince Panhard, Mr. Wright, and my sire, Mr. Dooley.
+		-Mr. Wright launched right into things, opening a folder of photographs.
+		 "The allegation that one of you was a member was a member of the Sabbat is very serious. I
+		 am not, though one to hold one's past against them. . .  I have known many who've risen
+		 from the meanest origins to do great things.
+		 This evidence is extensive, but why has it come to light _now_?"
+		-Answering him, I said, "Sheriff Garrett informed me that the accusations came from The
+		 Zookeeper, yes?"
+		 "I know who the accusations came from. . ."
+		 "We recently encountered Mr. Zookeeper, and seem to have disturbed some business of his
+		 while looking into a disturbance among the caitiff, perhaps prompting the matter."
+		-At the mention of the caitiff, several around the table looked distinctly uncomfortable,
+		 and Mr. Wright then spoke, saying, "Let me be clear. There is no persecution of the caitiff
+		 in New York. I want to hear you all repeat that."
+		-The coterie complied, offering a round of denials.
+			-I myself said, "We've seen no evidence of ill treatment of the caitiff by our society
+			 at large, though we did see some. . . concerning indiscretions, resulting from their
+			 ignorance."
+		-After that, Dr. Emerich, a member of The Board, broke in, saying, "If I may, I'd like to
+		 hear from Mr. Blutgel, since he is the one leveling these accustations. Could he be brought
+		 in?"
+		-Our host assented, and The Zookeeper stepped through the door, as if he'd been listening
+		 at it.
+		-Dr. Emerich then asked him, "Mr. Blutgel, why is it you've brought these accusations _now_?"
+		 "Ms. Doyle asked me to look into the deaths of the caitiff. She has a soft spot for them.
+		 While doing so, _they_ showed up. Naturally I looked into their backgrounds."
+		 Staring at Ms. Arnautovic, he continued, saying, "I'm not trained in the sight, but if you
+		 looked at _her_ aura, I suspect you'd find the thick black bands of diablerie."
+		-Ms. Arnautovic, taken aback, spoke in her defense, saying she does not _remember_ partaking
+		 in any such thing, and also leveled her own accusation at the Zookeeper, saying the caitiff
+		 had wounds from one of the Zookeeper's animals.
+		-"And do you have proof of this?" Dr. Emerich asked.
+		 "Yes," Ms. Arnautovic responded, "Gravel, can I see you cellular telephone?"
+		-Mr. Nightwalker then stepped aside, revealing Ms. Gravel hiding behind him, and she pulled
+		 out the phone, handing it to Ms. Arnautovic. She, in turn, handed it to me, asking me to
+		 pull up the photos for her. I did so, laying it on the conference table in front of us, and
+		 The Board passed it around.
+		-After looking at it, Mr. Wright asked The Zookeeper to bring his animals in, to have their
+		 mouths examined.
+		 ". . . Of course."
+		 "And," Ms. Arnautovic broke in, "Be sure to bring in your capybara."
+		-At this last, The Zookeeper looked distinctly uncomfortable, fearful.
+		-"What's the matter, Zookeeper?" Ms. Arnautovic asked.
+		 ". . . His teeth were broken, a few days ago."
+		-That prompted a number of outbursts from our coterie, with Mr. Nightwalker offering modern
+		 forensic's capabilities in the matter while Ms. Felicity directly accused The Zookeeper of
+		 concocting this to distract The Board from whatever he's doing with the caitiff.
+		-Ms. Arnautovic then offered the services of her clan, to determine the truth of this matter.
+		-"If you are willing to subject yourself to disciplines," Mr. Wright responded, "I can
+		 resolve the matter here and now."
+		-She assented, but requested that a member of her clan be present, as she would not wish to
+		 be compelled to reveal her clan's secrets.
+		-The Board agreed to those terms, and reached out to the Tremere.
+		-Ms. Felicity then asked if our coterie could adjourn to another room, to talk among
+		 ourselves, and Mr. Wright agreed, saying he too would like a recess.
+			-Turning to Mr. Zookeeper/Leech/Blutgel, Mr. Wright locked eyes with him, saying he
+			 should wait in the next room until summoned.
+			-I, though, was asked to remain behind with The Board.
+			-As the others shuffled out, I was asked to sit, and Mr. Wright passed the photos to me.
+			-They showed Ms. Arnautovic meeting with an 8' tall horror, with far too many eyes, and
+			 several "South American drug lord types". The stood before bonfires and, in one image,
+			 were shown sharing a silver chalice.
+			-As I went through the photos, Prince Panhard, spoke, saying, "We recovered her when we
+			 retook the city. She has the most complete knowledge of The Sabbat in the city, and has
+			 been assisting Clan Tremere in understanding our enemies. The Sabbat Tremere apparently
+			 all disappeared 20 years ago.
+			 This secret must be kept. We will be assigning someone to watch over the coterie."
+			 "What of the coterie?" I asked. "If present at this interrogation, are they to know the
+			 truth?
+			 "If any find out about her history, you are to extend the same understanding to them.
+			 Please collect the rest of the coterie."
+		-I then returned to the kitchen, and let the others know The Board is ready for all of us
+		 now.
+		-After we filtered back in, Mr. Wright then approached Ms. Arnautovic, saying, "Please,
+		 look into my eyes."
+		-Ms. Arnautovic vacillated, saying, "But, wasn't one of my clanmates going to be here. . ."
+		 "It would be best if you just answered my questions," Mr. Wright said. Continuing, he said,
+		 "Ms. Arnautovic, are you a loyal member of the Camarilla?"
+		 "Yes."
+		-Turning, he then approached the Zookeeper, but, as he did so, a high pitched beeping began.
+		-". . . the fire alarm?" Mr. Wright asked.
+		-That prompted a flurry of action from Mr. Corelli, who conferred with a besuited mortal who
+		 apparently answers to him, sending him off in search of fire extinguisher, as we all began
+		 to smell smoke from the next room.
+		-Ms. Gravel was gone from my sight by the time I looked around, but Ms. Arnautovic asked Mr.
+		 Nightwalker to block the door, "Lest The Leech try to escape."
+		-That prompted a question from Mr. Wright, who said, "Perhaps we should evacuate?"
+		-That met with enthusiatic agreement from The Zookeeper, who yelled, "Yes! We need to get
+		 out of here before this building burns down around us!"
+		-"Why so eager to leave before your testimony?" Ms. Arnautovic asked, "I think that perhaps
+		 there _is_ a member of the Sabbat here, a certain Nosferatu. . ."
+		-At that, The Zookeeper lept for the door, nearly making it past Mr. Nightwalker who caught
+		 his leg, dragging him back into the room and hurling him against the wall opposite the door.
+		-Mr. Nightwalker then began to grow claws, while Ms. Arnautovic reached out, placing a palm
+		 against The Zookeeper's chest, prompting him to. . . blush?
+		-Mr. Nightwalker called for my aid, but, before I could react, we all heard a shout, "Move
+		 aside!"
+		-We could do nothing but obey as Mr. Wright rushed forward, drawing a kukri, and, in four
+		 quick strokes, severed each of The Zookeeper's limbs.
+			-Beyond blood, a torrent of maggots poured forth from each of the wounds.
+		-Gazing into The Zookeeper's now frantic eyes, Mr. Wright, voice hot with anger, said, "You
+		 have violated my hospitality. Are _you_ a member of The Sabbat?"
+		 "Yes."
+		-At that, Mr. Wright beheaded him.
+			-Sam then grabbed one of the maggots from the floor, placing it inside a metal container
+			 he pulled out of his pocket.
+		-"I'm sorry," Mr. Wright said, "For losing my temper. . . Moving on, I will have Mr. Corelli
+		 here watch over your coterie. There is to be no mention of what happened here tonight."
+		-Prince Panhard then spoke, saying, "I will also have my agents watch over you. For the sake
+		 of convenience, I want all of you to make your permanent haven on the 13th floor."
+		-Ms. Arnautovic objected, though, saying that she'd be expected to meet some nights at her
+		 clan's chantry.
+		-"I'm sure the regent will be understanding," Mr. Wright responded.
+		-"I should take a vacation from work, then?" Mr. Nightwalker asked.
+		-You will be required to make your haven there," Prince Panhard answered, "But need not
+		 remain there _always_."
+			-This elicited an annoyed look from Mr. Wright, though it was soon followed by a nod.
+		-Mr. Wright then spoke again, saying, "Enjoy yourselves for the rest of the night. My home
+		 is open to you and refreshments are availble in the refridgerator. Please just return to
+		 your haven an hour before dawn."
+		-Prince Panhard then dismissed the board, leaving herself too, with now only Mr. Wright
+		 remaining at the table.
+		-As Sam wandered off in the direction of the now diminished smoke, and Mr. Nightwalker to
+		 the kitchen, Ms. Arnautovic approached Mr. Wright.
+			-"This evidence against me, could I see it?" she asked.
+			-Mr. Wright responded by handing the folio to Ms. Arnautovic.
+			-She spent some time examining them, eventually saying, "Some of these figures, I've
+			 never seen them before. These photographs must have been doctored."
+			-Turning to me, Mr. Wright asked, "Mr. Nielsen, your better with technology than I. Is
+			 such a thing possible?"
+			 "Certainly so. It would require substantial resources, and is unlikely to be perfect,
+			 but it is certainly _possible_.'
+			 "Please examine the photographs, then. These are the most damning evidence against Ms.
+			 Arnautovic. If they could be proven false. . ."
+			 "Of course. I will put my people on it."
+		-The maggots on the floor were slowly dying, or more quickly, once Sam returned to look at
+		 them. . .
+		-Mr. Corelli eventually returned to the board room, reporting that the fire was out, and
+		 that, alongside it, the corpse of a monkey was found, and also a hole cut into a wall,
+		 where a water line was damaged.
+			-So, we were not wrong that the fire was awfully convenient for The Zookeeper's purposes.
+		-We then decided to return to the safe haven, and loaded into the elevator.
+			-Once the doors closed, Mr. Corelli somewhat presumptuously began making demands, asking
+			 first, "Which one of you is best at organizing?"
+			-I spoke up, as Mr. Nightwalker pointed to me as well.
+			-"I need to deliver reports to Mr. Wright," Mr. Corelli said, "You're going to help me
+			 put them together. I don't want to be caught in the middle of this mess any more than
+			 I have to be.
+			-"I would be happy to assist you in your reports to my grandsire," I replied. "I would
+			 also like to discuss security arrangements with you, since that seems to be along the
+			 lines of your business. Your. . . employees can take shifts monitoring the haven,
+			 particularly the day shift, freeing up the use of mine."
+	-We retrieved our various vehicles and headed back to the haven.
+		-On the way back, the streets were obviously. . . wilder than usual. Chaos abounded, with
+		 the kine acting like lunatics and cars veering all over the street, driving wildly.
+		-The radio also reported sightings of a "Loch Ness Monster of New York", a great beast in
+		 the water seen by all aboard a ferry, though the report was quickly followed by an
+		 explanation claiming the food aboard the ship may have been poisoned by ecoterrorists.
+	-Arriving back at the haven, we could hear loud music, and smell weed, coming from the room
+	 where the caitiff were staying.
+		-Ms. Arnautovic knocked on the door, yielding a visibly drunk Ms. Cat, with a beer can in
+		 her hand.
+			-Thin blood indeed. . .
+		-Ms. Anautovic informed them that we'd dealt with their issue.
+		-I hustled up and added to that, "Yes. We've. . . dealt with the one who was preying on you.
+		 There should be no more waking up with bite marks."
+			-Good to have them out of our hair, given what I promised The Board about the caitiff.
+		-"Really?" Ms. Cat slurred, "That's great! B. O. B., did you hear that! We can go home!"
+		-He was sitting on the couch smoking a bong, listening to bad punk rock. "Layla! Pull
+		 yourself together. We're going home!"
+		-That was met only with sobs from the bedroom.
+		-"What's the matter with her?" Ms. Gravel asked. "Still broken up by that Toreador bullying
+		 her?"
+		 "Nah," B. O. B. responded, "She's been itchy, says something's biting her."
+		 "Maybe she caught The Zookeeper's fleas," Ms. Gravel suggested.
+		 "Can that happen?" B. O. B. asked.
+		 "I don't see why not."
+	-As we returned to the hall Ms. Anautovic pulled me aside and asked about one of the rooms,
+	 saying that she needed space for her rituals, where they would not be disturbed.
+	 "Of course. We may be a bit tight on space here now, but, if you need. . . lab space, by all
+	 means, claim one of the rooms."
+	-As soon as the words left my mouth, she nodded, and hurried off into the apartment, slamming
+	 the door behind her.
+	-Ms. Gravel then said that, if there's a cot or the like about, she'll be happy with a closet
+	 or some similar space.
+		-I said I'd have Mr. Horton pick something up once stores opened in the morning.
+	-I then took some time to introduce Mr. Corelli to Mr. Hubbard and Ms. Veck, mentioning also
+	 that Mr. Horton handles the day shift.
+		-I asked him if his employees would be staying with us, and he indicated that Mr. Pauli
+		 would be, though the other two would be tending to his business interests.
+			-Elaborating, he mentioned that he has a tow yard and collection of vehicles.
+			-"A useful resource indeed, Mr. Corelli."
+		-I then asked if Mr. Pauli would mind taking tomorrow's day shift, if we'll be sending Mr.
+		 Horton furniture shopping, and Mr. Corelli assented. I turned Mr. Pauli over to Ms. Veck,
+		 to get him familiarized with the system and set up with a login.
+	-Next, I began to receive a series of _very_ alarming texts from Mr. Nightwalker. . .
+		-https://discord.com/channels/930231429286207539/933428895863160913/958915821541929000
+		-Eventually, he called me, and, putting him on speaker phone, we (rather frantically)
+		 discussed the matter.
+		-The. . . matter was currently in a lead-lined case inside Mr. Nightwalker's car, but he
+		 was tied up with whatever was going on with Mr. Nier.
+		-We ulimately settled on having Mr. Corelli arrange to have the car towed by his people,
+		 moving it to his tow yard.
+			-I confirmed that the "cultists" Mr. Nightwalker had mentioned had not yet seen the car,
+			 so hopefully we don't need to worry about them finding it.
+		-I also added a geiger counter to Mr. Horton's morning shopping list.
+		-Eventually I received another text message saying the cultist was dead, and the immediate
+		 danger dealt with.
+			-Whew.
+		-We decided to still have the car towed, and made arrangements to have Mr. Horton pick up
+		 Misters Nier and Nightwalker. They would be sleeping in body bags at Mr. Nier's bomb
+		 shelter / haven, and Mr. Horton loaded them into my van during the day and brough them back
+		 to the haven.
+	-Thankfully, with dawn, we slept like the dead.
+		-This night has been more than enough to give any among the kine bad dreams. . .
+	-The next evening, we had a lot to discuss.
+		-Mr. Nier seemed to believe the danger had been dealt with when he killed the leader of his
+		 cult last night.
+			-To confirm that, I offered him my assistance in interrogating members of the cult.
+		-Ms. Gravel, meanwhile, took our new geiger counter to the caitiffs' room, concerned now
+		 about Ms. White's scratching.
+			-Nothing in there was radioactive, but Mr. Nier sure as hell is. It clicked like crazy
+			 until she asked him to go somewhere else for the moment.
+		-When she returned, though, she reported that Ms. White was still in quite a state, having had
+		 a daymare, or perhaps a vision.
+			-Ms. Gravel reported that Ms. White was yelling about something being "awake" and
+			 "watching".
+			-Ms. Arnautovic went to question her further, with the rest of us trailing after.
+				-In response to Ms. Arnautovic's questions, Ms. White described whatever this was
+				 as "bright" and "burning", prompting Sam to claim he'd dreamed of something similar.
+		-Mr. Nightwalker also pulled me aside to let me know that one of his contacts had informed
+		 him that his sire had grown. . . more active, attacking people on the street.
+			-He let me know because he'd heard Mr. Corelli pushing the matter of reports to Mr.
+			 Wright off onto me, and wanted this included.
+			-I asked him what he hoped would be done about his sire, and he washed his hands of the
+			 matter.
+			-Very well, I'll forward the information and let the sheriff resolved the matter as he
+			 will.
+
+
 TODO:
-	-Research Mastodon Pharmaceuticals.
+	-Look into those photos, the evidence against Ms. Arnautovic.
+
+
+TODO:
 	-You're already at the point you could be spending some XP.
 		-Training times are more or less undefined, though.
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 	-Set someone to reinforcing the covered over windows, one of which Ms. Gravel broke in through.
+	-Have a conversation about what's acceptable to 
 
 
 The Coterie:
-	-Bruce Halford, of Clan Brujah (played by Joe B.):
-		-
+	-John Corelli, of Clan Brujah (played by (another) Mike):
+		-Appears to be roughly 40.
+		-Sounds like he has three retainers, which would be of great use to us in watching the
+		 haven (potentially freeing up one of mine).
+			-Yep, got that set up.
+		-Has a tow truck, a tow yard to go with it, and several other vehicles in his possesion.
 	-Cadusis Nightwalker, of Clan Gangrel (played by Nate):
 		-Mentioned having been a marine.
 		-Referred to you during the first session as "the coteries leader by consensus". Might have
 		 been a bit tongue-in-cheek, but it's a start.
-		-Mason, his mentor, his a Brujah who runs a bar near the safe haven.
+		-Mason, his mentor, is a Brujah who runs a bar near the safe haven.
 			-Mr. Nightwalker considers him fearsome, a veteran of the battle of New York.
 		-His sire, Ellie May, was the previous operator of the safe haven.
 			-She fled the city under murky circumstances, leading to our inheriting the responsibility.
+			-Apparently she's back now, living in Central Park, but is behaving oddly, and isn't
+			 willing to talk.
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
 		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
@@ -1154,7 +1435,9 @@ The Coterie:
 		 one.
 	-Gravel TODO, of Clan Nosferatu	(played by Ash)
 		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
-		 Buren. Ms. Hill seemed rather surly too.
+		 Buren.
+		-Her roommate, Ms. Hill seemed rather surly too, though it sounds like she possesses some
+		 interesting, and perhaps arcane, talents. . .
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 
@@ -1177,3 +1460,4 @@ TODONE:
 			_(On that last point, @DMJake#5594, I think you also get a quick talk from Mr. Nielsen, requesting that you maintain the Masquerade even in the common spaces of the haven, reserving anything that would violate that for the more private apartments.)_
 			"Oh, and Mr. Nielsen has also asked me to do the usual evaluation of the floor's fire suppression systems, doing what I can to improve them myself. If something more extensive is required, we'll see about finding some discrete contractors, but we'll avoid that if we can."
 	-Follow up on the missing caitiff, Ms. Cat's friend.
+	-Research Mastodon Pharmaceuticals.
