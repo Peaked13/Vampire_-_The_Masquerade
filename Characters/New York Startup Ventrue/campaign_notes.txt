@@ -1156,7 +1156,7 @@ Pregame stuff:
 	 Ventrue in the city, including Prince Panhard, Mr. Wright, and my sire, Mr. Dooley.
 		-Mr. Wright launched right into things, opening a folder of photographs.
 		 "The allegation that one of you was a member was a member of the Sabbat is very serious. I
-		 am not, though one to hold one's past against them. . .  I have known many who've risen
+		 am not, though, one to hold one's past against them. . .  I have known many who've risen
 		 from the meanest origins to do great things.
 		 This evidence is extensive, but why has it come to light _now_?"
 		-Answering him, I said, "Sheriff Garrett informed me that the accusations came from The
@@ -1213,7 +1213,7 @@ Pregame stuff:
 			-I, though, was asked to remain behind with The Board.
 			-As the others shuffled out, I was asked to sit, and Mr. Wright passed the photos to me.
 			-They showed Ms. Arnautovic meeting with an 8' tall horror, with far too many eyes, and
-			 several "South American drug lord types". The stood before bonfires and, in one image,
+			 several "South American drug lord types". They stood before bonfires and, in one image,
 			 were shown sharing a silver chalice.
 			-As I went through the photos, Prince Panhard, spoke, saying, "We recovered her when we
 			 retook the city. She has the most complete knowledge of The Sabbat in the city, and has
@@ -1281,8 +1281,8 @@ Pregame stuff:
 			-Mr. Wright responded by handing the folio to Ms. Arnautovic.
 			-She spent some time examining them, eventually saying, "Some of these figures, I've
 			 never seen them before. These photographs must have been doctored."
-			-Turning to me, Mr. Wright asked, "Mr. Nielsen, your better with technology than I. Is
-			 such a thing possible?"
+			-Turning to me, Mr. Wright asked, "Mr. Nielsen, you're better with technology than I.
+			 Is such a thing possible?"
 			 "Certainly so. It would require substantial resources, and is unlikely to be perfect,
 			 but it is certainly _possible_.'
 			 "Please examine the photographs, then. These are the most damning evidence against Ms.
@@ -1395,6 +1395,57 @@ Pregame stuff:
 
 TODO:
 	-Look into those photos, the evidence against Ms. Arnautovic.
+		-Sent to Til and Lesley:
+			Sometime shortly after the events of our last session, Mr. Nielsen wants to get some time alone with Ms. Arnautovic (a thing probably eased by his control over the haven's closed circuit cameras). Assuming he manages that, he opens with:
+			"Good evening, Ms. Arnautovic. I was hoping to discuss those photographs with you, the matter that Primogen Wright requested my assitance with.
+			You see, when I spoke with The Board privately, he confided in me that there was rather more truth to The Zookeeper's allegations than it would serve the sect's interests to acknowledge, saying that you are a very valuable resource in our conflict with The Sabbat.
+			As such, I wish to offer you my full assistance in the matter of these. . . doctored photographs, to help in arriving at the truth of the matter, whatever that truth must be. To do so, though, I must ask you: exactly what elements in the photos are not as you recall?"
+		-We then later did some stuff over voice:
+			-Ms. Arnautovic said the woman in the back of some of the photographs should not be
+			 there, though she recognized her, naming her "The Regent of the Sabbat, it's leader" (!).
+				-She thought The Regent may be a Lasombra, who thus should not have shown up in _any_
+				 photo, saying this thus should be impossible.
+			-She also said that, during the seige of New York, only the Tremere remained in the city,
+			 in their hidden chantry.
+				-Though I'd also heard rumors that the Nosferatu had managed to remain as well.
+				-In the course of the struggle, she ended up in torpor.
+					-That explains a lot of her relationship with technology. . .
+			-She explained to me the Vaulderie, pointing out the chalice in one of the photographs.
+				-She admitted to participating, but broke it through the powers of the Tremere.
+				-She claimed they also have the ability to break the normal bond too. . .
+			-I suggested we falsify the whole thing, or at least imply as much, if we find only one
+			 issue with the photos.
+			-She offered up info on The Sabbat, form her past espionage.
+			-While we talked, I received a text from Ms. Veck.
+				-She reported that something strange had been seen on the cameras up front,
+				 including a screenshot.
+				-"This man was walking by, staring directly at the building. He spit on the
+				 sidewalk, and walked away. The video shows him mouthing a name: Vittoria.
+				 We looked at the video again, the "spit" looks like blood.
+				-Ms. Arnautovic thought him Tremere, and vaguely recognized him, but did not know a name.
+				-She indicated we should carefully cleanse the area, fearing blood magic, but first she wanted to test the blood
+			-We went down, escorted by Mr. Hubbard.
+				-Ms. Arnautovic collected all of the blood she could, into a small glass vial form
+				 her purse.
+				-We then set Mr. Hubbard to carefully cleaning the area.
+				-Ms. Arnautovic also asked around about the man, checking with the doorman and the
+				 like.
+					-They described him as dressed like a "pompous asshole", in silks and "Satanic
+					 jewelry".
+					-She also spread rumors that he was wanted, tracked by bounty hunters, and gave
+					 out Mr. Nightwalker's card, asking them to contact him if they see the man.
+				-She adjourned to her room, to perform whatever ritual is necessary to examine the
+				 blood, but never reported back.
+					-We saw her leave, via the cameras, hailing a cab.
+		-TODO: actually examine the photos!
+			-Til will be gone for a bit, so it'll be a while before you can discuss the matter with
+			 Ms. Arnautovic.
+			-Rolls?
+	-Prepare a report for Primogen Wright.
+		-The dirty bomb.
+		-Ms. Arnautovic's photos.
+			-Results of computer analysis.
+			-The Regent's improbable presence.
 
 
 TODO:
