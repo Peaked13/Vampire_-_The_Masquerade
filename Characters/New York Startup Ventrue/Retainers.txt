@@ -210,6 +210,8 @@ Character Description and Background:
 	 security consultancy that Mr. Nielsen mantains majority control over.
 		-The consultant job not only pays Bob's bills, but provides cover for all sorts of things,
 		 under the umbrella of "penetration testing."
+	-He's pretty friendly with Mr. Nightwalker. Mr. Horton did some technology training for him at
+	 my behest and they both share a military background.
 
 Equipment:
 	-Cellphone running Horton's customized Android build.

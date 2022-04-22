@@ -114,19 +114,19 @@ Advancement:
 		10 Dominate 3
 		4  Subterfuge 3
 		6  Subterfuge 4
-		4  Empathy 3
 		15 Presence 4
 		10 Fortitude 1
 		5  Fortitude 2
-		15 Dominate 4
-		10 Fortitude 3
-		20 Presence 5
-	-Add some more ability increases to that? Maybe Manipulation 4 and 5?
-		12 Manipulation 4
-		16 Manipulation 5
 		6  Intimidation 4
-		8  Intimidation 5
 		2  Politics 2
+		4  Empathy 3
+		10 Fortitude 3
+		12 Manipulation 4
+		20 Presence 5
+		15 Dominate 4
+	-Add some more attribute and ability increases to that?
+		16 Manipulation 5
+		8  Intimidation 5
 	-Add some Auspex, and then some combos?
 		-Honeyed Words would be amazing if you pick up Auspex 2 and can learn it: 	https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 		-Ah, Impeccable Manners is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
