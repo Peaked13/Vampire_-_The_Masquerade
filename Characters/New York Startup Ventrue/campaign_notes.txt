@@ -1712,10 +1712,42 @@ TODO:
 			 seeing, the costs of which outweighing what I hope to gain here."
 			-You're quite happy, though, once the deal is done, for it to _then_ be public. Though
 			 it may hurt your status to share that you begged a favor of the prince, it will bind
-			 the Gangrel all the tighter to you, and _increase_ your status, should this investment
-			 turn out favorably.
+			 the Gangrel all the tighter to you, and perhaps evetually _increase_ your status,
+			 should this investment turn out favorably.
 				-Those few among the kindred who are more moral than Machiavellian are also likely
 				 to think favorably of the matter right from the outset.
+		-Talked through the request with Lesley:
+			-Scheduled a meeting, resulting in Prince Panhard and Seneschal D'Franco coming to my
+			 office.
+			-Begged the favor of her, _as her clanmate_ (a thing she clarified). Sold what I'd
+			 planned, emphasizing that this matter was likely to break Mr. Nightwalker, to the
+			 detriment of both of our interests in the haven, but that, were it avoided, we'd be
+			 handed two Gangrel with a very vested interest in resolving Sheriff Garett's spider
+			 problem.
+				-Rolled 11 (!) successes selling it.
+			-She accepted, and of course required of me a future boon, but also said that the matter
+			 must still be punished.
+				-"How fragile is Mr. Nightwalker?" she asked.
+				 "Over the events of this evening, and our acquaintence prior to it, he has
+				 exhibited admirable self-control. Though I think the matter of this hunt would
+				 likely destroy him, not much shy of it seems likely to."
+				 "Allowing Mr. Nightwalker to remain has already been seen as weak, and some think
+				 him a spy, sent by our enemies into the city.
+				 He must still be punished. There will be no blood hunt tomorrow night. . . for Ms.
+				 Barron. If Mr. Nightwalker survives the night, he will be pardoned. The girl will
+				 be marked by the Tremere, and bound to the Primogen Council."
+				 "A trial by ordeal. . . that seems most wise, and fitting, given my hopes for Mr.
+				 Nightwalker."
+				-She then got up to leave, turning as she went to say, "I hope you know what you're
+				 doing. The board is watching you. You have a unique oppotunity. Prove yourself here."
+			-We have until the next night to prepare.
+				-Shortly after my meeting, I receive a text informing me that Elysium will not be
+				 held at the usual location, but rather at a theater that is the domaing of Clan
+				 Toreador.
+
+
+4/28/22:
+	-
 
 
 TODO:
@@ -1751,6 +1783,8 @@ The Coterie:
 			 suspending his rights as a member of the Camarilla in good standing for that time.
 				-Lesley noted that will also allow you to bring him place he wouldn't otherwise be
 				 allowed, like Ventrue functions, as one of your retainers.
+			-Ah, you indebted yourself to the Prince to save her life, and he and Ms. Barron both
+			 now very much owe you (see boons, below, and TODOs before 4/28/22 session for details).
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
 		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
@@ -1789,8 +1823,33 @@ The Coterie:
 Boons owed to you:
 	-Kelly Haley, a Malkavian:
 		-Minor boon: You and your coterie fetched those boxes from that Times Square storage unit.
-	-Mr. Nightwalker, your coteriemate:
+	-Mr. Cadusis Nightwalker, your coteriemate:
 		-Minor boon: You had Mr. Horton train Mr. Nightwalker in some technology skills.
+		-Major boon: You intervened with Prince Panhard, indebting yourself to her, to save the
+					 (un)life of his girlfriend, Ms. Barron.
+	-Ms. Ashley Barron, of Clan Gangrel: 
+		-Life boon: You intervened with Prince Panhard, indebting yourself to her, to save Ms.
+					Barron's (un)life.
+Boons owed: 
+	-Morgan Durley, the Tremere Primogen:
+		-2 pt. boon:
+			-You formally requested and were granted permission to operate your "blood testing"
+			 research startup, it being adjacent to the Tremere Primogen's domain of hospitals,
+			 blood banks, and emergency services.
+	-Kenneth Wright, the Ventrue Primogen:
+		-2 pt. boon:
+			-For the introduction that made the above boon possible, and his assistance in winning
+			 a favorable deal there.
+	-Reece Dooley, your sire:
+		-2 pt. boon:
+			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
+			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training
+			 period), something your sire very much encouraged. He created you for a reason, after
+			 all. He means to see a return on his investment, and that no shame is brought to him.
+			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
+			 a debt you didn't exactly sign yourself up for.
+	-Prince Helen Panhard, of New York City:
+		-Major boon: You begged a favor of her as a clanmate to save the (un)life of Ms. Barron.
 
 
 TODONE:
