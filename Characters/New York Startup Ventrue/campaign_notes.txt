@@ -190,7 +190,7 @@ Character Description and Background:
 				 more intangible things.
 			-The tech-talent cofounder insisted on the horrible name.
 		-TODO: More?
-			-Promising moonshot one? Tessearch, doing deep packet inspection stuff?
+			-Promising moonshot one? Research, doing deep packet inspection stuff?
 	-Your properties and havens:
 		-Greenwich Village townhouse:
 			-Your single most expensive splurge after the first time a company you were involved
@@ -316,7 +316,7 @@ Pregame stuff:
 			 said he'd already told us all this, and so this was a warning too, to quit making a
 			 scene in Elysium about it.
 			-He then moved on to what seemed to be his main business, mentioning a letter saying
-			 that a Gangrel, Ellie May, would no longer be in the city.
+			 that a Gangrel, Effie May, would no longer be in the city.
 				-She had looked after an important safehouse in the city, one open to all of us in
 				 an emergency. That responsibility is now left vacant.
 			-As such, a new coterie is to be established, to look after this haven.
@@ -455,7 +455,7 @@ Pregame stuff:
 	 in the city.
 		-Middle Easterners, they made their presence known at Mason's bar, and were asking about the
 		 Tremere.
-	-I also took this opportunity to ask Mr. Nightwalker about Ellie May.
+	-I also took this opportunity to ask Mr. Nightwalker about Effie May.
 		-Turns out she's his sire, but he doesn't know why she has left the city.
 		-She was always erratic, though, which is why much of his education came from Mason.
 		-"What was she to Mason?" I then asked.
@@ -531,7 +531,7 @@ Pregame stuff:
 			 have been "the show the harpy had planned."
 	-After the show, Ms. D'Franco, the Seneschal came out from an interior room, and requested the
 	 presences of the three women of our recent acquaintence.
-		-Behind her, I could see a couple of the primogen, those of Clans Nosferatu and Tremere, and
+		-Behind her, I could see a couple of the Primogen, those of Clans Nosferatu and Tremere, and
 		 heard still more voices.
 		-They joined Ms. D'Franco inside for 5 minutes or so.
 		-After they emerged, Ms. Felicity walked off with some speed, but I caught Ms. Gravel and Ms.
@@ -1099,7 +1099,7 @@ Pregame stuff:
 					-In Mexico?!? When was she in a Sabbat stronghold? Before or after her embrace?
 	-We then headed back to the safe haven.
 		-Once there, Mr. Nightwalker recounted his recent adventures.
-			-His sire, Ellie May is apparently back in New York, living in Central Park, and. . .
+			-His sire, Effie May is apparently back in New York, living in Central Park, and. . .
 			 is skittish.
 			-He hasn't been able to find her, and the word he's received is that there's something
 			 very wrong with her.
@@ -1107,7 +1107,7 @@ Pregame stuff:
 			 seemed to believe it might be something more than just his clan's curse.
 			-He advocated informing the prince or sheriff about this, despite the danger that would
 			 pose to Ms. May.
-			-I agreed that would be wise, and agreed to call Sheriff Garett on his behalf.
+			-I agreed that would be wise, and agreed to call Sheriff Hawthorn on his behalf.
 			-After leaving a message, he got back to me with via text a few minutes later.
 				-I informed him that Mr. Nightwalker had told me Ms. May was back in the city.
 				-He already knew, though he said she had thus far proved elusive.
@@ -1160,7 +1160,7 @@ Pregame stuff:
 		 am not, though, one to hold one's past against them. . .  I have known many who've risen
 		 from the meanest origins to do great things.
 		 This evidence is extensive, but why has it come to light _now_?"
-		-Answering him, I said, "Sheriff Garett informed me that the accusations came from The
+		-Answering him, I said, "Sheriff Hawthorn informed me that the accusations came from The
 		 Zookeeper, yes?"
 		 "I know who the accusations came from. . ."
 		 "We recently encountered Mr. Zookeeper, and seem to have disturbed some business of his
@@ -1466,6 +1466,8 @@ TODO:
 	-It's been a week since the events of our last session.
 	-I received a call from Mr. Nightwalker.
 		-He reported some trouble with his girlfriend. She was missing.
+			-Hmm. . . first I've heard of this woman. This seems an unexpected weakness on Mr.
+			 Nightwalker's part.
 		-He had access to the GPS data from her phone, though, and saw it had her at The Brooklyn
 		 Bridge, for the past several hours. . .
 		-I asked him what I could do to help.
@@ -1479,7 +1481,7 @@ TODO:
 		 Gravel along the way.
 			-Mr. Nightwalker was clearly agitated, and driving aggressively. Along the way, he
 			 confided in us that she "means the world" to him.
-			-He also handed each of us a series of photographs of her. Always the detective. . .
+			-He also handed each of us a series of photographs of her. Ever the detective. . .
 		-Parking near the bridge, we made our way to the bridge's center, via it's pedestrian access,
 		 as that's where the GPS signal was coming from.
 		-Looking around, Mr. Hubbard eventually pointed out the cellphone, stuck in a spiderweb
@@ -1494,9 +1496,9 @@ TODO:
 			 substantial time to pursue.
 		-Ms. Gravel then disappeared for a bit, texting me a few minutes later.
 			-She wanted me to let Mr. Nightwalker know she'd found a trail. . . of blood. She
-			 included a the address of an alley by the Brooklyn side of the bridge, where she said
-			 she should meet her.
-			-I broke the news to Mr. Nightwalker as gently as I could, and then we jogged that way.
+			 included the address of an alley by the Brooklyn side of the bridge, where she said
+			 we should meet her.
+			-I broke the news to Mr. Nightwalker as gently as I could, and then we hurried that way.
 		-There were indeed signs of an attack, and the other end of the trail went _up the side_ of
 		 a building near the alley.
 			-It was a house, and, approaching it, it looked abandoned. It had an eviction notice from
@@ -1505,7 +1507,7 @@ TODO:
 			-Sure seems like Mr. Nightwalker's hypothesis about his sire's involvement is correct. . .
 			-Mr. Nightwalker drew his firearm and started walking towards the building's doorway,
 			 but then paused a moment, saying, "Mr. Nielsen, you should let The Sheriff know we've
-			 found one of Ellie May's hideouts."
+			 found one of Effie May's hideouts."
 				-I did just that, texting him the address.
 			-He then continued on to the door, pulling the plywood away and kicking it in.
 				-It swung in easily, it having apparently been kicked in previously, from the damage
@@ -1516,7 +1518,7 @@ TODO:
 				-The human corpse had been drained of blood, apparently before it's organs were
 				 pulled out of it's chest and scattered about it.
 				-The heart, though, was missing.
-			-Mr. Hubbard spotted another mess in a nearby room with a half open door.
+			-Mr. Hubbard spotted something in a nearby room with a half open door.
 				-"Hey, Nightwalker. Looks like there's another mess in this room."
 				-It turned out to be another male corpse, bloated, and in biker leathers.
 			-Kicking open the door to another room, Mr. Nightwalker shouted something inarticulate,
@@ -1566,38 +1568,39 @@ TODO:
 				-He was four blocks away, and picked us up at the abandoned house.
 			-While we waited, I received another text from Mr. Nightwalker, saying that the
 			 situation was under control, for tonight, anyways.
-	-On our way back to the haven, I got a message from Ms. Veck, saying that Mr. Neir was on the
+	-On our way back to the haven, I got a message from Ms. Veck, saying that Mr. Nier was on the
 	 roof of the building. Indeed, as we got out of the car, we could see him up there at one
 	 corner, pointing at the sky.
 		-Once inside the haven, I asked Ms. Veck, "How long has he been up there?"
 		 "More or less since you left."
-		-Mr. Corelli eventually tried to retrieve him, but Mr. Neir didn't make it easy, darting
+		-Mr. Corelli eventually tried to retrieve him, but Mr. Nier didn't make it easy, darting
 		 around the roof in a Benny Hill routine. Eventually Mr. Corelli gave up, and left him to
 		 it.
-		-When Mr. Neir eventually made his way back down into the haven on his own, he was babbling
+		-When Mr. Nier eventually made his way back down into the haven on his own, he was babbling
 		 about a red star, and how it "hungered".
 			-Well, not hard to tell where that imagery would come from, though it's of course hard
 			 to tell whether the _sane_ should be concerned.
-	-I then got a call from Sheriff Garett, following up about our message about Ms. May's lair.
+	-I then got a call from Sheriff Hawthorn, following up about our message about Ms. May's lair.
 		-I was somewhat evasive, letting him know we'd found a place she'd been staying, with bodies
 		 inside, and otherwise also let him know that Mr. Nightwalker will likely be contacting him
 		 soon, but that, "He's still sorting through his feelings about tonight."
-		-A call from The Prince to Sheriff Garett cut the conversation short, though, and I
+		-A call from The Prince to Sheriff Hawthorn cut the conversation short, though, and I
 		 graciously, though unecessarily, said that, "Of course you should take it."
-		-Mr. Neir witnessed the whole call, and seemed to know I was holding something back.
+		-Mr. Nier witnessed the whole call, and seemed to know I was holding something back.
 		-I told him it was a personal matter of Mr. Nightwalker's, and suggested we give him the
 		 night to sort the matter out. "If he does not, though. . . well, we may need to press him
 		 on the matter."
 	-A short while later, each of us at the haven received a text, requesting our presence at
 	 Elysium in 30 minutes.
 		-I had Ms. Veck bring my towncar around.
-		-During the ride, Mr. Neir continued to babble about a red star. One that, looking, none
+		-During the ride, Mr. Nier continued to babble about a red star. One that, looking, none
 		 of the rest of us could see.
 			-We admitted that, to his consternation, but he then claimed that, "Well, not all have
 			 the insight my clan does."
 		-We arrived there on time, meeting Mr. Nightwalker, his girlfriend, and Ms. Felicity there.
 			-Mr. Nightwalker was noteable well dressed, as one would expect as he attended what's
 			 sure to be his trial.
+			-Ms. Barron, on the other hand, now had a set of noticeable rat-like hands.
 		-The club appeared to be closing down, with revelers leaving and, within, the music silenced.
 		-Entering the dance floor, we saw Mr. Garett, who apologized to Mr. Nightwalker, but then
 		 searched him and his girlfriend, had them kneel, and placed them in handcuffs.
@@ -1615,7 +1618,7 @@ TODO:
 			-This didn't seem to please Prince Panhard, but neither was she clearly enraged.
 			-She spoke, then, after a look at Ms. Ashley, saying, "It will be her loyalty that saves
 			 your life."
-			-She then asked Sheriff Garett to take Ms. Ashley away and imprison her, saying she
+			-She then asked Sheriff Hawthorn to take Ms. Ashley away and imprison her, saying she
 			 would be dealt with tomorrow night. He of course complied.
 			-She also turned to Seneschal D'Franco, instructing her to call Elysium for tomorrow
 			 night.
@@ -1641,16 +1644,16 @@ TODO:
 		-As she too left, so did many of the others attending.
 			-On _his_ way our, Mr. Jefferson, a Nosferatu, paused to offer Mr. Nightwalker his
 			 condolences, saying, "Sorry, kid. That's a bad rap. Would make a good blues song."
-				-"Blind" Willie Jefferson is every ugly inch a blues musician.
+				-"Blind" Willie Jefferson is every ugly inch the blues musician.
 		-The shaken Mr. Nightwalker then approached me, rattling off, "Cadusis Nightwalker,
 		 reporting for duty. What are your orders?"
 		 "We'll worry about that back at the haven. It's been a rough enough night already."
 		-We then all returned to the haven, with several members of the coterie then attending to
 		 personal business.
-			-Mr. Nightwalker and I remained at the haven.
-				-He continued to defer somewhat excessively to me, but I told him, "You should relax
-				 as much as possible for the remainder of this evening. But, please, don't leave the
-				 haven."
+			-Mr. Nightwalker, Mr. Nier, and I remained at the haven.
+				-Mr. Nightwalker continued to defer somewhat excessively to me, but I told him, "You
+				 should relax as much as possible for the remainder of this evening. But, please,
+				 don't leave the haven."
 				-He agreed, and then brough up the coin.
 					-He said that he thought his sire had left it as a calling card.
 					 "You recognize it, then?"
@@ -1661,12 +1664,12 @@ TODO:
 						 anything about it.
 						-Mr. Nightwalker then suggested we might wish to reach out to Ms. Arnautovic,
 						 saying an occultist might be called for.
-							-I told him I haven't seen her in a week, but Mr. Neir also spoke saying
+							-I told him I haven't seen her in a week, but Mr. Nier also spoke saying
 							 he knew a few things about the subject, and asked to take a look.
 							-He claimed it was a depiction of Anansi, a West African spider god, a
 							 god of knowledge and stories.
 							-Ms. Gravel had also mentioned some studies in the area of mythology, so
-							 we also gave her a call.
+							 we gave her a call too.
 								-She reported much the same, but also said she'd go through her own
 								 library, and report back.
 								-When she contacted us again an hour or two later, she told us about
@@ -1676,7 +1679,7 @@ TODO:
 								 New York area.
 								-As such, she also suggested looking into local voodoo groups, to
 								 follow up on the matter.
-			-After that, Mr. Neir spent a few hours on the internet and then emerged from one of
+			-After that, Mr. Nier spent a few hours on the internet and then emerged from one of
 			 the apartments, waving a printed pop-science article saying, "NASA calls it 2001KX76!
 			 When the telescope gets in, you'll all see I'm not crazy!"
 				-Apparently he's found at least _some_ confirmation of his red star.
@@ -1703,11 +1706,12 @@ TODO:
 				-His discussions in #general about finding where she'd have to run to be safe
 				 suggest a major incident soon is likely.
 		-Reaching out to the Prince:
-			-Sell as a partial solution to Sheriff Garett's spider problem?
+			-Sell as a partial solution to Sheriff Hawthorn's spider problem?
 				-That could also go a ways towards space for one more among the kindred of New York. . .
 			-One way or another, you _do_ want to try to _sell_ the concept. It's who you are, and,
 			 whether it leads to a reduction in the severity of the debt, a potential avenue for
-			 paying part of it back, or nothing more than an acknowledgement of the effort and a
+			 paying part of it back, or nothing more than an acknowledgement of the effort, it seems
+			 worthwhile.
 			-Reach out privately, offering refusal, "if there's something more to this than I'm
 			 seeing, the costs of which outweighing what I hope to gain here."
 			-You're quite happy, though, once the deal is done, for it to _then_ be public. Though
@@ -1722,37 +1726,250 @@ TODO:
 			-Begged the favor of her, _as her clanmate_ (a thing she clarified). Sold what I'd
 			 planned, emphasizing that this matter was likely to break Mr. Nightwalker, to the
 			 detriment of both of our interests in the haven, but that, were it avoided, we'd be
-			 handed two Gangrel with a very vested interest in resolving Sheriff Garett's spider
+			 handed two Gangrel with a very vested interest in resolving Sheriff Hawthorn's spider
 			 problem.
 				-Rolled 11 (!) successes selling it.
 			-She accepted, and of course required of me a future boon, but also said that the matter
 			 must still be punished.
 				-"How fragile is Mr. Nightwalker?" she asked.
 				 "Over the events of this evening, and our acquaintence prior to it, he has
-				 exhibited admirable self-control. Though I think the matter of this hunt would
-				 likely destroy him, not much shy of it seems likely to."
+				  exhibited admirable self-control. Though I think the matter of this hunt would
+				  likely destroy him, not much shy of it seems likely to."
 				 "Allowing Mr. Nightwalker to remain has already been seen as weak, and some think
-				 him a spy, sent by our enemies into the city.
-				 He must still be punished. There will be no blood hunt tomorrow night. . . for Ms.
-				 Barron. If Mr. Nightwalker survives the night, he will be pardoned. The girl will
-				 be marked by the Tremere, and bound to the Primogen Council."
+				  him a spy, sent by our enemies into the city.
+				  He must still be punished. There will be no blood hunt tomorrow night. . . for Ms.
+				  Barron. If Mr. Nightwalker survives the night, he will be pardoned. The girl will
+				  be marked by the Tremere, and bound to the Primogen Council."
 				 "A trial by ordeal. . . that seems most wise, and fitting, given my hopes for Mr.
-				 Nightwalker."
+				  Nightwalker."
 				-She then got up to leave, turning as she went to say, "I hope you know what you're
 				 doing. The board is watching you. You have a unique oppotunity. Prove yourself here."
 			-We have until the next night to prepare.
 				-Shortly after my meeting, I receive a text informing me that Elysium will not be
-				 held at the usual location, but rather at a theater that is the domaing of Clan
+				 held at the usual location, but rather at a theater that is the domain of Clan
 				 Toreador.
+		-Did some great roleplaying with Nate and Lesley here, breaking the news to Mr. Nightwalker: https://discord.com/channels/@me/968560386582397009/968570419802165280
+		-Hunt ideas, to help or at least avoid harming Mr. Nightwalker?
+			-Social disciplines on mortals, having them keep watch for him, bringing word back to me?
+				-Looks identical to participation, and offers opportunities to intervene in other
+				 ways if necessary.
 
 
 4/28/22:
-	-
+	-You spent the first hour or two the next evening checking in on your companies, and making a. . .
+	 withdrawal at the blood testing firm.
+	-A short while before Elysium was scheduled, I received a text, saying the it had been moved, and
+	 providing a new address.
+		-It still seemed to be a theater, though, and soon I was on my way there, with Ms. Veck
+		 driving.
+			-None of the others rode with me, but, after asking my permission to leave, Mr.
+			 Nightwalker followed my car on a motorcycle.
+		-When Ms. Gravel arrived, she had with her easily the most beautiful woman I'd ever seen.
+		-"Ms. Gravel, who is your friend?" I asked. "I don't believe I've seen you around the city
+		  before. . .?"
+		 "She's new in the city, and looking to be introduced tonight."
+		 "I am Tessa Laveau," she spoke up for herself.
+		-Ms. Felicity, though, seemed previously acquainted with Ms. Nouveau, and asked her and Ms.
+		 Gravel to step aside for a moment. The conferred privately for a couple of minutes, and Ms.
+		 Laveau.
+		-Meanwhile, Sheriff Hawthorn came to collect Mr. Nightwalker, asking him to follow and
+		 leading him deeper into the theater.
+		-A short moment later, Seneschal D'Franco stepped out of the theaters doors, walking up to
+		 Ms. Gravel.
+			-Standing a short distance away, I could overhear most of what they said. Seneschal
+			 D'Franco addressed Ms. Gravel, saying, "I spoke with Tessa Laveau. She insisted that
+			 _you_ should be the one to intorduce her. Dawn, though, is already scheduled to do so."
+				-Dawn Fadel is Ms. Felicity's sire, and perhaps Ms. Laveau's, from bits of chatter
+				 I've heard.
+				-Convention would dictate that one's sire would perform the introduction, where
+				 possible.
+			-Ms. Doyle, the harpy of Manhatten, meanwhile had walked out of the theater. She now
+			 approached the group and said, "Please, yes! Do it, Gravel! It will just be delightful!
+			 I'll be ever so pleased if you do."
+			-My observation of Ms. Gravel's discomfort was interrupted then, as Ms. Felicity asked
+			 to speak to me.
+				-"Of course. What can I assist you with?"
+				 "I have heard rumors that an elder is going to be attacked tonight. I can't tell
+				  you where I heard it from, but they said it was going to happen in a junkyard in
+				  Brooklyn."
+				 "That's grave news. Do you know who?"
+				 "Karen Staley." (She's the Toreador Primogen.)
+				 "Are you acquainted with Ms. Staley? She being your clanmate?"
+				 "She is. . . not fond of me."
+				 "I see. And what would you wish to come of the matter, then?"
+				 "I can't just do _nothing_. Not if someone is going to get hurt. . ."
+				 "These sources of yours, are they something you'd be willing to bring before the
+				  prince? Are you confident in them, and willing to risk bringing her attention to
+				  them?"
+				 "I. . . we have to do, _something_."
+				 "Maybe the sheriff instead? It _is_ a security matter. . ." I said, thinking aloud.
+				-"Lets step inside, and see who's available," I continued, offering Ms. Felicity my
+				 arm. She took it and we walked through the theater's doors.
+	-Stepping within, my attention was first caught by a trio of disturbing paintings up on the
+	 stage.
+		-The subject matter was unsurprisingly grim, given the gathering, long on red, death, and
+		 mass.
+		-Mr. Nier was drawn straight to them, of course, and immediately approached the stage and
+		 began to stare at them.
+		-I, meanwhile, scanned the crowd.
+			-Sheriff Hawthorn was up on stage, standing beside Ms. Barron and Mr. Nightwalker.
+			-Prince Panhard sat beside Primogen Wright, in a box next to the stage.
+			-I opted to send a text to Sheriff Hawthorn, saying, "I've heard rumors concerning Ms.
+			 Staley's safety this evening, and wished to alert you."
+				-He looked at his phone, then to me, and then began typing away himself.
+				-No response came to me, but Mr. Mason, in the floor seats in front of me, pulled
+				 out _his_ phone, looked at it, and then walked up onto the stage, near Sheriff
+				 Hawthorn.
+	-Shortly thereafter, Seneschal D'Franco, from on stage, looked to Prince and then announced,
+	 "Get settled. We'll be starting."
+		-"We'll start this evening with a presentation," she continued. "May I present Ambrogino
+		  Giovanni. He has arrived just yesterday from Austria."
+		-Walking onto the stage, he addressed the audience, saying, "Thank you for welcoming me
+		 into your society. Though my stay here will be short, I hope to be of aid to you and
+		 your Camarilla."
+		-He then stepped to one side.
+		-"Ambrogino Giovanni is not a member of the Camarilla, but he is an ally in good standing.
+		  I have known him for many years and have myself vouched for him to the prince."
+		-She then continued, saying, "There is another who is to be presented tonight." She turned
+		 to Misses Gravel and Laveau in the front row of ground seats and gestured up onto stage.
+		-The two walked up, and Ms. Gravel made something of a routine of it, forced-singsonging
+		 her way through the formal notes of a Camarilla introduction.
+		-Ms. Laveau got most of the attention, though, particularly from her clanmates, as many of
+		 the Toreador stared, slack-jawed.
+			-She spoke a promise of good behavior, and of loyalty to the Prince, "May her reign
+			 continue for generations."
+			-It was well spoken, and elicited a small golf clap from Primogen Wright, next to the
+			 Prince, soon joined by the rest of our clan (myself included).
+	-Following that, Prince Panhard then walked up to the stage.
+		-"Unfortunately, we have a grim task before us this evening. Sheriff Hawthorn, please forward
+		 the accused."
+		-He ushered Ms. Barron and Mr. Nightwalker forward from backstage, and then returned there
+		 himself.
+		-"Mr. Nightwalker is accused of embracing Ms. Barron, without my permission or knowledge,
+		 spitting on the very traditions of our Camarilla. By rights, I should have both of them
+		 destroyed.
+		 However, I believe this was not the fault of Ms. Barron. She was a victim of circumstances.
+		 As such, she will be allowed to live. She will be bound to each of the Primogen. In ten
+		 years, she will be allowed to become a member in good standing of our society.
+		 As for Mr. Nightwalker, I will offer him 5 minutes. . ."
+		-uproar, some looking excited, many talking
+		-Starting again, the prince said, "I will offer him 5 minutes. After which all of you will
+		 engage in the blood hunt. If he survives until 3:00, the hunt will be called off."
+		-She then leaned forward, briefly saying something to Mr. Nightwalker, and then dramatically
+		 pulled out a stop watch and started it.
+		-Mr. Nightwalker looked like he wanted to say something but, looking at the prince's face,
+		 he pulled his dog tags from his neck, dropped them at the feet of Ms. Barron, and then
+		 jumped down from the stage.
+		-He then ran down the aisle and, as he did so, tossed his phone to me. He then continued out
+		 the doors and into the street.
+	-As he went out the door, the theater interrupted into pandamonium, with much shouting and
+	 yelling.
+		-The prince, still on stage, donned a flak vest, and then began loading a shotgun.
+		-Ms. Gravel, interestingly, walked over to catch the attention of Mr. Kip DuBuque, her sire,
+		 and they began to talk for a few minutes.
+			-Though only a row of seats away, I couldn't make out any of the words over the uproar.
+		-Once Mr. DuBuque turned to walk away, toward the stage, I caught Ms. Gravel, asking her,
+		 "Will you be joining us in the hunt? I mean to set a watch for Mr. Nightwalker."
+		-Mr. Nier then spoke from behind me, apparently having joined us, saying, "We should look
+		 for him at the observatory."
+			-That mostly met blank looks from the rest of us.
+		-Meanwhile, we could see quite the illustrious set of kindred gathering on the stage.
+			-Their purpose became clear as Primogen Morgan opened his wrist and fed Ms. Barron her
+			 blood, followed by each of the other Primogen in turn.
+			-At the end of the affair, Ms. Barron exchanged a few unheard words with the prince, and
+			 looked rather defeated.
+		-As that wrapped up, Primogen Wright, spoke from the stage, the room quieting in response.
+		 "The hunt requires action. I myself will be in the field."
+		-He then lept down from the stage, and ran out the door himself.
+		-Ms. Gravel turned to me, asking, "Is that the signal?"
+		 "We'll certainly need to begin soon. Let's quickly collect Ms. Felicity."
+		-I then walked over towards where she sat in the risers across the room.
+		-She saw us coming, took the leave of her sire and walked down towards us.
+		-"Concerning the matter we discussed earlier, do you wish to talk to Sheriff Hawthorn
+		  further?"
+		 "He didn't seem too concerned. . ."
+		 "Very well. We've provided all the warning we have. We'll leave the matter in the sheriff's
+		  capable hands."
+		-I then pulled out my phone and began typing as I walked towards the theater doors.
+			-I was messaging Mr. Horton, asking him to send me a photo of Mr. Nightwalker and to set
+			 up a burner number for me, routed to my phone.
+		-The others followed me to the entrance, as many other kindred also left the theater with
+		 varying degrees of urgency.
+		-As we exited, I turned to the others and said, "I mean to set a watch for Mr. Nightwalker,
+		 using the kine. I suggest you all similarly find some way to look busy. . ."
+		-Ms. Gravel spoke up, saying, "I heard he might be at a bar. . ."
+		 "Then I suggest you follow up on that, Ms. Gravel. I will be starting my search here, where
+		  he was last seen."
+		-I then caught the attention of the first person I could on the sidewalk, asking them if
+		 they'd seen "my friend" who was suffering from some "distress" and asking that they contact
+		 me at the burner number if they see him, but not to approach.
+			-I laced it heavily with Dominate, embedding a suggestion to do just that.
+			-I then began to repeat the process with another passerby, spreading a web of eyes from
+			 where Mr. Nightwalker was last seen.
+			-Only after several such were sent off, shaking their heads a bit, did I take a moment
+			 to message my three retainers, telling them to revoke Mr. Nightwalker's access to our
+			 systems for the evening, and to let me know if they see him but not to risk themselves
+			 approaching him.
+		-Meanwhile, Ms. Gravel and Mr. Nier got into an uber, saying there were heading off to that
+		 bar, while Ms. Felicity disappeared back into the theater.
+	-At 3:30 or so, I got a call from Mr. Horton, saying that Mr. Nightwalker had arrived back at
+	 the haven, and was asking for me.
+	-I also, though, received a text message, calling me back to the Elysium at the theater.
+		-There, it was announced that Mr. Nightwalker had survived, and had been duely pardoned.
+		-Ms. Doyle, then announced that there was to be a show that she had put together.
+			-The show's first act featured the Caitiff Layla as Casilda, pining after her prince in
+			 a different land.
+				-Casilda kept trying to reach the prince's court in increasingly strange ways,
+				 emphasizing the strangeness of the court.
+				-Casilda then sang a song, heavily featuring a place called "Carcossa".
+					-Nothing I knew, but Ms. Gravel began to nod along.
+			-In the second act, Layla's friend Cat appeared as Camilla, in the court of the prince.
+				-Cat was in a ballgown wearing a mask, making exagerated efforts to remove it, and
+				 then shrieking, "How dare you?" while pointing at the back of the theater.
+				-As she said it, the sound of breaking glass came from the back, and all heads in
+				 the theater turned.
+				-There stood the prince, dressed in a white suit, and drenched in blood.
+				-Blood that it soon became apparent had come from a servent that was getting up
+				 from the ground, with a tray that had held refreshments.
+				-The theater then erupted into a clamor, drowning out the rest of the play.
+				-Prince Panhard stood, shot daggers at the mortified servant, and then stomped out of
+				 the theater.
+				-Seneschal D'Franco walked in from the lobby a few moments later, walked up on
+				 stage, and ushered the performers off the stage, following it with an announcement.
+				 "The Prince has called Elysium to a close. Please leave the theater."
+				-That earned a furious look from Ms. Doyle, though the caitiff looked mostly
+				 indifferent as they shuffled off back stage at the seneschal's urging.
+	-As our coterie, all together save Mr. Nightwalker and Ms. Arnautovic, got up to leave, Mr.
+	 Giovanni approached us, saying, "Excuse me. It's my understanding that you maintain a haven for
+	 the use of the Camarilla. Would I be able to stay there while I am in the city? It will only
+	 be for a short time?"
+	 "It's what it's for dear," Ms. Felicity quickly responded.
+	 "You have been properly introduced and welcomed into our city," I added. "We would happy to
+	  welcome you.
+	 "Watch out for the fish people," Mr. Nier interjected.
+	-That last earned Mr. Nier a hard look, but some recognition seem to follow it, then, "Yes, the
+	 fish people. . ."
+	-Following that, we made our way back to the haven in a variety of vehicles, three newcomers with
+	 us, Misses Laveau and Barron and Mr. Giovanni.
+		-On the way back, Mr. Nightwalker's phone buzzed with a text from Mason. The screen showed
+		 it's short contents: "Due to circumstances beyond my control, you're no longer welcome above
+		 the bar."
+	-Once back at the haven, I led Ms. Barron to Mr. Nightwalker in the apartments above.
+		-When we found him, he was missing one forearm, while the other was a scaly fish arm. Looking
+		 closer, his hair had grown thicker too, all around his head, forming something of a mane.
+		-He stared a moment at Ms. Barron, who stared right back, wide-eyed.
+		-I interrupted the silence by handing Mr. Nightwalker his phone back, saying, "You've had
+		 messages."
+			-He looked at it, let the phone fall from his hand, and then, with a growl of frustration,
+			 swiped at the wall with his remaining clawed hand, leaving deep gouges.
+		-He then turned back to me and questioned Ms. Barron's status, asking if he was allowed to
+		 spend time with her.
+		-"Nothing different was announced since you. . . left the theater. She's been bound, but I
+		  then presume she's to be released into your care. . ."
+			-The two then adjourned to one of the haven's apartments.
 
 
 TODO:
-	-You're already at the point you could be spending some XP.
-		-Training times are more or less undefined, though.
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 
 
@@ -1763,13 +1980,14 @@ The Coterie:
 		 haven (potentially freeing up one of mine).
 			-Yep, got that set up.
 		-Has a tow truck, a tow yard to go with it, and several other vehicles in his possesion.
+		-Ah, might be bowing out of the game, but will likely remain as an NPC.
 	-Cadusis Nightwalker, of Clan Gangrel (played by Nate):
 		-Mentioned having been a marine.
 		-Referred to you during the first session as "the coteries leader by consensus". Might have
 		 been a bit tongue-in-cheek, but it's a start.
 		-Mason, his mentor, is a Brujah who runs a bar near the safe haven.
 			-Mr. Nightwalker considers him fearsome, a veteran of the battle of New York.
-		-His sire, Ellie May, was the previous operator of the safe haven.
+		-His sire, Effie May, was the previous operator of the safe haven.
 			-She fled the city under murky circumstances, leading to our inheriting the responsibility.
 			-Apparently she's back now, living in Central Park, but is behaving oddly, and isn't
 			 willing to talk.
@@ -1816,8 +2034,10 @@ The Coterie:
 		-Her roommate, Ms. Hill seemed rather surly too, though it sounds like she possesses some
 		 interesting, and perhaps arcane, talents. . .
 		-Prince Panhard referred to her as Ms. Brukulin (spelling?).
+		-Her sire is Mr. Kip DuBuque.
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
+		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
 
 
 Boons owed to you:

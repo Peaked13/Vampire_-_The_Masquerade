@@ -94,7 +94,7 @@ Freebie points: 18 (15 + 4 from Merits and Flaws)
 	1 Willpower 5
 
 Equipment:
-	-Cellphone running Horton's customized Android build.
+	-Cellphone running Mr. Horton's customized Android build.
 		-Adapter cables, for connecting the cellphone to all sorts of devices.
 		-TODO: Flesh out what's on the phone somewhere. Improved security, call encryption, pen.
 			   testing tools, etc.
@@ -113,20 +113,27 @@ Advancement:
 		5  Dominate 2
 		10 Dominate 3
 		4  Subterfuge 3
-		6  Subterfuge 4
+		6  Subterfuge 4 (Impeccable Lies specialty!)
 		15 Presence 4
 		10 Fortitude 1
 		5  Fortitude 2
-		6  Intimidation 4
+		6  Intimidation 4 (specialty!)
 		2  Politics 2
+		20 Presence 5, or sooner?
 		4  Empathy 3
 		10 Fortitude 3
-		12 Manipulation 4
-		20 Presence 5
+		12 Manipulation 4 (specialty!)
 		15 Dominate 4
-	-Add some more attribute and ability increases to that?
+		20 Dominate 5
+	-Add some more attribute and ability increases to that? Remember that going over 3 gets your a
+	 free specialty.
 		16 Manipulation 5
 		8  Intimidation 5
+		6  Leadership 4 (Oratory specialty)?
+		4  Politics 3
+		6  Politics 4 (Camarilla specialty!)
+	-Virtues (current x 2) and Willpower (current) are both cheap for what they do.
+		-Self-Control and Courage are both already 4, but Willpower would be huge for you.
 	-Add some Auspex, and then some combos?
 		-Honeyed Words would be amazing if you pick up Auspex 2 and can learn it: 	https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 		-Ah, Impeccable Manners is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
@@ -167,3 +174,17 @@ Advancement:
 		-Exquisite Corpse (F3/Obf3) is _way_ off and combat focused, but _so_ flavorful: https://saligia.fandom.com/wiki/Combination_Disciplines#Exquisite_Corpse_.28Fortitude_.E2.80.A2.E2.80.A2.E2.80.A2.2C_Obfuscate_.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Denial Of Aphrodite's Kiss (D3/P3), making generation impact Presence like Dominate, seems tempting, now that you're higher gen than originally planned.
 		-Measure The Will (A2/D2) determines Willpower and virtues, and found here: https://mowcadah.proboards.com/thread/31/combination-disciplines
+	-Earn backgrounds? Or even social merits?!?
+		-It's undefined how increasing these works, but clearly you can earn more money, gain more
+		 retainers, etc.
+		-These are also a major focus for you in general.
+		-Which backgrounds?
+			-Allies, Contacts, Influence, or Status might be interesting options, especially as you
+			 embed yourself more in the city and politics.
+			-Domain would be a challenge, only really possible if story introduces it. Good, though.
+			-Herd, though, you can easily gain. You haven't burned much blood, but could.
+			-Resources is a possibility. You're already rich, but more is better.
+			-Ah, Retainers is also easy-ish to gain, and amazing. Could work towards that.
+				-Might be some politics involved? Lesley briefly hinted at a childe-style limit.
+		-Which merits?
+			-Elysium Regular?
