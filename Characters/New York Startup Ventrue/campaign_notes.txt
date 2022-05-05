@@ -1738,7 +1738,9 @@ TODO:
 				 "Allowing Mr. Nightwalker to remain has already been seen as weak, and some think
 				  him a spy, sent by our enemies into the city.
 				  He must still be punished. There will be no blood hunt tomorrow night. . . for Ms.
-				  Barron. If Mr. Nightwalker survives the night, he will be pardoned. The girl will
+				  Barron. If Mr. Nightwalker survives the night, he will be pardoned.
+				  I also cannot give you responsibility for Ms. Barron as well as Mr. Nightwalker.
+				  Another Gangrel in the city is going to upset things enough as is. The girl will
 				  be marked by the Tremere, and bound to the Primogen Council."
 				 "A trial by ordeal. . . that seems most wise, and fitting, given my hopes for Mr.
 				  Nightwalker."
@@ -1967,6 +1969,12 @@ TODO:
 		-"Nothing different was announced since you. . . left the theater. She's been bound, but I
 		  then presume she's to be released into your care. . ."
 			-The two then adjourned to one of the haven's apartments.
+		-I did, though, understand that Mr. Nightwalker's status in the sect for the next year would
+		 preclude him taking formal responsibility for the fledgling Ms. Barron.
+			-Prince Panhard personally warned me against doing so (see the notes between this session
+			 and the last).
+			-It will be necessary to find someone else to shoulder that burden soon.
+			-Did some discussion of that in chat: https://discord.com/channels/930231429286207539/930231429286207542/969310268846911598
 
 
 TODO:
