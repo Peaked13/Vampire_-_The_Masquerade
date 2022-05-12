@@ -395,7 +395,7 @@ Pregame stuff:
 			-Each of the modest apartments was identical in floorplan, empty aside from basic
 			 furnishings.
 			-In each, the table held a set of keys opening only the apartment's own door, as well
-			 as some paperwork, listing the aparment's contents and asking any staying there to
+			 as some paperwork, listing the apartment's contents and asking any staying there to
 			 sign the document.
 			-The apartments lack windows, and the floor has only one entrance, the elevator at the
 			 North end of the hall. No fire escapes or stairs or in evidence.
@@ -1780,11 +1780,11 @@ TODO:
 		 Ms. Gravel.
 			-Standing a short distance away, I could overhear most of what they said. Seneschal
 			 D'Franco addressed Ms. Gravel, saying, "I spoke with Tessa Laveau. She insisted that
-			 _you_ should be the one to intorduce her. Dawn, though, is already scheduled to do so."
+			 _you_ should be the one to introduce her. Dawn, though, is already scheduled to do so."
 				-Dawn Fadel is Ms. Felicity's sire, and perhaps Ms. Laveau's, from bits of chatter
 				 I've heard.
 				-Convention would dictate that one's sire would perform the introduction, where
-				 possible.
+				 possible. Ms. Fadel will likely be furious.
 			-Ms. Doyle, the harpy of Manhatten, meanwhile had walked out of the theater. She now
 			 approached the group and said, "Please, yes! Do it, Gravel! It will just be delightful!
 			 I'll be ever so pleased if you do."
@@ -1843,8 +1843,8 @@ TODO:
 			-It was well spoken, and elicited a small golf clap from Primogen Wright, next to the
 			 Prince, soon joined by the rest of our clan (myself included).
 	-Following that, Prince Panhard then walked up to the stage.
-		-"Unfortunately, we have a grim task before us this evening. Sheriff Hawthorn, please forward
-		 the accused."
+		-"Unfortunately, we have a grim task before us this evening. Sheriff Hawthorn, please bring
+		 forward the accused."
 		-He ushered Ms. Barron and Mr. Nightwalker forward from backstage, and then returned there
 		 himself.
 		-"Mr. Nightwalker is accused of embracing Ms. Barron, without my permission or knowledge,
@@ -1854,7 +1854,8 @@ TODO:
 		 As such, she will be allowed to live. She will be bound to each of the Primogen. In ten
 		 years, she will be allowed to become a member in good standing of our society.
 		 As for Mr. Nightwalker, I will offer him 5 minutes. . ."
-		-uproar, some looking excited, many talking
+		-That triggered an uproar. Casting my eyes about, some looking excited, and nearly all were
+		 talking.
 		-Starting again, the prince said, "I will offer him 5 minutes. After which all of you will
 		 engage in the blood hunt. If he survives until 3:00, the hunt will be called off."
 		-She then leaned forward, briefly saying something to Mr. Nightwalker, and then dramatically
@@ -1977,6 +1978,341 @@ TODO:
 			-Did some discussion of that in chat: https://discord.com/channels/930231429286207539/930231429286207542/969310268846911598
 
 
+5/11/22:
+	-The next night. . .
+	-Mr. Nightwalker and I awoke at the shared haven, while Misses Gravel and Laveau had
+	 adjourned to Ms. Gravel's home.
+	-(Jake and Til were both busy, and their characters were thus away too.)
+	-Upon waking, I was greeted by the sound of voices with thick Italian accents arguing in
+	 the hall. Stepping out, it turned out to be Mr. Corelli's retainers arguing whether Godfather
+	 I or II was better.
+	-That clamor was soon joined by a loud hum, from Mr. Giovanni's apartment. Loud enough it was
+	 shaking things in the other apartments.
+		-Ever burdened by responsibility for this circus, I went and knocked.
+		-The door was opened, revealing the translucent, ghostly image of someone who looks like a
+		 1920's gangster, with a bullet hole in his forehead.
+		-At my feet, across the threshold of the door, there was a line of blood.
+		-It took me a quick moment to master my surprise, but I then said, "I wasn't aware we had
+		 more guests. Is Mr. Giovanni available?
+		 "Mr. Giovanni is still preparing himself," the specter responded, "Please, come in."
+		-I stepped inside, following the dead man into the apartment's living room, where he was
+		 soon joined by another, a bullet ridden cowboy.
+		-The noise only grew louder within, now joined by a wretching/gagging noise, both coming
+		 from inside the bedroom.
+		-"Will Mr. Giovanni's preparations take much longer? Or will he have some time to speak
+		 with me?" I asked.
+		-In response, the ghost stepped through the bedroom wall. The sound briefly quieted, and
+		 the ghost returned, saying, "Mr. Giovanni will see you soon."
+		-I sat down at the kitchen table and Ms. Felicity and Mr. Nightwalker soon joined me. A few
+		 minutes later, Mr. Giovanni walked out of the bedroomm wiping dark, near-black liquid from
+		 his lips.
+		-I requested his discretion, citing the noise, and the neighbors.
+		 "I could kill them," he responded.
+		 "Ah, but then attention begets more attention, and soon we have a mess."
+		 "I must admit, I find it quite strange, following your traditions. . . I can prepare
+		  myself via other means. These can stay here. . . There will be no further disturbances."
+		-Continuing, he asked, "May I sit?" At my nod, he did so, and went on, saying, "I'm sure
+		 you're wondering what I'm doing here. I'm looking for a book, which was being translated
+		 by one John Paul, who has turned out to be a thief. Prince Panhard allowed me to search
+		 for it in the city. Of course concessions had to be made. . .
+		 I confess, though, that a lack of knowledge of the city is making this difficult. I am
+		 hoping that your coterie can help me in this."
+		-"Can you speak of the books contents?" I asked.
+		 "I admit reluctance. Most are not very accepting of what I am trying to do here.
+		  It is a treatsie on Necromancy, by ancient mages, called Ex Libris Necro. It is said to
+		  contain the secret of returning the dead to life. I wish to undo the curse of Caine. I do
+		  not wish to be a monster any longer."
+		 "I can understand why that would be a touchy subject," I responded, "Given the implied
+		  criticism. . ."
+		 "I know of several in the city knowledgeable in such matters," he continued, "They are,
+		  however, unwilling to work with me, due to my family's reputation. I believe one of yours
+		  is already acquainted with them, though."
+		 "And who is that?" I asked
+		 "You call her 'Gravel'."
+		 "Ah. She is busy with personal matters at the moment, a new friend of hers. She was
+		  introduced at the same time you were, in fact."
+		 "Oh, you mean Tessa! I've met few like her. Tell me, do you know of what stock she was
+		  embraced from"
+		 "No, I do not. I met her the same night you did."
+		 "I doubt that. . . Oh, you mean your Elysium? I first met her 20 years ago. She
+		  represented a group not unlike those I wish to speak to in this city, who I hoped to gain
+		  information from at that time, though the deal fell through."
+		-He then turned to Mr. Nightwalker, asking, "What has happened to you? It looks like the
+		 work of The Children of Hakim. Are there assassins in the city?"
+		-Mr. Nightwalker looked to me without responding.
+		 "No need to be impolite to our guest, Mr. Nightwalker. . ."
+		-Turning to Mr. Giovanni, he said, "I had a rough night. As for assasins, I've learned it's
+		 best to be ready for anything. . ."
+		-"Well," Mr. Giovanni, "I may be able to help you with those wounds. Would you be interested?"
+		 ". . . I would," Mr. Nightwalker responded.
+		 "To do so, I will need the corpse of a man. Preferably one hanged for a crime."
+		 "Where would I get such a thing?"
+		 "I can likely help with that, Mr. Nightwalker," I broke in, "After all, such things are
+		  generally a matter of public record."
+		-He then waxed on at length about the possibility of a cure. Clearly, he's excited about the
+		 subject.
+		-During that, though, there was a scraping sound near the door, and Mr. Nightwalker got up
+		 and took a step towards it.
+		-Ms. Barron then stepped into the room, saying, "I'm sorry. . . I didn't mean to eavesdrop. . .
+		 But, did you say you though you could cure this? Would. . . any of the darkness within me
+		 remain?"
+		-Standing up himself, Mr. Giovanni replied that, "All should be wiped away. The hunger,
+		 the pain, the memories of those you hurt. . ."
+		-Through out this, he laid the slimy charm on thick.
+		-An increasingly angry Mr. Nightwalker then started to speak, saying, "Mr. Nielsen. . ."
+		-I interrupted him, though, saying, "Please, Mr. Nightwalker. Take a breather, and take Ms.
+		 Barron with you. Ms. Barron, we will let you know if this matter bears. . . fruition."		  
+		-Mr. Giovanni just smirked.
+		-As they left, he turned to Ms. Felicity and I, saying, "Restoring Mr. Nightwalker is
+		 obviously to his benefit. What can I offer the rest of you?"
+		-Thinking a moment on the rumors I'd heard of the Giovanni, and unsure I wanted to be overly
+		 much associated with such, I said that, "Given your planned exit from the ranks of our
+		 Kindred, perhaps money is easiest. It is, after all, so wonderfully fungible. . ."
+		 "Disappointing. . . Well, money I certainly have."
+		 "Ms. Felicity, is there a boon you would request?" I asked.
+		 "Lets just find the book," she replied, "And then we can discuss a price."
+			-A wise bargaining position.
+		-"I'm afraid I'm not sure where to start, though," Mr. Giovanni admitted.
+		 "Well, you've given us an excellent option," I replied, "If you will excuse me, I will
+		  contact Ms. Gravel."
+		 -I then stepped out into the hall, to give her a call
+	-The phone was answered by "Professor Brukelen", though I recognized Ms. Gravel's voice, and
+	 had heard the Prince use the name Brukelen with her last night.
+		-"Ah, _Professor_. . . This is Mr. Nielsen. Our house guest is looking for a rare book,
+		  something that seemed within your area of interest. Would you have a moment to stop by
+		  and see us soon?"
+		 "I can do that. I was actually about to call _you_. Can you run a plate for me? You or
+		  Cadusis?"
+		 "That seems like it would be within Mr. Nightwalker's talents. Send it to me and I will speak
+		  with him about the matter. See you soon."
+	-While she was on her way, I walked over to Mr. Nightwalker's apartment.
+		-Knocking on the door, Mr. Nightwalker opened it after a short delay, saying, "Yes, Mr.
+		 Nielsen?"
+		 "I spoke with Professor Brukelen. Ms. Gravel, that is. She asked me to run a plate. Would
+		  that be within your talents, given your contacts among the police?"
+		-He nodded and, 40 minutes on his computer later, he told me it was one of three plates
+		 registered to the same car. One belonged to the FBI, another to the CIA, and the third to
+		 an "Angela Caldwell".
+		-"If Gravel is mixed up with something like this," he said, "The government is taking an
+		 interest in whatever she's involved in."
+		 "That certainly makes our night even more complicated. . ."
+		-"There's another complication too," Mr. Nightwalker continued, "One concerning the security
+		  of the haven. Do you remember the night Ashley was drained, when we found her in that
+		  abandoned house?"
+		 "Very vividly, Mr. Nightwalker."
+		 "What happened to the coin we found with her?"
+		 "As far as I know, it's still in Ms. Veck's possession. Why do you ask?"
+		 "I found it, or another like it, on me last night. My sire was tracking me. . . If it's
+		  the same one, I don't trust your staff. If it's a different one, something is wrong at
+		  Elysium."
+		 "It would be wisest to trust no one. . . but the bond is about as sure a guarantee as I
+		  know of. Come, let us speak with Ms. Veck, see where your first coin has ended up."
+	-Walking over to my apartment, to speak with Ms. Veck, I was interrupted by a text from
+	 Professor Brukelen, saying, "Can you come down to the lobby? I think we're being stalked."
+		 -I hurried into the apartment, and had Ms. Veck pull up the lobby cameras. The monitor
+		  showed two women unknown to me, as well as the woman at the front desk, who one of the
+		  strangers was talking with.
+		 -I texted Professor Brukelen, saying, "I have eyes on the lobby. What's going on?"
+		  "She's at the front desk, talking to the receptionist. Asking questions."
+			-The second stranger had pulled out her phone and begun typing away, just before I
+			 received that. Having witnessed Professor Brukelen's use of The Mask before, I began to
+			 put two and two together, there.
+		-I had Ms. Veck take a screenshot of the woman's face, which I forwarded to Professor
+		 Brukelen, saying, "Is this the one?"
+		 "Yes."
+		-"Is this connected to the matter of the plates?" I continued.
+		 "Yep."
+		 "Then we should proceed with caution. That may be Angela Caldwell. The car the plates are
+		  registered to has three sets attached to it. One tied to her name, but the others are tied
+		  to the FBI and CIA respectively."
+		-I then watched Professor Brukelen, on the monitor, duck around a corner, then creep up to
+		 this woman, apparently unnoticed, and grab something from her jacket pocket.
+		-I then received another text from the professor, on which Mr. Nightwalker was apparently
+		 also copied, saying, "Cadusis, can you help me tie a phone to a pidgeon or something?"
+		-We exchanged a glance, and he then responded, "I can. Meet us on the roof."
+			-Mr. Nightwalker, Ms. Felicity, Mr. Horton, and I all headed up to the roof, via the
+			 elevator.
+			-Mr. Nightwalker tried to bring Ms. Barron, saying before he did so that he should "get
+			 her out a bit, distract her." After a short discussion, though, she refused, returning
+			 to the apartment and slamming the door.
+			-Ms. Felicity volunteered to speak with her, to try and cheer her up, which Mr.
+			 Nightwalker accepted.
+		-Professor Brukelen then left the lobby, followed a minute or so by the stranger.
+		-A minute after that, there was another text: "She's following me somehow. Tracking me."
+		-Then: "She saw something at the bridge two nights ago. More than she should have."
+		-That elicited quite a bit of alarm from Mr. Nightwalker. Turning to him, I said, "Perhaps
+		 we should have a conversation with this woman."
+		 "On the roof, in case it gets messy?" Mr. Nightwalker asked.
+		 "I do really mean a conversation, Mr. Nightwalker. Though, still, that is perhaps best."
+		-We decided to send Ms. Felicity down to collect her, while Professor Brukelen continued
+		 her climb, via the fire escape, to the roof.
+		-Around 10 minutes, Ms. Felicity and the stranger emerged from the roof's access door.
+			-Ms. Felicity was rather wide-eyed, glancing at Mr. Nightwalker and myself in turn,
+			 with an alarmed expression on her face.
+			-The stranger, though, stepped boldly forward, introducing herself as Angela Caldwell.
+			 "I'm seeking information," she continued, staring at Mr. Nightwalker, "Have you come
+			  into contact with any items bearing strange symbols recently?"
+			-Seeing our silent stares, she continued, saying, "I work with Mr. Scott. Perhaps you've
+			 heard of him?
+				-She could mean Leon Scott, a candidate for City Council, hoping to represent Hell's
+				 Kitchen.
+			-"If you mean the politician," I replied, "I know the name. . ."
+			 "Good. Mr. Scott has a vision. He see's a Hell's Kitchen where the people work in
+			  harmony with one another, and with other factions hidden from the world, who are still
+			  part of the plan. . .
+			  He sees no reason to hide in the shadows.
+			  My goal here is twofold. First, to verify that you are vampires. I know one among your
+			  number is, and presume you all are."
+			 -That elicited grimaces from most of us, but she continued on, saying, "Second, to
+			  recover an item. I'm afraid I'm not sure what it looks like."
+			 -"I would like you to meet with Mr. Scott," she went on, "I understand you may not be
+			   comfortable in a location unknown to you. Mr. Scott is willing to come to you."
+			  "I am always happy to work, hand in hand, with the government of our fair city.
+			   Perhaps we can indeed arrange a meeting. Is there some way that I may contact you?
+			 -In response, she pulled out two cards, handing them both to me.
+				-The first described her as a "freelance military operative".
+				-The other was a campaign card for Mr. Scott.
+			 -"Will you be attending as well?" I asked.
+			  "I can, if it will make you feel better"
+			  "It would, it would. Please do.
+			  "Where shall we meet?"
+			  "TBD. I would of course like to confer with my confederates."
+			  "I understand. Thank you for speaking with me. I'm sorry I startled you."
+			  "It is understandably difficult, making an acquaintance in certain circles. Thank you
+			   for your courtesy."
+			 -Ms. Caldwell then turned to Mr. Nightwalker, staring for a moment, and said, "Do you
+			  still have the coin on you? It is a coin, isn't it?"
+			  He stared back.
+			  "A small coin?" she continued, "It's in your pocket. Please, give it to me. I'm afraid
+			   I must insist."
+			  "What's your plan?" Mr. Nightwalker growled.
+			  "My plan is to destroy it, as it's dangerous. Though it may reform, elsewhere."
+				-She didn't seem to be lying about this.
+			  "No, what's your _clan_?" he clarified, I too having apparently misheard him.
+			  "Clan? I'm afraid I don't understand."
+			-Mr. Nightwalker turned to look to me.
+			 "Well, Mr. Nightwalker, it might be best to be rid of it. What's your plan for the
+			  thing?"
+			 "You know my plan. We discussed it below."
+			-Ms. Felicity then broke in, saying, "Couldn't we return it to you when we meet up?"
+			-The woman sighed, and then said, "Perhaps you don't understand how dangerous this thing
+			 is. It's a piece of a greater entity. If it broke free, it could be disasterous."
+			 "Let me guess," Mr. Nightwalker said, "Red crab things? Climbing up from some kind
+			 of hell mouth?"
+				-???
+			-Professor Brukelen, in her normal Mask, then stepped out from behind a structure on the
+			 roof, saying, "Can this thing harm the bearer?"
+			-That badly startled Ms. Caldwell, who exclaimed, "Where did you come from?!? You were
+			 watching me?"
+			 "I was over there. Behind that thing," Professor Brukelen replied.
+			-Mr. Nightwalker then broke in with a surprising plan, offering, "I can give you the coin
+			 if you'll help us with another. We're looking for a book. Find it for us, and I'll give
+			 you the coin."
+			-She nodded, and then stared off into space for a moment. She then said, "The book is
+			 in Upper Manhatten. It is to be sold at an auction in three nights. The sale is going
+			 to be held at The Fireside Lounge."
+			-Mr. Nightwalker then reached into his pocket, and showed her the coin, with his
+			 remaining and twisted arm. "Any chance you can get us into the sale, or assist us in
+			 purchasing the book?
+			 "I cannot. I have told you where it will be, but have no power to intervene."
+			-Mr. Nightwalker turned to the rest of us, saying, "Anything else you want to ask her?"
+			-Only I spoke, saying, "I suppose that will have to do."
+			-She held out her hand, saying, "The coin?"
+			-Mr. Nightwalker leaned forward with it, pulling down his hood to reveal his maned face,
+			 and saying, as he handed it to her, "If you fuck us here, this will be the last face
+			 you see."
+			 "Yes, yes. Very well."
+		-Just after Ms. Caldwell left, Professor Brukelen handed Ms. Caldwell's phone to me, and the
+		 sim to Mr. Nightwalker.
+		-The elevator ride back down contained much discussion of theories about who or what she is.
+			-Mr. Nightwalker suggested she was one of us, or a thinblood.
+			-Professor Brukelen respond no to each, though elaborated no further.
+			-"Then what?" Mr. Nightwalker asked.
+			 "You know there are human mages, right? True mages?"
+			 "No? That's above my paygrade. . ."
+			-Ms. Felicity then broke in, saying, "From our elevator conversation, she's not one of
+			 us, given what she didn't know. . . And also what she _did_ know about me: when I last
+			 fed and all it's details."
+			-"A mortal mage could do that," Professor Brukelen responded.
+		-Professor Brukelen also mentioned that The Fireside Lounge is somewhat associated with the
+		 Tremere. They're known to recruit there.
+	-Back inside the haven, Mr. Nightwalker asked to speak with all of us.
+		-It concerned the matter of the coin. He said that, last night, despite having given it to
+		 Ms. Veck, he again found the coin on him, and though his sire was tracking him with it
+		 somehow.
+		-He also mentioend that, during the blood hunt, he encountered his sire again, and she
+		 summoned strange crab creatures form the deeps.
+		-They fought, leading to some of his wounds, and he slew his sire.
+		-Primogen Wright was there for the fight as well, and said that Mr. Nightwalker should tell
+		 everyone that _the primogen_ was the one who slew her.
+			-Questionable, telling us, but Mr. Nightwalker claimed he could not lie to us.
+			-It would be wise to improve his skill with lies, then, if he'll be lying to others
+			 among our Kindred. . .
+		-Mr. Nightwalker also said the two of _them_ then fought, the Primogen spitting acid that
+		 accounted for some of Mr. Nightwalker's more grevious wounds.
+			-A show of abiding by the blood hunt, I think, given what preceeded it.
+	-Ms. Felicity also took the opportunity to warn Mr. Nightwalker against trusting the Giovanni.
+		-"Do you know what will it cost you, his help?"
+		 "A corpse."
+		 "No, I don't mean the cost of the spell itself. . ."
+	-Mr. Nightwalker then again raised the matter of the coin given to Ms. Veck, and we went to my
+	 apartment to speak with her.
+		-Upon asking her where the coin was, Ms. Veck pulled a lockbox from a drawer. Inside were
+		 passports, money, and a pistol, but no spider coin.
+		-Ms. Veck seemed confused, and said, "That's strange. . . I . . . Lets look at the video."
+		-Scrolling through it, at 1:00 PM the day before the blood hung, the image of a person
+		 suddenly appeared in the room, from one frame to the next.
+		-It looked like Effie May. After appearing, she went to the desk, picked up the lockbox's
+		 key, opened the lock box, pulled out the coin, and set it on ground.
+		-She then disappeared as suddenly as she had appeared.
+		-A few minutes later swarm of ants climbed out of the moulding, and carried off the coin.
+		-May briefly reappeared a few minutes later, closing the lockbox and returning it to it's
+		 drawer.
+		-Follwing the ants out into the hall, via another camera, they disappeared beneath Mr.
+		 Nightwalker's apartment door with the coin. There were no cameras inside.
+	-Mr. Nightwalker then went off to rest, and brought Ms. Felicity with him, to speak with Ms.
+	 Barron.
+		-Soon, a variety of crashes echoed out from the apartment, so clearly things did not go well.
+		-I rushed out of my apartment, towards theirs.
+		-By the time I was out in the hall, though, Ms. Barron was storming out from the apartment,
+		 followed by Ms. Felicity, who was talking to her in soothing tones.
+		-Behind me, Professor Brukelen and Ms. Laveau emerged from the elevator, talking with each
+		 other.
+		-Taking in the scene before us, Ms. Laveau rushed forward, saying, "Oh, sister! What's wrong?"
+		-Ms. Felicity, though, was having none of that. She said, "Don't worry about it! We're just
+		 having a girls night."
+		 "Oh! Gravel, come, lets join them! We'll do our nails. . ."
+		 "A _private_ girls night. Some other time, maybe. . ."
+		-Meanwhile, in a low voice, I told Professor Brukelen that I'd heard Ms. Laveau and Mr.
+		 Giovanni have a history together.
+			-"Yeah. She told me all about it."
+			 "I would love to hear about it myself, if they're both to be our house guests. . ."
+		-Ms. Laveau then walked back down the hall to us, asking us what we were talking about.
+		 "We were discussing arrangements for your stay with us here," I replied, "Come, let me show
+		  you to your room."
+		-She took my arm and and I led her to the empty apartment next to Mr. Giovanni.
+		-The pair at the door, Misters Joey and Nuñoz, were silent for once. Ever since Ms. Laveau,
+		 had entered, they'd been staring at her, slack-jawed and practically drooling.
+		-While Ms. Laveau got settled in, I returned to Professor Brukelen, and ushered her inside
+		 my apartment, asking her to fill me in on her friend's history.
+			-Professor Brukelen said she'd been abandoned by her sire.
+			-Mr. Giovanni, then, helped her understand what she was.
+			-They also arrived in New York together, meaning Mr. Giovanni was here longer than he
+			 admitted at his introduction. . .
+
+
+TODO:
+	-What _generation_ was Ms. May? Her powers seem to have been quite formidable, and I wonder at
+	 the source.
+	-Sort out the corpse of a hanged man.
+	-Investigate Ms. Caldwell's phone.
+	-Set up that meeting with Mr. Scott?
+	-Sort out what to do about the book auction?
+		-Tell Mr. Giovanni, and consider our job done?
+			-My fee as a percentage of price? Professor Brukelen seems to think it's _priceless_.
+		-Recover it ourselves? Would allow us to demand that much more in return. . .
+
+
 TODO:
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 
@@ -2036,16 +2372,20 @@ The Coterie:
 			 source of intelligence for the sect.
 				-They also asked you to extend this understanding to any of the coterie that also
 				 discover her past, though none yet have.
-	-"Gravel", of Clan Nosferatu (played by Ash)
+	-Professor "Gravel" Brukelen, of Clan Nosferatu (played by Ash)
 		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
 		 Buren.
 		-Her roommate, Ms. Hill seemed rather surly too, though it sounds like she possesses some
 		 interesting, and perhaps arcane, talents. . .
-		-Prince Panhard referred to her as Ms. Brukulin (spelling?).
+		-Prince Panhard referred to her as Ms. Brukelen.
 		-Her sire is Mr. Kip DuBuque.
+		-She is now quite close with Ms. Laveau, seemingly taking Ms. Laveau under her wing, a thing
+		 that's somewhat out of character, given the spotlight it put on her at Ms. Laveau's
+		 introduction.
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
+		-More than a bit catty, but has demonstrated admirable social skills in the course of that.
 
 
 Boons owed to you:
@@ -2064,7 +2404,7 @@ Boons owed:
 			-You formally requested and were granted permission to operate your "blood testing"
 			 research startup, it being adjacent to the Tremere Primogen's domain of hospitals,
 			 blood banks, and emergency services.
-	-Kenneth Wright, the Ventrue Primogen:
+	-Kenneth Wright, the Ventrue Primogen and your grandsire:
 		-2 pt. boon:
 			-For the introduction that made the above boon possible, and his assistance in winning
 			 a favorable deal there.
@@ -2076,7 +2416,7 @@ Boons owed:
 			 all. He means to see a return on his investment, and that no shame is brought to him.
 			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
 			 a debt you didn't exactly sign yourself up for.
-	-Prince Helen Panhard, of New York City:
+	-Prince Helen Panhard, of New York City and Clan Ventrue:
 		-Major boon: You begged a favor of her as a clanmate to save the (un)life of Ms. Barron.
 
 
