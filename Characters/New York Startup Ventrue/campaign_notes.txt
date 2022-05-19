@@ -2307,10 +2307,11 @@ TODO:
 	-Sort out the corpse of a hanged man.
 	-Investigate Ms. Caldwell's phone.
 	-Set up that meeting with Mr. Scott?
-	-Sort out what to do about the book auction?
+	-Sort out what to do about the book auction:
 		-Tell Mr. Giovanni, and consider our job done?
 			-My fee as a percentage of price? Professor Brukelen seems to think it's _priceless_.
 		-Recover it ourselves? Would allow us to demand that much more in return. . .
+		-Some discussion of both the price and our strategy for acquisition: https://discord.com/channels/930231429286207539/930231429286207542/974388281464750110
 
 
 TODO:
