@@ -1997,7 +1997,7 @@ TODO:
 		 "Mr. Giovanni is still preparing himself," the specter responded, "Please, come in."
 		-I stepped inside, following the dead man into the apartment's living room, where he was
 		 soon joined by another, a bullet ridden cowboy.
-		-The noise only grew louder within, now joined by a wretching/gagging noise, both coming
+		-The noise only grew louder within, now joined by a retching/gagging noise, both coming
 		 from inside the bedroom.
 		-"Will Mr. Giovanni's preparations take much longer? Or will he have some time to speak
 		 with me?" I asked.
@@ -2146,18 +2146,21 @@ TODO:
 		 "I do really mean a conversation, Mr. Nightwalker. Though, still, that is perhaps best."
 		-We decided to send Ms. Felicity down to collect her, while Professor Brukelen continued
 		 her climb, via the fire escape, to the roof.
+			-As she stepped into the elevator, Ms. Felicity took a parting shot at the pair by the
+			 guarding it, saying, "I always thought the third Godfather was the best one," just as
+			 the doors closed, leaving them sputtering.
 		-Around 10 minutes, Ms. Felicity and the stranger emerged from the roof's access door.
 			-Ms. Felicity was rather wide-eyed, glancing at Mr. Nightwalker and myself in turn,
 			 with an alarmed expression on her face.
 			-The stranger, though, stepped boldly forward, introducing herself as Angela Caldwell.
 			 "I'm seeking information," she continued, staring at Mr. Nightwalker, "Have you come
 			  into contact with any items bearing strange symbols recently?"
-			-Seeing our silent stares, she continued, saying, "I work with Mr. Scott. Perhaps you've
+			-Seeing our silent stares, she continued, saying, "I work with Mr. Scotts. Perhaps you've
 			 heard of him?
-				-She could mean Leon Scott, a candidate for City Council, hoping to represent Hell's
+				-She could mean Leon Scotts, a candidate for City Council, hoping to represent Hell's
 				 Kitchen.
 			-"If you mean the politician," I replied, "I know the name. . ."
-			 "Good. Mr. Scott has a vision. He see's a Hell's Kitchen where the people work in
+			 "Good. Mr. Scotts has a vision. He see's a Hell's Kitchen where the people work in
 			  harmony with one another, and with other factions hidden from the world, who are still
 			  part of the plan. . .
 			  He sees no reason to hide in the shadows.
@@ -2165,13 +2168,13 @@ TODO:
 			  number is, and presume you all are."
 			 -That elicited grimaces from most of us, but she continued on, saying, "Second, to
 			  recover an item. I'm afraid I'm not sure what it looks like."
-			 -"I would like you to meet with Mr. Scott," she went on, "I understand you may not be
-			   comfortable in a location unknown to you. Mr. Scott is willing to come to you."
+			 -"I would like you to meet with Mr. Scotts," she went on, "I understand you may not be
+			   comfortable in a location unknown to you. Mr. Scotts is willing to come to you."
 			  "I am always happy to work, hand in hand, with the government of our fair city.
 			   Perhaps we can indeed arrange a meeting. Is there some way that I may contact you?
 			 -In response, she pulled out two cards, handing them both to me.
 				-The first described her as a "freelance military operative".
-				-The other was a campaign card for Mr. Scott.
+				-The other was a campaign card for Mr. Scotts.
 			 -"Will you be attending as well?" I asked.
 			  "I can, if it will make you feel better"
 			  "It would, it would. Please do.
@@ -2205,9 +2208,9 @@ TODO:
 			-That badly startled Ms. Caldwell, who exclaimed, "Where did you come from?!? You were
 			 watching me?"
 			 "I was over there. Behind that thing," Professor Brukelen replied.
-			-Mr. Nightwalker then broke in with a surprising plan, offering, "I can give you the coin
-			 if you'll help us with another. We're looking for a book. Find it for us, and I'll give
-			 you the coin."
+			-Mr. Nightwalker then broke in with a surprising plan, offering, "I can give you the
+			 coin if you'll help us with another matter. We're looking for a book. Find it for us,
+			 and I'll give you the coin."
 			-She nodded, and then stared off into space for a moment. She then said, "The book is
 			 in Upper Manhatten. It is to be sold at an auction in three nights. The sale is going
 			 to be held at The Fireside Lounge."
@@ -2304,14 +2307,232 @@ TODO:
 TODO:
 	-What _generation_ was Ms. May? Her powers seem to have been quite formidable, and I wonder at
 	 the source.
+		-"She was 12 steps from Cain."
+		-Unsurprisingly, that does not explain the things Mr. Nightwalker said she did.
 	-Sort out the corpse of a hanged man.
+		-Or does Mr. Nightwalker not want to do that after all?
 	-Investigate Ms. Caldwell's phone.
-	-Set up that meeting with Mr. Scott?
+	-Set up that meeting with Mr. Scotts?
 	-Sort out what to do about the book auction:
 		-Tell Mr. Giovanni, and consider our job done?
 			-My fee as a percentage of price? Professor Brukelen seems to think it's _priceless_.
 		-Recover it ourselves? Would allow us to demand that much more in return. . .
 		-Some discussion of both the price and our strategy for acquisition: https://discord.com/channels/930231429286207539/930231429286207542/974388281464750110
+
+
+5/25/22:
+	-The next evening. . .
+	-For once, I woke to no chaos. The haven was quiet, and there were no reports of angels the like
+	 about the city.
+		-In fact, it was a fine evening over all, with everything just going smoothly, for myself
+		 and others too.
+	-Mr. Nier returned early that evening, and, somewhat more surprisingly, Ms. Arnautovic too,
+	 arriving shortly thereafter.
+		-Ms. Arnautovic seemed a bit fuzzy on how long she had been gone. . .
+		-We spent some time catching them up on recent events.
+		-They also made the acquaintances of Ms. Laveau and Mr. Giovanni.
+			-In the course of that, I also described the assistance Mr. Giovanni had requested of
+			 us, and asked her if she if familiar with The Fireside Lounge.
+				-She was indeed, knowing it as a gathering place of Hermetic occultists, and one
+				 her clan is known to frequent.
+					-She named the group associated with it "The Hermetic Order of the Golden Dawn".
+				-We also discussed how to proceed with the auction.
+					-Mr. Giovanni, there for the discussion, offered up resources to purchase the
+					 tome, saying that he'd find no price too great to acquire it.
+				-She was also familiar with the book in question, naming it's author as one Saulot.
+			-Mr. Giovanni also asked us if anyone here had been to Staten Island, and if it was true
+			 that "The Sabbat have taken it".
+				-None of us had, but Mr. Nier gave credence to the rumor, of course, and Ms.
+				 Arnautovic warned him of a faction of. . . her past acquaintance, The Harbringers
+				 of Skulls, who would not take kindly to his presence.
+				-Mr. Giovanni said he was familiar with The Harbringers, saying that he did not fear
+				 them.
+				-He also asked if we knew if another faction could be found in our city, one that
+				 he described as "a group of his wayward kin", The Samedi. None of us knew the name,
+				 though.
+	-Mr. Giovanni then took his leave, attended by a cloud of specters.
+	-With just our coterie and it's hangers on about now, I suggested we have two avenues of
+	 investigation before us: the auction and the source that told us about it, Ms. Caldwell.
+		-Ms. Arnautovic thankfully knew much about this Fireside Lounge. She knew the ritual,
+		 password, or whatever to gain access to the place, and even believed she could go there
+		 freely, the night of the auction or even before.
+			-She even knew someone who may be overseeing the auction, one Millie Palmer, a clanmate
+			 of hers who is deeply involved in the trade in occult secrets in the city.
+			-She also spoke more of the book itself, saying it's author, Saulot, had been the founder
+			 of some demon worshipping faction of medieval Kindred, and that it's said to also
+			 contain commentary from a similar luminary
+		-As to Ms. Caldwell, my concern there took some explaining for the newly returned. I think,
+		 though, that I got across both the danger of a Masquerade issue, and that of her apparent
+		 abilities.
+	-We resolved to visit The Fireside Lounge.
+	-First, though, I dropped off Ms. Caldwell's phone with Ms. Veck, asking her to tell us
+	 everything she can about last night's visitor, and to call in Mr. Horton, if necessary.
+		-She poked at it briefly, laughed, and said, "Nah, I've got this."
+		-I watched a moment, and then walked out back into the hall.
+	-In the hall, I could see Ms. Arnautovic getting to know her new neightbors, Misses Barron and
+	 Laveau.
+		-Disturbingly, I also saw another Ms. Veck, but no Professor Brukelen, and quickly put two
+		 and two together.
+			-"That is quite rude of you. . ." I commented.
+			-She explained that she was thinking we should pay a visit to Mr. Scotts's campaign
+			 offices, and said this seemed a convenient guise for her while Ms. Veck is busy.
+			-I agreed that seemed useful, but asked her to choose another guise, saying that, "Ms.
+			 Veck is well known in some circles, and it might invite awkward questions were she
+			 recognized. Better some random face. After all, I have many employees."
+	-After some further discussion, we decided that Ms. Arnautovic and Mr. Nier would investigate
+	 the lounge, establishing Mr. Nier's credentials there, while Professor Brukelen, Ms. Felicy,
+	 and I did some investigation of Mr. Scott.
+	-We spent an hour or two getting to that conclusion, and getting ready, during which Ms.
+	 Veck walked out into the hall, reporting success with the phone.
+		-In the phone's call logs, there were:
+			-Regular calls, once an hour or so, to a Adai Yadav, who seems to be an assistant
+			 to Mr. Scotts.
+			-Some to Leon Scotts himself.
+			-Some to Chloie Gallows, an actress we all know from TV, especially local stuff.
+			-Others to Rebecca Davis, Weyland Reece, and Bob Laub.
+		-There were also various text conversation records:
+			-She very much seemed to know too much, about many different things.
+			-She often seems to be figuring out what happened somewhere, after the fact. Whether
+			 through some power unknown to us or just mundane investigation, it was not clear, but
+			 I suspect the former.
+			-She also often seemed to make. . . augeries, similar to last night, predictions
+			 quickly refined from very vague to very specific over the course of a conversation.
+			-She did seem to be on a tight leash, making regular, time-tagged check-ins with some
+			 of her contacts.
+			-The texts often end in random, extraneous words, often colors, foods, or other
+			 sensations.
+				-Professor Brukelen suggested Mr. Nier should have a look at these, and I
+				 agreed it. . . felt like his wavelength.
+				-Ms. Veck printed out a selection of the conversations, and handed them to Mr.
+				 Nier.
+				-He spent some time folding the printouts, seemingly at random, then glancing
+				 over to the rest of us and mumbling, ". . . it was like time worked backwards.
+				 Like reality breaking."
+		-Finally, there was indeed location data:
+			-The location she visited by far the most often was The Ruby Rose Casino.
+				-A cursory search revealed it's owned by Mr. Scotts, and located in Hell's Kitchen.
+				-The website of the casino also mentions a veteran's support group that meets
+				 there near nightly, with whom the name Weyland Reece, from above, seems to be
+				 associated with.
+			-The location she spends the second most time at is a warehouse, also nearby, belonging
+			 to Microelectronics, a nondescript tech company.
+	-Our respective parties set out, they to the lounge and us to a campaign office.
+		-Before we arrived at our destination, I recieved an alarming text from Ms. Arnautovic:
+			-https://discord.com/channels/930231429286207539/930231429286207542/979191300953866270
+			-Apparently our door-to-door canvasser, Ms. Caldwell, was being quite rudely persistent,
+			 and had made a house call on Mr. Nier, at his coffeeshop.
+		-We rerouted there.
+		-On the way there, Professor Brukelen got a call from her roommate, warning her that someone,
+		 not Ms. Caldwell, "the chick from before", had been poking around the house.
+		-While she talked, we neared Omega Beans, illuminated by the lights of numerous squad cars
+		 parked in front of it.
+			-Well, maybe we should check on Professor Brukelen's haven first. . .
+	-Sending Mr. Hubbard yet another address, we headed towards Professor Brukelen's home.
+	-As we crossed the bridge into Queens, we found ourselves immersed in fog, fog that had not
+	 been on the other side. . .
+		-As we parked, there, we opened the doors to a chorus of many barking dogs.
+		-"Mr. Hubbard, bring your gun from the trunk."
+		-Walking to the professor's apartement, the wildlife was strangely abundant. We saw several
+		 racoons, heard calling birds, and witnessed many, many rats.
+		-At the house, Professor Brukelen pointed out footprints belonging to whoever was prowling
+		 around. Size 16 men's, or so. . .
+			-The tracks seemed to congregate around trashcans, the professor's and those of two
+			 other nearby houses.
+			-They seemed to lead _from_ a nearby sewer, but just _to_ those trash cans, with no
+			 trail leaving or returning.
+		-Mr. Hubbard's hand then quickly went to the gun in his coat, followed by him saying,
+		 "Boss. Saw something up on the roof. . . It didn't look human. Shaggy."
+		-Professor Brukelen asked which house, and he pointed. She then started creeping towards
+		 that house.
+		-She came scurrying back quickly, though, pursued by a bent old woman, not five feet
+		 tall, and covered in spiders. As the crone walked forward, shadows gathered around her,
+		 soon hiding her from sight, and she was gone when they cleared.
+		-Professor Brukelen, though, quickly pointed behind us. Turning, the woman was now
+		 there, between us and the car. She cracked a slow and toothy smile.
+		-". . . Can we help you?" Professor Brukelen eventually croaked out, perhaps thinking
+		 the crone bore a. . . familial resemblence.
+		 "Perhaps you can. . ." the crone responded, "I am looking for my sisters. It is
+		 difficult, you see, for I have not yet met them. But we are joined by blood. The house
+		 was to be marked with the sign of the serpent and star."
+		-Professor Brukelen started at that last, seemingly recognizing it. "Have you been in
+		 the city long?"
+		 "Yes and no," the creature responded, "This body has been here long, but I have only
+		  recently returned to the city."
+		 "Do you need to be introduced?"
+		 "I have given my name to Baron SOMETHING Blossom?"
+		-The professor seemed to know that name, and pulled out her phone to call someone, saying,
+		 "I think someone is here for Sirin."
+		-A moment later, her roommate came out with a cigarette in hand. She looked at the crone
+		 for a moment, and then her eyes widened. She said, "Majesty, is that you?!? Gravel, bow!"
+			-I can read a room, and bowed too.
+		-"Ah, good!" _her majesty_, responded. "You do remember the traditions!"
+		-Turning to the professor, her roommate, she then said, "I'll explain. I think we have a
+		 house guest."
+		-She then ushered the crone inside.
+		-As we turned to walk away, Professor Brukelen spoke up, saying, "Well, false alarm!
+		 Sorry I involved you in this all."
+		 "Not at all, Professor! You do keep such interesting company!"
+		 "Yeah, well, I was interested in the occult even before my embrace."
+		 "And of interest to several others among our coterie too! We'll have to look for
+		  opportunities to leverage that. Our recent past suggests there may be many such. . ."
+		 "Too many."
+		-We loaded back into the car, and I had Mr. Hubbard take us back to the coffee shop, while
+		 I searched for any public news concerning what happened there earlier this evening, to no
+		 avail.
+		-I decided to call Ms. Arnautovic. Speaking with her, she said that, "My higher ups have
+		 made some kind of deal with these people already, and let them off the hook tonight. Meet
+		 us back home, and I'll fill you in on the details.
+	-Once we were back at the haven, Ms. Arnautovic pulled the three of us newly arrived into an
+	 apartment, and filled us in on what happened at the coffee shop.
+		-They spoke there with Ms. Caldwell and her associates, who claimed to be _fallen angels_.
+		-Ms. Arnautovic called for help from her clan, who had these loons in hand, but then let
+		 them go, after being countermanded from those "higher in the pyramid".
+		-Well that's not good.
+		-Sam, having followed us into the apartment, seemed quite excited about this affair. "See!"
+		 he shouted, "See! It's just like my book."
+		-He plunked down some weathered old book of what seemed to be prophecy, with some clear
+		 allusions to historical events and, of course, the usual quota of ranting about angels.
+			-See the_winter_of_the_world.pdf
+			-"Can I copy that?" the professor naturally asked.
+			 "Uh, sure."
+	-Returning to the hall, I asked Professor Brukelen what manner of creature that crone was. She
+	 said, "I'm not sure, but I assume one of the fay."
+	-Ms. Laveau walked out into the hall a moment later, dressed in a power suit. Excited, she
+	 asked the professor, "Have you heard? Who she's hosting? If the sisters are gathering, I wish
+	 to attend. I'll speak for you!"
+	 "I guess. First I was going to copy this," Professor Brukelen responded, brandishing Sam's
+	 tome.
+	-At this, Ms. Laveau's eyes went wide. "Where did you find this?!?" she exclaimed.
+	-Professor Brukelen turned to Sam, looking at him.
+	 "Uh, it was just lying around? My cult follows this book. It speaks of a great winter. . ."
+	-This was the first time I saw Ms. Laveau's usual calm facade crack. "Do you know what this is?"
+	 Ms. Laveau asked him frantically. "It's said to be written by Lucifer himself! I've never seen
+	 a copy so complete. . ."
+	 "How can I thank you?" she asked Sam, laying the charm on thick. "I would do _anything_. . ."
+		-Meanwhile, during that, Sam had begun to mumble, saying, "Lucifer?!? How do you know if
+		 you worship Satan? You'd know, right?"
+		-At that last, though, Mr. Nier looked back at Ms. Laveau. "Uhh. . . a favor to be named
+		 later?" he sputtered, tugging at his collar.
+	-He still was concerned about his recent revelation, though, and, staring off, muttered, "Do I
+	 worship satan?"
+	 "I do not think so," Ms. Laveau replied, "Your mind is too clear for that."
+	 ". . . But, forty years of conditioning. I've followed the cult for so long. . ."
+	 "Do you wish to think clearer? Me and my sisters could help you?"
+	 "Help how?"
+	 "With the right teachers, great things are possible? . . . Perhaps you should put on your best
+	  and come join us?"
+	 ". . . Perhaps."
+	-Turning to the rest of us. Ms. Laveau said, "I wish the rest of you could join us! The only
+	 other I can ask, though, is you, sister."
+	 "I would be happy to join you, sister," Ms. Felicity responded.
+	-Mr. Nier went to go get ready, and Ms. Felicity began typing away on her phone.
+	-Professor Brukelen, meanwhile, focused on the copier.
+		-Soon, she had a copy of the book, but, oddly, it kept going, producing a further 3 pages
+		 not found in the original, with a title page labeling it "Third Circle: The Book of the
+		 Dragon".
+			-See book_of_the_dragon.pdf
+		-She made a few more copies of the book, and of this. . . addendum.
+	-Ms. Laveau's chosen party then left for Professor Brukelen's home.  
 
 
 TODO:
