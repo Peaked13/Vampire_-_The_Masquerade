@@ -88,11 +88,11 @@ Character Description and Background:
 	-A hacker and social engineer, turned pro. She learned how to get the same trickster thrills
 	 _and_ get paid, getting a series of tech jobs, getting good at office politics, and eventually
 	 getting a law degree. It turned out it was all the same fun as fucking with telco employees
-	 when she was 15 was.
+	 when she was 15.
 		-Good inspiration for her mindset, though there was probably less sex and trauma for Ms.
 		 Veck, given how thoroughly straight she went: https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans
-	-Eventually, at a work function, she met someone who that took what she did with people and
-	 turned it up to _11_. She had to know how he did it. Now that she does, she's hooked.
+	-Eventually, at a work function, she met someone who took what she did with people and turned
+	 it up to _11_. She had to know how he did it. Now that she does, she's hooked.
 	-She serves as a kind of seneschal, and takes the most active roll in Mr. Nielsen's companies
 	 out of all of the retainers, sitting on their boards, fielding daylight inquiries, etc.
 
@@ -279,7 +279,7 @@ Disciplines: (1, plus Potence 1)
 Backgrounds: (5)
 	Alternate Identity: 1
 		-In a past private "security" gig, he heard about someone who could put together a backup
-		 identity, in case things went South. He never ended up in a very _public_ messs, so he
+		 identity, in case things went South. He never ended up in a very _public_ mess, so he
 		 still has an unpracticed and somewhat thin alternate identity: a passport, a few mostly
 		 empty bank accounts, and other documents.
 	Contacts: 2
@@ -325,8 +325,52 @@ Freebie points: 18 (21 - 3 from Merits and Flaws)
 Character Description and Background:
 	-Appearance:
 		-
-	-Mr. Hubbard served in the marines, in Iraq and Afghanistan both.
-	-TODO: Ex-merc
+	-Mr. Hubbard served in the marines, in Iraq and Afghanistan both, joining right out of high
+	 school.
+	-Though he found many kindred spirits in the military, among the less. . .  squeamish set, it
+	 was also clear he'd never be making rank. Too many fights, and other trouble, on his record.
+	-As such, he started looking for another option for a raise. A few abortive attempts at
+	 smuggling and looting contributed to that trouble-on-record, and, once his current tour of
+	 duty was up, Mr. Hubbard mustered out and followed several of his friends in joining up with a
+	 private military contractor.
+	-There he truly thrived, with laxer rules and much better pay. Clients also loved that he very
+	 much looked the part and made quite the impression on whatever trouble they were worried about.
+	-While in between contracts, he was called into the company's offices for inspection by a
+	 prospective client, a part of the sales process he'd already participated in several times
+	 before.
+	-There, he met Mr. Nielsen for the first time. Mr. Nielsen already seemed to know quite a bit
+	 about Mr. Hubbard personally, a fact that seemed to surprise the sales rep, and he asked Mr.
+	 Hubbard a variety of questions about his past service, both with the company and in the marines.
+	-Mr. Hubbard thought that Mr. Nielsen must not have liked the answers because, despite
+	 requesting Mr. Hubbard's number for "any further questions", Mr. Hubbard got word the next
+	 night that the client would not be proceeding with the contract.
+	-That is until he got a call from Mr. Nielsen a week later, asking to meet with him again.
+	-There, Mr. Nielsen outlined a job offer for Mr. Hubbard personally, saying he, "Preferred to
+	 employ most of his staff directly." The pay was substantially more than his already
+	 outrageously high salary, and the work apparently here in New York, but, even so, Mr. Hubbard
+	 was cautious.
+	 "The company. . . doesn't like it's contractors cutting them out," Mr Hubbard demurred.
+	 "That will not be an issue here. I've already spoken with a member of the company's board, one
+	  Mr. Dougalas, and he has assured me that it will not be an issue. He was actually the one who
+	  recommended you. In return, I've offered him certain considerations, mostly the opportunity
+	  to participate in a private round of investment in a company he's very excited about."
+	 "Well, if I can confirm that with my higher ups, that salary _is_ awfully hard to say no to. . ."
+	 "If you live up to the recommendation, that's just the beginning of the rewards on offer to
+	  you. . . Here. Check with your employers and then call this number to speak with my assitant,
+	  Ms. Veck. She'll get you set up."
+	-The new job proved to be quite easy, mostly entailing being Mr. Nielsen's bodyguard during the
+	 evening.
+	-Mr. Nielsen, though, he was quite impressed by, and also by the various start ups he was
+	 involved in, even if he couldn't quite put his finger on why. The idea of being involved with
+	 the whole thing in any capacity was quite exciting.
+	-In particular, being no stranger to. . . performance enhancement, Mr. Hubbard was fascinated
+	 by the hints Mr. Nielsen dropped about something his bloodwork start up had been putting
+	 together. "Somewhat like blood doping, like cyclists do," Mr. Nielsen described it, and Mr.
+	 Hubbard asked to try it several times before it before he was allowed to do so.
+	-The rush, and the power, had Mr. Hubbard quickly hooked, and he was surprisingly little phased
+	 when the source of it was really explained to him, even if it took a demonstration before he'd
+	 believe it.
+	  
 
 Equipment:
 	-Cellphone running Horton's customized Android build

@@ -1810,7 +1810,7 @@ TODO:
 	-Stepping within, my attention was first caught by a trio of disturbing paintings up on the
 	 stage.
 		-The subject matter was unsurprisingly grim, given the gathering, long on red, death, and
-		 mass.
+		 mass destruction.
 		-Mr. Nier was drawn straight to them, of course, and immediately approached the stage and
 		 began to stare at them.
 		-I, meanwhile, scanned the crowd.
@@ -2360,7 +2360,8 @@ TODO:
 			 of hers who is deeply involved in the trade in occult secrets in the city.
 			-She also spoke more of the book itself, saying it's author, Saulot, had been the founder
 			 of some demon worshipping faction of medieval Kindred, and that it's said to also
-			 contain commentary from a similar luminary
+			 contain commentary from a similar luminary, Cappadocius, who had his own now-gone
+			 faction.
 		-As to Ms. Caldwell, my concern there took some explaining for the newly returned. I think,
 		 though, that I got across both the danger of a Masquerade issue, and that of her apparent
 		 abilities.
@@ -2381,7 +2382,7 @@ TODO:
 			 recognized. Better some random face. After all, I have many employees."
 	-After some further discussion, we decided that Ms. Arnautovic and Mr. Nier would investigate
 	 the lounge, establishing Mr. Nier's credentials there, while Professor Brukelen, Ms. Felicy,
-	 and I did some investigation of Mr. Scott.
+	 and I did some investigation of Mr. Scotts.
 	-We spent an hour or two getting to that conclusion, and getting ready, during which Ms.
 	 Veck walked out into the hall, reporting success with the phone.
 		-In the phone's call logs, there were:
@@ -2486,7 +2487,7 @@ TODO:
 	 apartment, and filled us in on what happened at the coffee shop.
 		-They spoke there with Ms. Caldwell and her associates, who claimed to be _fallen angels_.
 		-Ms. Arnautovic called for help from her clan, who had these loons in hand, but then let
-		 them go, after being countermanded from those "higher in the pyramid".
+		 them go, after being countermanded from those "higher in The Pyramid".
 		-Well that's not good.
 		-Sam, having followed us into the apartment, seemed quite excited about this affair. "See!"
 		 he shouted, "See! It's just like my book."
@@ -2514,12 +2515,12 @@ TODO:
 		-At that last, though, Mr. Nier looked back at Ms. Laveau. "Uhh. . . a favor to be named
 		 later?" he sputtered, tugging at his collar.
 	-He still was concerned about his recent revelation, though, and, staring off, muttered, "Do I
-	 worship satan?"
+	 worship Satan?"
 	 "I do not think so," Ms. Laveau replied, "Your mind is too clear for that."
 	 ". . . But, forty years of conditioning. I've followed the cult for so long. . ."
 	 "Do you wish to think clearer? Me and my sisters could help you?"
 	 "Help how?"
-	 "With the right teachers, great things are possible? . . . Perhaps you should put on your best
+	 "With the right teachers, great things are possible . . . Perhaps you should put on your best
 	  and come join us?"
 	 ". . . Perhaps."
 	-Turning to the rest of us. Ms. Laveau said, "I wish the rest of you could join us! The only
@@ -2533,6 +2534,277 @@ TODO:
 			-See book_of_the_dragon.pdf
 		-She made a few more copies of the book, and of this. . . addendum.
 	-Ms. Laveau's chosen party then left for Professor Brukelen's home.  
+
+
+TODO:
+	-(DONE) Make sure you record that new boon granted: https://discord.com/channels/930231429286207539/933428895863160913/982785254148411493
+
+
+6/8/22:
+	-I awoke the following night, Professor Brukelen, Ms. Laveau, Ms. Felicity, and Mr. Nier not
+	 yet returned from their. . . event at Ms. Brukelen's home.
+		-Ms. Barron too was gone when you woke, having apparently also taken up an invitation from
+		 Ms. Laveau to attend the event at Ms. Brukelen, or so Ms. Veck informed me. Shockingly,
+		 she left _during the day_, having not fallen into torpor TODO
+	-The haven was pleasantly calm, but an hour or so after waking, while Ms. Arnautovic, Mr.
+	 Nightwalker and myself talked about managing Ms. Barron, Ms. Veck called for me from inside my
+	 apartment.
+		-Rushing to the aparment, I could see six Escalades, all pulled up askew in front of the
+		 haven's front door. From them emerged Weyland Reece and about twelve federal agent types.
+		-Looking carefully, I could also see Ms. Caldwell, still in one of the cars, on a laptop.
+		-Ms. Veck recieved a call, from the front desk, saying a federal agent wished to speak with
+		 us, naming each of us in the coterie, plus Ms. Laveau, though Mr. Giovanni was not named.
+		-My companions and I glanced among ourselves, and I then said, "Ms. Veck, let them know
+		 we'll be right down."
+			-Mr. Nightwalker was understandably agitated, due to the scene this was causing.
+		-While she spoke into the phone, on the monitor, another Escalade pulled up.
+		-We loaded into the escalator, letting Misters Nightwalker and Hubbard out to take the
+		 stairs the rest of the way down, waiting in the stairwell as back up.
+			-Mr. Nightwalker outfitted Ms. Arnautovic and myself with ear pieces, to stay in touch.
+		-As we emerged into the lobby of the building, we were greeted by Mr. Reece
+		-We made our introductions, and he made it clear he wanted us to urgently speak with Mr.
+		 Scotts. Now.
+		 "You requested to speak with several of my associates as well," I replied, "They are not
+		  all here. Will that be a problem?"
+		-At that, he began speaking into an ear piece of his own, presumably to Ms. Caldwell,
+		 complaining that, "I thought you said they were all here. . ."
+		-"No matter," he said, looking again at us. "Mr. Scotts needs to talk with those of you who
+		 _are_ here."
+		 "Well, I don't wish to be rude," I replied, and Mr. Nightwalker was also encouraging us to
+		 go with, so I offered Ms. Arnautovic an arm and she, Mr. Corelli, and I moved towards the
+		 car.
+		-Mr. Reece, insisted, though, that Mr. Nightwalker join us, speaking of "the wounded one,
+		 still upstairs."
+		-Ms. Arnautovic, argued on Mr. Nightwalker's behalf, saying he was indeed injured, and did
+		 not wish to go out into publice. She also leaned in, and spoke to the earpiece, saying, 
+		 "Tell him, Ms. Caldwell."
+			-That had the effect of infuriating Mr. Reece.
+		-After some further arguing, and further threats of trouble from Mr. Reece, Mr. Nightwalker
+		 eventually came out of the stairwell and joined us.
+		-The four of us loaded into one of the Escalades.
+		-They drove us to Hell's Kitchen, to Mr. Scotts's Ruby Rose Casino.
+		-Ms. Caldwell got the door for us, and led us into the casino, reassuring Mr. Nightwalker
+		 that it was "closed for a private event, just our special staff here."
+		-Inside, it was indeed lined with more federal agent types, as well as two people I
+		 recognized, Ms. Gallows and Mr. Fleck.
+		-She paused inside the casino's central hall, saying, "First, we should discuss some rules.
+		 We know you have superhuman capabilities. We're not sure what lore Caine taught you, but
+		 we can detect it. Don't do it. Also, do not drink the blood of any one here."
+		 "We would of course not indulge in refreshments without the permission of our hosts," I
+		 replied.
+		-She then led us into a poker room, where I recognized Mr. Scotts, as well as Misters Laub
+		 and Yadav.
+			-"Ah, good, you're here," Mr. Scotts said, "Everyone out."
+			-At that, the table dealers left, but Mr. Yadav needed a "You too," from Mr. Scotts.
+			-Mr. Scotts then introduced himself to each of us, starting with me (*preen*), but
+			 taking a particular interest in Ms. Arnautovic, who he stared at for a moment before
+			 saying she was "quite the interesting individual" and expressing interest in speaking
+			 with her further, after our business here is concluded.
+			-To Mr. Nightwalker, he also made an offer of healing, "as a show of good faith."
+			-Mr. Nightwalker was reluctant, but Mr. Scotts called forward a woman in black, and then
+			 asked her to "show her true form."
+			-She seemed startled by that, but nodded, and then. . . changed. A crown of bone grew
+			 around her head, as she herself grew taller and sprouted wings, her skin changing to a
+			 dark, mottled pattern.
+			-Gesturing to her, Mr. Scotts said, "Ms. Davis is responsible for creating the concept
+			 behind surgery. Her belief, and argument to the most high, was that humanity should
+			 have a way to heal themselves of injuries that would otherwise prevent them from living
+			 full lives."
+			-"Ms. Davis" then began to speak to Mr. Nightwalker in a language I did not recognize,
+			 and Mr. Nightwalker's flesh responded, it knitting back together and his severed arm
+			 speeding it's regrowth until no visible harm remained (though the bestial marks of his
+			 clan _did_.)
+			-"With that olive branch extended, let us get the to crux of the matter here. We became
+			  aware of your kind a few weeks ago. Normally, we would not interfere. . . We are a
+			  court. There are otherss like us in the city. The Ravener gangs have been a problem
+			  for us, riding through the streets causing chaos, as I'm sure you've seen on the news.
+			  We here in the court are mostly Luciferians, who believe that humanity can replace god.
+			  She abandoned us, so why should we wait for her to come back and save us? We have been
+			  striving to make sure humanity can reach it's full potential, and have acted in their
+			  best interest in all things. Which is why it dismays us to find you festering among
+			  them, dragging them further into ignorance. We understand your need to prey on them.
+			  The curses placed on Caine were never meant for so many of you. She didn't think. . .
+			  One of your kind has made an attack on one of our holdings. It happened twice, and
+			  cannot be written off as just a fluke. Last night, one of my own was taken. Ms.
+			  Caldwell tells us, though, that they were not among. . . your social circle. I need
+			  to show my court that you can be trusted in this, as some among it would rather call
+			  for war between us."
+			 "War is seldom profitable," I replied. "I think we wish to avoid such a thing as much
+			  as you."
+			 "The one who killed him, she showed up shrouded in darkness. She called herself
+			  'She-demon', but we have ascertained that her name is Haley Fleck. One of your number
+			  has been in contact with her, having met her in a club."
+			-All of us took a moment to process that, with Ms. Arnautovic speaking first, saying,
+			 "I must ask, how many here are, like yourself?"
+			-Nodding, Mr. Scotts said to those around him, "Show yourselves."
+			-At that, Mr. Scotts, Mr. Laub, Ms. Caldwell, and Ms. Gallows all underwent similar
+			 transformations to Ms. Davis, though into a diverse set of clearly demonic forms.
+			-Those untransformed, presumably human, all looked on nonchalantly, but it made quite
+			 the impression on us. Strangely, even my Beast felt. . . calmed in their transformed
+			 presences.
+			-Ms. Arnautovic, continued, saying, "Well, would you adhere to an agreement made by Mr.
+			 Laub, or by Ms. Caldwell? We can no more speak for all of our kind not present."
+		     "Do you not speak for you kind here, then? Has Ms. Caldwell failed me?"
+			 Ms. Arnautovic laughed, and said, "That she did, by quite a bit! There are others in
+			 our society, high above us."
+			-That provoked a display of rageon Mr. Scotts's part, as many mouths emerged, all over
+			 his form, each grumbling complaints about Ms. Caldwell, while the original reprimanded
+			 her too, saying, "You should not have failed me again. . ."
+			-Breaking in, Ms. Arnautovic spoke again saying, "Please, there is no need to take this
+			 out on Ms. Caldwell. You are all newly exposed to our society, and can hardly be
+			 expected to understand it's intricacies immediately. There are others of our kind,
+			 above us. I cannot speak for them, but I could take a message to them?"
+			-"Then go. You have two hours. The others will stay, and will be destroyed if you do
+			  not return." He then shooed her out with a gesture.
+			-As she left, sputtering a bit, Mr Nightwalker then asked, "Well, are the tables at
+			 least open?"
+			 "By all means," Mr. Scotts replied, "Enjoy yourselves."
+			 "Well, Mr. Nielsen, care to play?"
+			 "Will you be joining us, Mr. Scotts?" I asked.
+			 "You'd play cards with a demon? I will, if you'll have me."
+			 "Of course. Please join us."
+			-He, Mr. Nightwalker, Ms. Caldwell, and I sat down at one of the tables, though Mr.
+			 Corelli remained by the door.
+			-Throughout the game, the dealer was clearly cheating, apparently dealing more favorable
+			 hands to the consistenly winning Mr. Scotts.
+			-As we played, Mr. Nightwalker voiced complaints about Clan Gangrel status within the
+			 Camarilla. He may have intended to further explain their mistake in viewing us as the
+			 leadership with which they must negotiate, or perhaps just enjoyed having a sympathetic
+			 audience, which Mr. Scotts clearly was, making sympathetic noises about how he should
+			 not be treated so.
+			-He continued, asking Mr. Nightwalker if perhaps he wished to be their. . . liason, with
+			 the other kindred.
+			 "I'm not suited to that," he replied. "He's the one you want," Mr. Nightwalker said,
+			 gesturing to me. "I could do odd jobs, though, if Nielsen agreed. . ."
+			 "I have had to stand up for Mr. Nightwalker," I broke in. "He was. . . tortured by
+			  his maker."
+			 "His maker?"
+			 "I speak of it in a literal and recent sense. It's caused us no end of trouble."
+			-"How are your kind made?" he asked, which met with some reticence on our parts. "Is it
+			 the same as it was?" he continued. "I remember Caine and his little. . . village. How
+			 he would drain his chosen and provide them his blood."
+			 "Then it is the same as it ever was," I replied.
+			 "Strange. He was clever. I would have expected he'd thought of some better way since."
+			-He then spoke further of change, of becomeing something greater, and the human capacity
+			 for all of that. He seemed to presume our kind was supporting and sheperding that, as
+			 he himself appeared to wish to.
+			-"I'm surprised you speak of change so," I replied. "Those of our kind making similar
+			 claims to great age tend to grow. . . hidebound."
+			 "Then you do not celebrate these changes? Why not? Why hide among the humans when you
+			  could share in that? Revel in it?"
+			 "We are predators, Mr. Scotts. Look what humanity does to it's predators. Look to the
+			  tiger and the wolf."
+			 "To the shark. The alligator," Mr. Nightwalker chimed in.
+			 "We were once human, Mr. Scotts, all of our kind. The drive to survive remains strong."
+			-The discussion was interrupted by an explosion, from near the door into the casino,
+			 where Mr. Corelli had been, followed by automatic gunfire.
+			-Mr. Nightwalker walked cautiously off in the direction of the explosion.
+			-Mr. Scotts response was a scream, mingling rage, frustration, and fear, while Ms.
+			 Caldwell appeared to go into a kind of trance, her eyes twitching back and forth. She
+			 then spoke up saying, "I said it was not them. The attacker came from Staten Island."
+			-"I should kill them now!" was Mr. Scotts enraged reply.
+			-Ms. Davis, though, spoke up for us in calming tones, and also said something to him
+			 about how "we made you Tyrant."
+				-Not sure exactly what that means, but Mr. Scotts's leadership here felt new, and
+				 somewhat shakey.
+			-My phone then chimed and, pulling it slowly out, I saw a text from Sheriff Hawthorn,
+			 saying, "Almost there. Saw an explosion. Are you OK?"
+			 "Am OK. Our hosts suspect it came from Staten Island."
+			 "Was it Sabbat?"
+			 "Suspect so. Hosts have been right about other things."
+			-That was followed by a mass text from another number, saying simply, "Code purple."
+				-I knew it to mean they were hunting for Sabbat in the city.
+			-Mr. Nightwalker returned from the entrance a moment later, leading Primogen Wright
+			 inside. He was dressed in full crusader garb, armor drapped in the blood-red cross,
+			 a similar design painted on his face, and bearing an enormous sword.
+			-The demons scrambled out of his way, Ms. Davis pressing herself against a wall, Ms.
+			 Caldwell leaping onto a table, and Mr. Scotts sweating, his face twisting with rage.
+			-"Who are you to challenge us?" Primogen Wright demanded. "To take hostage those beloved
+			 of our Camarilla? I have sent many of you back to hell in the past. Speak!"
+			-Ms. Caldwell turned to Mr. Scotts, and, in a tremorous voice, said to him, "You cannot
+			 win against him. Do you hear me?!? You cannot win. . ."
+			-Mr. Scotts, clearly shaken, began, "One of your kind. . . they. . ."
+			-Primogen Wright, though, put a hand up. "You mean one of The Sabbat."
+			-Continuing, Mr. Scotts said, ". . . one of The Sabbat, she killed one of our kind. . ."
+			-"And you took members of The Camarilla hostage to investigate The Sabbat?!?" Primogen
+			 Wright interupted. "You will release them."
+			-Mr. Scotts looked to us briefly, and said, "You can go."
+			-As I walked towards Primogen Wright, I felt a wave pass over me, at which the primogen
+			 said, "Our sorcerers have placed a ward over this neighborhood. You will be unable to
+			 leave it. The Camarilla's power is absolute here. If you continue to defy us, we will
+			 destroy you, however many hundreds of you there are in the city."
+			-"Oh, and, that weight you feel? It's this," the primogen said, drawing out from beneath
+			 his tabard a necklace containing a finger bone in a gilded glass case.
+			 "This is the finger of Judas Iscariot," he said, "One of the five that took silver for
+			 the life of Christ. With it, I have destroyed many of your kind, and can destroy you.
+			 You will attend our Elysium. Dress well, and hide your nature. You will not speak of
+			 matters concerning your community or ours outside of it, obeying the laws of our
+			 Masquerade."
+			-Mr. Scotts was in a state of angry shock. It was Ms. Caldwell that accepted on his
+			 behalf.
+			-Primogen Wright asked us to come with him and we followed him out, towards a car.
+				-One of a great and varied many outside the casino. Nearly the full force of Clan
+				 Brujah in the city appeared to be here.
+				-Mr. Nightwalker paused a moment, staring. Following his gaze, his erstwhile friend
+				 Mr. Mason was inside one of those cars.
+				-He then turned away, and walked off, saying something over his shoulder about
+				 walking home, and to call if I needed him.
+			-On the way back to the haven, we could hear on the radio reports of a series of
+			 "terrorist attacks", with several establishments having been attacked by small groups
+			 with military weaponry, some of which were currently battling the NYPD in Staten Island.
+			-Mr. Wright delivered me back to the haven, and came up with me.
+			-All the rest of the coterie, save Mr. Nightwalker were already back there.
+			-I took the opportunity to bring up "She-demon", the Sabbat member and alias of Haley
+			 Fleck that the demons had claimed one among our coterie had met. Looking to my fellows,
+			 I asked them if they knew what Ms. Caldwell spoke of.
+			-Ms. Felicity spoke up, saying she recognized the name, and confirmed without me
+			 mentioning it that they met "in a bar."
+				-Close enough to the club Ms. Caldwell had mentioned.
+				-We stared at her, and she elaborated, saying she was dragged there by her sire, who
+				 had some dealings with Ms. Fleck.
+				-"What dealings?" Primogen Wright asked, in ominous tones.
+				 "Those paintings, at the Elysium preceeding the bloodhunt, they were not really my
+				  sire's. . ."
+				 "And what did she trade for them?
+				 "I do not know. We followed her to an empty lot, where there were others. I don't
+				  know who made the paintings they had there."
+				 "Why did you not tell anyone your sire was meeting with The Sabbat?!?"
+				 "I didn't know they were Sabbat! I asked around about people leaping through
+				  fires and such, but no one knew anything. . "
+				 "You mean you witnessed them performing their ritae?!?"
+				 "I don't know! They also wanted me to spread some fake information, before the
+				  blood hunt, to get the Primogen to go somewhere, but I didn't think _that_ was
+				  wise. . ."
+				-"What was that name again?" Ms. Arnautovic broke in.
+				 "Haley Fleck," I replied.
+				 ". . . I have heard that name. If it is her, she is indeed a Lasombra, and powerful
+				  amongst The Sabbat."
+			-We then began various conversations with each other.
+				-I recounted some of what happend with me tonight to Ms. Gravel and Mr. Neir.
+				-I also overheard Ms. Arnautovic asking Primogen Wright to bring a message of some
+				 kind to The Prince.
+				-Mr. Neir was characteristically ready to point out why all of this was a sign of
+				 Gehenna, to which Primogen Wright responded, "I have seen the signs of Gehenna wax
+				 and wane over the centuries, with signs of the end _always_ there, for those that
+				 want to look for them."
+				-Ms. Arnautovic also thanked Primogen Wright for rescuing us. He nodded, and said,
+				 "I need to keep the lot of you alive for the next couple of days. Here, I want you
+				 to take this." He drew out his reliquary from beneath his shirt, handing it to Ms.
+				 Arnautovic. "This will keep you safe."
+				-Turning to the rest of us, he said, "After I speak with Prince Panhard, an Elysium
+				 will be called. You will recount what you saw this night, and only then will Mr.
+				 Scotts and his kind be allowed to join us. You will have a few days to prepare, as
+				 I confess I want to let that cunt stew for a bit.
+				 You have all done well here, proving yourselves loyal and capable members of The
+				 Camarilla. I will see to it that you are all suitably rewarded."
+				-After that, he turned and left, via the elevator.
+	-A couple more hours remain in the evening. We have plenty to discuss, so Discord chat in
+	 character!
+	-Next game will pick up tomorrow night, the night of the auction. . .
+
+
+TODO:
+	-Do we have time to spend XP? You now have 20.
 
 
 TODO:
@@ -2611,7 +2883,7 @@ The Coterie:
 
 
 Boons owed to you:
-	-Kelly Haley, a Malkavian:
+	-Ms. Kelly Haley, of Clan Malkavian:
 		-Minor boon: You and your coterie fetched those boxes from that Times Square storage unit.
 	-Mr. Cadusis Nightwalker, your coteriemate:
 		-Minor boon: You had Mr. Horton train Mr. Nightwalker in some technology skills.
@@ -2620,17 +2892,22 @@ Boons owed to you:
 	-Ms. Ashley Barron, of Clan Gangrel: 
 		-Life boon: You intervened with Prince Panhard, indebting yourself to her, to save Ms.
 					Barron's (un)life.
+	-Ms. Vittoria Arnautovic, of Clan Tremere:
+		-Minor boon: You had Ms. Veck and Mr. Horton assist Ms. Arnautovic in the purchase and the
+					 securing, with hardware you paid for, of a property in New York. She was keen
+					 to repay this with Auspex, but that secret is also widespread among the
+					 coterie. Discussed the boon here: https://discord.com/channels/930231429286207539/933428895863160913/982785254148411493
 Boons owed: 
-	-Morgan Durley, the Tremere Primogen:
+	-Primogen Morgan Durley, of Clan Tremere:
 		-2 pt. boon:
 			-You formally requested and were granted permission to operate your "blood testing"
 			 research startup, it being adjacent to the Tremere Primogen's domain of hospitals,
 			 blood banks, and emergency services.
-	-Kenneth Wright, the Ventrue Primogen and your grandsire:
+	-Primogen Kenneth Wright, of Clan Ventrue, and your grandsire:
 		-2 pt. boon:
 			-For the introduction that made the above boon possible, and his assistance in winning
 			 a favorable deal there.
-	-Reece Dooley, your sire:
+	-Mr. Reece Dooley, your sire:
 		-2 pt. boon:
 			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
 			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training

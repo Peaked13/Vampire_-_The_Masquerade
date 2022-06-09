@@ -179,6 +179,9 @@ Advancement:
 	-Earn backgrounds? Or even social merits?!?
 		-It's undefined how increasing these works, but clearly you can earn more money, gain more
 		 retainers, etc.
+			-We discussed this a bit in a session. They can be gained as rewards, roleplayed, or
+			 gained in exchange for boons. Reach out to Lesley if you want to work towards something
+			 like this.
 		-These are also a major focus for you in general.
 		-Which backgrounds?
 			-Allies, Contacts, Influence, or Status might be interesting options, especially as you
