@@ -2542,10 +2542,12 @@ TODO:
 
 6/8/22:
 	-I awoke the following night, Professor Brukelen, Ms. Laveau, Ms. Felicity, and Mr. Nier not
-	 yet returned from their. . . event at Ms. Brukelen's home.
+	 yet returned from their. . . event at Professor Brukelen's home.
 		-Ms. Barron too was gone when you woke, having apparently also taken up an invitation from
-		 Ms. Laveau to attend the event at Ms. Brukelen, or so Ms. Veck informed me. Shockingly,
-		 she left _during the day_, having not fallen into torpor TODO
+		 Ms. Laveau to attend the event at Ms. Brukelen, or so Ms. Veck informed me.
+			-Shockingly, she left _during the day_, having not fallen into torpor with the rest of us.
+			-Instead, she had asked Ms. Veck to driver her to the professor's home in Brooklyn too,
+			 wrapping herself in heavy clothing before leaving the building.
 	-The haven was pleasantly calm, but an hour or so after waking, while Ms. Arnautovic, Mr.
 	 Nightwalker and myself talked about managing Ms. Barron, Ms. Veck called for me from inside my
 	 apartment.
@@ -2561,7 +2563,7 @@ TODO:
 		-We loaded into the escalator, letting Misters Nightwalker and Hubbard out to take the
 		 stairs the rest of the way down, waiting in the stairwell as back up.
 			-Mr. Nightwalker outfitted Ms. Arnautovic and myself with ear pieces, to stay in touch.
-		-As we emerged into the lobby of the building, we were greeted by Mr. Reece
+		-As we emerged into the lobby of the building, we were greeted by Mr. Reece.
 		-We made our introductions, and he made it clear he wanted us to urgently speak with Mr.
 		 Scotts. Now.
 		 "You requested to speak with several of my associates as well," I replied, "They are not
@@ -2576,7 +2578,7 @@ TODO:
 		-Mr. Reece, insisted, though, that Mr. Nightwalker join us, speaking of "the wounded one,
 		 still upstairs."
 		-Ms. Arnautovic, argued on Mr. Nightwalker's behalf, saying he was indeed injured, and did
-		 not wish to go out into publice. She also leaned in, and spoke to the earpiece, saying, 
+		 not wish to go out into public. She also leaned in, and spoke to the earpiece, saying, 
 		 "Tell him, Ms. Caldwell."
 			-That had the effect of infuriating Mr. Reece.
 		-After some further arguing, and further threats of trouble from Mr. Reece, Mr. Nightwalker
@@ -2618,7 +2620,7 @@ TODO:
 			  aware of your kind a few weeks ago. Normally, we would not interfere. . . We are a
 			  court. There are otherss like us in the city. The Ravener gangs have been a problem
 			  for us, riding through the streets causing chaos, as I'm sure you've seen on the news.
-			  We here in the court are mostly Luciferians, who believe that humanity can replace god.
+			  We here in the court are mostly Luciferians, who believe that humanity can replace God.
 			  She abandoned us, so why should we wait for her to come back and save us? We have been
 			  striving to make sure humanity can reach it's full potential, and have acted in their
 			  best interest in all things. Which is why it dismays us to find you festering among
@@ -2666,12 +2668,12 @@ TODO:
 			-He, Mr. Nightwalker, Ms. Caldwell, and I sat down at one of the tables, though Mr.
 			 Corelli remained by the door.
 			-Throughout the game, the dealer was clearly cheating, apparently dealing more favorable
-			 hands to the consistenly winning Mr. Scotts.
+			 hands to the consistently winning Mr. Scotts.
 			-As we played, Mr. Nightwalker voiced complaints about Clan Gangrel status within the
 			 Camarilla. He may have intended to further explain their mistake in viewing us as the
 			 leadership with which they must negotiate, or perhaps just enjoyed having a sympathetic
-			 audience, which Mr. Scotts clearly was, making sympathetic noises about how he should
-			 not be treated so.
+			 audience, which Mr. Scotts clearly was, making soothing noises about how he should not
+			 be treated so.
 			-He continued, asking Mr. Nightwalker if perhaps he wished to be their. . . liason, with
 			 the other kindred.
 			 "I'm not suited to that," he replied. "He's the one you want," Mr. Nightwalker said,
@@ -2685,7 +2687,7 @@ TODO:
 			 he would drain his chosen and provide them his blood."
 			 "Then it is the same as it ever was," I replied.
 			 "Strange. He was clever. I would have expected he'd thought of some better way since."
-			-He then spoke further of change, of becomeing something greater, and the human capacity
+			-He then spoke further of change, of becoming something greater, and the human capacity
 			 for all of that. He seemed to presume our kind was supporting and sheperding that, as
 			 he himself appeared to wish to.
 			-"I'm surprised you speak of change so," I replied. "Those of our kind making similar
@@ -2804,7 +2806,8 @@ TODO:
 
 
 TODO:
-	-Do we have time to spend XP? You now have 20.
+	-(DONE) Do we have time to spend XP? You now have 20.
+		-Lesley OK'ed Presence 4. Applied it!
 	-Talk to Ms. Felicity about taking responsibility for Ms. Barron.
 		-Sent Mike a friend request to enable a group DM with Lesley. Check if he accepts, since
 		 there's no notice of that.
@@ -2825,6 +2828,138 @@ TODO:
 				 Even I can see, for example, that Mr. Scotts's leadership was new and somewhat shakey, and that some of the things these demons said confirm the broad lines of Cainite myth. That is, of course, if you can trust demons. . ."
 		-Those demons _did_ confirm the broad lines of Cainite myth, a bit of a "religion is real"
 		 moment. That is, of course, if you can trust demons. . .
+		-_Concealment_ is another important capabability to develop.
+			-Ms. Caldwell said something about the details of the issue, but looks like that's
+			 something your character didn't actually overhear.
+			-Posted about it here: https://discord.com/channels/930231429286207539/933428895863160913/985314939315032104
+				"It occurs to me that there's another important capability for us to develop. Perhaps as important as detecting Mr. Scott's people is concealing ourselves from them.
+				Ms. Caldwell has exhibited many surprising insights, and in real time, but we've also seen her be wrong, or miss things, principally where Professor Brukelen (@Gravel (Ash)) is concerned. She got the jump on Ms. Caldwell the night we first met her, and then, this night, Ms. Caldwell seemed to have advised Mr. Reece that we were all present at the haven, including the group actually at Professor Brukelen's. Or so he complained, though I could not hear Ms. Caldwell's end of the phone call.
+				It should be news to none of us that Professor Brukelen is skilled at concealing herself, but it is important information that it includes concealing herself from Ms. Caldwell. That's an avenue it would also be worth our occultists researching the details of, or perhaps even us experimenting a bit, as knowing the limits and possibilities of that would be valuable information, information our kin would be very interested in. The same is true of the fact that, without such concealment, our secrets are wide open to Mr. Scotts's people."
+		-Presence might not work on them. You have a vague memory of Lesley suggesting as much,
+		 due to the primogen using Majesty as he entered, but your notes don't mention the matter.
+	-"stakes and ladders, change can be either for any of us"
+	-Follow up on Ms. Barron leaving during the day?
+		-What generation is Mr. Nightwalker anyways? Is this thin blood in evidence?
+
+
+6/22/22:
+	-On this, the evening of the auction, I woke to the rest of the coterie being gone.
+		-Professor Brukelen and Mr. Nier had left for their private havens before dawn.
+		-Mr. Nightwalker had not returned last evening, after walking off, but he seemed like he
+		 needed some space.
+		-Ms. Arnautovic had left on waking to go attend to some matter of her clan's.
+		-Ms. Felicity, however, had made a more dramatic departure. Speaking with Mr. Horton, he
+		 reported that that several men (kindred or kine, he wasn't sure) dressed as EMTs had come
+		 to the haven bearing written orders from the sheriff. They staked her, and hauled her off
+		 somewhere.
+			-I'd have almost been more worried if something similar _hadn't_ occurred given the
+			 revelations last night about her and sire's recent activities.
+	-Not long later, I received an alarming text from Mr. Nier, reporting a now dead gunman at his
+	 coffee shop, and cops on the way.
+		-I let him know I'd be right there, and had Mr. Hubbard bring the car around as I raced
+		 downstairs.
+		-As I emerged from the building's lobby, though, I saw something alarming. All down the
+		 street, running as far of into the distance as I could see, there were. . . new street
+		 grates? They were somehow. . . cartoon-y, stylized, and, most concerning, they were
+		 releasing a very dramatic, and also a bit cartoon-y, green gas.
+		-Nonetheless, I loaded into my sedan as soon as Mr. Hubbard brought it around, sending a
+		 series of texts to Ms. Veck once I was inside.
+			-I reported what I'd seen, the grates and gas, and asked her to find me any reports or
+			 other information concerning the matter.
+		-As we drove to Omega Beans, I received a call from Mr. Neir.
+			-"Shit's going down here. Something big just smashed a cop car."
+			 "You mean there's more than the one gunman?"
+			 "Yep! Rally the troops!"
+			 "OK. I'm going to make some more calls."
+		-My first call, following that, was to Mr. Nightwalker.
+			-"Yes, Mr. Nielsen? What do you need?"
+			 "Mr. Nier is reporting violence at his coffee shop, and it seems to be escalating. How
+			  soon can you meet me there?"
+			 "I'm a bit away, but I'll collect my car and be there as soon as you can."
+			 "Good. See you there."
+		-As I began to make a new call, I caught some movement out of the corner of my eye. I
+		 thought I caught a glimpse of a nine foot tall sasquatch-looking thing clinging to the
+		 side of a building, from which it jumped upwards, and was then gone.
+			-The city seems to have gone mad. . .
+		-I finished pulling up Ms. Veck's contact, and gave her a call.
+			-I made another request for information, this time on the events at Omega Beans.
+			-Mid-call, though, the call dropped and, looking around, I could see a general black out.
+		-"Mr. Hubbard, things are going from bad to worse. Lets get eyes on the events at Omega
+		  Beans, at least."
+		-Driving through the city, it had indeed gone mad. There were roving mobs of people on the
+		 street, rioting, many with painted faces.
+		-Pulling up down the street from Omega Beans, I could see a figure in sweats on it's roof,
+		 spray painting grafitti, throwing the cans down at the cops below as they emptied.
+		-The cops, meanwhile, were fighting four foot tall, green skinned goblin-looking things with
+		 exaggerated 8-barrel shotguns, and matching exaggerated motorcycles.
+		-I had Mr. Hubbard pull over, some distance away, and get the shotgun from the trunk of the
+		 car.
+		-The cops, meanwhile, began to fall back, and the goblin-things thankfully ignored us in
+		 favor of smashing the cops' abandoned squad cars.
+		-Looking at the fallen cops, though, rather than blood, they were covered in. . . nerf darts?
+		-More goblins were arriving to join in the car smashing, and also beginning to strip whatever
+		 cop equipment they could get from the cars and fallen. However, looking further afield,
+		 rather than hordes of goblins, I saw instead groups of filthy teens running towards the
+		 scene. But only more and more goblins at the scene itself. . .
+		-Mr. Nier then emerged from his coffee shop, and began walking towards the orgy of goblin
+		 violence, apparently attempting to talk to them.
+		-The goblin whose attention he caught sniffed at Mr. Nier, and then began talking with him.
+		-They spoke for a bit, but the goblin then turned his back on Mr. Nier, as country-picking-
+		 style guitar music played from somewhere (everywhere?).
+		-Mr. Nier then walked over to my car.
+			-I asked him what the hell was going on here, and after he shrugged, asked what he and
+			 "that green creature" talked about.
+			-He reported that the creature had said they were retaking "goblin town" on orders of
+			 "The Baron".
+			-He also said that they began to shun him after they realized he had associated with
+			 some "Queen of Darkness".
+			-Mr. Nier also mentioned something about a notebook that the dead gunman left behind,
+			 that "had attacked him" and "had teeth".
+				-He'd stashed it in a coffee pot after that.
+			-I asked him next if his people we're safe, inside the coffee shop, to which he responded,
+			 "Well, maybe not from a _direct_ hit with a nuclear blast, but anything short of that. . ."
+			 "Good. Lets return to the haven, and see if we can collect any of the rest of the 
+			  coterie. The phone network is down. Bring that notebook"
+			 "Ehhh, it's got teeth. . . Have any tongs?"
+			 "Just bring it in the coffee pot."
+			 "Gotcha," he replied, and he ran back into the coffee shop.
+		-He was inside the shop for several minutes when, from somewhere around me, I began to hear a
+		 ticking noise.
+			-In fact, it seemed to be getting steadily louder, as if it was getting nearer, coming
+			 from the direction away from.
+			-"Mr. Hubbard!" I shouted, "We need to get somewhere safe! Lets find Mr. Nier!"
+			-We ran into the coffee shop, and found Mr. Nier's promised massacre, but no Mr. Nier.
+			-I looked around the place, this being my first time inside, for some back room or the
+			 like where he could have disappeared into, and found a vault door of some kind, set
+			 into the floor behind the counter.
+			-All the while, the ticking had been getting closer, and it was now joined by screams,
+			 then an explosion and gun shots.
+			-I heard Mr. Hubbard saying something, but it sounded somehow far away. Turning to look
+			 at him, he seemed to be getting. . . pulled, somehow, to the doors of the coffee shop,
+			 which were now flung open. He clutched at the counter with his hands, but was beginning
+			 to slip.
+			-I lept over the counter and began banging on the vault door, shouting, "Neir! Where did
+			 you go?!?"
+			-The vault door's handle spun in response, but did not open, so I lifted the door myself.
+			-As it cracked open, hairy, spider-like legs emerged and something bit me.
+			-I tried to flee towards Mr. Hubbard and the door, but, as I did so, the fangs forced. . .
+			 something into me, leaving me greviously injured.
+			-I did get away, though, moving towards the door, but stopped short as I saw Mr.
+			 Hubbard. His feet were being shredded, as if by a grinder, as he was pulled through
+			 the empty doorway.
+			-At the sight, I began to feel nauseous in a way I hadn't since I breathed my last. Or,
+			 perhaps _not_ due to that bloody sight, as, looking down, I could see my belly swell.
+			 In seconds, it burst and began to tear, spilling out spiders as I screamed. . .
+	-I awoke in my bed at back at the shared haven, feeling a strong sense of deja vu as I went
+	 through the motions of getting ready for the evening.
+		-That feeling gnawed at me until I glanced at my phone and saw the date. It was several weeks
+		 before the events at the coffee shop, the night we began our investigation into the murders,
+		 before we encountered the coin with it's spider-like symbol.
+
+
+TODO:
+	-Figure out what Mr. Hubbard remembers, then the rest of the coterie.
+	-You probably shouldn't have a bunch of aggravated damage?
 
 
 TODO:
