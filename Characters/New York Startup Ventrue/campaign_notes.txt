@@ -2381,7 +2381,7 @@ TODO:
 			 Veck is well known in some circles, and it might invite awkward questions were she
 			 recognized. Better some random face. After all, I have many employees."
 	-After some further discussion, we decided that Ms. Arnautovic and Mr. Nier would investigate
-	 the lounge, establishing Mr. Nier's credentials there, while Professor Brukelen, Ms. Felicy,
+	 the lounge, establishing Mr. Nier's credentials there, while Professor Brukelen, Ms. Felicity,
 	 and I did some investigation of Mr. Scotts.
 	-We spent an hour or two getting to that conclusion, and getting ready, during which Ms.
 	 Veck walked out into the hall, reporting success with the phone.
@@ -2960,6 +2960,25 @@ TODO:
 TODO:
 	-Figure out what Mr. Hubbard remembers, then the rest of the coterie.
 	-You probably shouldn't have a bunch of aggravated damage?
+	-(DONE) Look back at notes and figure out what was going on at the time you've woken up.
+		-Lesley found the spot in my notes for us:
+			lesley (DM) — Yesterday at 11:02 PM
+			https://github.com/Peaked13/Vampire_-_The_Masquerade/blob/main/Characters/New%20York%20Startup%20Ventrue/campaign_notes.txt#L1465
+			here is where it was first discovered 
+		-It's the night Mr. Nightwalker's girlfriend went missing.
+	-Cadusis still having the marks of his clan gained during the lost time would explain a lot
+	 about what happened with his sire and her sudden transformation and disappearance. . .
+	-Destroy the coin?
+		-https://discord.com/channels/930231429286207539/930231429286207542/989510483524612126
+	-Stuff to redo better:
+		-Business & Applied Time Travel?
+			-Stocks?
+			-Personal business and venture capital projects?
+		-Avoid embracing Ms. Barron?
+		-Expose Ms. Felicity's sire's ties to The Sabbat?
+		-Learn more of what happened to Ms. May, Mr. Nightwalker's sire.
+		-Better handle our contact with the demons?
+			-Present them to The Prince's court quickly? That's where eventually ended up?
 
 
 TODO:
@@ -2973,7 +2992,6 @@ The Coterie:
 		 haven (potentially freeing up one of mine).
 			-Yep, got that set up.
 		-Has a tow truck, a tow yard to go with it, and several other vehicles in his possesion.
-		-Ah, might be bowing out of the game, but will likely remain as an NPC.
 	-Cadusis Nightwalker, of Clan Gangrel (played by Nate):
 		-Mentioned having been a marine.
 		-Referred to you during the first session as "the coteries leader by consensus". Might have
@@ -2996,6 +3014,7 @@ The Coterie:
 				 allowed, like Ventrue functions, as one of your retainers.
 			-Ah, you indebted yourself to the Prince to save her life, and he and Ms. Barron both
 			 now very much owe you (see boons, below, and TODOs before 4/28/22 session for details).
+			-Perhaps that now never occurred? Thanks, Spider Coin!
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
 		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
@@ -3003,7 +3022,7 @@ The Coterie:
 			-Or maybe it's tied to the Kindred after all, he having later mentioned them believing
 			 there were vampires among Christ's disciples.
 			-Shit! The cult somehow ended up in possesion of a dirty bomb.
-				-This is becoming a liability!
+				-This is becoming a major liability!
 				-At least Mr. Nier largely seems to have dealt with the matter himself, with
 				 supervision from Mr. Nightwalker. He seems to think he has the cult in hand now,
 				 though you wouldn't mind personally verifying that. . .
@@ -3031,11 +3050,13 @@ The Coterie:
 		-She is now quite close with Ms. Laveau, seemingly taking Ms. Laveau under her wing, a thing
 		 that's somewhat out of character, given the spotlight it put on her at Ms. Laveau's
 		 introduction.
+			-They both seem to be tied to other supernatural creatures, mages and the fey.
+			-Or perhaps that was a spider-dream?
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
 			-She doesn't seem overly fond of either, especially her sire.
-			-Sounds like her sire might also be entangled with The Sabbat (see end of thethe 6/8/22
+			-Sounds like her sire might also be entangled with The Sabbat (see end of the 6/8/22
 			 session notes).
 		-More than a bit catty, but has demonstrated admirable social skills in the course of that.
 
@@ -3047,9 +3068,13 @@ Boons owed to you:
 		-Minor boon: You had Mr. Horton train Mr. Nightwalker in some technology skills.
 		-Major boon: You intervened with Prince Panhard, indebting yourself to her, to save the
 					 (un)life of his girlfriend, Ms. Barron.
+			-You can probably still argue you're owed this, despite it being a spider-dream. You
+			 both remember it, and the fact of it being later magically undone doesn't change the
+			 risk I took.
 	-Ms. Ashley Barron, of Clan Gangrel: 
 		-Life boon: You intervened with Prince Panhard, indebting yourself to her, to save Ms.
 					Barron's (un)life.
+			-Or maybe not? That was a spider-dream. Does _she_ remember?
 	-Ms. Vittoria Arnautovic, of Clan Tremere:
 		-Minor boon: You had Ms. Veck and Mr. Horton assist Ms. Arnautovic in the purchase and the
 					 securing, with hardware you paid for, of a property in New York. She was keen
@@ -3075,6 +3100,7 @@ Boons owed:
 			 a debt you didn't exactly sign yourself up for.
 	-Prince Helen Panhard, of New York City and Clan Ventrue:
 		-Major boon: You begged a favor of her as a clanmate to save the (un)life of Ms. Barron.
+			-Nope! That was a spider-dream!
 
 
 TODONE:
