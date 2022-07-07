@@ -2041,7 +2041,7 @@ TODO:
 		 work of The Children of Hakim. Are there assassins in the city?"
 		-Mr. Nightwalker looked to me without responding.
 		 "No need to be impolite to our guest, Mr. Nightwalker. . ."
-		-Turning to Mr. Giovanni, he said, "I had a rough night. As for assasins, I've learned it's
+		-Turning to Mr. Giovanni, he said, "I had a rough night. As for assassins, I've learned it's
 		 best to be ready for anything. . ."
 		-"Well," Mr. Giovanni, "I may be able to help you with those wounds. Would you be interested?"
 		 ". . . I would," Mr. Nightwalker responded.
@@ -2183,7 +2183,7 @@ TODO:
 			  "I understand. Thank you for speaking with me. I'm sorry I startled you."
 			  "It is understandably difficult, making an acquaintance in certain circles. Thank you
 			   for your courtesy."
-			 -Ms. Caldwell then turned to Mr. Nightwalker, staring for a moment, and said, "Do you
+			 -Agent Caldwell then turned to Mr. Nightwalker, staring for a moment, and said, "Do you
 			  still have the coin on you? It is a coin, isn't it?"
 			  He stared back.
 			  "A small coin?" she continued, "It's in your pocket. Please, give it to me. I'm afraid
@@ -2205,7 +2205,7 @@ TODO:
 				-???
 			-Professor Brukelen, in her normal Mask, then stepped out from behind a structure on the
 			 roof, saying, "Can this thing harm the bearer?"
-			-That badly startled Ms. Caldwell, who exclaimed, "Where did you come from?!? You were
+			-That badly startled Agent Caldwell, who exclaimed, "Where did you come from?!? You were
 			 watching me?"
 			 "I was over there. Behind that thing," Professor Brukelen replied.
 			-Mr. Nightwalker then broke in with a surprising plan, offering, "I can give you the
@@ -2225,7 +2225,7 @@ TODO:
 			 and saying, as he handed it to her, "If you fuck us here, this will be the last face
 			 you see."
 			 "Yes, yes. Very well."
-		-Just after Ms. Caldwell left, Professor Brukelen handed Ms. Caldwell's phone to me, and the
+		-Just after Agent Caldwell left, Professor Brukelen handed Agent Caldwell's phone to me, and the
 		 sim to Mr. Nightwalker.
 		-The elevator ride back down contained much discussion of theories about who or what she is.
 			-Mr. Nightwalker suggested she was one of us, or a thinblood.
@@ -2311,7 +2311,7 @@ TODO:
 		-Unsurprisingly, that does not explain the things Mr. Nightwalker said she did.
 	-Sort out the corpse of a hanged man.
 		-Or does Mr. Nightwalker not want to do that after all?
-	-Investigate Ms. Caldwell's phone.
+	-Investigate Agent Caldwell's phone.
 	-Set up that meeting with Mr. Scotts?
 	-Sort out what to do about the book auction:
 		-Tell Mr. Giovanni, and consider our job done?
@@ -2352,7 +2352,7 @@ TODO:
 				 though.
 	-Mr. Giovanni then took his leave, attended by a cloud of specters.
 	-With just our coterie and it's hangers on about now, I suggested we have two avenues of
-	 investigation before us: the auction and the source that told us about it, Ms. Caldwell.
+	 investigation before us: the auction and the source that told us about it, Agent Caldwell.
 		-Ms. Arnautovic thankfully knew much about this Fireside Lounge. She knew the ritual,
 		 password, or whatever to gain access to the place, and even believed she could go there
 		 freely, the night of the auction or even before.
@@ -2362,11 +2362,11 @@ TODO:
 			 of some demon worshipping faction of medieval Kindred, and that it's said to also
 			 contain commentary from a similar luminary, Cappadocius, who had his own now-gone
 			 faction.
-		-As to Ms. Caldwell, my concern there took some explaining for the newly returned. I think,
+		-As to Agent Caldwell, my concern there took some explaining for the newly returned. I think,
 		 though, that I got across both the danger of a Masquerade issue, and that of her apparent
 		 abilities.
 	-We resolved to visit The Fireside Lounge.
-	-First, though, I dropped off Ms. Caldwell's phone with Ms. Veck, asking her to tell us
+	-First, though, I dropped off Agent Caldwell's phone with Ms. Veck, asking her to tell us
 	 everything she can about last night's visitor, and to call in Mr. Horton, if necessary.
 		-She poked at it briefly, laughed, and said, "Nah, I've got this."
 		-I watched a moment, and then walked out back into the hall.
@@ -2420,11 +2420,11 @@ TODO:
 	-Our respective parties set out, they to the lounge and us to a campaign office.
 		-Before we arrived at our destination, I recieved an alarming text from Ms. Arnautovic:
 			-https://discord.com/channels/930231429286207539/930231429286207542/979191300953866270
-			-Apparently our door-to-door canvasser, Ms. Caldwell, was being quite rudely persistent,
+			-Apparently our door-to-door canvasser, Agent Caldwell, was being quite rudely persistent,
 			 and had made a house call on Mr. Nier, at his coffeeshop.
 		-We rerouted there.
 		-On the way there, Professor Brukelen got a call from her roommate, warning her that someone,
-		 not Ms. Caldwell, "the chick from before", had been poking around the house.
+		 not Agent Caldwell, "the chick from before", had been poking around the house.
 		-While she talked, we neared Omega Beans, illuminated by the lights of numerous squad cars
 		 parked in front of it.
 			-Well, maybe we should check on Professor Brukelen's haven first. . .
@@ -2485,7 +2485,7 @@ TODO:
 		 us back home, and I'll fill you in on the details.
 	-Once we were back at the haven, Ms. Arnautovic pulled the three of us newly arrived into an
 	 apartment, and filled us in on what happened at the coffee shop.
-		-They spoke there with Ms. Caldwell and her associates, who claimed to be _fallen angels_.
+		-They spoke there with Agent Caldwell and her associates, who claimed to be _fallen angels_.
 		-Ms. Arnautovic called for help from her clan, who had these loons in hand, but then let
 		 them go, after being countermanded from those "higher in The Pyramid".
 		-Well that's not good.
@@ -2553,7 +2553,7 @@ TODO:
 	 apartment.
 		-Rushing to the aparment, I could see six Escalades, all pulled up askew in front of the
 		 haven's front door. From them emerged Weyland Reece and about twelve federal agent types.
-		-Looking carefully, I could also see Ms. Caldwell, still in one of the cars, on a laptop.
+		-Looking carefully, I could also see Agent Caldwell, still in one of the cars, on a laptop.
 		-Ms. Veck recieved a call, from the front desk, saying a federal agent wished to speak with
 		 us, naming each of us in the coterie, plus Ms. Laveau, though Mr. Giovanni was not named.
 		-My companions and I glanced among ourselves, and I then said, "Ms. Veck, let them know
@@ -2568,7 +2568,7 @@ TODO:
 		 Scotts. Now.
 		 "You requested to speak with several of my associates as well," I replied, "They are not
 		  all here. Will that be a problem?"
-		-At that, he began speaking into an ear piece of his own, presumably to Ms. Caldwell,
+		-At that, he began speaking into an ear piece of his own, presumably to Agent Caldwell,
 		 complaining that, "I thought you said they were all here. . ."
 		-"No matter," he said, looking again at us. "Mr. Scotts needs to talk with those of you who
 		 _are_ here."
@@ -2579,13 +2579,13 @@ TODO:
 		 still upstairs."
 		-Ms. Arnautovic, argued on Mr. Nightwalker's behalf, saying he was indeed injured, and did
 		 not wish to go out into public. She also leaned in, and spoke to the earpiece, saying, 
-		 "Tell him, Ms. Caldwell."
+		 "Tell him, Agent Caldwell."
 			-That had the effect of infuriating Mr. Reece.
 		-After some further arguing, and further threats of trouble from Mr. Reece, Mr. Nightwalker
 		 eventually came out of the stairwell and joined us.
 		-The four of us loaded into one of the Escalades.
 		-They drove us to Hell's Kitchen, to Mr. Scotts's Ruby Rose Casino.
-		-Ms. Caldwell got the door for us, and led us into the casino, reassuring Mr. Nightwalker
+		-Agent Caldwell got the door for us, and led us into the casino, reassuring Mr. Nightwalker
 		 that it was "closed for a private event, just our special staff here."
 		-Inside, it was indeed lined with more federal agent types, as well as two people I
 		 recognized, Ms. Gallows and Mr. Fleck.
@@ -2639,21 +2639,21 @@ TODO:
 			-All of us took a moment to process that, with Ms. Arnautovic speaking first, saying,
 			 "I must ask, how many here are, like yourself?"
 			-Nodding, Mr. Scotts said to those around him, "Show yourselves."
-			-At that, Mr. Scotts, Mr. Laub, Ms. Caldwell, and Ms. Gallows all underwent similar
+			-At that, Mr. Scotts, Mr. Laub, Agent Caldwell, and Ms. Gallows all underwent similar
 			 transformations to Ms. Davis, though into a diverse set of clearly demonic forms.
 			-Those untransformed, presumably human, all looked on nonchalantly, but it made quite
 			 the impression on us. Strangely, even my Beast felt. . . calmed in their transformed
 			 presences.
 			-Ms. Arnautovic, continued, saying, "Well, would you adhere to an agreement made by Mr.
-			 Laub, or by Ms. Caldwell? We can no more speak for all of our kind not present."
-		     "Do you not speak for you kind here, then? Has Ms. Caldwell failed me?"
+			 Laub, or by Agent Caldwell? We can no more speak for all of our kind not present."
+		     "Do you not speak for you kind here, then? Has Agent Caldwell failed me?"
 			 Ms. Arnautovic laughed, and said, "That she did, by quite a bit! There are others in
 			 our society, high above us."
 			-That provoked a display of rageon Mr. Scotts's part, as many mouths emerged, all over
-			 his form, each grumbling complaints about Ms. Caldwell, while the original reprimanded
+			 his form, each grumbling complaints about Agent Caldwell, while the original reprimanded
 			 her too, saying, "You should not have failed me again. . ."
 			-Breaking in, Ms. Arnautovic spoke again saying, "Please, there is no need to take this
-			 out on Ms. Caldwell. You are all newly exposed to our society, and can hardly be
+			 out on Agent Caldwell. You are all newly exposed to our society, and can hardly be
 			 expected to understand it's intricacies immediately. There are others of our kind,
 			 above us. I cannot speak for them, but I could take a message to them?"
 			-"Then go. You have two hours. The others will stay, and will be destroyed if you do
@@ -2665,7 +2665,7 @@ TODO:
 			 "Will you be joining us, Mr. Scotts?" I asked.
 			 "You'd play cards with a demon? I will, if you'll have me."
 			 "Of course. Please join us."
-			-He, Mr. Nightwalker, Ms. Caldwell, and I sat down at one of the tables, though Mr.
+			-He, Mr. Nightwalker, Agent Caldwell, and I sat down at one of the tables, though Mr.
 			 Corelli remained by the door.
 			-Throughout the game, the dealer was clearly cheating, apparently dealing more favorable
 			 hands to the consistently winning Mr. Scotts.
@@ -2723,7 +2723,7 @@ TODO:
 			 Caldwell leaping onto a table, and Mr. Scotts sweating, his face twisting with rage.
 			-"Who are you to challenge us?" Primogen Wright demanded. "To take hostage those beloved
 			 of our Camarilla? I have sent many of you back to hell in the past. Speak!"
-			-Ms. Caldwell turned to Mr. Scotts, and, in a tremorous voice, said to him, "You cannot
+			-Agent Caldwell turned to Mr. Scotts, and, in a tremorous voice, said to him, "You cannot
 			 win against him. Do you hear me?!? You cannot win. . ."
 			-Mr. Scotts, clearly shaken, began, "One of your kind. . . they. . ."
 			-Primogen Wright, though, put a hand up. "You mean one of The Sabbat."
@@ -2742,7 +2742,7 @@ TODO:
 			 You will attend our Elysium. Dress well, and hide your nature. You will not speak of
 			 matters concerning your community or ours outside of it, obeying the laws of our
 			 Masquerade."
-			-Mr. Scotts was in a state of angry shock. It was Ms. Caldwell that accepted on his
+			-Mr. Scotts was in a state of angry shock. It was Agent Caldwell that accepted on his
 			 behalf.
 			-Primogen Wright asked us to come with him and we followed him out, towards a car.
 				-One of a great and varied many outside the casino. Nearly the full force of Clan
@@ -2758,10 +2758,10 @@ TODO:
 			-All the rest of the coterie, save Mr. Nightwalker were already back there.
 			-I took the opportunity to bring up "She-demon", the Sabbat member and alias of Haley
 			 Fleck that the demons had claimed one among our coterie had met. Looking to my fellows,
-			 I asked them if they knew what Ms. Caldwell spoke of.
+			 I asked them if they knew what Agent Caldwell spoke of.
 			-Ms. Felicity spoke up, saying she recognized the name, and confirmed without me
 			 mentioning it that they met "in a bar."
-				-Close enough to the club Ms. Caldwell had mentioned.
+				-Close enough to the club Agent Caldwell had mentioned.
 				-We stared at her, and she elaborated, saying she was dragged there by her sire, who
 				 had some dealings with Ms. Fleck.
 				-"What dealings?" Primogen Wright asked, in ominous tones.
@@ -2782,10 +2782,10 @@ TODO:
 				 ". . . I have heard that name. If it is her, she is indeed a Lasombra, and powerful
 				  amongst The Sabbat."
 			-We then began various conversations with each other.
-				-I recounted some of what happend with me tonight to Ms. Gravel and Mr. Neir.
+				-I recounted some of what happend with me tonight to Ms. Gravel and Mr. Nier.
 				-I also overheard Ms. Arnautovic asking Primogen Wright to bring a message of some
 				 kind to The Prince.
-				-Mr. Neir was characteristically ready to point out why all of this was a sign of
+				-Mr. Nier was characteristically ready to point out why all of this was a sign of
 				 Gehenna, to which Primogen Wright responded, "I have seen the signs of Gehenna wax
 				 and wane over the centuries, with signs of the end _always_ there, for those that
 				 want to look for them."
@@ -2829,12 +2829,12 @@ TODO:
 		-Those demons _did_ confirm the broad lines of Cainite myth, a bit of a "religion is real"
 		 moment. That is, of course, if you can trust demons. . .
 		-_Concealment_ is another important capabability to develop.
-			-Ms. Caldwell said something about the details of the issue, but looks like that's
+			-Agent Caldwell said something about the details of the issue, but looks like that's
 			 something your character didn't actually overhear.
 			-Posted about it here: https://discord.com/channels/930231429286207539/933428895863160913/985314939315032104
 				"It occurs to me that there's another important capability for us to develop. Perhaps as important as detecting Mr. Scott's people is concealing ourselves from them.
-				Ms. Caldwell has exhibited many surprising insights, and in real time, but we've also seen her be wrong, or miss things, principally where Professor Brukelen (@Gravel (Ash)) is concerned. She got the jump on Ms. Caldwell the night we first met her, and then, this night, Ms. Caldwell seemed to have advised Mr. Reece that we were all present at the haven, including the group actually at Professor Brukelen's. Or so he complained, though I could not hear Ms. Caldwell's end of the phone call.
-				It should be news to none of us that Professor Brukelen is skilled at concealing herself, but it is important information that it includes concealing herself from Ms. Caldwell. That's an avenue it would also be worth our occultists researching the details of, or perhaps even us experimenting a bit, as knowing the limits and possibilities of that would be valuable information, information our kin would be very interested in. The same is true of the fact that, without such concealment, our secrets are wide open to Mr. Scotts's people."
+				Agent Caldwell has exhibited many surprising insights, and in real time, but we've also seen her be wrong, or miss things, principally where Professor Brukelen (@Gravel (Ash)) is concerned. She got the jump on Agent Caldwell the night we first met her, and then, this night, Agent Caldwell seemed to have advised Mr. Reece that we were all present at the haven, including the group actually at Professor Brukelen's. Or so he complained, though I could not hear Agent Caldwell's end of the phone call.
+				It should be news to none of us that Professor Brukelen is skilled at concealing herself, but it is important information that it includes concealing herself from Agent Caldwell. That's an avenue it would also be worth our occultists researching the details of, or perhaps even us experimenting a bit, as knowing the limits and possibilities of that would be valuable information, information our kin would be very interested in. The same is true of the fact that, without such concealment, our secrets are wide open to Mr. Scotts's people."
 		-Presence might not work on them. You have a vague memory of Lesley suggesting as much,
 		 due to the primogen using Majesty as he entered, but your notes don't mention the matter.
 	-"stakes and ladders, change can be either for any of us"
@@ -2866,7 +2866,7 @@ TODO:
 		 series of texts to Ms. Veck once I was inside.
 			-I reported what I'd seen, the grates and gas, and asked her to find me any reports or
 			 other information concerning the matter.
-		-As we drove to Omega Beans, I received a call from Mr. Neir.
+		-As we drove to Omega Beans, I received a call from Mr. Nier.
 			-"Shit's going down here. Something big just smashed a cop car."
 			 "You mean there's more than the one gunman?"
 			 "Yep! Rally the troops!"
@@ -2938,7 +2938,7 @@ TODO:
 			 at him, he seemed to be getting. . . pulled, somehow, to the doors of the coffee shop,
 			 which were now flung open. He clutched at the counter with his hands, but was beginning
 			 to slip.
-			-I lept over the counter and began banging on the vault door, shouting, "Neir! Where did
+			-I lept over the counter and began banging on the vault door, shouting, "Nier! Where did
 			 you go?!?"
 			-The vault door's handle spun in response, but did not open, so I lifted the door myself.
 			-As it cracked open, hairy, spider-like legs emerged and something bit me.
@@ -2949,7 +2949,7 @@ TODO:
 			 the empty doorway.
 			-At the sight, I began to feel nauseous in a way I hadn't since I breathed my last. Or,
 			 perhaps _not_ due to that bloody sight, as, looking down, I could see my belly swell.
-			 In seconds, it burst and began to tear, spilling out spiders as I screamed. . .
+			 In seconds, it began to tear and then burst, spilling out spiders as I screamed. . .
 	-I awoke in my bed at back at the shared haven, feeling a strong sense of deja vu as I went
 	 through the motions of getting ready for the evening.
 		-That feeling gnawed at me until I glanced at my phone and saw the date. It was several weeks
@@ -2958,8 +2958,10 @@ TODO:
 
 
 TODO:
-	-Figure out what Mr. Hubbard remembers, then the rest of the coterie.
-	-You probably shouldn't have a bunch of aggravated damage?
+	-(DONE) Figure out what Mr. Hubbard remembers, then the rest of the coterie.
+		-They don't remember anything about the events of the spider-dream.
+	-(DONE) You probably shouldn't have a bunch of aggravated damage?
+		-Nope! Removed it.
 	-(DONE) Look back at notes and figure out what was going on at the time you've woken up.
 		-Lesley found the spot in my notes for us:
 			lesley (DM) — Yesterday at 11:02 PM
@@ -2979,10 +2981,320 @@ TODO:
 		-Learn more of what happened to Ms. May, Mr. Nightwalker's sire.
 		-Better handle our contact with the demons?
 			-Present them to The Prince's court quickly? That's where eventually ended up?
+			-They seem to know something about the coin.
+			-Mr. Nier thinks he has a sign to use to earn Agent Caldwell's trust: https://discord.com/channels/930231429286207539/933428895863160913/993943766106906816
+		-Ms. Arnautovic doesn't want to give Mr. Giovanni his book: https://discord.com/channels/930231429286207539/933428895863160913/993947972737970308
+			-Well, there was little he could offer me, and we now haven't actually agreed to any
+			 deal.
+	-(DONE) SPEND XP!
+		-Fortitude dots would probably fit your spider dream best, though you now have enough for
+		 Presence 5.
+
+
+7/6/22:
+	-Upon waking, I immediately checked in with Mr. Hubbard and Ms. Veck, and found they remembered
+	 nothing of the events of the spider-dream.
+		-I also asked Ms. Veck to watch for a couple of remembered market movements. _Just_ watching
+		 for now, but if things play out the same, we'll be placing some substantial orders.
+	-From there, I sought out any of my fellows who were at the shared haven with me, to similarly
+	 question them.
+		-I was alone there, though.
+		-Before I could reach out to anyone else, though, I received a call from Mr. Nightwalker,
+		 who opened with, "Where's Ashley?"
+		 "Ms. Barron? Then, you remember. . . the coin? Ms. May. . ."
+		 "Meet me at the bridge."
+		 "Will do," I responded, hanging up. "Mr. Hubbard, bring the car around!"
+		-As we were loading into the car, though, my phone buzzed again. It was a text from Ms.
+		 Arnautovic saying, "I see Ashley Barron near the Brooklyn bridge. Cadusis's childe?"
+		 "I'm already on my way there," I responded, "Detain her if you can. Watch out for Mr.
+		 Nightwalker's sire."
+		-Mr. Hubbard and I continued towards the bridge, and I fired off a quick text to the others
+		 (Professor Brukelen, Mr. Corelli, Mr. Nier, and Ms. Felicity):
+		 "Meet Mr. Nightwalker, Ms. Arnautovic, and I near The Brooklyn Bridge. We're going to try
+		 and arrange a kinder fate for Ms. Barron."
+		-On my way to the bridge, I saw, out the sedan's tinted window, Agent Caldwell, walking
+		 down the street drinking from a Starbucks cup.
+			-I stared, wide-eyed, at this additional confirmation of the spider-dream.
+			-Alarmingly, she too looked up, staring at my car for a moment, looking a bit confused.
+			 After just a moment, though, she turned and continued walking.
+		-I then received a text from Mr. Nier, saying, "We need to find Caldwell. I need to talk to
+		 her."
+		 I responded, saying, "I just saw her on the street as I drove past."
+		 "Tell her 'Agent Orange' and $SOME_15_DIGIT_NUMBER"
+		 "We have at least some time there. Lets look into that once the matter of Ms. Barron is
+		 safely resolved."
+		 "Where was she?"
+		 After a quick moment on Google maps, I responded with the intersection in Tribeca that I
+		 thought we had been passing.
+		-Thankfully, after that, I received a text from Ms. Arnautovic, saying that she and Mr.
+		 Nightwalker had Ms. Barron in hand, and were heading back to the shared haven.
+			-I thanked her, and asked her to let me know if they needed any help at the haven,
+			 saying that I was going to find Mr. Nier in the meantime.
+			-I then redirected Mr. Hubbard, asking to him turn around and head back towards Tribeca,
+			 firing off a text to Mr. Horton in the meantime, waking him and asking him to head to
+			 the haven, "Where we might need to worry about an unwelcome visitor."
+		-Once near where I saw Agent Caldwell, I had Mr. Hubbard slowly circle, looking for him, and
+		 then met up with Mr. Nier once he called to inform me he'd arrived.
+			-Mr. Nier began to wander around the sidewalk, staring at the pavement beneath him,
+			 eventually shouting, "Mr. Nielsen! I've found her trail."
+			-I was a bit dubious he could have found much on the bare pavement, but called out to
+			 Mr. Hubbard, saying, "Mr. Hubbard! With me! Leave it double parked for now."
+			-Mr. Nier, meanwhile, lightly stroked a bit of the pavement, a look of concentration on
+			 his face. Looking up after a moment, he said, "We need to go to the casino. I think
+			 she's heading there."
+			 ". . . OK. Mr. Hubbard! Back to the car!"
+			-We loaded into the sedan and, once I was sitting, I texted an update to the rest of the
+			 coterie, saying we were on the way to Mr. Scotts's casino, in search of Agent Caldwell.
+				-Both Professor Brukelen and Ms. Arnautovic both asked if I needed there help at
+				 the casino and, looking to Mr. Nier a moment, responded, "Yes, Professor Brukelen
+				 and Ms. Arnautovic, I could use your expertise at the casino. Everyone else, keep
+				 an eye on Ms. Barron. Ms. May might still have designs on her."
+				-That received a chorus of assents, and we met the two of them at the casino.
+			-While riding over, Mr. Nier also mentioned something about some paintings he'd obtained,
+			 tied somehow to this matter.
+				-Did he mean the ones Ms. Felicity's sire had presented in the spider-dream? There
+				 was also someone spray painting when I arrived at his coffee shop in the dream time. . .
+	-Outside the casino, an elderly woman knocked on the window of my sedan. When I rolled down the
+	 window, she simply said, "I'm here."
+	 ". . . Professor?"
+	 "Yep."
+	-She was soon joined by Ms. Arnautovic, who arrived on a motorcycle.
+	-Everyone then loaded into the sedan, so that we could discuss the matter at hand.
+		-Professor Brukelen first offered that she could now extend her powers of concealment to
+		 others, a capabability I agreed we would likely find useful here.
+		-I then suggested that we discuss our goals here, before discussing methods.
+		-"With Ms. Barron safe," I began, "Speaking with Agent Caldwell would seem to be our
+		 next most urgen matter. We need to learn what she knows, especially about the coin. Shit.
+		 The coin. We don't know where it is.
+		 "We don't have it?" Professor Brukelen asked.
+		 "Mr. Nightwalker found it alongside the dying Ms. Barron. . . last time. In the abandoned
+		 house. It may still be there?"
+		-Mr. Nier, though, began to rummage around in his pockets, eventually pulling it out
+		 and asking, "You mean this coin?"
+		-At that I recoiled a bit, but he, meanwhile, looked thoughtful, and then began to stare
+		 at it in his hand, quite intently.
+		-He then began to babble a bit, speaking of "sacrifices" and "great webs, between the
+		 stars", and finally naming the coin, calling it, "Yeh-Haneph, the Primordial Dream",
+		 and saying, "They're watching us through it. . ."
+		 "They?"
+		 ". . . something primordial. . . I don't. . . We need to destroy the coin, but if
+		 they're watching. . . will they let us?"
+			-Not reassuring. . .
+		-Professor Brukelen was as alarmed as I, apparently, because, between one blink and the
+		 next, all of us suddenly looked like nondescript, casino-going seniors.
+			-"Very welcome, Professor Brukelen," I said, "If something is watching us. . ."
+		-Ms. Arnautovic then asked, "Have we all had the same visions? I had thought it was just
+		 I, but. . ."
+		-Several of us then all spoke at once, agreeing that we had seen. . . something.
+			- I cited commonalities
+			- Mr. Nier: unique things
+			- Arnautovic and Mr. Nier: things brough with
+			-Professor Brukelen also raised her own alarming matter, saying she was not sure
+			 that _only_ we recalled the events of the spider-dream. She said that she had
+			 encountered Mr. Scotts on the subway this evening, and that he seemed to recognize
+			 her.
+		-We then discussed our next move.
+			-I confessed I was a bit reluctant to enter the casino, both because of entering Mr.
+			 Scotts's domain because of the impact of Ms. Arnautovic's reliquary.
+			-Ms. Arnautovic, though, claimed that the reliquary effect required that she _will_
+			 it. A convenient thing, for our purposes.
+			-Mr. Nier then turned to me and asked if I had a pen and some paper. I pulled from
+			 my pockets a pen and one of my business cards. He then began to copy down the
+			 number from his arm.
+			-"Where," he asked, "Should we have Caldwell meet us?"
+			-"Neutral ground of some kind," I suggested, "A coffee shop? Not _your_ coffee shop,
+			 Mr. Nier."
+			-He nodded, searched for a Starbucks on his phone, and copied down it's address onto
+			 the card too.
+			-He then handed it to Professor Brukelen and asked her to take it inside, to Agent
+			 Caldwell. She nodded, and then cloaked herself further, disappearing from our sight.
+		-Soon, Professor Brukelen appeared beside my car, and Agent Caldwell left the casino soon
+		 after.
+	-We trailed her to the coffee shop, concealed by Professor Brukelen.
+		-Inside, Agent Caldwell ordered some coffee. While she waited for it, she looked around the
+		 coffee shop, with a confused expression on her face.
+		-We then entered the coffee shop, still in guises chosen by the professor.
+		-Ms. Arnautovic boldly sat down at Agent Caldwell's table, soon joined by Mr. Neir.
+		-Meanwhile, I loitered at a nearby table, with Professor Brukelen.
+		-Mr. Nier spoke with an increasingly agitated Agent Caldwell, but her attitude changed when
+		 he rattled off the number.
+		-"What is this about?" she asked him.
+		 "We need to destroy the coin," Mr. Neir responded, pulling it out fron his pocket."
+		-She stared at it and spoke again, her eyes never leaving it, saying, "Put it away. It's
+		 _watching. It's too dangerous here. There are too many people."
+		-"We need to go somewhere safer," she continued, tearing a piece of paper from a small
+		 notebook she retrieved from her jacket pocket, and writing the name and address of a
+		-"Want to drive there with us?" Mr. Neir asked.
+		 "I wouldn't feel comfortable getting into a car with strangers. Besides, it's nearby."
+		 "That is a wise caution," Ms. Arnautovic agreed.
+		-They got up to go, and Professor Brukelen and I followed them out the door.
+	-As we left, Professor Brukelen extended her Mask to cover Agent Caldwell too, disguising
+	 her as well.
+		-_This_ seemed to alarm Agent Caldwell more than anything else. She looked down at herself,
+		 saying, "What did you. . . I cannot see my own pattern. What did you do?"
+		 "Just a small trick, dear," Professor Brukelen responded, "To ensure no one recognizes us."
+		-She continued looking unnerved, but turned and began to walk down the street, and we
+		 followed.
+	-Arriving at the storage facility, Agent Caldwell led us to one of the units, and unlocked it,
+	 stepping inside.
+		-"We're as safe as we can be here," she said, "Who _are_ you?"
+		-"We're trying to avoid the apocalypse," Mr. Nier begain, setting the stakes. "Trying to
+		 traverse the web before us, and avoid the spider. Trying to survive."
+		-Ms. Arnautovic then volunteered, "I am the descendent of a house of mages. Survive, yes,
+		 but, even more so, I worry for others.
+		-"In short, Ms. Caldwell," I broke in, "We are willing to deal. We want, I think, what you
+		 want, to be rid of this thing, and I believe we can come to some mutually beneficial
+		 arrangement."
+		-"What have you experienced?" Agent Caldwell replied. "Dreams? Visions? Strange people, who
+		 perhaps brought you the coin?"
+		 "A little bit of all of that," I told her. "Events, seemingly real, but now undone."
+		 "The coin is a reliquary. The thing inside it was pulled from The Abyss. I do not know
+		 whether it freed itself or was freed. Without a human soul to temper it. . . it's madness. . ."
+		-As she trailed off, Ms. Arnautovic spoke up, "Is it an Earthbound?"
+		 ". . . How do you know that term?"
+		 "As I said, my house knows of such things. They are not good for us, for anyone. Mr. Scotts
+		 too, is. . . immature. I witnessed him torturing you, for not having the answers he sought.
+		 I worry for you too."
+		-Our discussion, though, was interrupted by a ringing alarm. The fire alarm. . .
+		-All of us looked quite concerned and Ms. Arnautovic, after sniffing at the air a moment,
+		 said, "We need to get out of here. Someone is torching the place."
+		-Professor Brukelen then hid all of us, and, with a word from Ms. Arnautovic to Agent
+		 Caldwell, cautioning her to stay close to the professor, we scurried out of the building.
+		-Outside, we could see the building was indeed on fire. Flames emerged from several points on
+		 the fourth floor of the building.
+		-Disturbingly, enormous webs also draped bits of it's upper stories. . ."
+		-I turned to Caldwell, and said, "The one from whom we got the coin might be here."
+		 "What does she want?
+		 "I do not know. She began behaving strangely some time ago. In the. . . vision, I was told
+		 she'd been twisted, and was behaving insanely."
+		 "She may have made a deal with it. Sold herself to it."
+		-I then pulled out my phone and called Mr. Hubbard, asking him to meet us at the storage
+		 facility. He said he'd be there in four minutes.
+		-Almost exactly those four later, my sedan pulled up and we all squeezed in.
+		-"I know of another suitable place to continue," Agent Caldwell said. "On Staten Island?"
+		 That evoked a chorus of no's, with Mr. Nier explaining that Staten Island isn't safe for
+		 us, or her.
+		 "Well, we need some place safe, free of bystanders."
+		 "A boat?," Ms. Arnautovic suggested. "We could rent one?"
+		  Caldwell nodded, and I got on it, doing some searches and placing a call.
+		-Soon we were driving towards the Hudson river.
+	-While we traveled, Agent Caldwell told us more of the coin and it's. . . inhabitant.
+		-"I confess," she said, "I cannot destroy the coin. Not alone. It takes a great deal of
+		 effort. We've only destroyed three of them before. Or, perhaps less. Some of them may have
+		 been the same. . . entity. These reliquaries, they form a. . . network of sorts. If one
+		 is destroyed, others still exist, and the entity contained within can make more."
+		 "Like horcruxes," Ms. Arnautovic, volunteered.
+		 "Yes, very much so."
+		-"Do you know where this Ms. May stays?" Agent Caldwell continued.
+		 "Perhaps," I said, "There is an abandoned house she may be staying at. But what is our plan?"
+		-We settled on, ideally, capturing her. Ms. Arnautovic thought that her bond with this
+		"Earthbound" entity might be traceable, if we had her in hand.
+		-I set about sending messages.
+			-First to Mr. Nightwalker, asking him to stash Ms. Barron somewhere safe, and meet us
+			 where we found her hurt the other evening."
+				-There was no response to my text for some time, but I eventually received, "On my
+				 way."
+			-I then reached out to Primogen Wright, sending to him, "I believe we have an idea of
+			 where Ms. May might be, and suspect you would be interested. It seems she has been
+			 trafficking with the fallen."
+				-I recieved a response immediately, saying, "Where are you?"
+				 "We're on our way into Brooklyn. There is an abandoned house, a short distance
+				 across the bridge. Go to. . ." I sent, including directions.
+			-Finally, I called Mr. Corelli, asking him to meet us at the same spot, prepared for
+			 violence. He protested, though, saying he was busy at the moment, with a "priority
+			 call."
+		-On the way, Ms. Arnautovic also had us stop briefly at a gas station, saying that she
+		 needed some material for one of her clan's rituals. When she returned to the car, she
+		 claimed that she would be able to track Ms. May.
+	-Arriving at the abandoned house, Ms. Arnautovic began to inspect the ground in front of it,
+	 and we were soon joined by Mr. Nightwalker.
+		-Ms. Arnautovic claimed that Ms. May was not here, but _had been_ here.
+		-She turned to Agent Caldwell, saying, "Can you find her? With your powers?"
+		-Agent Caldwell nodded, and then her eyes went unfocused for a moment. "She's somewhere
+		 nearby. In a hole, underground."
+		-Ms. Arnautovic led us along, apparently following some trail unseen by the rest of us.
+		-Most of us were also unseen, concealed by Professor Brukelen, though she was unable to
+		 cover all of us, and left Ms. Arnautovic and Mr. Nightwalker exposed.
+			-"Not sure what Vittoria needs to do here, and, well, Cadusis might draw his sire out."
+		-Alarmingly, we were soon joined by a news helicopter, circling overhead.
+		-However, we all received a text from Mr. Corelli, saying that was him, and that he had
+		 Primogen Wright with him."
+		-The trail led to a small hill nearby, in either an especially scrubby park or a large
+		 empty lot.
+		-Agent Caldwell then spoke up, saying, "You need that hill cleared, right? Have that chopper
+		 back off."
+			-While I relayed that to Mr. Corelli, Agent Caldwell pulled out her own phone, making a
+			 call, saying, "This is Agent Caldwell. I'm requesting a shake and bake, at the following
+			 coordinates. . ."
+		-The chopper pulled back a ways, and we on the ground wisely did the same.
+		-A few scant minutes later, we could see a drone flying overhead, towards the hill, carrying. . .
+		 something, some boxy object.
+		-As it began to circle the hill, it released smaller objects from the box it carried,
+		 scattering them about the hill.
+		-In a blinding flash, the hill was suddenly engulfed in a blazing inferno.
+			-It was only through shear force of will that I resisted headlong flight at the sight of
+			 the flames. To their credit, the rest of the coterie on the gorund remained at my side
+			 as well.
+		-Lacking much fuel, the flames soon calmed and began to gutter out.
+		-We all then received a text from Mr. Corelli, saying a "spider-thing" had crawled out of
+		 the hill.
+		-Mr. Nightwalker and Ms. Arnautovic rushed forward, towards the hill.
+		-As they did so, the helicopter lowered and Primogen Wright lept out with his sword, driving
+		 it into the ground. Through, in fact, a scorched figure with a few extra limbs, now pinned
+		 to the ground like the bug it partly resembled.
+		-With some effort, he drew the sword out, and Ms. Arnautovic then staked what I presumed to
+		 be Ms. May
+		-After some discussion, the helicopter lowered and landed, while Primogen Wright threw Ms.
+		 May over his shoulder, and then clambered aboard.
+		-Returning to the rest of us, Mr. Nightwalker and Ms. Arnautovic let us know that the
+		 primogen had told us to meet him at his tower in two hours.
+		-As we walked back towards Mr. Nightwalker's and my cars, I turned to Agent Caldwell, and
+		 asked her, "Agent Caldwell, would you be willing to accept meeting back up after we attend
+		 to that?"
+			-"I confess I'm very curious about what's going on here," she protested. "I'd very much
+			 like to be there. That man who lept from the chopper, was he. . . a vampire?"
+			-Ms. Arnautovic then broke in, saying she'd been tasked with making peaceful contact
+			 with Agent Caldwell's kind, speaking of her hopes on that front, the necessity for
+			 discretion to succeed at that.
+			-Agent Caldwell seemed amenable to that, but also spoke of potential. . . difficulties,
+			 on her end. She said her kind had a court, the ruler of which was the "Tyrant", and
+			 said that their current Tyrant was. . . ambitious.
+				-"You mean Mr. Scotts?" Ms. Arnautovic asked, to which Agent Caldwell nodded.
+			-She then gazed off into the distance a moment, in the direction the helicopter flew
+			 off, and said, "Primogen Wright trusts all of you absolutely. Well, most of you."
+				-Interesting, and affirming, given Agent Caldwell's displayed insight.
+			-"And I do not intend to betray that trust, Agent Caldwell," I replied. "I hope you
+			 understand, then, why I'd be cautious about how we proceed here together, not wishing
+			 to offend."
+			-She nodded in response.
+			-She was still full of problematic questions, though, asking a moment later, "Wait.
+			 Where did the uranium come from?"
+				-Ms. Arnautovic reassured her that all of her questions would be answered in time,
+				 if she would just be patient.
+				-That _is_ a good question, though, and not one I'm sure was adequately resolved.
+	-From there, we returned to our shared haven, with a brief stop in front of the casino, to
+	 collect Ms. Arnautovic's motorcycle.
+		-Agent Caldwell voiced a preference _not_ to go inside the casino.
+		-Instead, she returned with us to the haven.
+			-A brief discussion amongst ourselves saw little harm in it. She found it once (sort
+			 of), after all.
+		-During the two hours before our meeting with Primogen Wright, Professor Brukelen again
+		 asked me if I could share the knowledge of Fortitude with her.
+			-"Of course I can grant you this, Professor. I remember our previous discussion, and,
+			 with what I remember of the. . . spider-dream, I had good reasons to develop that
+			 capability then. In fact, the moment we have any spare time, I had hoped to offer that
+			 to all of the coterie. It seems we'll need it."
+			-I then spent a bit of the remaining time extending that same offer to the others, and 
+			 Mr. Corelli, at least, was also currently interested.
+
+
+TODO:
+	-Where _did_ the uranium come from?
 
 
 TODO:
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
+	-Teach people Fortitude when next we have downtime.
 
 
 The Coterie:
@@ -3080,6 +3392,9 @@ Boons owed to you:
 					 securing, with hardware you paid for, of a property in New York. She was keen
 					 to repay this with Auspex, but that secret is also widespread among the
 					 coterie. Discussed the boon here: https://discord.com/channels/930231429286207539/933428895863160913/982785254148411493
+			-Or maybe not? That was a spider-dream.
+			-She's probably amenable to the same deal again, though.
+
 Boons owed: 
 	-Primogen Morgan Durley, of Clan Tremere:
 		-2 pt. boon:

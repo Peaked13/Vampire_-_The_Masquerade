@@ -114,7 +114,7 @@ Advancement:
 	*	10 Dominate 3
 	*	4  Subterfuge 3
 	*	6  Subterfuge 4 (Impeccable Lies specialty!)
-		15 Presence 4
+	*	15 Presence 4
 		10 Fortitude 1
 		5  Fortitude 2
 		6  Intimidation 4 (specialty!)
