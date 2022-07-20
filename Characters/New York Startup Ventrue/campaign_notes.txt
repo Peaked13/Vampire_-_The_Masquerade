@@ -3011,12 +3011,12 @@ TODO:
 		-Mr. Hubbard and I continued towards the bridge, and I fired off a quick text to the others
 		 (Professor Brukelen, Mr. Corelli, Mr. Nier, and Ms. Felicity):
 		 "Meet Mr. Nightwalker, Ms. Arnautovic, and I near The Brooklyn Bridge. We're going to try
-		 and arrange a kinder fate for Ms. Barron."
+		 and arrange a kinder fate for Ms. Barron. Call when you're close."
 		-On my way to the bridge, I saw, out the sedan's tinted window, Agent Caldwell, walking
 		 down the street drinking from a Starbucks cup.
 			-I stared, wide-eyed, at this additional confirmation of the spider-dream.
 			-Alarmingly, she too looked up, staring at my car for a moment, looking a bit confused.
-			 After just a moment, though, she turned and continued walking.
+			-After just a moment, though, she turned and continued walking.
 		-I then received a text from Mr. Nier, saying, "We need to find Caldwell. I need to talk to
 		 her."
 		 I responded, saying, "I just saw her on the street as I drove past."
@@ -3024,7 +3024,7 @@ TODO:
 		 "We have at least some time there. Lets look into that once the matter of Ms. Barron is
 		 safely resolved."
 		 "Where was she?"
-		 After a quick moment on Google maps, I responded with the intersection in Tribeca that I
+		-After a quick moment on Google maps, I responded with the intersection in Tribeca that I
 		 thought we had been passing.
 		-Thankfully, after that, I received a text from Ms. Arnautovic, saying that she and Mr.
 		 Nightwalker had Ms. Barron in hand, and were heading back to the shared haven.
@@ -3033,7 +3033,7 @@ TODO:
 			-I then redirected Mr. Hubbard, asking to him turn around and head back towards Tribeca,
 			 firing off a text to Mr. Horton in the meantime, waking him and asking him to head to
 			 the haven, "Where we might need to worry about an unwelcome visitor."
-		-Once near where I saw Agent Caldwell, I had Mr. Hubbard slowly circle, looking for him, and
+		-Once near where I saw Agent Caldwell, I had Mr. Hubbard slowly circle, looking for her, and
 		 then met up with Mr. Nier once he called to inform me he'd arrived.
 			-Mr. Nier began to wander around the sidewalk, staring at the pavement beneath him,
 			 eventually shouting, "Mr. Nielsen! I've found her trail."
@@ -3064,8 +3064,8 @@ TODO:
 		 others, a capabability I agreed we would likely find useful here.
 		-I then suggested that we discuss our goals here, before discussing methods.
 		-"With Ms. Barron safe," I began, "Speaking with Agent Caldwell would seem to be our
-		 next most urgen matter. We need to learn what she knows, especially about the coin. Shit.
-		 The coin. We don't know where it is.
+		 next most urgent matter. We need to learn what she knows, especially about the coin. . .
+		 Shit. The coin. We don't know where it is."
 		 "We don't have it?" Professor Brukelen asked.
 		 "Mr. Nightwalker found it alongside the dying Ms. Barron. . . last time. In the abandoned
 		 house. It may still be there?"
@@ -3086,9 +3086,16 @@ TODO:
 		-Ms. Arnautovic then asked, "Have we all had the same visions? I had thought it was just
 		 I, but. . ."
 		-Several of us then all spoke at once, agreeing that we had seen. . . something.
-			- I cited commonalities
-			- Mr. Nier: unique things
-			- Arnautovic and Mr. Nier: things brough with
+			-I cited commonalities, things we all should remember, to a chorus of nods.
+			-Mr. Nier then spoke of things he uniquely experienced, right before the end.
+				-Experiences every bit as strange as those that ended my. . . dream, but also an
+				 opportunity he had to speak with Agent Caldwell, during which he learned the code
+				 words and numbers he had relatyed to me.
+			-Perhaps most disturbingly, in that it proved this had been quite a bit more than a
+			 dream, Ms. Arnautovic and Mr. Nier both mentioned things they'd physically brought
+			 with, from these. . . now undone events.
+				-Mr. Nier obviously had the coin, and Ms. Arnautovic said (thankfully!) that she
+				 still had the reliquary Primogen Wright had given her.
 			-Professor Brukelen also raised her own alarming matter, saying she was not sure
 			 that _only_ we recalled the events of the spider-dream. She said that she had
 			 encountered Mr. Scotts on the subway this evening, and that he seemed to recognize
@@ -3100,7 +3107,7 @@ TODO:
 			 it. A convenient thing, for our purposes.
 			-Mr. Nier then turned to me and asked if I had a pen and some paper. I pulled from
 			 my pockets a pen and one of my business cards. He then began to copy down the
-			 number from his arm.
+			 number he'd mentioned before, from where it was written on his arm.
 			-"Where," he asked, "Should we have Caldwell meet us?"
 			-"Neutral ground of some kind," I suggested, "A coffee shop? Not _your_ coffee shop,
 			 Mr. Nier."
@@ -3121,7 +3128,7 @@ TODO:
 		-"What is this about?" she asked him.
 		 "We need to destroy the coin," Mr. Neir responded, pulling it out fron his pocket."
 		-She stared at it and spoke again, her eyes never leaving it, saying, "Put it away. It's
-		 _watching. It's too dangerous here. There are too many people."
+		 _watching_. It's too dangerous here. There are too many people."
 		-"We need to go somewhere safer," she continued, tearing a piece of paper from a small
 		 notebook she retrieved from her jacket pocket, and writing the name and address of a
 		-"Want to drive there with us?" Mr. Neir asked.
@@ -3176,7 +3183,7 @@ TODO:
 		 us, or her.
 		 "Well, we need some place safe, free of bystanders."
 		 "A boat?," Ms. Arnautovic suggested. "We could rent one?"
-		  Caldwell nodded, and I got on it, doing some searches and placing a call.
+		-Caldwell nodded, and I got on it, doing some searches and placing a call.
 		-Soon we were driving towards the Hudson river.
 	-While we traveled, Agent Caldwell told us more of the coin and it's. . . inhabitant.
 		-"I confess," she said, "I cannot destroy the coin. Not alone. It takes a great deal of
@@ -3218,7 +3225,7 @@ TODO:
 			-"Not sure what Vittoria needs to do here, and, well, Cadusis might draw his sire out."
 		-Alarmingly, we were soon joined by a news helicopter, circling overhead.
 		-However, we all received a text from Mr. Corelli, saying that was him, and that he had
-		 Primogen Wright with him."
+		 Primogen Wright with him.
 		-The trail led to a small hill nearby, in either an especially scrubby park or a large
 		 empty lot.
 		-Agent Caldwell then spoke up, saying, "You need that hill cleared, right? Have that chopper
@@ -3233,7 +3240,7 @@ TODO:
 		 scattering them about the hill.
 		-In a blinding flash, the hill was suddenly engulfed in a blazing inferno.
 			-It was only through shear force of will that I resisted headlong flight at the sight of
-			 the flames. To their credit, the rest of the coterie on the gorund remained at my side
+			 the flames. To their credit, the rest of the coterie on the ground remained at my side
 			 as well.
 		-Lacking much fuel, the flames soon calmed and began to gutter out.
 		-We all then received a text from Mr. Corelli, saying a "spider-thing" had crawled out of
@@ -3243,8 +3250,8 @@ TODO:
 		 it into the ground. Through, in fact, a scorched figure with a few extra limbs, now pinned
 		 to the ground like the bug it partly resembled.
 			-The primogen was, at this point not unexpectedly, dressed as a medieval crusader.
-		-With some effort, he drew the sword out, and Ms. Arnautovic then staked what I presumed to
-		 be Ms. May
+		-With some effort, he drew the apparently tremendously heavy sword out, and Ms. Arnautovic
+		 then staked what I presumed to be Ms. May.
 		-After some discussion, the helicopter lowered and landed, while Primogen Wright threw Ms.
 		 May over his shoulder, and then clambered aboard.
 		-Returning to the rest of us, Mr. Nightwalker and Ms. Arnautovic let us know that the
@@ -3261,13 +3268,17 @@ TODO:
 			 on her end. She said her kind had a court, the ruler of which was the "Tyrant", and
 			 said that their current Tyrant was. . . ambitious.
 				-"You mean Mr. Scotts?" Ms. Arnautovic asked, to which Agent Caldwell nodded.
+			-Agent Caldwell then changed the subject, saying, in seeming wonderment, that she could
+			 not see us in "the tapestry".
+				-"Us?"
+				 "Your group, specifically. I can see the one from the helicopter just fine."
 			-She then gazed off into the distance a moment, in the direction the helicopter flew
 			 off, and said, "Primogen Wright trusts all of you absolutely. Well, most of you."
 				-Interesting, and affirming, given Agent Caldwell's displayed insight.
-			-"And I do not intend to betray that trust, Agent Caldwell," I replied. "I hope you
-			 understand, then, why I'd be cautious about how we proceed here together, not wishing
-			 to offend."
-			-She nodded in response.
+				-"And I do not intend to betray that trust, Agent Caldwell," I replied. "I hope you
+				 understand, then, why I'd be cautious about how we proceed here together, not wishing
+				 to offend."
+				-She nodded in response.
 			-She was still full of problematic questions, though, asking a moment later, "Wait.
 			 Where did the uranium come from?"
 				-Ms. Arnautovic reassured her that all of her questions would be answered in time,
@@ -3295,6 +3306,9 @@ TODO:
 
 TODO:
 	-Where _did_ the uranium come from?
+	-What were those paintings Mr. Neir mentioned in the last session?
+		-Look for "Mr. Nier also mentioned something about some paintings he'd obtained".
+	-Raise the matter of the reliquary with Primogen Wright?
 
 
 TODO:
