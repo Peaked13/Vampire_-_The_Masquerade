@@ -103,7 +103,7 @@ Equipment:
 	-Cars:
 		-Fancy sedan (armored)
 			-Paranoid chic is often in, in tech circles, helping you stand out _just_ the right amount.
-			-It's also had a limo-style refridgerated mini-bar installed, though it seldom contains liquor.
+			-It's also had a limo-style refrigerated mini-bar installed, though it seldom contains liquor.
 		-White cargo van
 			-Generally kept in Brooklyn, at the security consultancy's loading dock.
 
@@ -115,8 +115,8 @@ Advancement:
 	*	4  Subterfuge 3
 	*	6  Subterfuge 4 (Impeccable Lies specialty!)
 	*	15 Presence 4
-		10 Fortitude 1
-		5  Fortitude 2
+	*	10 Fortitude 1
+	*	5  Fortitude 2
 		6  Intimidation 4 (specialty!)
 		2  Politics 2
 		20 Presence 5, or sooner?
