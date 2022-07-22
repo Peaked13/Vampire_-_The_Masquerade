@@ -3655,7 +3655,7 @@ TODO:
 			 "I mean to pursue every angle available to us," Ms. Arnautovic responded. "Perhaps Mr.
 			  Nightwalker, Ms. Felicity, Mr. Corelli, and maybe Mr. Nielsen can follow that thread."
 			 "I would add to that Primogen Wright," I broke in. "It would be wise to involve the
-			  primogen, or the prince, before moving against Ms. Dawn."
+			  primogen, or the prince, before moving against Ms. Fadel."
 			 "I definitely agree," Professor Brukelen added.
 			 "Of course, of course," Ms. Arnautovic replied.
 	-We ended the session there, and should determine our plans to move forward.
@@ -3666,10 +3666,16 @@ TODO:
 
 TODO:
 	-Look into Mr. Nier's "biker with a journal".
+		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-Follow up on the recording of Ms. Barron.
-	-Follow up on the traitorous Ms. Dawn.
+		-Turned it over to Professor Brukelen here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+	-Follow up on the traitorous Ms. Fadel.
+		-Politcally and. . . more directly.
 	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
+		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-(DONE!) Record Fortitude boon and bond.
+	-Follow up on our relationship with Agent Caldwell and her fellows?
+		-I wish I'd spoken more with Primogen Wright about the subject at our last meeting.
 
 
 TODO:
@@ -3696,6 +3702,8 @@ The Coterie:
 			 willing to talk.
 			-Instead, she's making indiscrete attacks on the kine, and seems to have developed more
 			 than a few spider-like feature.
+			-She has sold herself to the demon Yeh-Haneph, claiming (while Dominated) to have been
+			 tricked by Ms. Fadel.
 		-Has a girlfriend, Ashley Barron, that he clearly cares deeply for.
 			-Had? He semi-accidentally embraced her, to save her life.
 			-Prince Panhard spared his life, despite embracing without permission, but is calling a
@@ -3707,6 +3715,8 @@ The Coterie:
 			-Ah, you indebted yourself to the Prince to save her life, and he and Ms. Barron both
 			 now very much owe you (see boons, below, and TODOs before 4/28/22 session for details).
 			-Perhaps that now never occurred? Thanks, Spider Coin!
+				-Ah, but, instead, it would seem she's one of the fey (and always would have been,
+				 were it not for that undone embrace), of the Unseelie House Belor.
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
 		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
@@ -3732,6 +3742,7 @@ The Coterie:
 			 source of intelligence for the sect.
 				-They also asked you to extend this understanding to any of the coterie that also
 				 discover her past, though none yet have.
+		-She also knows a concerning (but useful) quantity about demons.
 	-Professor "Gravel" Brukelen, of Clan Nosferatu (played by Ash)
 		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
 		 Buren.
@@ -3743,13 +3754,15 @@ The Coterie:
 		 that's somewhat out of character, given the spotlight it put on her at Ms. Laveau's
 		 introduction.
 			-They both seem to be tied to other supernatural creatures, mages and the fey.
-			-Or perhaps that was a spider-dream?
+			-Nope! That was a spider-dream.
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
 			-She doesn't seem overly fond of either, especially her sire.
 			-Sounds like her sire might also be entangled with The Sabbat (see end of the 6/8/22
 			 session notes).
+			-Ah, more than even that, she apparently consorts with demons and Baali, and tricked
+			 Ms. May into selling herself to Yeh-Haneph.
 		-More than a bit catty, but has demonstrated admirable social skills in the course of that.
 
 
@@ -3776,6 +3789,7 @@ Boons owed to you:
 			-She's probably amenable to the same deal again, though.
 	-Professor Brukelen, of Clan Nosferatu:
 		-Minor boon: You taught her Fortitude.
+			-She asked that the boon not be traded to another Kindred, which you assented to: https://discord.com/channels/930231429286207539/930231429286207542/999641547207348375
 
 Boons owed: 
 	-Primogen Morgan Durley, of Clan Tremere:
