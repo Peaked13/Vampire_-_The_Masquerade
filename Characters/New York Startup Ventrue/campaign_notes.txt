@@ -3372,7 +3372,7 @@ TODO:
 		  between us."
 		-Mr. Nier then interrupted, asking, "Who _did_ strike the final blow?"
 		 "His name is Francisco Domingo de Polonia."
-		 At the name, Ms. Arnautovic started. "A powerful member of The Sabbat," she said.
+		-At the name, Ms. Arnautovic started. "A powerful member of The Sabbat," she said.
 		-"Were you unable, or unwilling, to strike?" the impertinent Mr. Nier asked.
 		 "We were working together, along with a group known as The Manus Negrum. This being posed
 		  a danger to all of us, Kindred and others."
@@ -3429,7 +3429,7 @@ TODO:
 			-"Who are the Baali in the city?" Ms. Arnautovic then asked.
 				-After the question was repeated, fear washed over Ms. May's face, along with signs
 				 of struggle against the Primogen's compulsion, but she then said, "They are among
-				 The Sabbat, but it is not just The Baali. They joined with Angelis Atelier, and
+				 The Sabbat, but it is not just The Baali. They joined with The Angelis Atelier, and
 				 have formed the coven worshipping Yeh-Haneph, re-embracing Kindred into their ranks."
 				-Turning to the rest of us, Ms. Arnautovic said, "I think we should exchange
 				 information with The Sabbat."
@@ -3491,7 +3491,7 @@ TODO:
 			 beginning to act. . . strangely."
 				-I interrupted the argument between Mr. Nier and Ms. Arnautovic, and said, "I think
 				 we have an immediate problem. Ms. Veck says Ms. Barron has begun behaving strangely,
-				 and, if what Ms. May said was true, we may have a grave problem."
+				 and, if what Ms. May said was true, it may be a very grave matter."
 				-Ms. Arnautovic though, seemed quite angry with Mr. Nier, and continued the argument.
 				-"We have more urgent problems!" I insisted, and Professor Brukelen expressed her
 				 agreement.
@@ -3667,15 +3667,20 @@ TODO:
 TODO:
 	-Look into Mr. Nier's "biker with a journal".
 		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
+		 situation.
 	-Follow up on the recording of Ms. Barron.
 		-Turned it over to Professor Brukelen here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-Follow up on the traitorous Ms. Fadel.
-		-Politcally and. . . more directly.
+		-Politically and. . . more directly.
 	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
 		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-(DONE!) Record Fortitude boon and bond.
 	-Follow up on our relationship with Agent Caldwell and her fellows?
 		-I wish I'd spoken more with Primogen Wright about the subject at our last meeting.
+	-Make sure Mr. Nier disposes of that radioactive material.
+	-Get Politics 2? Two more 4 XP sessions puts you at 22, so you have 2 to spare after Majesty.
+	-Who is "Conrad Carter", who Ms. May mentioned?
 
 
 TODO:
