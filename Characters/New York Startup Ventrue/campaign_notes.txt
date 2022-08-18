@@ -3423,7 +3423,7 @@ TODO:
 				 to place upon it. It is a link to Yeh-Haneph, to my master. Through it he watches,
 				 and it is a retreat for him, should his true reliquary be destroyed."
 			-Ms. Arnautovic followed that with, "How many coins are there?"
-				-After Primogen Wright repeated, the question, Ms. May replied, "Three."
+				-After Primogen Wright repeated the question, Ms. May replied, "Three."
 			-"Are they all in the city?" Ms. Arnautovic next suggested.
 				-"Two are in New York. One in Boston."
 			-"Who are the Baali in the city?" Ms. Arnautovic then asked.
@@ -3539,7 +3539,7 @@ TODO:
 			-Ms. Barron, then, wandered off, and began to speak softly, to the wall.
 		-Professor Brukelen then waved Mr. Nier and myself over, saying, "I think she's one of the
 		 fey, though she doesn't know it yet. They don't realize it until they. . . wake up one day.
-		 I think she might be a member of House Belor, the fey associate with that sigil Sam saw."
+		 I think she might be a member of House Belor, the fey associated with that sigil Sam saw."
 		-The three of us briefly discussed what to do, without any especially satisfying answers.
 		-We were interrupted by the ding of the elevator though, and turned to see both Ms.
 		 Arnautovic and Agent Caldwell inside it.
@@ -3671,21 +3671,351 @@ TODO:
 		 situation.
 	-Follow up on the recording of Ms. Barron.
 		-Turned it over to Professor Brukelen here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+	-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
 	-Follow up on the traitorous Ms. Fadel.
 		-Politically and. . . more directly.
+		-Sounds like I might be doing that for a bit off camera, during a rescheduled session I had
+		 to miss: https://discord.com/channels/930231429286207539/930231429286207542/1006273772153737316
 	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
 		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-(DONE!) Record Fortitude boon and bond.
 	-Follow up on our relationship with Agent Caldwell and her fellows?
 		-I wish I'd spoken more with Primogen Wright about the subject at our last meeting.
 	-Make sure Mr. Nier disposes of that radioactive material.
-	-Get Politics 2? Two more 4 XP sessions puts you at 22, so you have 2 to spare after Majesty.
+	-(DONE!) Get Politics 2? Two more 4 XP sessions puts you at 22, so you have 2 to spare after Majesty.
+		-Yep, got it approved here: https://discord.com/channels/930231429286207539/930231429286207542/1006273772153737316
 	-Who is "Conrad Carter", who Ms. May mentioned?
+	-Speak more with Primogen Wright:
+		-About the Camarilla's posture towards Mr. Scotts's people.
+			-Relate how he handled them in the spider-dream. The Tremere confining them, him cowing
+			 them personally with the relic, and instructing them to keep the Camarilla's peace and
+			 attend our next Elysium.
+			-Ask him if he still wishes that last, and, if so, offer your assistance in making
+			 gentler contact than last time. You've already introduced yourself to Agent Caldwell,
+			 and made quite the impression on her.
+		-About moving against Ms. Fadel.
+		-Ask Primogen Wright for some signal, should we have another dream-skip?
+			-Given that he's familiar with these things, and assisting us in the matter.
+
+
+8/11/22:
+	-There was a rescheduled session this night that I missed.
+
+
+8/17/22:
+	-I spent my next bit of the evening beginning to make calls, sounding out Ms. Fadel's support.
+	-Returning to the haven, I heard there'd been more occult tomes "appearing" on the printer.
+		-Well, I'd witnessed _one_ of these minor miracles, but Professor Brukelen also seemed a bit
+		 nervous about the matter. These don't all look like they came off the printer. . .
+		-(I think these are the excerpts under "Books from the Auction", in the Roll20 handouts.)
+		-They seemed all be filled with occult drivel, with one I leafed through talking of Caine's
+		 love for his childe Zillah, and how a crone used that to trick him into something like a
+		 blood bond.
+		-Still, those better learned in such things might be able to pull some useful secrets from
+		 the dross.
+	-There'd also apparently been some further drama with Ms. Barron while I was gone.
+		-I recieved a disjointed summary from Mr. Nier, in a series of texts: https://discord.com/channels/930231429286207539/930231429286207542/1009493733600919713
+			Ashley is the cockroach whisperer and can power/overpower electronics
+			Sam played a game of Malkavian Charades to figure this out, since she was speaking in tongues, various languages Sam couldn't really place.
+			Cadusis wasn't happy with the game, when she turned on a cell phone with her powers Cadusis shoved her back and said to not put her in danger
+			She might be a decent bit sociopathic (Aura shows Blue snowflakes, confusion and frustration with intense cold radiating off of her)
+		-She was locked in Ms. Arnautovic's room when I got back, and Mr. Nier was at his university,
+		 hopefully returning his. . . material.
+	-While rifling through some paperwork, preparing to send something to the primogen, an unfamiliar
+	 document fell from a folder.
+		-The paper bore the image of a cartoon-y sphinx.
+		-Stapled to it were several photographs, of a man in red, wizard-like robes.
+			-In one, the man was meeting with a Tremere elder I recognized, Alan Murzyk.
+			-In several of them, I saw some familiar seeming books, recognizing, in fact, some of
+			 the books Professor Brukelen had. . . found.
+			-The oldest, a poloroid showed the red wizard before a bonfire, standing next to. . .
+			 something. A Nosferatu or similarly twisted vampiric creature.
+		-After having Ms. Veck make some copies, I consulted with Professor Brukelen, showing her
+		 the photos.
+			-She continued to be evasive about the origin of these books, maintaining that she found
+			 them on the printer, and professing that she had no idea why they were in these photos,
+			 or where the photos had come from.
+			-She _did_ say that she'd contacted Agent Cladwell about these specific books, since
+			 they were in a language she did not recognize.
+			-I warned her that she should be careful in relying on this demonic oracle, _especially_
+			 because she's been so eager to help. . .
+		-I then called Ms. Arnautovic, apologized for the intrusion, and mentioned I had some photos
+		 I was hoping she could take a look at, photos that might show a colleague of hers.
+			-She said she would stop by the haven in half an hour or so.
+	-In the meantime, Professor Brukelen continued sorting through the books, and I went to go speak
+	 with Mr. Nightwalker.
+		-He was sitting in the hall, on the floor, his back against the door to Ms. Arnautovic's
+		 apartment, into which I'm told Ms. Barron had disappeared, locking the door behind her.
+	    -He seemed despondant. Greeting him, I then broached the subject of his girlfriend, saying,
+		 "I'd heard there were further developments with Ms. Barron in my absence. . . Is she still
+		  in there?"
+		 "Yeah," he said, dejectedly, "I can hear here making noises. . . Like she's. . . practicing
+		  talking?"
+		 ". . . I do not know whether that's a good or bad sign," I replied.
+		-He just went back to staring at the floor.
+	-Shortly afterward, Ms. Arnautovic arrived.
+		-I called to her from my apartment as she stepped out from the elevator, but she first
+		 walked over and spoke to Mr. Nightwalker, about her rooms. I could hear them speaking, and
+		 she too first confirmed Ms. Barron was still inside, and then issued a warning, that there
+		 were things within that endangered life and soul both.
+		-She then walked over to my apartment, and I relayed to her my discovery of the document,
+		 asking to take a look at the photos.
+		-She indeed recognized the red-robed figure, naming him Grandmaster Yeron (sp?), of the
+		 Order of Hermes. "He is no longer with us," she said, "Though he will return. . ."
+		-"What of Mr. Murzyk? I have seen in at Elysium. Are you acquainted with him?" I asked.
+		 "He is my direct superior," Ms. Arnautovic replied.
+		-"How did they get here," I then asked, "These books and documents? And what is their
+		  significance. . .
+		-That mostly elicited blank looks, but Professor reiterated that she'd contacted Agent
+		 Caldwell about the matter.
+		 "Her kind are likely busy," Ms. Arnautovic replied.
+		 "How so?" I asked.
+		 "I warned her of an attack," she said.
+	-That matter was interrupted when we were joined by Mr. Nier as well.
+		-"Are we having a meeting?" he asked, striding into my apartment.
+		 "I was helping Mr. Nielsen identify some people," Ms. Arnautovic replied.
+		-"What of you, Mr. Nier?" I asked. "I heard you were at your university? Disposing of
+		  your. . . material, I hope?"
+		 "That didn't go so well. . .  There were agents. Said they were FBI. Tried to shoot me,
+		  taze me, inject me with something. . . Then some blonde guy stopped time. I gave the
+		  material to him. He seemed trustworthy, and could probably have taken it anyways."
+		-That earned horrified looks from all of us.
+		-"Oh, remember how we met?" Mr. Nier continued. "That yellow box?"
+		 "The favor for Ms. Haley?" I said. "What of it?"
+		 "Well, I think the harpy has it now. Remember her play? We need to get it back, though.
+		  The guy who stopped time, he said it was the key, and that we already had the other
+		  pieces."
+		 "Is this mysterious stranger really a trustworthy source?" I asked him.
+		 "He could simply have taken the uranium. Or unfroze those FBI agents, and let them shoot
+		  me. Well, I don't think they were FBI agents. Here. . ."
+		-He then drew out a wallet, from his jacket pocket, containing a blank sheet of paper.
+		-Ms. Arnautovic seemed fascinated by it. Taking it from Mr. Nier, she said, "This bears
+		 traces of true magic, the work of mortal mages. . ."
+		-"Can you describe this man further?" Professor Brukelen broke in. "More than just 'blonde'?
+		  Could you draw him?"
+		 "I suppose. . ."
+		-Mr. Nier, with Ms. Arnautovic's assistance, set to it, creating a decent rendering of a
+		 blonde man with European features in a suit.
+		-We weren't sure to what to make of that, though Mr. Nier continued trying to defend turning
+		 the material over to this man.
+		 "What's done is done," I replied. "We just have to deal with the fallout. Well, hopefully
+		  not _literal_ fallout. . ."
+		-That gave even Mr. Nier some pause, though it was soon broken by another question from him.
+		 "You said there were books?" he asked, looking around.
+		 "Here, see what you can make of them," Professor Brukelen said, pointing him a the pile.
+		-He began to stare intently at one of them, a small black one (Al-Azif, in the handouts).
+			-". . . it's about restoring life. _To_ life," Mr. Nier mumbled. "A spell has been
+			  worked into this, 'The Invocation of Eternity'. . ."
+			 "It is," Ms. Arnautovic replied, "I think how Yeron will return."
+			 "You could study it," Mr. Nier said. "Perhaps devise a counterspell?"
+		-Mr. Nier then turned to another "book", a collection of loose pages covered in a collage
+		 of cut up text from other sources
+			-This too our Malkavian (claimed) to see some sense in that the rest of us could not.
+			-It spoke, he said, of mystical guides for an aspirant, containing references to Al-Azif,
+			 the last book, to 'The Man in the Pallid Mask' who answers to 'The Yellow Sign', and to
+			 a mystic from the East, Zao-Lat.
+			-It's author, he claimed, named himself "Trismegistus".
+			-Mr. Nier began reading from that tome, and the lights began to flicker. With several of
+			 us glaring at him, he halted, shrugged, and turned back to the first book.
+	-We then set to arguing about trust.
+		-Ms. Arnautovic was quite agrieved by Ms. Barron's invasion of her space, saying that, "This
+		 night, I had to take a man's life, to protect my clan's chantry, a thing I do not take
+		 lightly. And I return to this. . ."
+		-She also very much doubted the convenient arrival of these books and documents (wise),
+		 prompting her to again insist that we needed to be open with one another, though that
+		 elicited no confessions.
+		-Mr. Nier was still intent on defending his decision to trust his blonde rescuer, though,
+		 and broke the silence by saying, "Oh yeah, the blonde man, he asked me what iteration of
+		 the loop I was on. . ."
+		-That provoked looks of alarm from all the rest of us. This stranger certainly _does_ seem
+		 to know a lot about what's been going on. . .
+	-All of us by now seemed a bit shaken, and we began to debate what to do next.
+		-Mr. Nier volunteered that, when he left, the "agents" were still frozen, and perhaps were
+		 still there.
+		-Professor Brukelen was wisely wary of confronting these dangerous people, but I broke in
+		 and pointed out that there were options other than direct confrontation.
+			-"The university, after all, must have cameras? You have pull at the university, do you
+			  not?" I said.
+			 "I could call my sire!" Mr. Nier volunteered.
+			 "Please do, Mr. Nier."
+			-He spent some time on the phone, but when he asked about the cameras, he started, and
+			 then turned to the rest of us, saying, "He screamed, and then the line went dead. . ."
+			-At our stares, he continued, "He said 'a many headed hydra' was watching him. That
+			 could be our agents. . . We should go to the university."
+			-I nodded, and turned to Mr. Hubbard, saying, "Please bring the car around. We'll go
+			 there together."
+			-Looking at Mr. Nightwalker, who had wandered in during the phone call, I said, "Perhaps
+			 you should remain with Ms. Barron. Keep an eye on her."
+			-I got a nod in return, and he walked off.
+			-That was soon followed by a surprised scream. Rushing out into the hall, we saw that
+			 Mr. Nightwalker had opened the door to Ms. Arnautovic's apartment.
+				-Inside, we could all see Ms. Barron. She was surrounded by a swarm of cockroach,
+				 and half her face drooped, as if numb, yet she managed to somehow appear even more
+				 beautiful.
+				-Undeterred, Mr. Nightwalker said to her, TODO: if you want to sulk, do it there
+				-She looked a bit scared, but complied. When she slammed _that_ door, he then walked
+				 off to his room, looking depressed.
+	-We then joined Mr. Hubbard downstairs, and drove to the university.
+		-I had Mr. Nier direct us to his contact's building, and I had Mr. Hubbard park in the fire
+		 lane out front. I can afford the ticket, after all.
+		-As we walked up to the building, we found the front door propped open with a rock, and
+		 entered through propped open door.
+		-The interior of the building had been victimized by pranks. The stairwells were strewn with
+		 toilet paper and half-melted obscenities had been written on walls with shaving cream.
+		-Arriving at the contact's office, we found him shirtless,  crouching behind an overturned
+		 desk, and brandishing a Bowie knife.
+		-Mr. Nier, staring at him and cooing, managed to calm him a moment, and coaxed him out into
+		 the hall. "What happened?" he asked the academic, who appeared to be a clanmate.
+		-The shirtless man lowered the knife and asked, "Has the beast been slain?"
+		 "Beast?" Mr. Nier asked.
+		 "The many-headed hydra that was following me through the halls!"
+		-The conversation continued in that vein, with even Mr. Nier shaking his head,
+		-Mr. Nier then asked about the cameras, if we could use them to find "the beast".
+		 "No!" was his frantic reply, "We must not step before the eyes of the hydra!"
+		 "Do you mean the cameras?" Ms. Arnautovic asked, pointing at one near us in the hall.
+		-At that, the man screamed and attempted to flee back into his office, scrabbling at the
+		 door, fangs bared and nearly frenzied.
+		-While Mr. Nier, Mr. Hubbard, and myself attempted to calm him, and reduce the scene he was
+		 causing, Professor Brukelen and Ms. Arnautovic apparently slipped off.
+		-Professor Brukelen returned to us first, a short while later, and said she'd found the
+		 security office, and had retrieved the footage.
+			-She'd scrolled through it too, and said that there had indeed been a gang of children
+			 running through the building, causing the damaged in evidence, and causing cameras to
+			 fail as they passed. She was able to see only a brief flash of a black-suited arm on
+			 one camera, but no more, and speculated that the footage may have been edited or
+			 blanked.
+			-Something about this gang of children reminded me of the end of the spider dream. I
+			 asked Mr. Nier if he felt the same, he having "been there" for it with me, but he
+			 didn't seem to know what I meant.
+		-Moments after that, Ms. Arnautovic also returned, and said that she'd performed a ritual
+		 that would allow her to track the blonde man.
+			-Well, that's promising. We followed her lead.
+			-Sadly, the trail deadended at one of the building's doors, and Ms. Arnautovic said she
+			 could follow it no futher. She, Mr. Nier, and Professor Brukelen speculated about doors
+			 as gateways to elsewhere, for those possessed of mystic power, but they agreed this
+			 was likely the end of our pursuit.
+		-Well, we then debated where to head next.
+			-We briefly considered stopping by the casino, to see if the trail resumed there.
+			 However, Ms. Arnautovic had warned us they were expecting an attack, posing danger to
+			 us should we visit, and another option was closer.
+			-Instead, we opted to call on the harpy of Manhatten, Ms. Doyle, to see if she indeed
+			 retained Ms. Haley's box, the one the blonde stranger spoke of.
+	-Mr. Hubbard then drove us over to the Cooper Union school.
+		-Ms. Arnautovic stayed outside, having been unnerved by our discussions of trying to feed
+		 Ms. Fadel to Ms. Doyle (who had exhibited delight, in the spider-dream, in tormenting the
+		 Toreador _primogen_, at least, and who was certainly hated by the harpy-less Toreador).
+		-Entering the building, we could see Ms. Doyle in a classroom, just inside the entrance,
+		 painting.
+		-We walked into the class room, and I asked her if we might join her, to which she responded
+		 by pointing us at the desks.
+		-"I encountered a fan of your play," I began, "Or at least of the book it was based on."
+		 "My play? How do you know about that?"
+		 Mr. Nier broke in, saying, "Someone must have talked, about the rehearsals?"
+		 "But I've only just finish deciphering the journal?" she replied, confused.
+		 "Uh, I had a dream, of sorts, and had hoped to see something of it's glory in life. . ."
+		-At that, she turned from her painting, studying Mr. Nier closely, and saying, "You look
+		 fascinating! Can I paint you?"
+		 "It would be an honor," Mr. Nier replied.
+		-She then cast aside the painting she'd been working on, knocking it to the floor, and began
+		 a painting of Mr. Nier. Faster and faster she moved, slapping paint on the canvas, until,
+		 surprisingly few minutes later, she turned to us the painting.
+			-It showed Mr. Nier amidst a gaseous green haze, beneath a baleful red eye.
+			-It was a magnificent painting. Looking at it, you could feel the strain Mr. Nier must
+			 be under, pulled in many directions, and his humanity fragile beneath the weight of
+			 his madness.
+			-She said something to Mr. Nier that I did not overhear, but then turned and removed the
+			 notebook from a cabinet behind her, giving it to him.
+			-"What of the painting?" I broke in, "I would hang it in our shared haven, which receives
+ 			  many visitors. If it affects others as strongly as we, well, we know other entangled
+			  with these matters, and would love to see their reactions."
+			 "You ask a great deal of me," she replied, "To part with a so prized a possession. . ."
+			 "Ah, you are quite right. It would be too much to ask of you. But, please, your work
+			  deserves to be widely seen."
+			 ". . . I could grant you this, but there's something I would ask of you in return.
+				-Major-boon-ish was the impression I got, though she seemed to have something
+				 particular in mind. . ."
+			-Turning back to Mr. Nier, Ms. Doyle said, "If you perform any plays in here, I would
+			  like to participate"
+			 "Of course, of course!" he replied. "But, in my vision, I saw only the first half of
+			  your play. . . Could I know more?"
+			 "You want my notes too?"
+			 "For the art!" Mr. Nier exclaimed.
+			-She appeared to consider the matter a moment, and then turned again to the cabinet
+ 			 behind her, drawing forth a collection of paper.
+				-It appeared to be a mix of hand written notes and a smattering of articles printed
+				 from the internet.
+				-The journal and the notes are available in handouts, as "The Yellow Sign".
+			-She then turned back to her desk, restored her previous painting to the easel upon it,
+			 and began to mumble to herself.
+				-Not in English, though. Gaelic-ish. In fact, for a moment, it sounded just like
+				 what Ms. Barron had been speaking, when first she changed.
+				-"What language was that?" Mr. Nier inquired.
+				 ". . . Greek," she replied, an obvious lie.
+				 "Please," I insisted, "We have heard someone speaking that tongue. Here. . ."
+				-I then began to dig out my phone and, poking at it, began to play my recording of
+				 Ms. Barron.
+				-Ms. Doyle's eyes went wide in response. After the recording finished, she asked,
+				 "Do you know where it is?"
+				 "As of an hour or so ago, yes," I replied.
+				 "I have reconsidered what I'd ask of you. Bring her to me, and I will consider all
+				  debts settled."
+				 "Can we talk for a moment?" Mr. Nier asked, "She is the love of one of our coterie,
+				  and parting them. . ."
+				 "Yes," I chimed in, "Logisitics might prove difficult, with us unable to speak with
+				  her."
+				 "Is the place it is in safe?" Ms. Doyle asked.
+				 "Yes. As safe as we can make a place," I replied.
+				 "Very well. Bring her too me, then," she said.
+				 "Of course. I'll have my car brought around."
+				 "No, I will need time to prepare. Tomorrow," the harpy clarified.
+				 "Very well."
+		-Ms. Doyle then wandered off to another office, and began rummaging through a cabinet,
+		 which we took to be our dismissal.
+		-We left the building, with me texting Mr. Hubbard as we did, to bring the car around, and
+		 collecting Ms. Arnautovic as we went.
+			-"Did things go well?" Ms. Arnautovic asked.
+			 "The did indeed," I replied, eliciting a smile. Though her face soon fell when I added,
+			 "And we have a date with the harpy tomorrow night. I'll tell you more in the car."
+			-Once in my sedan, I did indeed relay to her the events that occurred inside, and we
+			 ended the session there.
+
+
+TODO:
+	-Review the details of Ms. Doyle's play, from the spider dream.
 
 
 TODO:
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 	-Teach people Fortitude when next we have downtime.
+	-Look into Mr. Nier's "biker with a journal".
+		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
+		 situation.
+	-Follow up on the recording of Ms. Barron.
+		-Turned it over to Professor Brukelen here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+		-Ms. Doyle knew the language, and we'll be introducing them the following night.
+	-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
+	-Follow up on the traitorous Ms. Fadel.
+		-Politically and. . . more directly.
+		-Sounds like I might be doing that for a bit off camera, during a rescheduled session I had
+		 to miss: https://discord.com/channels/930231429286207539/930231429286207542/1006273772153737316
+	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
+		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+	-Follow up on our relationship with Agent Caldwell and her fellows?
+		-I wish I'd spoken more with Primogen Wright about the subject at our last meeting.
+	-Figure out who Mr. Nier gave that radioactive material to, the blonde man.
+	-Who is "Conrad Carter", who Ms. May mentioned?
+	-Speak more with Primogen Wright:
+		-About the Camarilla's posture towards Mr. Scotts's people.
+			-Relate how he handled them in the spider-dream. The Tremere confining them, him cowing
+			 them personally with the relic, and instructing them to keep the Camarilla's peace and
+			 attend our next Elysium.
+			-Ask him if he still wishes that last, and, if so, offer your assistance in making
+			 gentler contact than last time. You've already introduced yourself to Agent Caldwell,
+			 and made quite the impression on her.
+		-About moving against Ms. Fadel.
+		-Ask Primogen Wright for some signal, should we have another dream-skip?
+			-Given that he's familiar with these things, and assisting us in the matter.
 
 
 The Coterie:
@@ -3695,6 +4025,8 @@ The Coterie:
 		 haven (potentially freeing up one of mine).
 			-Yep, got that set up.
 		-Has a tow truck, a tow yard to go with it, and several other vehicles in his possesion.
+		-We seem to have lost the Mike playing Mr. Corelli.
+			-What happened with Corelli, then?
 	-Cadusis Nightwalker, of Clan Gangrel (played by Nate):
 		-Mentioned having been a marine.
 		-Referred to you during the first session as "the coteries leader by consensus". Might have
