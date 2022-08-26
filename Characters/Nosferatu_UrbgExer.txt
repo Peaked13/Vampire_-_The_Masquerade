@@ -4,8 +4,8 @@ Nature: Celebrant
 Demeanor: Architect
 
 Attributes: (7/5/3 above base of 1 in each)
-	Physical: (7)
-		Strength: 4
+	Physical: (7 + 1 for freebie points spent)
+		Strength: 5
 			Specialty: Powerful Arms
 		Dexterity: 3
 		Stamina: 3
