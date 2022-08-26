@@ -1,0 +1,132 @@
+Name: 
+Clan: Nosferatu
+Nature: Survivor
+Demeanor: Survivor
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 4
+			Specialty: Iron Grip
+		Dexterity: 3
+		Stamina: 3
+	Social: (3)
+		Charisma: 1
+		Manipulation: 4
+			Specialty: Groveling (made up)
+		Appearance: 0
+	Mental: (5)
+		Perception: 3
+		Intelligence: 1
+		Wits: 4
+			Specialty: Getting the Jump on Others
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13 + 2 for Freebie Point spent)
+		Alertness: 3
+		Athletics: 3
+		Brawl: 5
+			Specialty: Wrestling
+		Dodge: 1
+		Intimidation: 3
+	Skills: (9 + 1 for Freebie Point spent) 
+		Animal Ken: 3
+		Stealth: 4
+			Specialty: Silent Movement
+		Survival: 3
+	Knowledges: (5)
+		Investigation: 3
+		Linguistics: 2
+			-You understand Spanish and Latin (though you can't "speak" anything). The Spanish is
+			 from before your time in the warrens, and is probably why you learned more of the Latin
+			 your keeper and eventual sire favored than most in the herd, even before your embrace.
+
+Disciplines: (3)
+	Obfuscate: 2
+	Potence: 1
+
+Backgrounds: (5)
+	Generation: 5
+		-Eighth generation: 15 blood pool, can spend 3 blood per turn.
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 1
+	Self-Control: 4
+	Courage: 5
+	
+Willpower: 6 (equal to Courage + 1 for Freebie Point spent)
+Blood Pool: (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (-8 Freebie Points)
+	Efficient Digestion (3 pt. Merit, Core pg. 297):
+		-You draw more than the usual nourishment from blood, gaining an extra point in your blood
+		 pool for every two points of blood you consume.
+	Gaping Maw (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+		-You have an enormous mouth, easily three times the size of any human, jutting with
+		 enormous (and sharp) teeth.
+		-You can drain up to four points of blood a turn, rather than the usual 3.
+	Huge Size (4 pt. Merit, Core pg. 297):
+		-Though thin and spidery, when you unfold to your full height, your unnaturally long limbs
+		 put you at nearly seven feet tall.
+		-You have an extra Bruised health level and gain unspecified bonuses to "push objects, open
+		 barred doors, void being knocked down, etc."
+	Incoherent (5 pt. Flaw, Clanbook: Nosferatu pg. 74):
+		-Your mouth renders you incapable of human speech.
+	Long Fingers (1 pt. Merit, Clanbook: Nosferatu pg. 70):
+		-Unnaturally long fingers give you "an extra die on any roll involving coordination or
+		 grappling". 
+	Oversized Fangs (1 pt. Merit, Clanbook: Nosferatu pg. 70):
+		-The enormous fangs jutting from your mouth cannot be retracted but do an additional die of
+		 damage when biting and add one die to Intimidation rolls.
+	Short Fuse (2 pt. Flaw, Core pg. 299):
+		-You're easily angered. Difficulties to avoid frenzy are two greater.
+		-The cages were a dog-eat-dog world, sometimes rather literally. Violent outbursts were part
+		 of staying alive, and dinner time.
+	Sleep Unseen (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+		-You can Obfuscate when you sleep, requiring one extra blood point to stay hidden for the day.
+	Tough Hide (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+		-Your thick, leathery skin gives you an extra die to soak damage, except fire or sunlight.
+
+Freebie Points: 7 (15 - 8 for Merits and Flaws)
+	4	Brawl 4 & 5
+	2	Stealth 4
+	1	Willpower 6
+	
+
+Character Description and Background:
+	-Appearance:
+		-Hideous, of course. But, even for a Nosferatu, you're twisted _far_ from any human semblance.
+		-Though thin and spidery, when you unfold to your full height, your unnaturally long limbs
+		 put you at well over seven feet tall. Your fingers are long even for those limbs and
+		 are in near constant motion, twitching expressively in response to your moods.
+		-Above all, though, it's the mouth. Easily three times the size of any human's, it juts with
+		 enormous sharp teeth. It's so gnarled that it precludes human speech.
+	-As a mortal:
+		-You were still a child when the Nosferatu took you and caged you in their warrens. As a part
+		 of their herd, you were treated as less than an animal, packed in a filthy cell with others
+		 like you and fed intermittently between random abuse.
+		-You were, though, fed their blood, as it was an essential part how they kept their herd alive
+		 in such squalid conditions. Even before the embrace, it twisted your body, as the blood does
+		 all Nosferatu ghouls, but you especially so, since you were still growing.
+		-(This all draws heavily from scenes in the Nosferatu Clan Novels, and a bit from the Blood
+		  dolls description on page 79 of Clanbook Nosferatu.)
+	-Your embrace:
+		-Your sire was the master of the cages. Even before your embrace, but especially afterwards,
+		 you'd overhear the Nosferatu discussing how he "keeps the old ways" and the contorted logic
+		 that said it was better and kinder to make Nosferatu from those already thoroughly dehumanized.
+			-Old ways are probably a sign of old age on his part, and linked to your high generation.
+		-One day, there came a need for another Nosferatu. . .
+	-Your life of abuse has left you animalistic and broken. You're prone to fight and flight both,
+	 and have little idea of how to relate to anyone who isn't either hitting you or prey.
+	-Your fellow Nosferatu, meanwhile, delight in inflicting a mute savage on the other clans when
+	 they're called on to provide a clan member for some endeavor. After all, though you cause
+	 outsiders unending consternation, they have a hard time pointing at your fearsome mien and
+	 claiming the Nosferatu aren't contributing.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
