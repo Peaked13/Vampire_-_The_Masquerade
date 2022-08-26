@@ -3760,8 +3760,10 @@ TODO:
 		 were things within that endangered life and soul both.
 		-She then walked over to my apartment, and I relayed to her my discovery of the document,
 		 asking to take a look at the photos.
-		-She indeed recognized the red-robed figure, naming him Grandmaster Yeron (sp?), of the
-		 Order of Hermes. "He is no longer with us," she said, "Though he will return. . ."
+		-She indeed recognized the red-robed figure, naming him Grandmaster Yeron (sp?), of House
+		 Tytalus, of the Order of Hermes. "He is no longer with us," she said, "Though he will
+		 return. . ."
+			-She went into more detail about the matter in Discord here: https://discord.com/channels/930231429286207539/933428895863160913/1009927968287625216
 		-"What of Mr. Murzyk? I have seen in at Elysium. Are you acquainted with him?" I asked.
 		 "He is my direct superior," Ms. Arnautovic replied.
 		-"How did they get here," I then asked, "These books and documents? And what is their
@@ -3982,6 +3984,8 @@ TODO:
 
 TODO:
 	-Review the details of Ms. Doyle's play, from the spider dream.
+	-Raised again the matter of helping Ms. Arnautovic purchase a townhouse. Press her on it further,
+	 as it sounds like she's keeping dangerous things in her apartment: https://discord.com/channels/930231429286207539/933428895863160913/1009937813225087019
 
 
 TODO:
@@ -4016,6 +4020,12 @@ TODO:
 		-About moving against Ms. Fadel.
 		-Ask Primogen Wright for some signal, should we have another dream-skip?
 			-Given that he's familiar with these things, and assisting us in the matter.
+	-Exploit the time loop for market profits.
+		-I set Ms. Veck to watching for remembered movements when first I woke up.
+		-Talked about it again in Discord here: https://discord.com/channels/930231429286207539/930231429286207542/1009868500896059462
+		-The length and timing of the loop:
+			lesley (DM) — Today at 11:59 AM
+			it all takes place in the span of a week i believe in early july
 
 
 The Coterie:

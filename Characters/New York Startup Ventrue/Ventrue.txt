@@ -117,15 +117,16 @@ Advancement:
 	*	15 Presence 4
 	*	10 Fortitude 1
 	*	5  Fortitude 2
+	*	2  Politics 2
 		20 Presence 5, or sooner?
-		2  Politics 2
+		5  Willpower 6?
 		6  Intimidation 4 (specialty!)
 		4  Empathy 3
-		10 Fortitude 3
 		12 Manipulation 4 (specialty!)
+		10 Fortitude 3
 		15 Dominate 4
 		20 Dominate 5
-	-Add some more attribute and ability increases to that? Remember that going over 3 gets your a
+	-Add some more attribute and ability increases to that? Remember that going over 3 gets you a
 	 free specialty.
 		16 Manipulation 5
 		8  Intimidation 5
