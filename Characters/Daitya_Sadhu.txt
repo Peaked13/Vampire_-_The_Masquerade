@@ -33,7 +33,7 @@ Abilities: (13/9/5, max of 3)
 	Knowledges: (5)
 		Academics: 1
 		Linguistics: 1
-			Hindi is your native language, and English your second
+			Hindi is your native language, and English your second.
 		Occult: 3
 
 Disciplines: (3 + 2 from freebie points)

@@ -91,7 +91,7 @@ Character Description and Background:
 					 enraptured by scientific work, things in the natural world, or perhaps even
 					 something found in a Tzimisce's lair. . .
 		-Your sire, and mentor, found you at the university you remain embedded in, and helps
-		 enable your continued presences there.
+		 enable your continued presence there.
 			-She likely has a more typically Toreador focus, academically.
 		-Your herd, resources, and retainers are also all tied to the university.
 			-Resources is probably higher than your personal wealth, reflecting university and
@@ -99,7 +99,7 @@ Character Description and Background:
 				-Your haven is also within your lab space at the university.
 					-Not too unusual to have an old walk in refrigerator in a secluded corner of a
 					 biology lab, even one with a lock.
-			-Similarly, an accredited biology research has various opportunities to draw blood from
+			-Similarly, an accredited biology researcher has various opportunities to draw blood from
 			 volunteers or even outright purchase it.
 				-They also reflect students and other hangers on involved in your research, who are
 				 happy to volunteer for blood "tests", or simply work late with you in the lab. . .
