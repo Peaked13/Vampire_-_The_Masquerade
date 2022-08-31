@@ -20,53 +20,78 @@ Attributes: (7/5/3 above base of 1 in each)
 		Wits: 2
 
 Abilities: (13/9/5, max of 3)
-	Talents: ()
-		Malkavian Time (Clanbook: Malkavian pg. 59): 
-	Skills: ()
-		
-	Knowledges: ()
-		
+	Talents: (9)
+		Alertness: 3
+		Malkavian Time (Clanbook: Malkavian pg. 59): 1
+		Empathy: 3
+		Expression: 1
+		Subterfuge: 1
+	Skills: (5)
+		Drive: 1
+		Etiquette: 1
+		Performance: 2
+		Stealth: 1
+	Knowledges: (13)
+		Academics: 2
+		Computer: 2
+		Finance: 1
+		Investigation: 1
+		Linguistics: 1
+			Latin (you went to Catholic school)
+		Medicine: 2
+		Occult: 3
+		Science: 1
 
-Disciplines: (3)
-	Auspex: 1-3?
-	Dementation: 3?
-	Obfuscate: 1?
+Disciplines: (3 + 1 for Freebie Points spent)
+	Auspex: 2
+	Dementation: 1
+	Obfuscate: 1
 
 Backgrounds: (5)
-	
+	Contacts: 1
+	Mentor: 1
+	Resources: 2
+	Retainers: 1
 
-Humanity Rating:  (Conscience + Self-Control)
+Humanity Rating: 7 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
 	Conscience: 4
 	Self-Control: 3
 	Courage: 3
 	
-Willpower:  (equal to Courage)
-Blood Pool: (roll a d10 for start of game, max is based on generation)
+Willpower: 3 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
-Merits & Flaws: ( Freebie Points)
-	Accute Sense (1 pt. Merit, Core pg. 296): ?
-		-
+Merits & Flaws: (-8 Freebie Points)
+	Accute Sense (1 pt. Merit, Core pg. 296):
+		-Accute hearing reduces all related difficulties by two.
 	Bad Sight (1 pt. Flaw, Core pg. 297): ?
-		-
-	Bound  (2 pt. Merit, Guide to the Camarilla pg. 77):
+		-Can wear glasses for it, or it would be more points. Without them, +2 difficulty for
+		 anything involving sight.
+	Bound  (2 pt. Flaw, Guide to the Camarilla pg. 77):
 		-To $OTHER_MALKAVIAN.
-	Concentration (1 pt. Merit, Core pg. 298): ?
-		-
+	Concentration (1 pt. Merit, Core pg. 298):
+		-You're unaffected by penalties from distracting circumstances.
+	Deep Sleeper (1 pt. Flaw, Core pg. 299):
+		-Difficulty of any die roll to wake during the day is +2.
 	Efficient Digestion (3 pt. Merit, Core pg. 297):
 		-You draw more than the usual nourishment from blood, gaining an extra point in your blood
 		 pool for every two points of blood you consume.
-	Oracular Ability (3 pt. Merit, Core pg. 300): ?
-		-
-	Old Pal  (2 pt. Merit, Guide to the Camarilla pg. 75): ?
+	Oracular Ability (3 pt. Merit, Core pg. 300):
+		-Storyteller can call for Perception + Occult to see an omen, followed by Intelligence +
+		 Occult to interpret it.
+	Old Pal  (2 pt. Merit, Guide to the Camarilla pg. 75):
 		-Provides you "a very loyal Ally", $OTHER_MALKAVIAN.
+		-Hmm. . . maybe Allies are supposed to be human. . .
+	Phobia (2 pt. Flaw, Core pg. 299):
+		-You're afraid of snakes, and need to make a Courage roll or retreat from them.
 	True Love (4 pt. Merit, Core pg. 301):
 		-You truely love $OTHER_MALKAVIAN, and now _always_ will. One auto success on Willpower rolls.
 		-(Description says the other party is mortal, but there's nothing that suggests that _has_
 		 to be so for this to work. Worst case, you have more points to spend.)
 
-Freebie Points: (15)
-	
+Freebie Points: 7 (15 - 8 for Merits and Flaws)
+	7	Auspex 2
 
 Derangements:
 	Manic-Depression (Core pg. 223):
@@ -82,7 +107,19 @@ Character Description and Background:
 		-
 	-Your embrace:
 		-
-	-
+	-Either of these paired characters could plausibly be played, or _both_ by different players.
+	-A core part of the concept is both possessing the Efficient Digestion Merit.
+		-As the Merit's vague rules have it, two vampires willing to feed from one another can
+		 have infinite blood.
+		-The obvious issue with that is the blood bond, a problem transcended here through The
+		 Power of Love. The bond only reinforces a devotion the lovers felt even in life.
+		-Also obvious, this is all a bit dubious, rules and flavor-wise both.
+			-A Storyteller should of course feel free to forbid it on either score.
+			-Limiting it's impact, though, is, again, the bond, and also the madness of the lovers.
+			-Further, part of the story _is_ that something dangerously interesting is going on here.
+				-The lovers _know_ what they have is special. Unfortunately, others might well agree,
+				 potentially placing them in grave danger.
+		-Their Retainers are one of the ends they put this miracle too, easily feeding ghouls.
 
 Equipment (stuff to start with or obtain):
 	
@@ -115,47 +152,65 @@ Attributes: (7/5/3 above base of 1 in each)
 		Wits: 2
 
 Abilities: (13/9/5, max of 3)
-	Talents: ()
-		
-	Skills: ()
-		
-	Knowledges: ()
+	Talents: (13)
+		Athletics: 3
+		Brawl: 1
+		Dodge: 2
+		Expression: 1
+		Intimidation: 3
+		Subterfuge: 3
+	Skills: (9)
+		Drive: 1
+		Firearms: 1
+		Melee: 1
+		Performance: 3
+		Stealth: 3
+	Knowledges: (5)
+		Academics: 1
+		Computer: 1
+		Investigation: 3
 		
 
-Disciplines: (3)
-	Auspex: 0-1?
-	Dementation: 2?
-	Obfuscate: 2?
+Disciplines: (3 + 1 for Freebie Points spent)
+	Dementation: 2
+	Obfuscate: 2
 
 Backgrounds: (5)
-	
+	Mentor: 1
+	Resources: 2
+	Retainers: 2
 
-Humanity Rating:  (Conscience + Self-Control)
+Humanity Rating: 6 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
 	Conscience: 2
 	Self-Control: 4
 	Courage: 4
 	
-Willpower:  (equal to Courage)
+Willpower: 4 (equal to Courage)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
-Merits & Flaws: ( Freebie Points)
+Merits & Flaws: (-8 Freebie Points)
 	Bound  (2 pt. Flaw, Guide to the Camarilla pg. 77):
 		-To $OTHER_MALKAVIAN.
 	Efficient Digestion (3 pt. Merit, Core pg. 297):
 		-You draw more than the usual nourishment from blood, gaining an extra point in your blood
 		 pool for every two points of blood you consume.
+	Light Sleeper (2 pt. Merit, Core pg. 297):
+		-You "awaken instantly at any sign of trouble or danger", and ignore Humanity restrictions
+		 on dice pools during the day.
 	Nightmares (1 pt. Flaw, Core pg. 299): ?
-		-
-	Old Pal  (2 pt. Merit, Guide to the Camarilla pg. 75): ?
+		-Willpower (difficulty 7) on waking or -1 die to all actions that night. Botch leaves you
+		 "locked in a nightmare" for the night.
+		-They probably center around something happening to $OTHER_MALKAVIAN.
+	Old Pal  (2 pt. Merit, Guide to the Camarilla pg. 75):
 		-Provides you "a very loyal Ally", $OTHER_MALKAVIAN.
 	True Love (4 pt. Merit, Core pg. 301):
 		-You truely love $OTHER_MALKAVIAN, and now _always_ will. One auto success on Willpower rolls.
 		-(Description says the other party is mortal, but there's nothing that suggests that _has_
 		 to be so for this to work. Worst case, you have more points to spend
 
-Freebie Points: (15)
-	
+Freebie Points: (15 - 8 for Merits and Flaws)
+	7	Obfuscate 2
 
 Derangements:
 	Paranoia (Core pg. 223):

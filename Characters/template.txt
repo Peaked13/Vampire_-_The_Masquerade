@@ -38,7 +38,7 @@ Virtues: (7 above base of 1 in each)
 	Courage: 
 	
 Willpower:  (equal to Courage)
-Blood Pool: (roll a d10 for start of game, max is based on generation)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
 Merits & Flaws: ( Freebie Points)
 	
