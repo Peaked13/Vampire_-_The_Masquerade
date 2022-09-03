@@ -1,0 +1,133 @@
+Name: 
+Clan: Tzimisce
+Nature: Celebrant (You love kitties! Also, you're starting to rather enjoy Sabbat ritual.)
+Demeanor: Director
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2 (V3)
+		Dexterity: 2 (V2)
+		Stamina: 2
+	Social: (7)
+		Charisma: 4 (A2)
+			Specialty: Graceful
+		Manipulation: 5 (A1, A3, A4, A5)
+			Specialty: Persuasive
+		Appearance: 1
+	Mental: (5)
+		Perception: 3
+		Intelligence: 3 (V1)
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Alertness: 1
+		Athletics: 1
+		Brawl: 1
+		Dodge: 1
+		Empathy: 3
+		Intimidation: 3
+		Subterfuge: 3
+	Skills: (9)
+		Animal Ken: 3
+		Drive: 1
+		Etiquette: 2
+		Stealth: 2
+		Survival: 1
+	Knowledges: (5)
+		Academics: 1
+		Koldunism: 2
+		Linguistics: 1
+			-Polish, your long dead parent's first language.
+		Occult: 1
+
+Disciplines: (4)
+	Animalism: 3
+	Auspex: 1
+	Koldunic Sorcery: 1
+		Way of Fire: 1 (Manipulation + Koldunism)
+			-There are a lot of burned out buildings in your (admittedly rough) neighborhood these days. . .
+		Rituals: (Intelligence + Koldunism)
+			Level 1:
+				Mephistophelean Minx (Sins of the Blood pg. 98)
+					-Cat ritual that grants Willpower!
+
+Backgrounds: (0)
+	Mentor: 1
+	Resources: 3
+		-You've still got some money coming in from Social Security and dear Henry's pension, and
+		 a long while before either cuts you off without a death certificate.
+		-You also own your house, a ramshackle affair ("With Henry gone, I've fallen rather behind
+		 in repairs. . .") crawling with semi-feral cats.
+			-The neighborhood around it is terrible these days, a thing that might have something
+			 to do with Sabbat control of your city.
+	Retainers: 2
+		-You keep a ghouled mountain lion. Procured with Animalism and a drive to the hills just
+		 outside the city, you keep her inside your home, to guard it in your absence and in your
+		 sleep. Core pg. 303 has big cat stats, and she's probably closer to a lion than jaguar in
+		 size.
+		-You also have a colony of semi-feral cats that you feed food laced with your blood. Cat
+		 stats are on Core pg. 303, followed by rules for a swarm of them on the next page. The
+		 swarm stats do seem about equivalent to a Retainer.
+	Rituals: 1 (3 auctoris ritae)
+		The Vaulderie
+		Creation Rites
+		Fire Dance
+	Sabbat Status: 1 (Pack Priest)
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws:
+	Inoffensive to Animals (1 pt. Merit, Guide to the Camarilla pg. 79):
+		-Animals don't dislike you as they do most Vampires.
+	Short (1 pt. Flaw, Core pg. 297):
+		-You were short to begin with, and age took it's toll over a long mortal life.
+
+Freebie Points: (15)
+	7	Koldunic Sorcery 1
+	1	Mentor 1
+	3	Resources 3
+	2	Retainers 2
+	1	Rituals 1
+	1	Sabbat Status 1
+
+Character Description and Background:
+	-Appearance:
+		-You're a short, bent, elderly woman. You use the fact that vampires underestimate you and
+		 kine sympathize with you to your advantage regularly.
+	-As a mortal:
+		-You were embraced in your early 70's, and thus lived a full life before your unlife.
+		-You were married for 48 years, but "dear Henry" passed several years before your embrace.
+	-Your embrace:
+		-
+	-Your sire is (was?) a brute. You have no affection for him and, for his part, he thought
+	 your embrace was a funny joke (and never called you anything by "gran'ma vampire").
+	-On the other hand, a life time of experience with church social events, and the backbiting
+	 vipers that rule them, prepared you surprisingly well for some aspects of The Sabbat.
+		-You now have a circle of  "ladies" you have by for "tea".
+		-One of them took a particular liking to you, and you to her, especially after she adopted
+		 several of your darling cats. She's your mentor.
+			-She taught you a thing or two about "witchcraft" when you complained about some
+			 problematic neighbors, and you learned why she wanted the cats.
+			-She's also teaching you how to the ropes of being a pack priest, she being one herself.
+	-You've taken to the classic trope of sleeping in a (dirt smeared) coffin in your basement.
+		-With the death-like sleep of your unlife, you began to wake up with bites from some of
+		 your more ill-mannered cats beginning to eat you, and so resorted to this.
+		-Henry purchased went mad for funeral planning at one point, purchasing adjoining grave
+		 plots and, when he got sick, matching coffins ("It was a package deal!"). The plot will
+		 be going to waste now, but you're getting good use out of the coffin.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
