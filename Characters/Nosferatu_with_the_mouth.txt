@@ -54,10 +54,13 @@ Virtues: (7 above base of 1 in each)
 	Self-Control: 4
 	Courage: 5
 	
-Willpower: 6 (equal to Courage + 1 for Freebie Point spent)
+Willpower: 5 (equal to Courage)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
-Merits & Flaws: (-8 Freebie Points)
+Merits & Flaws: (-9 Freebie Points)
+	Bruiser (1 pt. Merit, Guide to the Camarilla pg. 73):
+		-Your appearance is terrifying. -1 difficulty on all Intimidation rolls against "those who
+		 have not demonstrated their physical supperiority to you."
 	Efficient Digestion (3 pt. Merit, Core pg. 297):
 		-You draw more than the usual nourishment from blood, gaining an extra point in your blood
 		 pool for every two points of blood you consume.
@@ -87,10 +90,9 @@ Merits & Flaws: (-8 Freebie Points)
 	Tough Hide (2 pt. Merit, Clanbook: Nosferatu pg. 71):
 		-Your thick, leathery skin gives you an extra die to soak damage, except fire or sunlight.
 
-Freebie Points: 7 (15 - 8 for Merits and Flaws)
+Freebie Points: 6 (15 - 9 for Merits and Flaws)
 	4	Brawl 4 & 5
 	2	Stealth 4
-	1	Willpower 6
 	
 
 Character Description and Background:

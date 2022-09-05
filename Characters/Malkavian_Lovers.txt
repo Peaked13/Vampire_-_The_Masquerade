@@ -68,7 +68,7 @@ Blood Pool:  (roll a d10 for start of game, max is based on generation)
 Merits & Flaws: (-8 Freebie Points)
 	Accute Sense (1 pt. Merit, Core pg. 296):
 		-Accute hearing reduces all related difficulties by two.
-	Bad Sight (1 pt. Flaw, Core pg. 297): ?
+	Bad Sight (1 pt. Flaw, Core pg. 297):
 		-Can wear glasses for it, or it would be more points. Without them, +2 difficulty for
 		 anything involving sight.
 	Bound  (2 pt. Flaw, Guide to the Camarilla pg. 77):
