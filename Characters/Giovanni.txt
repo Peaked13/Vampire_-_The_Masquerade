@@ -1,0 +1,112 @@
+Name: $FIRST_NAME Giovanni
+Clan: Giovanni
+Nature: 
+Demeanor: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (5)
+		Charisma: 2
+		Manipulation: 4
+			Specialty: 
+		Appearance: 2
+	Mental: (7)
+		Perception: 4
+			Specialty: 
+		Intelligence: 4
+			Specialty: 
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (9)
+		Alertness: 1
+		Athletics: 1
+		Brawl: 1
+		Dodge: 1
+		Empathy: 1
+		Intimidation: 3
+		Subterfuge: 1
+	Skills: (5)
+		Drive: 1
+		Firearms: 1
+		Melee: 1
+		Security: 1
+		Survival: 1
+	Knowledges: (13)
+		Academics: 3
+		Computer: 1
+		Investigation: 3
+		Linguistics: 3
+			-Italian, Latin, Ancient Greek, Aramaic
+		Occult: 3
+
+Disciplines: (3 + 3 for Merits and Freebie Points)
+	Auspex: 1
+	Fortitude: 1
+	Necromancy: 3
+		The Sepulchre Path: 3
+	Potence: 1
+
+Backgrounds: (5 + 1 for Freebie Points spent)
+	Generation: 1
+	Mentor: 1
+		-Your sire.
+	Resources: 3
+	Spirit Slaves (Clanbook Giovanni pg. 67): 1
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (-7 Freebie Points)
+	Additional Discipline (5 pt. Merit, Guide to the Camarilla pg. 79):
+		-Auspex is treated as a clan Discipline.
+		-Some quirk of the blood, given it's a Cappadocian Discipline?
+	Deep Sleeper (1 pt. Flaw, Core pg. 299):
+		-Difficulty of any die roll to wake during the day is +2.
+	Dulled Bite (2 pt. Flaw, Guide to the Camarilla pg. 73):
+		-Undeveloped fangs mean you struggle to take blood, needing double the successes to bite.
+	Inbred (1 pt. Flaw, Clanbook Giovanni pg 78):
+		-At 1 pt., this is an unobtrusive disfigurement. In your case, its some malformation of
+		 you jaw. Dental issues plagued you as mortal, and this may be tied to your dull fangs.
+	2 x Proxy Kissed (4 pt. Merit, Clanbook Giovanni pg 77):
+		-Free Potence dot, at cost of bond. Taking it a second time gives Fortitude dot, but another
+		 bond or bond step.
+		-Perhaps you're two steps bonded to your sire, and one step to his rival?
+	Rival Sires (2 pt. Flaw, Guide to the Camarilla pg. 78):
+		-Someone else wante dto embrace you too, and now is pissed at you, your sire, or both of
+		 you. They're at +2 difficulty vs. frenzy when you're around, and may work against you.
+		-This does seem to be a thing with the way Giovanni elders determine who embraces who when.
+
+Freebie Points: 8 (15 - 7 for Merits and Flaws)
+	7	Auspex 1
+	1	Generation 1
+
+Character Description and Background:
+	-Appearance:
+		-You'll never be especially attractive, but the inbreeding your family is known for is only
+		 minorly evident in your jaw. You're an average-looking, middle-aged man.
+	-As a mortal:
+		-
+		-Spent a long while as a ghoul after first being given The Proxy Kiss.
+			-Perhaps you were kept a bit hidden by your sire's rival, before being won away in some
+			 power struggle by your eventual sire.
+	-Your embrace:
+		-
+	-Both as a ghoul and after your embrace, TODO: you serve your family as a field agent, archeology?, general Indiana Jones-ing
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
