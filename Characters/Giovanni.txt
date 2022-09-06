@@ -11,13 +11,13 @@ Attributes: (7/5/3 above base of 1 in each)
 	Social: (5)
 		Charisma: 2
 		Manipulation: 4
-			Specialty: 
+			Specialty: Well-Reasoned
 		Appearance: 2
 	Mental: (7)
 		Perception: 4
-			Specialty: 
+			Specialty: Discerning
 		Intelligence: 4
-			Specialty: 
+			Specialty: Book Knowledge
 		Wits: 2
 
 Abilities: (13/9/5, max of 3)
@@ -47,15 +47,26 @@ Disciplines: (3 + 3 for Merits and Freebie Points)
 	Auspex: 1
 	Fortitude: 1
 	Necromancy: 3
-		The Sepulchre Path: 3
+		Paths:
+			The Sepulchre Path (Primary): 3
+		Rituals:
+			Level 1:
+				-TODO: 1 free with first dot of Necromancy
+					-Minestra di Morte: ?
+						-Make a grisly stew with 1 point of vitae and part of a dead body to determine
+						 if the body became a wraith, specter, or neither after death.
 	Potence: 1
 
 Backgrounds: (5 + 1 for Freebie Points spent)
-	Generation: 1
 	Mentor: 1
 		-Your sire.
 	Resources: 3
+	Retainers: 1
+		-A ghouled cousin, serving as a bruiser? Combat skills and streetwise?
 	Spirit Slaves (Clanbook Giovanni pg. 67): 1
+		-Maybe a cousin who didn't make it? Your childhood bully who's career as a legbreaker was
+		 cut short? After you heard, you had a good idea of something that would be a fetter. . .
+			-Clanbook Giovanni pg. 42 talks a bit about "The Honored Dead".
 
 Humanity Rating: 5 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -74,6 +85,7 @@ Merits & Flaws: (-7 Freebie Points)
 		-Difficulty of any die roll to wake during the day is +2.
 	Dulled Bite (2 pt. Flaw, Guide to the Camarilla pg. 73):
 		-Undeveloped fangs mean you struggle to take blood, needing double the successes to bite.
+		-Perhaps tied to your inbreeding; perhaps tied to your generation.
 	Inbred (1 pt. Flaw, Clanbook Giovanni pg 78):
 		-At 1 pt., this is an unobtrusive disfigurement. In your case, its some malformation of
 		 you jaw. Dental issues plagued you as mortal, and this may be tied to your dull fangs.
@@ -88,17 +100,20 @@ Merits & Flaws: (-7 Freebie Points)
 
 Freebie Points: 8 (15 - 7 for Merits and Flaws)
 	7	Auspex 1
-	1	Generation 1
+	1	Retainers 1
 
 Character Description and Background:
 	-Appearance:
 		-You'll never be especially attractive, but the inbreeding your family is known for is only
 		 minorly evident in your jaw. You're an average-looking, middle-aged man.
 	-As a mortal:
-		-
+		-TODO: cousins jostling to get noticed by prestigious family;
+			   your bookishness ultimately won out over the many of them pursuing wealth or athleticism;
+			   started to see why after the proxy kiss
 		-Spent a long while as a ghoul after first being given The Proxy Kiss.
-			-Perhaps you were kept a bit hidden by your sire's rival, before being won away in some
-			 power struggle by your eventual sire.
+			-Perhaps you were kept a bit hidden by your sire's rival, before being won away by your
+			 eventual sire in some power struggle. Would explain your apparent age, long period as
+			 a ghoul, and high generation.
 	-Your embrace:
 		-
 	-Both as a ghoul and after your embrace, TODO: you serve your family as a field agent, archeology?, general Indiana Jones-ing
@@ -108,5 +123,14 @@ Equipment (stuff to start with or obtain):
 
 Advancement:
 	-Tentative schedule:
-		
-	-
+		7	The Ash Path 1
+		4	The Ash Path 2
+		5	Auspex 2
+		10	Auspex 3
+		15	Necromancy / The Sepulchre Path 4
+	-More Necromancy!
+		-You're ready to learn The Ash Path, which will help a ton in your seeker role, especially
+		 the first two dots.
+		-The Sepulchre Path 4 will enable you to participate directly in the family's great project,
+		 and to contribute souls to the tithing.
+	-More Auspex also clearly contribute helps you as a seeker, especially dots 2 and 3.
