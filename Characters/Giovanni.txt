@@ -1,7 +1,9 @@
-Name: $FIRST_NAME Giovanni
+Name: Federico Giovanni
 Clan: Giovanni
-Nature: 
-Demeanor: 
+Nature: Judge
+Demeanor: Celebrant (History, Necromancy, and The Family, you extoll the virtues of all three. You
+					 believe it, at least in part, or you wouldn't have devoted yourself to all
+					 three, but enthusiasm is also politically convenient. . .)
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)

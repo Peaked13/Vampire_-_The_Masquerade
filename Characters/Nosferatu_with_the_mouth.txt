@@ -72,7 +72,7 @@ Merits & Flaws: (-9 Freebie Points)
 		-Though thin and spidery, when you unfold to your full height, your unnaturally long limbs
 		 put you at nearly seven feet tall.
 		-You have an extra Bruised health level and gain unspecified bonuses to "push objects, open
-		 barred doors, void being knocked down, etc."
+		 barred doors, avoid being knocked down, etc."
 	Incoherent (5 pt. Flaw, Clanbook: Nosferatu pg. 74):
 		-Your mouth renders you incapable of human speech.
 	Long Fingers (1 pt. Merit, Clanbook: Nosferatu pg. 70):
@@ -131,4 +131,7 @@ Equipment (stuff to start with or obtain):
 Advancement:
 	-Tentative schedule:
 		
-	-
+	-Disciplines:
+		-More Potence is very much what you're about.
+		-Other than that, I guess it depends on who you eat and what Disciplines they had. . .
+	-Plenty of your abilities would be worth improving, as would your physical attributes.

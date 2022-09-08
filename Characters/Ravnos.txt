@@ -1,0 +1,106 @@
+Name: 
+Clan: 
+Nature: Rogue or Trickster for this or Demeanor?
+Demeanor: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 3
+		Manipulation: 4
+			Specialty: 
+		Appearance: 3
+	Mental: (5)
+		Perception: 2
+		Intelligence: 2
+		Wits: 4
+			Specialty: 
+
+Abilities: (13/9/5, max of 3)
+	Talents: ()
+		Alertness: 
+		Brawl: 
+		Dodge: 
+		Empathy: 
+		Intimidatation: 
+		Streetwise: 3
+		Subterfuge: 3
+	Skills: ()
+		Animal Ken: 
+		Crafts: 
+			Specialty: Forgery (made up)?
+		Drive: 
+		Etiquette: 
+		Firearms: 
+		Security: 
+		Stealth: 
+		Survival: 
+	Knowledges: (5)
+		Law: 1
+		Linguistics: 1
+			Spanish
+		Medicine: 1
+		Science: 2
+
+Disciplines: (3)
+	Animalism: 1
+	Chimerstry: 2?
+	Fortitude: 
+
+Backgrounds: (5)
+	Contacts: ?
+	Generation: ?
+	Herd: ?
+	Resources: 
+	Retainers: ?
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 3
+	Self-Control: 3
+	Courage: 4
+	
+Willpower:  (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Vice (Clan Weakness): Selling fake drugs? Even certain vitaes might qualify. . .
+
+Merits & Flaws: (-7 Freebie Points)
+	Bad Sight (1 pt. Flaw, Core pg. 297):
+		-Can wear glasses for it, or it would be more points. Without them, +2 difficulty for
+		 anything involving sight.
+	Enchanting Voice (2 pt. Merit, Core pg. 296):
+		-Minus 2 difficulty for "all die rolls involving the use of the voice to persuade, charm or
+		 command".
+	Friendly Face (1 pt. Merit, Guide to the Camarilla pg. 73):
+		-Your face reminds everyone of someone, and they're well-inclined towards you because of it,
+		 even if the mistake is explained. -1 to all appropriate Social rolls (Seduction yes,
+		 Intimidatation no).
+	Light Sleeper (2 pt. Merit, Core pg. 299):
+		-No restrictions on dice pools during the day.
+	Unbondable (3 pt. Merit, Core pg. 299):
+		-You are immune to being blood bound.
+		-You're probably unaware of this, though it may be why you ditched your sire.
+
+Freebie Points: (15 - 7 for Merits & Flaws)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
