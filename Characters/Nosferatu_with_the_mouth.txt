@@ -1,7 +1,8 @@
-Name: 
+Name: some maybe joke-y and definitely insulting nickname
 Clan: Nosferatu
 Nature: Survivor
 Demeanor: Survivor
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)
@@ -134,4 +135,7 @@ Advancement:
 	-Disciplines:
 		-More Potence is very much what you're about.
 		-Other than that, I guess it depends on who you eat and what Disciplines they had. . .
+			-You'd particularly benefit from Celerity.
+			-Auspex would also be very interesting.
+			-Serpentis would be very complementary, especially the third rank.
 	-Plenty of your abilities would be worth improving, as would your physical attributes.

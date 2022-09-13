@@ -1,7 +1,8 @@
 Name: 
 Clan: 
-Nature: Rogue or Trickster for this or Demeanor?
-Demeanor: 
+Nature: Rogue
+Demeanor: Thrill-Seeker
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)
@@ -11,33 +12,31 @@ Attributes: (7/5/3 above base of 1 in each)
 	Social: (7)
 		Charisma: 3
 		Manipulation: 4
-			Specialty: 
+			Specialty: Persuasive
 		Appearance: 3
 	Mental: (5)
 		Perception: 2
 		Intelligence: 2
 		Wits: 4
-			Specialty: 
+			Specialty: Changes in Strategy
 
 Abilities: (13/9/5, max of 3)
-	Talents: ()
-		Alertness: 
-		Brawl: 
-		Dodge: 
-		Empathy: 
-		Intimidatation: 
+	Talents: (13)
+		Alertness: 1
+		Brawl: 2
+		Dodge: 2
+		Empathy: 1
+		Intimidatation: 1
 		Streetwise: 3
 		Subterfuge: 3
-	Skills: ()
-		Animal Ken: 
-		Crafts: 
-			Specialty: Forgery (made up)?
-		Drive: 
-		Etiquette: 
-		Firearms: 
-		Security: 
-		Stealth: 
-		Survival: 
+	Skills: (9)
+		Animal Ken: 2
+		Crafts: 2
+			Specialty: Forgery (made up)
+		Drive: 2
+		Firearms: 1
+		Stealth: 1
+		Survival: 1
 	Knowledges: (5)
 		Law: 1
 		Linguistics: 1
@@ -45,17 +44,17 @@ Abilities: (13/9/5, max of 3)
 		Medicine: 1
 		Science: 2
 
-Disciplines: (3)
+Disciplines: (3 + 1 for Freebie Points spent)
 	Animalism: 1
-	Chimerstry: 2?
-	Fortitude: 
+	Chimerstry: 2
+	Fortitude: 1
 
 Backgrounds: (5)
-	Contacts: ?
-	Generation: ?
-	Herd: ?
-	Resources: 
-	Retainers: ?
+	Contacts: 1
+	Generation: 2
+	Resources: 2
+		-You live out of a windowless van. It's in good condition, and modified for your needs, with
+		 an opaque divider between the front and back.
 
 Humanity Rating: 6 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -63,7 +62,7 @@ Virtues: (7 above base of 1 in each)
 	Self-Control: 3
 	Courage: 4
 	
-Willpower:  (equal to Courage)
+Willpower: 5 (equal to Courage + 1 for Freebie Points spent)
 Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
 Vice (Clan Weakness): Selling fake drugs? Even certain vitaes might qualify. . .
@@ -86,7 +85,8 @@ Merits & Flaws: (-7 Freebie Points)
 		-You're probably unaware of this, though it may be why you ditched your sire.
 
 Freebie Points: (15 - 7 for Merits & Flaws)
-	
+	7	Fortitude 1
+	1	Willpower 5
 
 Character Description and Background:
 	-Appearance:
@@ -98,7 +98,9 @@ Character Description and Background:
 	-
 
 Equipment (stuff to start with or obtain):
-	
+	Van
+	Light Pistol
+	Hooded Sleeping Bag
 
 Advancement:
 	-Tentative schedule:
