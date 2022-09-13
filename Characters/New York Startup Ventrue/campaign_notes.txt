@@ -3984,6 +3984,8 @@ TODO:
 
 TODO:
 	-Review the details of Ms. Doyle's play, from the spider dream.
+		-Neat stuff, but dangerous, and still a bit out of reach, even if you're likely our best
+		 qualified performer.
 	-Raised again the matter of helping Ms. Arnautovic purchase a townhouse. Press her on it further,
 	 as it sounds like she's keeping dangerous things in her apartment: https://discord.com/channels/930231429286207539/933428895863160913/1009937813225087019
 
@@ -3991,6 +3993,7 @@ TODO:
 TODO:
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 	-Teach people Fortitude when next we have downtime.
+		-Did so for Professor Brukelen. At least Mr. Nightwalker also seems interested (when XP is there).
 	-Look into Mr. Nier's "biker with a journal".
 		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
@@ -4102,6 +4105,7 @@ The Coterie:
 		 introduction.
 			-They both seem to be tied to other supernatural creatures, mages and the fey.
 			-Nope! That was a spider-dream.
+		-She has also now drunk your blood once, in the course of learning Fortitude.
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
