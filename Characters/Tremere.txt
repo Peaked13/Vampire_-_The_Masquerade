@@ -2,6 +2,7 @@ Name:
 Clan: Tremere
 Nature: Scientist (Pg. 67 of The Guide to the Camarilla)
 Demeanor: Soldier (Pg. 66 of The Guide to the Camarilla)
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)

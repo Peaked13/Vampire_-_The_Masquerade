@@ -2,6 +2,7 @@ Name:
 Clan: Brujah
 Nature: Gallant (Look at how great I am (now that I'm a vampire. . .)!)
 Demeanor: Celebrant (You're really into this vampire business!!1)
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)

@@ -2,6 +2,7 @@ Name:
 Clan: Lasombra
 Nature: Celebrant (you truely love The Abyss)
 Demeanor: Monster
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)

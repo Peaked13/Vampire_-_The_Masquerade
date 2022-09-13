@@ -2,6 +2,7 @@ Name:
 Clan: Tzimisce
 Nature: Celebrant (You love kitties! Also, you're starting to rather enjoy Sabbat ritual.)
 Demeanor: Director
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)

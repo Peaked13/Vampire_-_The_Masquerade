@@ -2,6 +2,7 @@ Name:
 Clan: Toreador
 Nature: Scientist (Guide to The Camarilla, pg. 67)
 Demeanor: Visionary (Core, pg. 115; also debated just Scientist again)
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)

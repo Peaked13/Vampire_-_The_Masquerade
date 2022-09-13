@@ -2,6 +2,7 @@ Name:
 Clan: Tzimisce
 Nature: Eye of the Storm (Guide to The Sabbat pg. 87)
 Demeanor: Guru (Guide to The Sabbat pg. 87)
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)

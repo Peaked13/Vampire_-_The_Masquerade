@@ -2,6 +2,7 @@ Name:
 Clan: Assamite (Sorcerer Caste)
 Nature: 
 Demeanor: 
+Ruleset: Revised
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (5)
