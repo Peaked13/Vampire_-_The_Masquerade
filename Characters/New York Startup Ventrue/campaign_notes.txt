@@ -2551,7 +2551,7 @@ TODO:
 	-The haven was pleasantly calm, but an hour or so after waking, while Ms. Arnautovic, Mr.
 	 Nightwalker and myself talked about managing Ms. Barron, Ms. Veck called for me from inside my
 	 apartment.
-		-Rushing to the aparment, I could see six Escalades, all pulled up askew in front of the
+		-Rushing to the apartment, I could see six Escalades, all pulled up askew in front of the
 		 haven's front door. From them emerged Weyland Reece and about twelve federal agent types.
 		-Looking carefully, I could also see Agent Caldwell, still in one of the cars, on a laptop.
 		-Ms. Veck recieved a call, from the front desk, saying a federal agent wished to speak with
@@ -3764,7 +3764,7 @@ TODO:
 		 Tytalus, of the Order of Hermes. "He is no longer with us," she said, "Though he will
 		 return. . ."
 			-She went into more detail about the matter in Discord here: https://discord.com/channels/930231429286207539/933428895863160913/1009927968287625216
-		-"What of Mr. Murzyk? I have seen in at Elysium. Are you acquainted with him?" I asked.
+		-"What of Mr. Murzyk? I have seen him at Elysium. Are you acquainted with him?" I asked.
 		 "He is my direct superior," Ms. Arnautovic replied.
 		-"How did they get here," I then asked, "These books and documents? And what is their
 		  significance. . .
@@ -3854,7 +3854,8 @@ TODO:
 				-Inside, we could all see Ms. Barron. She was surrounded by a swarm of cockroach,
 				 and half her face drooped, as if numb, yet she managed to somehow appear even more
 				 beautiful.
-				-Undeterred, Mr. Nightwalker said to her, TODO: if you want to sulk, do it there
+				-Undeterred, Mr. Nightwalker pointed to an empty apartment and said to her, "If you
+                 want to sulk, do it there!"
 				-She looked a bit scared, but complied. When she slammed _that_ door, he then walked
 				 off to his room, looking depressed.
 	-We then joined Mr. Hubbard downstairs, and drove to the university.
@@ -3864,10 +3865,10 @@ TODO:
 		 entered through propped open door.
 		-The interior of the building had been victimized by pranks. The stairwells were strewn with
 		 toilet paper and half-melted obscenities had been written on walls with shaving cream.
-		-Arriving at the contact's office, we found him shirtless,  crouching behind an overturned
+		-Arriving at the contact's office, we found him shirtless, crouching behind an overturned
 		 desk, and brandishing a Bowie knife.
 		-Mr. Nier, staring at him and cooing, managed to calm him a moment, and coaxed him out into
-		 the hall. "What happened?" he asked the academic, who appeared to be a clanmate.
+		 the hall. "What happened?" he asked the academic, who appeared to be a. . . clanmate.
 		-The shirtless man lowered the knife and asked, "Has the beast been slain?"
 		 "Beast?" Mr. Nier asked.
 		 "The many-headed hydra that was following me through the halls!"
@@ -3905,7 +3906,7 @@ TODO:
 	-Mr. Hubbard then drove us over to the Cooper Union school.
 		-Ms. Arnautovic stayed outside, having been unnerved by our discussions of trying to feed
 		 Ms. Fadel to Ms. Doyle (who had exhibited delight, in the spider-dream, in tormenting the
-		 Toreador _primogen_, at least, and who was certainly hated by the harpy-less Toreador).
+		 Toreador _primogen_, at least, and who was certainly hated by the harpy-less Clan Toreador).
 		-Entering the building, we could see Ms. Doyle in a classroom, just inside the entrance,
 		 painting.
 		-We walked into the class room, and I asked her if we might join her, to which she responded
@@ -3928,7 +3929,7 @@ TODO:
 			-She said something to Mr. Nier that I did not overhear, but then turned and removed the
 			 notebook from a cabinet behind her, giving it to him.
 			-"What of the painting?" I broke in, "I would hang it in our shared haven, which receives
- 			  many visitors. If it affects others as strongly as we, well, we know other entangled
+ 			  many visitors. If it affects others as strongly as we, well, we know others entangled
 			  with these matters, and would love to see their reactions."
 			 "You ask a great deal of me," she replied, "To part with a so prized a possession. . ."
 			 "Ah, you are quite right. It would be too much to ask of you. But, please, your work
@@ -3990,17 +3991,248 @@ TODO:
 	 as it sounds like she's keeping dangerous things in her apartment: https://discord.com/channels/930231429286207539/933428895863160913/1009937813225087019
 
 
+9/14/22:
+    -We picked up the next evening for our next session.
+    -A few things occurred in the intervening time:
+        -I taught Mr. Nier Fortitude, in exchange for a minor boon and a step towards the bond.
+        -Professor Brukelen also went to consult with her roommate, speculating that she may have
+         ways to. . . accelerate our understanding of our arcane texts.
+            -Her roommate introduced her to someone named "Chez" (probably "Mr. Chester", to you),
+             and arranged a hotel stay and gifts, for this man (and, I presume, mortal mage?)
+            -In return, and spending much of the remaining night there, she got some studying done,
+             with his assistance enabling some strides in parsing the tomes.
+                -She said she thinks she has uncovered some signs that one of them contains a ritual,
+                 The Invocation of Eternity, a thing that sounds quite like what Mr. Giovanni was
+                 seeking.
+            -She certainly seemed to think that what Mr. Chester is selling is indeed worth it, and
+             convinced at least Mr. Nier to join her in a similar session in the future (Ms.
+             Arnautovic was far more skeptical and cautious).
+    -That next evening, we discussed both Ms. Barron and our arcane texts, and the impending visit
+     from Ms. Doyle, who's connected to both.
+        -Ms. Arnautovic headed to her chantry, in search of relevant texts there.
+            -She apparently has past experience with, and notes in the chantry about, The Bahari,
+             a religious sect among The Sabbat, who the fragments of The Midnight Garden and Days
+             of Fire are tied to. Apparently, among all of the nightmarish Sabbat, The Bahari
+             frighten her most. . .
+            -Mr. Nightwalker dropped her off at a subway station, on the way to his personal haven,
+             to attend to some personal matters (and get some air, perhaps benefitting his stress
+             over Ms. Barron's situation).
+        -I, meanwhile, called Ms. Doyle and set up our appointment.
+            -I caught her in the middle of packing for the journey, apparently (somewhat ominous,
+             for a trip across town). She said she'd be arriving in 2 hours.
+                -I thanked her for her assistance last night, and said we looked forward to our
+                 appointment this evening.
+            -With two hours to prepare, I saw to preparations for receiving her as her station and
+             etiquette demands.
+                -I had Mr. Hubbard head to the blood testing start up, to procure. . . refreshments.
+                -I also instructed Ms. Veck in announcing our guest, and similar matters that
+                 protocol required.
+            -Mr. Nier also took some time to hang her portrait of him, prominently on the back wall
+             of the shared haven's hall, facing the elevators.
+    -By the time The Harpy of Manhatten was due to arrive, everyone had managed to return to the
+     haven.
+        -Near the appointed time, Mr. Hubbard alerted me to something strange going on with the
+         security monitors. He'd noticed flickers on the feeds, and, pausing and examining the
+         the frames, a blurry figure with red hair, and perhaps Ms. Doyle's silhouette, was visible.
+        -There was then a noise out in the hall, one of alarm from Mr. Nightwalker, as the harpy
+         was suddenly there, standing before the elevators.
+        -"Hurry, Ms. Veck!" I said, ushering her towards the apartment's door.
+        -Ms. Veck handled the traditional announcement, introduction, recitation of lineage, etc.
+         with substantial grace.
+        -While Ms. Veck intoned, an apartment door opened, and Ms. Barron began to cautiously
+         approached Ms. Doyle.
+            -She was covered in cockroaches, and the occasional rat, but was also still possessed
+             of an unearthly beauty.
+        -After the traditions of introduction conclude, Ms. Doyle turned and apologized to me, for
+         breaking etiquette, and then began to converse with Ms. Barron in the unknown language.
+            -Though I could not follow the conversation, Ms. Barron seemed hesitent at first, then
+             perhaps sad, but eventually something changed. She stood up taller, before Ms. Doyle,
+             adopting a regal and. . . predatory bearing, as the two continued staring at one another,
+            -Eventually, Ms. Doyle turned to the rest of us, saying, "You should know, her name is
+             Sayoshyant now."
+             "Is that the custom?" I asked. "For the fae to take a new name upon. . . awakening?"
+            -Ms. Doyle ignored my question and continued, saying, "She iscommuning with her subjects.
+             She is not just fae. She is the duchess of Goblintown."
+             "Is that a. . . physical place?" Mr. Nier asked.
+             "Yes. It is beneath the Brooklyn Bridge."
+             "Goblins. . ." he continued, looking thoughtful. "There were goblins at the end of the
+              vision. . . I talked to one. He seemed fun."
+             "She is dangerous," Ms. Doyle continued. "She is a child of The Black Dragon. Be wary.
+              She is said to be a herald of the fimbulwinter."
+            -"If you'll excuse me asking," I broke in, "What language was that you two were
+              conversing in?"
+             "It is an ancient form of Welsh," she replied, "I have heard it referred to as
+              'Proto-Gaelic'."
+             "Ah. Not likely, then, something we'll easily find experts in, to ease our interactions
+              with Ms. . . Sayoshyant. Well, at least she has proven quick on the uptake thus far,
+              so some other approach may eventually suffice."
+            -Ms. Sayoshyant then broke in herself, in halting English, saying, "I. . . speak a
+             little. . . of English. . . I understand a lot."
+             "Ah, excellent! My faith in you is well-founded. That will substantially ease things."
+             "I have learned much from these cockroaches," she continued. "Fear. . . makes me strong."
+                -Well yikes.
+            -That prompted some discussion, with Ms. Doyle issuing warnings about "that thing" in
+             front of her, and Mr. Nier talking of what "this thing" could do for us, if she holds
+             sway over these goblins.
+            -Those grevious faux pas prompted a reaction from Mr. Nightwalker, who began to shout
+             over them that, "She is a person! Surrounded by cockroaches or surrounded furs and
+             silk, she's a person!"
+            -That elicited a pitying look from Ms.Doyle. "I loved once. Will you still love her
+             when she. . ."
+             "I will!" Mr. Nightwalker interupted.
+        -Ms. Doyle changed demeanor quiete suddenly, that pity disappearing, replaced by a
+         tight-lipped seriousness. Turning to me, she said, "We should discuss the play. Shall we
+         sit down somewhere?"
+            -I ushered her into my apartment, and she, Mr. Nier, Professor Brukelen and myself sat
+             down in the livingroom.
+            -"I wish to talk about casting," she began, "The play requires a special talent. I had
+              my eye on some thin bloods. Further, whoever plays Cassilla will be the one who asks
+              a boon of the man in the pallid mask. They must know what to ask for."
+             "Know of any thin bloods in particular?" Mr. Nier asked.
+             "Yes. Two. One called Cat. The other they call Layla. Cat is an acceptable actress,
+              and Layla. . . Layla can sing more beautifully than anyone in the city, but sings
+              only when alone."
+             "Ah, yes," I said. "I have met some of our city's Caitiff. Their confidence may pose
+              an issue, for a public performance. . ."
+            -"I'm curious," she said, changing the subject, "What would you ask?"
+             "Our city faces threats. . ." I said, dancing around the details. "I would see them
+              resolved. . ."
+             Seeing my reticence, she said, "If you don't know what you'd ask for, the play may be
+              too dangerous. I know exactly what _I_ would ask.
+             "Will you enlighten us?" Mr. Nier asked.
+            "I was raised in a village, among the fae. I would ask that my sire never found my
+             village, found me."
+            "But when calamity, perhaps Gehenna, looms, wouldn't that ultimately come to nought?"
+            Ms. Arnautovic asked.
+            "It wouldn't matter to me. I would live out my life, and then die, long before any such
+             thing. Not see everyone I know die before me."
+            -After a moment's awkward silence, in the face of that, Ms. Doyle stood up and
+             disappeared, making a dramatic obfuscate exit.
+    -Returning to the hall, Ms. Arnautovic wished to talk about what she'd recently seen, at the
+     chantry and earlier.
+        -"In the recent past," she began, "I was attacked. Those mages, the perpetrators, also
+          committed a theft, one of books from the chantry.
+         "What was the subject of these books, Ms. Arnautovic?" I asked.
+         "I wrote them," she replied. "They are my journals. These mages have a loose alliance with
+          The Sabbat. If The Sabbat gets their hands on the journals, I and everyone I love will
+          not be long for this world."
+         "Can we offer you our assistance?" I said.
+         "No. I would rather these mages did not learn anything further of those I associate with."
+        -Throughout this all, I began to get the sense that Ms. Arnautovic was genuinely
+         terrified. Her hands shook as she discussed the matter.
+        -After a moment's pause, she looked about, saying, "Wait, where has Gravel gone? Well,
+         please give her a message for me. I may need her clan's help finding my books. Otherwise,
+         I will resolve the matter myself. I may be gone for some time, but will have the chantry
+         send you a research assistant in my place, if it's long."
+    -As Ms. Arnautovic began to gather her things, Mr. Hubbard got my attention.
+        -"Boss, there's someone on the monitors, outside the building. He's circled it a couple of
+          times, wandering a bit."
+         "Pull his image up, Mr. Hubbard," I said, following him into the security office.
+        -On the monitors, he showed me a disheveled figure, smoking and wandering seemingly
+         aimlessly on the sidewalk, but never going far from the building, for the last 30 minutes
+         or so.
+        -As I studied the figure, a voice behind me startled me. "That's him," Professor Brukelen
+         said, watching over my shoulder. "Chez, the guy who is helping me study those books."
+        -Quickly regaining my composure, I responded, "Ah, I see. And did you. . ."
+         "No, I didn't invite him here," she replied. "But, he's a mortal mage. . ."
+         "That latter is what I'd meant to ask you about. If he's a mage, that would explain both
+          how he found us and why he's wandering the street like a Malkavian. . ."
+         "Should I invite him up? We need a safe place to study."
+         "Safe, Professor Brukelen, from some external threat? Or from the ramifications of his
+          magic?"
+         "The former. His magic. . . it will help us study the books, but may leave us distracted."
+         "Ah, and you do not wish to unwittingly greet the sun? Then, of course, our haven would
+          would be an excellent option."
+        -She nodded, and went to fetch the magus.
+    -While the professor was gone, Ms. Arnautovic walked back out of her apartment carrying several
+     bags.
+    -"Ms. Arnautovic!" I called out. "Professor Brukelen turned back up. You wished to speak to
+      her about her clan's services? She just went to fetch someone from the sidewalk, and will
+      be back up in a minute."
+    -She indeed wished to wait, and a few minutes later, the professor and her guest arrive,
+     proceeded by Mr. Chester's. . . aroma, of smoke and musk.
+        -She made a brief introduction of Mr. Chester, and then she and Ms. Arnautovic spoke.
+        -Ms. Arnautovic asked Professor Brukelen what the aid of her clan would cost, in recovering
+         these journals.
+        -"Um. . ." the professor deferred, "Well. . . that depends on who exactly you want help
+          from. I could ask my sire if he can help?"
+         "Please do," Ms. Arnautovic replied.
+        -Ms. Arnautovic then turned and left, collecting Mr. Nightwalker as she went, requesting a
+         ride from him.
+        -As they waited on the elevator, Mr. Chester spoke up, saying, "So, uh. . . are you all
+         going to be studying with us?"
+        -Mr. Nier nodded but I said, "I'm afraid I'm no occultists, and will be sitting this out."
+        -That also earned a nod from Mr. Nier, who said, "Yeah, someone should probably remain sober,"
+         while Mr. Chester said, "Yeah, me neither. Not an occultist, I just can focus _really_
+         good. And sometimes my brain goes. . . all wobbly?"
+        -Smiling and nodding, I ushered them towards the empty apartment suite, where Mr. Chester
+         began to pull out a truely prodigious quantity of various drugs and powders as I returned
+         to my office.
+    -All evening, and past when I retired for the morning, they continued their work in the apartment.
+        -Looking in on them occasionally, they were discussing the texts and various philosophical
+         topics, with Mr. Chester occasionally pausing to play X-Box ("It's part of the ritual! I
+         swear!") or ingest more substances.
+        -They stayed at it for the next evening, and it was only upon us waking on the evening
+         following that one that they emerged from ritual and rest.
+        -Approaching Mr. Nier, I said, "Good evening. Did your ritual, your work, bear fruit?"
+        -His response was a bit garbled, as he seemed disoriented (more than usual), but he did
+         indeed speak of uncovering The Invocation of Eternity, apparently a spell that can return
+         the dead to life, through study of the Al-Azif book.
+        -"An interesting tidbit, Mr. Nier," I replied to him. "A genuine miracle, I suppose. Is
+          it. . . more easily performed than Ms. Doyle's play?"
+        -The two of them conferred, and explained to me that the spell could only be performed by a
+         true mage, and one that met several prerequisites. Perhaps, though, it is a thing that
+         could be performed _for us_, but the masked man of Ms. Doyle's play.
+        -Both Professor Brukelen and Mr. Nier seemed a bit confused about how much time had passed,
+         and I informed them that it had been two days and a night since they began their work. If
+         the apocalypse of the spider-dream occurs on schedule, we have two evenings remaining. . .
+    -During that period of study, I tended to my businesses.
+        -Ms. . . Sayoshyant periodically emerged from her room, but never went further from the hall.
+         Mostly, during those trips, she went to stare at the portrait of Mr. Nier. . .
+        -She did apparently contact Mr. Nightwalker, though, sending him a text message (?!?).
+            -He shared it with me, thinking it's regal-proclomation-syntax suggested it was a message
+             from the prince or Primogen Wright, but I suggested it's broken English suggested a
+             different source: _Duchess_ Sayoshyant.
+            -He eagerly rushed back to the haven, and was indeed let into "her" apartment.
+            -Afterwards, I asked him, "Mr. Nightwalker! How is. . . _Duchess_ Sayoshyant? Are the
+              two of you reconciled?"
+             "Her english is much better. And, yes, we're on good terms again, I think. . ."
+            -"How _is_ studying going?" Mr. Nightwalker then said, changing the subject (perhaps a
+             bit evasively?).
+             "They're still at it. If our occultist research group doesn't bare fruit, though,
+              these goblins the duchess is associated with might be another line of inquiry to
+              pursue, given that both Mr. Nier and I remember things that might reasonably be
+              described as goblins at. . . the end, of the spider-dream. Let us know if there are
+              any developments with her. . ."
+              "Of course, of course."
+        -Ms. Arnautovic then emerged into the hall to, saying that she had a gift for me.
+            -She handed me two two sea shells, both a dark purple-ish red, in color. "They contain
+             blood, enough for a day's sustenance each. Mortal blood, so no issues with the bond."
+             "You have my thanks! How long do such things last?"
+             "Until used, Mr. Nielsen."
+             "Ah! A valuable thing, the indefinite storage of blood! Again, my thanks!"
+             "Of course, Mr. Nielsen. You have always been kind to me."
+             Smiling, I replied, saying that, "We make a good team. Us and the coterie as a whole.
+              We've seen great success here, all things considered. In the face of an apocalypse and
+              all."
+
+
+TODO:
+	-(DONE!) Record Mr. Nier's boon and bond step.
+    -Majesty? You now have the XP.
+        -Yep, Lesley signed off. Apply it.
+    -Talk to Ms. Arnautovic (probably between session) about developing that preserved blood business.
+
+
 TODO:
 	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
 	-Teach people Fortitude when next we have downtime.
 		-Did so for Professor Brukelen. At least Mr. Nightwalker also seems interested (when XP is there).
+            -Hmm. . . did he say in session that he got it elsewhere at some point? Confirm that.
 	-Look into Mr. Nier's "biker with a journal".
 		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
 		 situation.
-	-Follow up on the recording of Ms. Barron.
-		-Turned it over to Professor Brukelen here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
-		-Ms. Doyle knew the language, and we'll be introducing them the following night.
 	-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
 	-Follow up on the traitorous Ms. Fadel.
 		-Politically and. . . more directly.
@@ -4029,6 +4261,32 @@ TODO:
 		-The length and timing of the loop:
 			lesley (DM) — Today at 11:59 AM
 			it all takes place in the span of a week i believe in early july
+    -Have Ms. Arnautovic preserve some blood for me?
+        -She now seems to have the ritual necessary, and expressed interest in some joint venture.
+        -Our currently. . . non-linear circumstances limit it's potential, but it can still benefit
+         us within the loop and (hopefully) eventually beyond.
+        -You can certainly provide blood, and would love to observe the process. Seeing the details
+         would certainly aid you in explaining and developing the business.
+            -Ah, in fact, is that part of what you can sell? Trust is a big deal with the sale of
+             blood, due to the bond. "Certified by members Robert Nielsen of Clan Ventrue and
+             Vittoria Arnautovic of Clan Tremere" is a decent level of surety for other members of
+             the Camarilla, especially locally.
+                -Can take that a step further and use secure packaging plus cryptographic signatures
+                 and other borrowed-from-computer-security concepts to combat forgery and render the
+                 blood more fungible. Perhaps even some kind of arcane mark from Ms. Arnautovic, if
+                 such things are possible?
+            -Can also services requests, preserving particular vintages for the discerning customer.
+                -Another spot where selling the _trust_ involved in the service is applicable.
+            -In fact, there's a great deal of benefit to you personally in seeing wide distribution
+             of the blood of your herd.
+        -She should secure the approval of her clan (not the she should need selling on that), given
+         it touches on their domain.
+            -My end is already approved, and her being of the Tremere should mean this is mostly a
+             formality. But, well, Ventrue _are_ rather formal. . .
+        -This also dovetails neatly with the coterie's domain, the shared haven. We host visitors
+         to the city, who might naturally face difficulties finding sustenance in an unfamiliar
+         city and appreciate provisions.
+            -They've also already placed great trust in us, sleeping in our care.
 
 
 The Coterie:
@@ -4065,8 +4323,10 @@ The Coterie:
 			-Ah, you indebted yourself to the Prince to save her life, and he and Ms. Barron both
 			 now very much owe you (see boons, below, and TODOs before 4/28/22 session for details).
 			-Perhaps that now never occurred? Thanks, Spider Coin!
-				-Ah, but, instead, it would seem she's one of the fey (and always would have been,
-				 were it not for that undone embrace), of the Unseelie House Belor.
+            -Ah, but, instead, it would seem she's one of the fey (and always would have been,
+             were it not for that undone embrace), of the Unseelie House Belor.
+                -She, after relearning English, now names herself Duchess Sayoshyant, and Ms. Doyle,
+                 the harpy of Manhatten, said she rules "Goblintown", beneath the Brooklyn Bridge.
 	-Sam Nier, of Clan Malkavian (played by Jake):
 		-He's got academic connections, and interests in the occult and esorteric.
 		-Despite his deficiencies, he has also occasional demonstrated improbable insight.
@@ -4078,6 +4338,8 @@ The Coterie:
 				-At least Mr. Nier largely seems to have dealt with the matter himself, with
 				 supervision from Mr. Nightwalker. He seems to think he has the cult in hand now,
 				 though you wouldn't mind personally verifying that. . .
+		-He has also now drunk your blood once, in the course of learning Fortitude, and owes you
+         a minor boon for it.
 	-Vittoria Arnautovic, of Clan Tremere (played by Til)
 		-She did an impressive job of leveraging her thaumaturgical talents to intimidate someone,
 		 beyond what she can actually do (I think?).
@@ -4092,7 +4354,10 @@ The Coterie:
 			 source of intelligence for the sect.
 				-They also asked you to extend this understanding to any of the coterie that also
 				 discover her past, though none yet have.
+            -I wonder if she's been subjected to a bond, to ensure trust after all this.
 		-She also knows a concerning (but useful) quantity about demons.
+        -She has professed that great trust has been placed in here, directly, by the leadership of
+         her clan, relating in some way to our current crises, the demons and the spider-dream.
 	-Professor "Gravel" Brukelen, of Clan Nosferatu (played by Ash)
 		-Poor taste in friends, given that she seems to have once been. . . friendly with Mr. Van
 		 Buren.
@@ -4105,7 +4370,8 @@ The Coterie:
 		 introduction.
 			-They both seem to be tied to other supernatural creatures, mages and the fey.
 			-Nope! That was a spider-dream.
-		-She has also now drunk your blood once, in the course of learning Fortitude.
+		-She has also now drunk your blood once, in the course of learning Fortitude, and owes you
+         a minor boon for it.
 	-Felicity TODO, of Clan Toreador (played by Mike):
 		-(Ex?) stripper.
 		-Her sire is Ms. Dawn Fadel, and she has one brood sister, Ms. Tessa Laveau.
@@ -4115,6 +4381,7 @@ The Coterie:
 			-Ah, more than even that, she apparently consorts with demons and Baali, and tricked
 			 Ms. May into selling herself to Yeh-Haneph.
 		-More than a bit catty, but has demonstrated admirable social skills in the course of that.
+        -We may also have lost this Mike, though it is as of yet unclear.
 
 
 Boons owed to you:
@@ -4131,16 +4398,12 @@ Boons owed to you:
 		-Life boon: You intervened with Prince Panhard, indebting yourself to her, to save Ms.
 					Barron's (un)life.
 			-Or maybe not? That was a spider-dream. Does _she_ remember?
-	-Ms. Vittoria Arnautovic, of Clan Tremere:
-		-Minor boon: You had Ms. Veck and Mr. Horton assist Ms. Arnautovic in the purchase and the
-					 securing, with hardware you paid for, of a property in New York. She was keen
-					 to repay this with Auspex, but that secret is also widespread among the
-					 coterie. Discussed the boon here: https://discord.com/channels/930231429286207539/933428895863160913/982785254148411493
-			-Or maybe not? That was a spider-dream.
-			-She's probably amenable to the same deal again, though.
+                -And, if so, would _Duchess Sayoshyant_ honor it?
 	-Professor Brukelen, of Clan Nosferatu:
 		-Minor boon: You taught her Fortitude.
 			-She asked that the boon not be traded to another Kindred, which you assented to: https://discord.com/channels/930231429286207539/930231429286207542/999641547207348375
+	-Mr. Nier, of Clan Malkavian:
+		-Minor boon: You taught her Fortitude.
 
 Boons owed: 
 	-Primogen Morgan Durley, of Clan Tremere:
@@ -4171,6 +4434,7 @@ Bound to:
 Bound to you:
 	-Your retainers, Rebecca Veck, Bob Horton, and Rick Hubbard: fully bound.
 	-Professor Brukelen: the first drink.
+	-Mr. Nier: the first drink.
 
 
 TODONE:

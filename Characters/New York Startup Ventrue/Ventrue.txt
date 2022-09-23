@@ -107,6 +107,8 @@ Equipment:
 			-It's also had a limo-style refrigerated mini-bar installed, though it seldom contains liquor.
 		-White cargo van
 			-Generally kept in Brooklyn, at the security consultancy's loading dock.
+    -Two shells, each containing a blood point.
+        -Given to me by Ms. Arnautovic during the 9/14/22 session.
 
 
 Advancement:
@@ -119,9 +121,9 @@ Advancement:
 	*	10 Fortitude 1
 	*	5  Fortitude 2
 	*	2  Politics 2
-		20 Presence 5, or sooner?
-		5  Willpower 6?
+	*	20 Presence 5, or sooner?
 		6  Intimidation 4 (specialty!)
+		5  Willpower 6?
 		4  Empathy 3
 		12 Manipulation 4 (specialty!)
 		10 Fortitude 3
