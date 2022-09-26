@@ -4219,9 +4219,11 @@ TODO:
 
 TODO:
 	-(DONE!) Record Mr. Nier's boon and bond step.
-    -Majesty? You now have the XP.
-        -Yep, Lesley signed off. Apply it.
-    -Talk to Ms. Arnautovic (probably between session) about developing that preserved blood business.
+    -(DONE!) Majesty? You now have the XP.
+        -Yep, Lesley signed off. Applied it.
+    -(DONE!) Talk to Ms. Arnautovic (probably between session) about developing that preserved
+	 blood business.
+		-Mentioned it, and developed the idea further. See longer term TODOs below (search "preserve").
 
 
 TODO:
@@ -4283,6 +4285,7 @@ TODO:
          it touches on their domain.
             -My end is already approved, and her being of the Tremere should mean this is mostly a
              formality. But, well, Ventrue _are_ rather formal. . .
+		-Mentioned it here: https://discord.com/channels/930231429286207539/933428895863160913/1021607852068057108
         -This also dovetails neatly with the coterie's domain, the shared haven. We host visitors
          to the city, who might naturally face difficulties finding sustenance in an unfamiliar
          city and appreciate provisions.

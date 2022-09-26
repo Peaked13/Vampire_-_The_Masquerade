@@ -1,6 +1,7 @@
 Name: Robert Nielsen
 Clan: Ventrue
 Nature: Autocrat
+	Regain Willpower when you achieve control over a group or organization.
 Demeanor: Architect
 Ruleset: V20
 
