@@ -1,0 +1,98 @@
+Name: 
+Clan: 
+Nature: 
+Demeanor: 
+Ruleset: V20
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: ()
+		Charisma: 2
+		Manipulation: 4
+			Specialty: Persuasive
+		Appearance: 2
+	Mental: (7)
+		Perception: 2
+		Intelligence: 5
+			Specialty: Problem Solver
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (5)
+		Alertness: 
+		Athletics: 
+		Brawl: 1
+		Empathy: 
+		Intimidation: 
+		Leadership: 
+		Streetwise: 1
+		Subterfuge: 3
+	Skills: (9)
+		Drive: 1
+		Firearms: 1
+		Larceny: 3
+		Performance: 1
+		Stealth: 3
+	Knowledges: (13)
+		Academics: 1
+		Computer: 3
+		Investigation: 1
+		Law: 1
+		Politics: 1
+		Science: 3
+		Technology: 3
+
+Disciplines: (3)
+	Celerity: 1
+	Potence: 1
+	Presence: 1
+
+Backgrounds: (5)
+	Allies: ?
+	Domain: ?
+	Herd: ?
+	Resources: ?
+	Retainers: ?
+
+Humanity Rating: 6 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 3
+	Self-Control: 3
+	Courage: 4
+	
+Willpower: 4 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: ( Freebie Points)
+	Computer Aptitude (2 pt. Merit, Core pg. 484)
+		-2 difficulty to rolls involving computers.
+	Enchanting Voice (2 pt. Merit, Core pg. 480)
+		-2 difficulty on rolls to use your voice to persuade, charm, or command.
+	Friendly Face (1 pt. Merit, Core pg. 480)
+		-1 difficulty on "appropriate Social-based rolls" when first meeting a stranger.
+	Enemy (1-5 pt. Flaw, Core pg. 490): ?
+		-Maybe tied to winning a Domain?
+	
+
+Freebie Points: (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
