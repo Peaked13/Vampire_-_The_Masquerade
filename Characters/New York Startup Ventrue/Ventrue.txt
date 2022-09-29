@@ -98,8 +98,11 @@ Freebie points: 18 (15 + 4 from Merits and Flaws)
 Equipment:
 	-Cellphone running Mr. Horton's customized Android build.
 		-Adapter cables, for connecting the cellphone to all sorts of devices.
-		-TODO: Flesh out what's on the phone somewhere. Improved security, call encryption, pen.
-			   testing tools, etc.
+		-Phone software:
+			-Improved security.
+			-Message and call encryption software.
+			-Penetration testing tools.
+		-Infrared camera dongle, similar to this: https://www.flir.com/products/flir-one-gen-3/?vertical=condition+monitoring&segment=solutions
 	-Expensive tailored suit, artfully rumpled.
 	-Spare pair of glasses.
 	-Cars:
@@ -137,6 +140,8 @@ Advancement:
 		6  Leadership 4 (Oratory specialty)?
 		4  Politics 3
 		6  Politics 4 (Camarilla specialty!)
+		8  Dexterity 3?
+		8  Intelligence 3?
 	-Virtues (current x 2) and Willpower (current) are both cheap for what they do.
 		-Self-Control and Courage are both already 4, but Willpower would be huge for you.
 	-Add some Auspex, and then some combos?

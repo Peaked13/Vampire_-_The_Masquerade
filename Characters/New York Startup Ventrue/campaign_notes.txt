@@ -4051,8 +4051,8 @@ TODO:
             -Eventually, Ms. Doyle turned to the rest of us, saying, "You should know, her name is
              Sayoshyant now."
              "Is that the custom?" I asked. "For the fae to take a new name upon. . . awakening?"
-            -Ms. Doyle ignored my question and continued, saying, "She iscommuning with her subjects.
-             She is not just fae. She is the duchess of Goblintown."
+            -Ms. Doyle ignored my question and continued, saying, "She is communing with her
+			 subjects. She is not just fae. She is the duchess of Goblintown."
              "Is that a. . . physical place?" Mr. Nier asked.
              "Yes. It is beneath the Brooklyn Bridge."
              "Goblins. . ." he continued, looking thoughtful. "There were goblins at the end of the
@@ -4080,7 +4080,7 @@ TODO:
             -That elicited a pitying look from Ms.Doyle. "I loved once. Will you still love her
              when she. . ."
              "I will!" Mr. Nightwalker interupted.
-        -Ms. Doyle changed demeanor quiete suddenly, that pity disappearing, replaced by a
+        -Ms. Doyle changed demeanor quite suddenly, that pity disappearing, replaced by a
          tight-lipped seriousness. Turning to me, she said, "We should discuss the play. Shall we
          sit down somewhere?"
             -I ushered her into my apartment, and she, Mr. Nier, Professor Brukelen and myself sat
@@ -4100,14 +4100,14 @@ TODO:
              Seeing my reticence, she said, "If you don't know what you'd ask for, the play may be
               too dangerous. I know exactly what _I_ would ask.
              "Will you enlighten us?" Mr. Nier asked.
-            "I was raised in a village, among the fae. I would ask that my sire never found my
-             village, found me."
-            "But when calamity, perhaps Gehenna, looms, wouldn't that ultimately come to nought?"
-            Ms. Arnautovic asked.
-            "It wouldn't matter to me. I would live out my life, and then die, long before any such
-             thing. Not see everyone I know die before me."
+             "I was raised in a village, among the fae. I would ask that my sire never found my
+              village, found me."
+             "But when calamity, perhaps Gehenna, looms, wouldn't that ultimately come to nought?"
+             Ms. Arnautovic asked.
+             "It wouldn't matter to me. I would live out my life, and then die, long before any such
+              thing. Not see everyone I know die before me."
             -After a moment's awkward silence, in the face of that, Ms. Doyle stood up and
-             disappeared, making a dramatic obfuscate exit.
+             disappeared, making a dramatically obfuscated exit.
     -Returning to the hall, Ms. Arnautovic wished to talk about what she'd recently seen, at the
      chantry and earlier.
         -"In the recent past," she began, "I was attacked. Those mages, the perpetrators, also
@@ -4182,7 +4182,7 @@ TODO:
           it. . . more easily performed than Ms. Doyle's play?"
         -The two of them conferred, and explained to me that the spell could only be performed by a
          true mage, and one that met several prerequisites. Perhaps, though, it is a thing that
-         could be performed _for us_, but the masked man of Ms. Doyle's play.
+         could be performed _for us_, by the masked man of Ms. Doyle's play.
         -Both Professor Brukelen and Mr. Nier seemed a bit confused about how much time had passed,
          and I informed them that it had been two days and a night since they began their work. If
          the apocalypse of the spider-dream occurs on schedule, we have two evenings remaining. . .
@@ -4190,7 +4190,7 @@ TODO:
         -Ms. . . Sayoshyant periodically emerged from her room, but never went further from the hall.
          Mostly, during those trips, she went to stare at the portrait of Mr. Nier. . .
         -She did apparently contact Mr. Nightwalker, though, sending him a text message (?!?).
-            -He shared it with me, thinking it's regal-proclomation-syntax suggested it was a message
+            -He shared it with me, thinking it's regal-proclamation-syntax suggested it was a message
              from the prince or Primogen Wright, but I suggested it's broken English suggested a
              different source: _Duchess_ Sayoshyant.
             -He eagerly rushed back to the haven, and was indeed let into "her" apartment.
@@ -4198,7 +4198,7 @@ TODO:
               two of you reconciled?"
              "Her english is much better. And, yes, we're on good terms again, I think. . ."
             -"How _is_ studying going?" Mr. Nightwalker then said, changing the subject (perhaps a
-             bit evasively?).
+              bit evasively?).
              "They're still at it. If our occultist research group doesn't bare fruit, though,
               these goblins the duchess is associated with might be another line of inquiry to
               pursue, given that both Mr. Nier and I remember things that might reasonably be
@@ -4226,11 +4226,261 @@ TODO:
 		-Mentioned it, and developed the idea further. See longer term TODOs below (search "preserve").
 
 
+9/28/22:
+	-Ms. Arnautovic returned to our shared haven, and we began to discuss our next move.
+		-We seemed to have two paths available to us: further research into the spells described by
+		 our windfall of tomes or investigation into Duchess Sayoshyant and her Goblintown.
+		-Professor Brukelen and Mr. Nier doubted that, even with Mr. Chester's help, we'd have time
+		 to decode the remaining spellbook.
+		-Ms. Arnautovic, though, suggested that the fae of her home country sometimes aided in such
+		 things, offering their realms, where time may flow differently, to those in need of more
+		 time.
+		-In the middle of that discussion, the duchess again emerged from her room, striding towards
+		 us with purpose.
+			-"I. . . can take you to the dream," she offered.
+			-We all seemed a bit taken aback, with Mr. Nier and I eventually talking over one another,
+			 I to thank her for her generous offer and Mr. Nier to ask how time worked there.
+			-"We can go to under-bridge, to my Goblintown," she continued. "Time, in parts of it,
+			  does work differently. . . and I can gather my forces."
+			-That last got looks from most of us, and Mr. Nier asked, "Gather forces? To what end?"
+			 "The fimbulwinter approaches. . ." she mumbled. Then, turning to Mr. Nightwalker beside
+			 her, she said, "My champion. . . Please, you should be the vanguard. . ."
+			-At that, Mr. Nightwalker sprang into action, "OK! We're leaving in ten minutes! Get
+			 anything that you need to bring. . ."
+				-He immediately followed his own advice.
+				-The duchess, meanwhile, began. . . chittering. In response, a flood of cockroaches
+				 streamed from beneath her apartment's door and over to her, where they climbed her
+				 body and into her clothes.
+			-Ms. Arnautovic was on board. . . with Mr. Nier and Professor Brukelen going. . .
+				-Mr. Nier was happy to stick his neck out, but Professor Brukelen was having none
+				 of that. "I don't think this is a good idea. . ." she protested. "Even if this
+				 offers us more time, returning from a fae realm. . . we may remember little of
+				 what we experienced.
+				 ". . . I could take notes?" Mr. Nier replied.
+				-They began a somewhat heated debate, eventually centering on the issue of blood.
+					-Professor Brukelen warned it may not be available to us in these realms, and
+					 Mr. Nier immediately began brainstorming ways of bring some with us, enough
+					 to spend 20 days at work in this place.
+					-I volunteered Ms. Arnautovic's talents in this, and we did some discussion of
+					 logistics.
+			-All that debating was interrupted by a declaration from Duchess Sayoshyant: "I am
+			 ready." 
+			-That elicited a lot of heming and hawing from us, as we raised the issue of provisions.
+			 She rolled her eyes in response, and said, "We can stop in Under-bridge. There is a
+			  market."
+			 "Trading in what?" Mr. Nier asked. "Should I bring my gold?"
+			 "No," she replied, "You have plenty with you. . ."
+			-She then turned to me, saying, "Mr. Nielsen, you are an expert in haggling. You will
+			  be coming with us?"
+			 ". . . of course, my duchess. I wouldn't dream of turning down your hospitality."
+			-As I instructed Mr. Hubbard in what to bring, I recieved a text from Professor Brukelen,
+			 saying, "The goblins are working with the Sabbat."
+				-Catching Mr. Nier looking at his phone at the same moment, I turned to him and
+				 grimaced.
+				-Stepping back into the hallway, and casting my eyes about, I saw that Professor
+				 Brukelen was gone, doubtlessly having performed another of her disappearing acts.
+				-As I pondered what to do, I recieved another text from her, saying, "Demons meeting
+				  to kill us all again. Goblins supplying weapons to Sabbat."
+	-Well, this is a nastier mess than I'd hoped, but also probably still what we need to be
+	 looking into.
+		-As such, we indeed headed down to the street, and Mr. Nightwalker and Mr. Hubbard went to
+		 fetch cars.
+			-Weirdly, as we exited, we saw Agent Caldwell pulling a duffle bag out of a car, and
+			 then walking away from us, down the street.
+		-As they pulled up, the duchess climbed into Mr. Nightwalker's car, and Mr. Nier and I into
+		 my sedan.
+		-We followed Mr. Nightwalker's car, and, as we were stopped at a red light not far from the
+		 building, Agent Caldwell opened the door and got in.
+		-Once she did so, Professor Brukelen _appeared_, already in the backseat, and she filled us
+		 in on more details, which she'd apparently learned from Agent Cladwell.
+			-The goblins seem to be supplying "nonsensical-seeming" weapons to the Sabbat.
+	-We followed Mr. Nightwalker's car, and he did indeed lead us to The Brooklyn Bridge.
+		-He pulled over near it, on the Manhatten side of it, and got out, with the rest of
+		 us parking too and following suit.
+		-He followed his (erstwhile?) girlfriend to a fence gate along the bridge, which he
+		 kicked down at her instruction, despite the cooler he was lugging.
+	-We passed through the gate, and down a short corridor, where we were stopped by a man in a
+	 baseball cap and sunglasses, who said, "Hey! Who are you? What are you doing down here?"
+		-I turned to the duchess, expecting she'd respond, but she turned to Mr. Nightwalker, saying
+		 "Champion, keep this riff raff from talking to me," and then striding past the man.
+		-The stranger made a grab for her, but Mr. Nightwalker blocked him, saying sternly, "You
+		 do not touch her."
+		- In response ; draw
+		-"You don't belong here, blood sucker!" ; "Yeah, I know what you are! If I hit this button,
+		  blam! This place goes up and you're nothin' but ashes."
+		 "There's no need for that! The duchess. . . just has an imperious attitude," I intervened.
+		 "Well, you have to pay the toll."
+		 Mr. Nier then broke in, staring intently at the man, and saying calmly, "Come now. Can't
+		  we all be friends here?"
+		-The guard's demeanor changed instantly, and he said, "OK, OK. You just gotta pay the toll."
+		 "And what is the toll?" I asked.
+		 "Uh. . . I got it. The memory of your first victim. From all of you."
+		 ". . .you want a description?" Mr. Nier asked.
+		 "Just give me some object. Anything."
+		-Mr. Nier shrugged, handed him a pen, and then immediately looked confused.
+		-"Well, the rest of yous?" the guard asked.
+		-I began to dig in my pockets and, when I caught the guards attention, stared carefully
+		 into his eyes and said slowly, ". . . I think you'll find that Mr. Nier's doubtlessly lurid
+		 adventures are plenty to coverall of us."
+		 "Uh, yeah, this should be enough. Sure."
+			-It is good to know the fae are not immune to my powers of Dominate, as Mr. Scotts's
+			 people seemed to be.
+		-He then got on a nearby stool, and drew in chalk a door, on the wall. Completing it, he
+		 then _opened_ the door, ushering us into the market.
+		-Inside were a series of close-packed streets, giving a generally Victorian impression, and
+		 all of them crawling with creatures I could easily label goblins, as well as. . .
+		 harlequin-looking figures.
+	-As we walked inside, Duchess Sayoshyant led the way and, the moment she was inside, her
+	 apearance subtly changed.
+		-Inside, she looked. . . more elven, and somehow even more beautiful. She also radiated a
+		 palpable sense of alien nobility.
+		-"Duchess, you seem to be in your element here," Mr. Nier said.
+		-She ignored him completely and turned to Mr. Nightwalker, saying, "Champion, you may make
+		 use of the subjects here, for your sustenance.'
+		-He nodded in response, and looked out over the crowded streets.
+	-Not one to hesitate, Mr. Nier walked forward into the market streets, and almost immediately
+	 began speaking with. . . a goblin pimp, dressed sterotypically and surrounded by several
+	 apparently human women.
+		-As I walked up, the goblin was saying, ". . . but how much blood _is_ 'twenty days worth'?
+		 I mean. . ."
+		-"He speaks of the blood of. . . about 8 living humans," I broke in, clarifying.
+		 "Ah, I like this guy! Straight to the point," the creature responded, "I can get you eight
+		  people. . ."
+		 "Well, I don't imagine they wish to part with _all_ of their blood. . ." I began to clarify.
+		 "The question is," he interrupted, "Can you afford it?"
+		 "Well, how much is it?" Mr. Nier asked.
+		 "Fourteen," he replied.
+		 ". . . fourteen?" Mr. Nier asked.
+		 "Fourteen humans."
+		 ". . . but, if we had fourteen, why would we trade it for eight?" Mr. Nier tried to clarify.
+		 "Fourteen _later_," the goblin said. "You can count on me to collect."
+		 ". . . let me confer with my confederates," Mr. Nier deferred, turning and ushering us away,
+		 towards a more crowded section of the street.
+		-"I think we know too little of where we are going," I began, once were were out of earshot,
+		 "To make such deals."
+		-That met with general agreement.
+	-We then returned to Duchess Sayoshyant and Mr. Nightwalker, who still stood near where we had
+	 entered the market.
+		-Mr. Nier then addressed the duchess, saying, "We need to know more about where we're going.
+		  Would humans. . . thrive there?"
+		 "We are in Under-bridge. From here, other bridges are accessible. _All_ other bridges.
+		  Goblintown is under here," the duchess replied.
+		-That mostly met with confused stares from us.
+		-Mr. Nier then tried for further clarification, ". . . you said you're the queen of this
+		  Goblintown? How is that?"
+		 "It was I who advised $SOME_NAME on the weakness of our enemies. Goblintown is but a small
+		  part of what I rightfully control. But it is not Goblintown I care about. It is the Trod."
+			-I'm not sure that clarified anything. . .
+		-"Is this the only way to get there?" Mr. Nier asked. "What is this place like?"
+		 "If you spend to long there, you can go mad. From frustration, from longing. Everything
+		  built there is made to be destroyed."
+		 ". . . If we risk madness, Duchess, can we freely come and go?" I asked.
+		 "You can, if you can find the way home. . ." she replied.
+		 ". . . You sound as if that is in doubt?"
+		-Ignoring my question, she then said, "There is something I require, if we are to easily
+		  move about Goblintown: it's pennant."
+		 "Uh, what is that?" Mr. Nier asked.
+		 "It is a polished bronze gear, in the possession of one 'Cadmium Redd'."
+		 ". . . is he here?" Mr. Nier asked.
+		 "I do not know. The cockroach thinks so, though. Find him, and kill him."
+		-That last elicited a response from Professor Brukelen, who said, "Okay, bye guys. I'm not
+		  an assassin. Caldwell? You coming?"
+		-The two of them then turned to go back the way we came.
+	-Suddenly, all of our phones were buzzing, with dozens of messages and alerts.
+		-All concerned the same, twenty second clip: video of what you can see very clearly is an
+		 angel soaring over New York City.
+		-Turning to those with me, I said, "Always signs of the end times, huh? Again and again. . ."
+		-Looking at Agent Caldwell as they kept walking Professor Brukelen asked, "Is this the plan?"
+		-Agent Caldwell's phone, meanwhile, started ringing. She answered it and began to look even
+		 more confused, as she had some conversatin unheard by me, some dozen or two feet away.
+		-Hanging up, Agent Caldwell turned back and said, "Gravel, Sam, which ever of you are here,
+		 you'll need this." As she spoke, she pulled from her bag and set down two thermoses and a
+		 box the size of a pack of cards. She then turned and continued walking back the way we came.
+		-Those objects were quickly picked up by a briefly visible Professor Brukelen, who then
+		 quickly disappeared again while we watched.
+		-I received a text moments later, showing the inside of one of the thermoses.
+			-It was full of roughly foot long metal spikes, each wired to some kind of PCB, but I
+			 was unsure what I was looking at. Ominously, though, my guess would be bomb parts. . .
+		-There was a brief scuffing noise near Mr. Nier and, turning to look at him, I saw a
+		 backpack at his feet. A backpack that looked like one belonging to Professor Brukelen. The
+		 same, in fact, that the opened thermos had been sitting in, in the picture. . .
+	-The duchess, though, seemed to be growing impatient. Ignoring Mr. Nier and I, she looked at Mr.
+	 Nightwalker and said, "Champion, have the others found the blood they require?"
+		-He made excuses for us, saying such things take time.
+	-We then discussed our next move.
+		-To flee? Or deeper?
+		-I brought up that the duchess _did_ want this pennant to move more freely about Goblintown,
+		 a thing I'd greatly appreciate if we are to dare venturing there.
+	-We did eventually steel ourselves to seek out this Cadmium Redd, and returned to the goblin
+	 pimp.
+		-"My friend in the blood business! Tell me, do you have a line in any other trades?" I asked
+		 him.
+		 "I'm what you would call an entrepreneur," the creature replied.
+		 "A man after my own heart, then! We're new here, and are also interested in information
+		  about the market."
+		 "What is it you're concerned with?" he replied.
+		 "My associate," I said, gesturing to Mr. Nightwalker, "His girlfriend _is_ familiar with
+		  Under-bridge, at least somewhat. She knew someone down here, who we'd hoped to find."
+		 "Oh? Who're you looking for?"
+		 "What did she call him, Mr. Nightwalker?" I said, playing a bit ignorant.
+		 "Cadmium Redd," he said.
+		 "Sure, I know Cadmium," the goblin said, "She's _real_ selective of who she sees. . ."
+		 "What is it you need?" I asked.
+		 ". . . one of you can come, if you give up all your weapons."
+		-At that last, Mr. Nightwalker shrugged, and began removing various knives and firearms from
+		 his person, handing them to Mr. Hubbard.
+		-The goblin nodded as he did so, and turned to the women standing with him say, "Girls, keep
+		  the rest of them entertained."
+		-He then led the disarmed Mr. Nightwalker off into the narrow, winding streers of the bazaar.
+	-While we awaited his return (somewhat nervously), I received a text from Ms. Arnautovic,
+	 claiming that, "The angel in the sky is a call for unity and peace between us."
+	 "A hopeful thought. Agent Caldwell, though, seemed more concerned," I responded.
+	-Before I could get in much chatting up of the locals, Mr. Nightwalker was returning.
+		-Returning with a limp, covered in blood . .
+		-"Jesus!" I shouted, "Mr. Nightwalker, what happened?!?"
+		-By way of response, he reached into his pocket and thrust towards me a bronze gear, saying,
+		 "Mission accomplished."
+		-I stared in horror, but Duchess quickly responded, "Good. Give it to me."
+		-She grabbed the gear from him and, plunging the other hand into her right eye, ripping it
+		 from it's socket and casting it onto the ground.
+		-She then held aloft gear, speaking an oath, something about a serpent, a tower, House
+		 Baelor, and a pledge to her house. As she spoke, the gear glowed, as if heated.
+			-The full text: https://discord.com/channels/930231429286207539/930231429286207542/1024881744454885446
+		-In response, the on the streets around us goblins fell to their knees before her, and Mr.
+		 Nightwalker as well.
+		-Looking about, she spoke again, saying, "Warriors of House Baelor, I declare war! We march
+		 against The Autumn!"
+		-Looking back at those of us next to her again, she pointed at Mr. Nier and I and said,
+		 "Champion! Kill them!"
+		-Mr. Nightwalker's eyes were sad, as he turned towards us. . .
+
+
 TODO:
-	-Set up character sheet macros: https://discord.com/channels/930231429286207539/930231429286207542/943254373574787134
+	-(Done!) With the apocalypse nearly due, how has my stock market fore-knowledge gone?
+		-Was I able to make money? Did things play out more or less the same, despite my meddling?
+		-Talked with Lesley about it and rolled Wits+Finance, making some substantial "risky" bets.
+		-It sure as fuck paid off. I now have Resource 6, for this loop and presumably for every
+		 one thereafter, if I repeat the same trades.
+			-Well, you're now a billionaire.
+
+
+TODO:
+	-Time to look into combo disciplines?
+		-Oh god. . . for boons? Given the spider-dream. . .
+		-Talked briefly with Lesley and Primogen Wright is known to know several.
+			-You can see them in Roll20, on his handout. He has Impeccable Manners, Lifesong, Rescue
+			 Beacon, and Denial Of Aphrodite's Kiss.
 	-Teach people Fortitude when next we have downtime.
 		-Did so for Professor Brukelen. At least Mr. Nightwalker also seems interested (when XP is there).
             -Hmm. . . did he say in session that he got it elsewhere at some point? Confirm that.
+	-What should you buy with your new Resources 6?
+		-Some stuff should really wait until you can escape the spider-loop, but you have those
+		 Resources by 2 days from the world/loop end.
+		-Private plane? Maybe with some Kindred modifications. Pilot staff on call?
+		-Upgrades to shared or personal havens?
+			-Security, in particular.
+			-_More_ havens?
+		-More herd? They're employees, after all.
 	-Look into Mr. Nier's "biker with a journal".
 		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
@@ -4277,6 +4527,7 @@ TODO:
                  and other borrowed-from-computer-security concepts to combat forgery and render the
                  blood more fungible. Perhaps even some kind of arcane mark from Ms. Arnautovic, if
                  such things are possible?
+				-Ah, she claims the ritual in fact _prevents_ the blood from creating a bond.
             -Can also services requests, preserving particular vintages for the discerning customer.
                 -Another spot where selling the _trust_ involved in the service is applicable.
             -In fact, there's a great deal of benefit to you personally in seeing wide distribution
@@ -4406,7 +4657,7 @@ Boons owed to you:
 		-Minor boon: You taught her Fortitude.
 			-She asked that the boon not be traded to another Kindred, which you assented to: https://discord.com/channels/930231429286207539/930231429286207542/999641547207348375
 	-Mr. Nier, of Clan Malkavian:
-		-Minor boon: You taught her Fortitude.
+		-Minor boon: You taught him Fortitude.
 
 Boons owed: 
 	-Primogen Morgan Durley, of Clan Tremere:
@@ -4426,9 +4677,6 @@ Boons owed:
 			 all. He means to see a return on his investment, and that no shame is brought to him.
 			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
 			 a debt you didn't exactly sign yourself up for.
-	-Prince Helen Panhard, of New York City and Clan Ventrue:
-		-Major boon: You begged a favor of her as a clanmate to save the (un)life of Ms. Barron.
-			-Nope! That was a spider-dream!
 
 
 Bound to:
