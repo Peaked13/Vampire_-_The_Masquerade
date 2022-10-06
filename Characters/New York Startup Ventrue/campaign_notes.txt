@@ -4462,6 +4462,87 @@ TODO:
 		-It sure as fuck paid off. I now have Resource 6, for this loop and presumably for every
 		 one thereafter, if I repeat the same trades.
 			-Well, you're now a billionaire.
+	-What's your next move, with the Gangrel, the fairy, and all?
+		-What depends on who wins the initiative?
+			-Can I risk a blow from Mr. Nightwalker?
+				-Does he have his claws out? I didn't think so, given his use of teeth on Redd.
+					-Growing them takes a turn.
+			-Where Mr. Nightwalker, Mr. Hubbard, and I end up in the order probably changes
+			 Mr. Hubbard's targets.
+				-If I seem to be talking Mr. Nightwalker down, he might just worry about the duchess.
+			-Might also change what I do, I suppose.
+		-Majesty?
+			-The roll he'd make is:
+				-Courage (difficulty 8) each turn.
+				 or
+				-Spend Willpower and roll Willpower (difficulty 8) for the scene.
+					-Since starting Willpower equals Courage, this is necessarily the same or easier
+					 to make on the very first turn.
+			-Oh! Dice odds: https://docs.google.com/spreadsheets/d/1OK1pf7N3tIoPYYhX0kL37s-awQ0owwKNZlopwZ4EjHI/edit#gid=0
+			-How does it impact my allies?
+				-From the description, it sounds like they'll do whatever I say, and may be
+				 otherwise free to act, so long as they don't act against me.
+		-Other Presence or Dominate powers?
+			-All other Presence powers offer that same Willpower action for the scene, already the
+			 easier way to avoid Majesty.
+			-Though Summoning the somewhat nearby Ms. Brukelen may be an option.
+				-Lesley is going to aim to clarify where everyone is at some point: https://discord.com/channels/930231429286207539/930231429286207542/1025086460111626290
+			-Dominate may be a more sure bet, then, with no such escape hatch.
+				-On _who_?
+					-You're almost certainly a higher generation than Mr. Nightwalker.
+					-Dominate also _did_ work on the fairy at the door to the market.
+				-Which Dominate power?
+					-Command?
+						-Oh! Enchanting Voice almost certainly applies, making this easy, and almost
+						 certainly the option.
+						-On the duchess?
+							-To "rescind" her command?
+						-On Mr. Nightwalker?
+						-Potential commands:
+							-"Flee"
+							-"Sleep" is unfortunately cited as _not_ possible in a "dangerous
+							 situation", in the ability description.
+					-Mesmerize is out, due to needing to be "free from distraction".
+					-The Forgetful Mind on Mr. Nightwalker seems an option, since one success
+					 pacifies him while I make the alteration so long as I don't act aggressively
+					 towards him.
+						-Probably not an option on the duchess, since he'd likely attack me while
+						 I did it, and despite me doing it.
+						-Probably not a great option in general, either. Would need a ton of
+						 successes to, say, remove the duchess from his memories entirely.
+		-Blood spending on stats?
+			-You have 2 per turn, and can do this even if a discipline needs a blood that turn.
+			-Lesley confirmed this is a free action that doesn't conflict with disciplines: https://discord.com/channels/930231429286207539/930231429286207542/1025085729308688384
+			-Dexterity? Stamina?
+		-So, for you, this sounds generally attractive (though maybe changes based on turn order):
+			-Turn 1:
+				-2 blood boosting Stamina; Command Mr. Nightwalker to flee; back away with free move.
+			-Turn 2:
+				-2 blood boosting Stamina or Dex; Majesty?
+		-What about Mr. Hubbard?
+			-He was warned to come armed for bear, and so has armor and a big, fuck-off shotgun
+			 concealed in his trenchcoat:
+				Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
+			-Fire on Mr. Nightwalker?
+				-The damage would be. . . regrettable.
+				-Seems like I should expect _some_ damage too, with that 8.
+			-Fire on the duchess?
+				-No regrets there, but fuck knows what she can do, especially now with her "pennant".
+				-Danger to her might provoke frenzy or other adverse reactions from Mr. Nightwalker. . .
+			-Multiple shots, up to your rate of 3?
+				-Dex+Firearms dice pool is 7, with a "Shotgun" specialty.
+				-Ah, this maneuver is for multiple targets. Still potentially attractive.
+				-Splitting the pool reduces the odds of a one-hit-kill, but that might be a
+				 _positive_.
+			-Three-Round Burst, with it's +2 Accuracy and +1 Difficulty would be the single target
+			 option, I think.
+			-Would Majesty impact him? How?
+			-Is drawing some kind of action?
+				-Unclear from rulebook and Google, so ask Lesley.
+		-Stuff you'd like _others_ to do, if situation permits and you can suggest it to them:
+			-If Professor Brukelen returns, you'd certainly appreciate her help getting us out of
+			 there.
+			-The fae seem to thrive on emotion. Can Mr. Nier _calm_ the duchess?
 
 
 TODO:

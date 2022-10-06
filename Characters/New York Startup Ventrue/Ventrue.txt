@@ -66,6 +66,7 @@ Movement:
 
 Merits & Flaws:
 	Bad Sight (1 pt. Flaw, V20 Core pg. 481):
+		+2 difficulty for rolls involving eyesight.
 		Can wear glasses for it, or it would be more points.
 	Natural Leader (1 pt. Merit, Core pg. 487):
 		2 extra dice for Leadership rolls.
@@ -161,6 +162,8 @@ Advancement:
 				-The first is especially good for you.
 				-A couple of combos do similarly interesting social stuff too.
 				-However, needing a derrangement to do any of this is kind of a dealbreaker.
+					-Wait, that's not true! V20's description seems to disclaim that, and Lesley
+					 confirmed it does not for at least the first two levels.
 		-Ah, learning them, though, is costly, requiring a step towards the blood bond: https://discord.com/channels/930231429286207539/930231429286207542/944287129670922271
 			-That first step isn't _terrible_ (V20 Core pg. 287), but is not something you'd take
 			 lightly.
