@@ -9,7 +9,7 @@ Attributes: (7/5/3 above base of 1 in each)
 		Strength: 2
 		Dexterity: 2
 		Stamina: 2
-	Social: ()
+	Social: (5)
 		Charisma: 2
 		Manipulation: 4
 			Specialty: Persuasive

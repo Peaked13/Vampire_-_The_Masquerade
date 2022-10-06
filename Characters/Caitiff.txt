@@ -8,6 +8,7 @@ Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)
 		Strength: 3
 		Dexterity: 4
+			Specialty: 
 		Stamina: 3
 	Social: (3)
 		Charisma: 1
@@ -30,6 +31,7 @@ Abilities: (13/9/5, max of 3)
 		Drive: 1
 		Security: 1
 		Stealth: 4
+			Specialty: 
 	Knowledges: (9)
 		Academics: 1
 		Computer: 3
