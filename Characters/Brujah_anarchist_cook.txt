@@ -78,7 +78,7 @@ Merits & Flaws: ( Freebie Points)
 	
 
 Freebie Points: (15)
-	
+	Demolitions?
 
 Character Description and Background:
 	-Appearance:
@@ -95,4 +95,5 @@ Equipment (stuff to start with or obtain):
 Advancement:
 	-Tentative schedule:
 		
-	-
+	-Oh! Guide to the Anarchs has separate Anarch creation rules, much like the Sabbat ones, trading
+	 Attributes and Abilities for an extra dot of Disciplines and of Backgrounds.
