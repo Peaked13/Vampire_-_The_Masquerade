@@ -4495,6 +4495,9 @@ TODO:
 					-Command?
 						-Oh! Enchanting Voice almost certainly applies, making this easy, and almost
 						 certainly the option.
+							-Though, it could depend on initiative order, as Mr. Nightwalker might
+							 have the option to avoid eye contact (Core pg. 152 suggests a mere
+							 Willpower (difficulty 6) roll).
 						-On the duchess?
 							-To "rescind" her command?
 						-On Mr. Nightwalker?
@@ -4502,6 +4505,9 @@ TODO:
 							-"Flee"
 							-"Sleep" is unfortunately cited as _not_ possible in a "dangerous
 							 situation", in the ability description.
+							-"Disobey"?
+								-Probably a bit dicier than flee, and flee is what I really want
+								 him to do anyways.
 					-Mesmerize is out, due to needing to be "free from distraction".
 					-The Forgetful Mind on Mr. Nightwalker seems an option, since one success
 					 pacifies him while I make the alteration so long as I don't act aggressively
@@ -4514,9 +4520,14 @@ TODO:
 			-You have 2 per turn, and can do this even if a discipline needs a blood that turn.
 			-Lesley confirmed this is a free action that doesn't conflict with disciplines: https://discord.com/channels/930231429286207539/930231429286207542/1025085729308688384
 			-Dexterity? Stamina?
+		-Oh! What about spending Willpower?
 		-So, for you, this sounds generally attractive (though maybe changes based on turn order):
 			-Turn 1:
-				-2 blood boosting Stamina; Command Mr. Nightwalker to flee; back away with free move.
+				-2 blood boosting Stamina or Dex; Command Mr. Nightwalker to flee; back away with
+				 free move.
+					-Willpower on the Commmand?
+					-Stamina is only attractive if Mr. Nightwalker doesn't grow his claws. Dex is
+					 attractive even if you don't dodge, due to initiative and movement speed.
 			-Turn 2:
 				-2 blood boosting Stamina or Dex; Majesty?
 		-What about Mr. Hubbard?
@@ -4566,7 +4577,16 @@ TODO:
 		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
 		 situation.
-	-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
+	-What do we do abour Ms. Barron?
+		-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
+		-As a fairy, she's a nightmare, and seemingly. . . no longer Ms. Barron.
+		-Ms. May may ultimately have had the right of it, with her embrace.
+			-As a kindred, though depressed, she was a lot more herself (and less of an asshole),
+			 and it's surely preferable to dead-dead (certainly in Mr. Nightwalker's eyes).
+			-Perhaps, though, a different sire?
+				-I got the impression from the prince that more Gangrel was _particularly_ touchy,
+				 politically.
+				-The fourth Tradition, The Accounting, might make that risky for the sire, though.
 	-Follow up on the traitorous Ms. Fadel.
 		-Politically and. . . more directly.
 		-Sounds like I might be doing that for a bit off camera, during a rescheduled session I had
