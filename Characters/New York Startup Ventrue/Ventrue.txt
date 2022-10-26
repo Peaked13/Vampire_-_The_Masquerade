@@ -129,9 +129,14 @@ Advancement:
 	*	20 Presence 5, or sooner?
 		6  Intimidation 4 (specialty!)
 		5  Willpower 6?
+		15 Rescue Beacon (Wright knows it!)
 		4  Empathy 3
-		12 Manipulation 4 (specialty!)
 		10 Fortitude 3
+		10 Auspex 1 (Who's blood?)
+		7  Auspex 2
+		9  Impeccable Manners (Wright knows it!)
+		12 Manipulation 4 (specialty!)
+		18 Denial of Aphrodite's Kiss (Wright knows it!)
 		15 Dominate 4
 		20 Dominate 5
 	-Add some more attribute and ability increases to that? Remember that going over 3 gets you a
@@ -178,7 +183,7 @@ Advancement:
 		-Honeyed Words (A2/P1 would be amazing if you can learn it (text mentions "viziers"): https://saligia.fandom.com/wiki/Combination_Disciplines#Honeyed_Words_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 		-Ah, Impeccable Manners (A2/P1) is similar for different social skills, and explicitly a Ventrue thing: https://saligia.fandom.com/wiki/Combination_Disciplines#Impeccable_Manners_.28Auspex_.E2.80.A2.E2.80.A2.2C_Presence_.E2.80.A2.29
 			-The overlap of these two isn't clear. Could be entire, or they might allow a different range of things each.
-		-Rescue Beacon (Fortitude 1 and Presence 4) calls your nearest ghoul if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
+		-Rescue Beacon (Fortitude 1 and Presence 4) calls your nearest ghoul (or other person who has tasted your blood!) if staked or torpid: https://saligia.fandom.com/wiki/Combination_Disciplines#Rescue_Beacon_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.E2.80.A2.E2.80.A2.29
 		-Just need Fortitude 1 to get Retaliatory Terror. Explicitly Ventrue, allows reflexive Dread
 		 Gazes if Brawl or Melee damage is taken: https://saligia.fandom.com/wiki/Combination_Disciplines#Retaliatory_Terror_.28Fortitude_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29
 		-Already qualify for Unflinching Stare-down, though only useful if combat heavy: https://saligia.fandom.com/wiki/Combination_Disciplines#Unflinching_Stare-down_.28Dominate_.E2.80.A2.2C_Presence_.E2.80.A2.E2.80.A2.29

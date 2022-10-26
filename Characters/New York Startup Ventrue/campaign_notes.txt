@@ -4305,16 +4305,17 @@ TODO:
 		 "Champion, keep this riff raff from talking to me," and then striding past the man.
 		-The stranger made a grab for her, but Mr. Nightwalker blocked him, saying sternly, "You
 		 do not touch her."
-		- In response ; draw
-		-"You don't belong here, blood sucker!" ; "Yeah, I know what you are! If I hit this button,
-		  blam! This place goes up and you're nothin' but ashes."
+		-In response, the man drew some kind of remote out of his pocket, with a single big, ominous
+		 red button on the front of it.
+		-"You don't belong here, blood sucker!" he shouted. "Yeah, I know what you are! If I hit
+		  this button, blam! This place goes up and you're nothin' but ashes."
 		 "There's no need for that! The duchess. . . just has an imperious attitude," I intervened.
 		 "Well, you have to pay the toll."
 		 Mr. Nier then broke in, staring intently at the man, and saying calmly, "Come now. Can't
 		  we all be friends here?"
 		-The guard's demeanor changed instantly, and he said, "OK, OK. You just gotta pay the toll."
 		 "And what is the toll?" I asked.
-		 "Uh. . . I got it. The memory of your first victim. From all of you."
+		 "Uh. . . I got it: the memory of your first victim. From all of you."
 		 ". . .you want a description?" Mr. Nier asked.
 		 "Just give me some object. Anything."
 		-Mr. Nier shrugged, handed him a pen, and then immediately looked confused.
@@ -4325,7 +4326,7 @@ TODO:
 		 "Uh, yeah, this should be enough. Sure."
 			-It is good to know the fae are not immune to my powers of Dominate, as Mr. Scotts's
 			 people seemed to be.
-		-He then got on a nearby stool, and drew in chalk a door, on the wall. Completing it, he
+		-He then got on a nearby stool, and drew, in chalk, a door, on the wall. Completing it, he
 		 then _opened_ the door, ushering us into the market.
 		-Inside were a series of close-packed streets, giving a generally Victorian impression, and
 		 all of them crawling with creatures I could easily label goblins, as well as. . .
@@ -4372,7 +4373,7 @@ TODO:
 		  part of what I rightfully control. But it is not Goblintown I care about. It is the Trod."
 			-I'm not sure that clarified anything. . .
 		-"Is this the only way to get there?" Mr. Nier asked. "What is this place like?"
-		 "If you spend to long there, you can go mad. From frustration, from longing. Everything
+		 "If you spend too long there, you can go mad. From frustration, from longing. Everything
 		  built there is made to be destroyed."
 		 ". . . If we risk madness, Duchess, can we freely come and go?" I asked.
 		 "You can, if you can find the way home. . ." she replied.
@@ -4534,6 +4535,8 @@ TODO:
 			-He was warned to come armed for bear, and so has armor and a big, fuck-off shotgun
 			 concealed in his trenchcoat:
 				Semi-auto Shotgun (V20 Core pg. 281, Dmg: 8, Rng. 20, Rate: 3, Cap: 6+1, Conceal T)
+			-He's also fully blood bound to me. He is almost certainly going to commit violence in
+			 my defence, after hearing the duchess's instructions.
 			-Fire on Mr. Nightwalker?
 				-The damage would be. . . regrettable.
 				-Seems like I should expect _some_ damage too, with that 8.
@@ -4547,13 +4550,13 @@ TODO:
 				 _positive_.
 			-Three-Round Burst, with it's +2 Accuracy and +1 Difficulty would be the single target
 			 option, I think.
-			-Would Majesty impact him? How?
 			-Is drawing some kind of action?
 				-Unclear from rulebook and Google, so ask Lesley.
 		-Stuff you'd like _others_ to do, if situation permits and you can suggest it to them:
 			-If Professor Brukelen returns, you'd certainly appreciate her help getting us out of
 			 there.
 			-The fae seem to thrive on emotion. Can Mr. Nier _calm_ the duchess?
+		-Oh god. What about those bomb parts or whatever they are, at Mr. Nier's feet?
 
 
 TODO:
