@@ -85,11 +85,11 @@ Merits & Flaws:
 				-Spreads the plot hooks across a couple of factions.
 		2 pt. boon owed to your sire, Reece Dooley:
 			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
-			 you very much feel indebted to your sire for your agoge (Ventrue post-Embrace training
-			 period), something your sire very much encouraged. He created you for a reason, after
-			 all. He means to see a return on his investment, and that no shame is brought to him.
-			 You, meanwhile, see the potential for much dignitas in repaying, rather than shirking,
-			 a debt you didn't exactly sign yourself up for.
+			 you very much feel indebted to your sire for your embrace and agoge (Ventrue
+			 post-Embrace training period), something your sire very much encouraged. He created
+			 you for a reason, after all. He means to see a return on his investment, and that no
+			 shame is brought to him. You, meanwhile, see the potential for much dignitas in
+			 repaying, rather than shirking, a debt you didn't exactly sign yourself up for.
 
 Freebie points: 18 (15 + 4 from Merits and Flaws)
 	7 Dominate 1
@@ -129,14 +129,16 @@ Advancement:
 	*	20 Presence 5, or sooner?
 		6  Intimidation 4 (specialty!)
 		5  Willpower 6?
+		10 Fortitude 3
 		15 Rescue Beacon (Wright knows it!)
 		4  Empathy 3
-		10 Fortitude 3
-		10 Auspex 1 (Who's blood?)
+		10 Dementation 1?
+		10 Auspex 1 (Who's blood? Nier's, for Obfuscate and Dementation too?)
 		7  Auspex 2
 		9  Impeccable Manners (Wright knows it!)
-		12 Manipulation 4 (specialty!)
+		7  Dementation 2?
 		18 Denial of Aphrodite's Kiss (Wright knows it!)
+		12 Manipulation 4 (specialty!)
 		15 Dominate 4
 		20 Dominate 5
 	-Add some more attribute and ability increases to that? Remember that going over 3 gets you a
