@@ -1,9 +1,8 @@
-Name: some maybe joke-y and definitely insulting nickname
-	-"Smiley"?
+Name: Smiley
 Clan: Nosferatu
 Nature: Survivor
 Demeanor: Survivor
-Ruleset: Revised
+Ruleset: V20
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)
@@ -28,7 +27,7 @@ Abilities: (13/9/5, max of 3)
 		Athletics: 3
 		Brawl: 5
 			Specialty: Wrestling
-		Dodge: 1
+		Subterfuge: 1
 		Intimidation: 3
 	Skills: (9 + 1 for Freebie Point spent) 
 		Animal Ken: 3
@@ -60,36 +59,36 @@ Willpower: 5 (equal to Courage)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
 Merits & Flaws: (-9 Freebie Points)
-	Bruiser (1 pt. Merit, Guide to the Camarilla pg. 73):
+	Bruiser (1 pt. Physical Merit, V20 Core pg. 480):
 		-Your appearance is terrifying. -1 difficulty on all Intimidation rolls against "those who
 		 have not demonstrated their physical superiority to you."
-	Efficient Digestion (3 pt. Merit, Core pg. 297):
+	Efficient Digestion (3 pt. Physical Merit, V20 Core pg. 480):
 		-You draw more than the usual nourishment from blood, gaining an extra point in your blood
 		 pool for every two points of blood you consume.
-	Gaping Maw (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+	Gaping Maw (2 pt. Physical Merit, Clanbook: Nosferatu pg. 71):
 		-You have an enormous mouth, easily three times the size of any human, jutting with
 		 enormous (and sharp) teeth.
 		-You can drain up to four points of blood a turn, rather than the usual 3.
-	Huge Size (4 pt. Merit, Core pg. 297):
+	Huge Size (4 pt. Physical Merit, V20 Core pg. 480):
 		-Though thin and spidery, when you unfold to your full height, your unnaturally long limbs
 		 put you at nearly seven feet tall.
 		-You have an extra Bruised health level and gain unspecified bonuses to "push objects, open
 		 barred doors, avoid being knocked down, etc."
 	Incoherent (5 pt. Flaw, Clanbook: Nosferatu pg. 74):
 		-Your twisted mouth renders you incapable of human speech.
-	Long Fingers (1 pt. Merit, Clanbook: Nosferatu pg. 70):
+	Long Fingers (1 pt. Physical Merit, Clanbook: Nosferatu pg. 70):
 		-Unnaturally long fingers give you "an extra die on any roll involving coordination or
 		 grappling". 
-	Oversized Fangs (1 pt. Merit, Clanbook: Nosferatu pg. 70):
+	Oversized Fangs (1 pt. Physical Merit, Clanbook: Nosferatu pg. 70):
 		-The enormous fangs jutting from your mouth cannot be retracted but do an additional die of
 		 damage when biting and add one die to Intimidation rolls.
-	Short Fuse (2 pt. Flaw, Core pg. 299):
+	Short Fuse (2 pt. Mental Flaw, V20 Core pg. 486):
 		-You're easily angered. Difficulties to avoid frenzy are two greater.
 		-The cages were a dog-eat-dog world, sometimes rather literally. Violent outbursts were part
 		 of staying alive, and dinner time.
-	Sleep Unseen (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+	Sleep Unseen (2 pt. Supernatural Merit, Clanbook: Nosferatu pg. 71):
 		-You can Obfuscate when you sleep, requiring one extra blood point to stay hidden for the day.
-	Tough Hide (2 pt. Merit, Clanbook: Nosferatu pg. 71):
+	Tough Hide (2 pt. Physical Merit, Clanbook: Nosferatu pg. 71):
 		-Your thick, leathery skin gives you an extra die to soak damage, except fire or sunlight.
 
 Freebie Points: 6 (15 - 9 for Merits and Flaws)
