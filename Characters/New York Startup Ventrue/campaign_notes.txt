@@ -4086,7 +4086,7 @@ TODO:
             -I ushered her into my apartment, and she, Mr. Nier, Professor Brukelen and myself sat
              down in the livingroom.
             -"I wish to talk about casting," she began, "The play requires a special talent. I had
-              my eye on some thin bloods. Further, whoever plays Cassilla will be the one who asks
+              my eye on some thin bloods. Further, whoever plays Cassilda will be the one who asks
               a boon of the man in the pallid mask. They must know what to ask for."
              "Know of any thin bloods in particular?" Mr. Nier asked.
              "Yes. Two. One called Cat. The other they call Layla. Cat is an acceptable actress,
@@ -4568,7 +4568,7 @@ TODO:
 		 Duchess Sayoshyant.
 		-At the same Mr. Hubbard interposed himself between the pair of them and I, brandishing his
 		 shotgun and yelling, "Put the fucking chalk down or I shoot!"
-		-I myself called upon the speed and majesty of the blood, detering, I hoped, any attack,
+		-I myself called upon the speed and majesty of the blood, deterring, I hoped, any attack,
 		 and began to back away, down the street.
 		-Mr. Nier, meanwhile, fumbled in the bag at his feet, pulling out one of the thermos-things,
 		 which he began to wave at a group of goblins, shouting, "Back off! Or I blow you all to
@@ -4613,7 +4613,7 @@ TODO:
 		-Mine now, I thought to myself and, as that thought crossed my mind, I was overtaken by a
 		 sudden awareness of the whole Under-bridge area, and of the flaws in the buildings
 		 surrounding us, what needed repairing.
-			-It seems this is no mere badge of office.
+			-It seems this is not only a badge of office.
 			-Its properties, from Lesley:
 				+3 to Craft rolls & +3 to your Science rolls in order to fix things.
 				You "can always find the silver path" to goblin town, and cannot lose your path
@@ -4633,7 +4633,7 @@ TODO:
 	-Our ragged and traumatized appearances gave her pause for a moment, after which she stammered
 	 out, ". . . Is everyone here?"
 	 "We're not sure where Gravel is," Mr. Nier volunteered.
-	 "And I don't think. . . the duchess will be returning," I added. "If you _do_ see her again,
+	 "And I don't think. . . the duchess will be returning," I added. "If you _do_ see her again. . .
 	  shout."
 	-That yielded an awkward silence.
 	-"Mr. Nightwalker," I eventually spoke up, "Your sire warned us something horrible would come if
@@ -4677,7 +4677,7 @@ TODO:
 		 "Permission, at least, is a matter of politics, rather than violence. And it need not be
 		  _you_ that embraces her," I corrected him.
 		 "Ah. I suppose that's true. . ." Mr. Nightwalker said.
-		-"I wish to point out on more thing," Ms. Arnautovic broke in. "Cadusis has been branded an
+		-"I wish to point out one more thing," Ms. Arnautovic broke in. "Cadusis has been branded an
 		  oathbreaker for his actions tonight. If you feel less than charitable towards him, it may
 		  be the fairy's mark at work. . ."
 		-"Aside from those details," she continued, "What next?"
@@ -4751,7 +4751,7 @@ TODO:
 		 "Very well. I suppose that makes him our Scarecrow?"
 		 "Or our Cowardly Lion!" she said, tittering.
 		 "Oh, if anyone, our Lion is Professor Brukelen," I replied, chuckling. "Come, lets find Mr.
-		  Horton and get the car.
+		  Horton and get the car."
 	-Mr. Horton drove Ms. Arnautovic and myself to a small warehouse in Hell's Kitchen.
 		-Passing through the door, I saw that the floor was inscribed with chalk diagrams and
 		 writing in scripts unknown to me. Stepping over it, I felt a. . . tingle, eliciting a
@@ -4835,7 +4835,7 @@ TODO:
 		-Looking at Mr. Nier carefully, I asked, "Did you drink of this child?"
 		 "Uh, well, we need supplies! To survive what's coming!"
 		 "I think I see. . . Come, lets return to the haven and. . . share these revelations. Ms.
-		  Arnautovic brought one of here clanmates home with her, and they can no doubt help us."
+		  Arnautovic brought one of her clanmates home with her, and they can no doubt help us."
 		 "Wait, what?!? Who?!? How do you know they can be trusted?!? Do you vouch for them?"
 		 "Of course, of course. I know her from Elysium. She's a elder in good standing of our
 		  society."
@@ -4874,13 +4874,300 @@ TODO:
 
 TODO:
 	-As time and blood permit, heal Mr. Hubbard and refresh both his and your blood pools.
-		-Have Ms. Veck schedule some "meetings" for you, for the beginning of tomorrow night?
-	-Spend XP? You have 9?
+		-Have Ms. Veck schedule some "meetings" for you, with members of your herd, for the
+		 beginning of tomorrow night?
+	-(DONE!) Spend XP? You have 9?
 		-Intimidation is next on the list, and doable for 6.
 	-How do we perform a flawless play?
 	-What do we wish for?
 	-Explore the properties of that gear.
 		-Am I _still_ aware of Under-bridge?
+			-Nope. Only while there.
+	-Oh! Your memories of Under-bridge begin to grow a bit hazy and slowly fade: https://discord.com/channels/@me/772891797726822481/1039978861787631637
+			lesley (DM) — Today at 1:04 PM
+			Your memories of underbridge are getting a little hazy (they will fade over time, but as a supernatural the mists are a tad less effective at supressing the memories)
+		-Maybe I should do something to indicate as much in the notes?
+
+
+11/9/22: On the Eve of the Apocalypse. . .
+	-Before turning in after our adventures in Under-bridge, I had Ms. Veck arrange. . . some
+	 meetings, with my herd, so I awoke on the eve of the apocalypse to several waiting calendar
+	 events.
+		-A few quick presentations and personal meetings later, I was quite full.
+		-Some of the blood I paid forward, to Mr. Hubbard, to speed the healing of his frost-bitten
+		 skin.
+	-I was on the way back to the haven, Ms. Veck driving, when the city began to descend into chaos.
+		-Scrolling through my phone, the news was filled with reports of a great beast, a "kraken"
+		 or "shark monster" in the East River.
+		-Hysteria was spreading through the city, with reports of riots already beginning.
+		-We hurried on back to the haven.
+	-There, Mr. Nier, Ms. Arnautovic, and I, all returned from feeding, began to discuss again the
+	 play.
+		-We discussed matters of casting, the caitiff again, or perhaps some among our number.
+		-Mr. Nier also volunteered his help "getting the actors in the right state of mind."
+			-I raised a qualm, though, saying, "A question for our occultists: this being ritual
+			  magic, is mindset what's critical? Or the exact details of the ritual? Working our
+			  cast into a frenzy, Mr. Nier, may help the former, but impede the latter. . ."
+			 "Yeah. . . The ritual motions and such are the important part," Mr. Nier conceded, "But,
+			  I can calm nerves too. . ."
+		-Ms. Arnautovic tried to reach our casted caitiff, but only B.O.B answered.
+			-She said he seemed to be in a spot of minor trouble, on the streets somewhere, and had
+			 to hang up, but that he'd said Cat and Layla were not with him, having "left to go
+			 somewhere."
+			-Hopefully here, I suggested, I having spoken with Cat yesterday evening, though we also
+			 discussed options for trying to find them.
+		-Help from the "Tagger" spirit also requires certain supplies. I had Ms. Veck wake up Mr.
+		 Horton, this being a all-hands-on-deck situation, and asked her to let him know I'd be
+		 sending him a shopping list shortly. She nodded and pulled out her phone.
+			-While she was talking, I conferred with the coterie, drawing up that list, of green
+			 costumes, masks, boots, and the like.
+		-That matter settled, Ms. Veck also alerted us to something on the security feed. Waiting
+		 in the building's lobby were Misses Cat and Layla, _and_, talking to them, Ms. Doyle.
+			-The caitiff were dressed in their usual fashion, but Ms. Doyle wore a red ballgown,
+			 and high-laced combat boots.
+			-Ms. Doyle also kept glancing directly at the security monitor. . .
+			-"Ms. Veck, please, collect our guests," I asked.
+			-Watching the feed as she got up to go, though, we also saw something strange outside
+			 on the street: a sewer grate materialized from seemingly nowhere, one with a
+			 distinctly. . . cartoon-y appearance.
+			-_That_ was certainly strange, and Mr. Nier wished to investigate the matter, so we
+			 three coterie members went down ourselves.
+	-Emerging from the elevator, we greeted the harpy and the caitiff.
+		-The caitiff were naturally curious why we had called them here, and Ms. Doyle was concerned
+		 we might mean to perform the play without her, a thing I reassured her "we wouldn't dream
+		 of."
+		-To the caitiff, Ms. Arnautovic took the lead in explaining that we wished to cast them in
+		 play.
+			-They were understandably confused, and protested they weren't actors.
+			-"We saw your performance at the Elysium Ms. Doyle hosted, though," Mr. Nier said, "You
+			  were great!"
+			 "You also come strongly recommended by Ms. Doyle," I added, "A thing that carries a
+			  great deal of weight."
+			-They were skeptical, and Ms. Layla became red in the face (remarkable, for kindred).
+			-Something suddenly calmed Ms. Layla, though (I suspect Mr. Nier, who was staring at
+			 her), and she then seemed receptive, saying, "Cat, we should see what they want here.
+			  We can't look any _worse_."
+			-Ms. Cat remained unreceptive, though, despite pleading and reassurances from Ms.
+			 Arnautovic.
+			-With some pressure from Ms. Doyle, though, Ms. Cat at least agreed to stay, to support
+			 her friend.
+		-As I ushered them over to the elevators, I turned to Mr. Nier and said, "The grate, Mr.
+		  Nier? Are you still planning to examine it?"
+		-He nodded, and walked out onto the street.
+		-He called me a few minutes later, saying, "There look to be goblins down there, preparing
+		  for war."
+		 "I suspected something of the sort. . . Still, even in the duchess's absence, they plan an
+		  attack? I suppose they did last iteration too, without her. . ."
+		 "What do we want to do about it?"
+		 "Do you have any options to disrupt it?"
+		 "Well. . . I could throw a pipe bomb down?"
+		 ". . . That might attract some unwelcome attention."
+		 "I could. . . I might go crazy, though. . . Hmm. . ."
+		 "Just come on back up, Mr. Nier. We'll simply keep an eye on it."
+	-Up in the haven, we discussed with Ms. Doyle the matter of a script.
+		-She pulled out several notebooks, saying, "You have my notes on the ritual, but I never
+		  finished a true script. . ."
+		-She went on to lay out several essential elements to the ritual, but said that the rest of
+		 the details of the script are up to us.
+		-Ms. Arnautovic protested she was no writer, but Mr. Nier was full of (lunatic?) confidence,
+		 and went to work scrawling in a notebook of his own, saying something about, "The man in
+		  the pallid mask is a phantom-like figure. . . We can steal from the best. . ."
+		-After a few moments of that, he also requested, "Can we get some. . . auditions? Who is to
+		  play Cassilda?"
+		 "Ms. Doyle spoke highly of Ms. Layla's singing voice. . ." I replied.
+		-With some coaching and pressure, Ms. Layla provided us a demonstration.
+			-It was awful. Her voice cracked and faltered, only a second or two in, and she looked
+			 stricken.
+			-Mr. Nier's attempts to calm and reassure her. . . did not help.
+			-Ms. Doyle, though, then stepped in and, after a short conversation, Ms. Layla delivered
+			 an enthralling rendition of a song, all that was promised and more.
+	-We also discussed the matter of what we'd be asking of this "Man in the Pallid Mask".
+		-Ms. Arnautovic and Mr. Nier thankfully seemed to know a fair number of rumored details
+		 concerning the binding and banishment of demons.
+		-Ms. Arnautovic is evidently a science fiction fan, and we settled on her general proposal
+		 with some slight refinements:
+			Law 1
+			He may not harm humanity, Shapeshifter, mage  or Kindred society, or, by inaction, allow these to come to harm.
+			Law 2
+			He may not injure a human being, a Shapehifter, mage  or Kindred or, through inaction, allow a human being, a Shapehifter or Kindred being to come to harm with the First law.
+			Law 3
+			He must obey orders given it by the three  kindred standing in this arcane circle as this wish is made except where such orders would conflict with the first  or second laws
+	-We then discussed a venue, the haven having it's limits.
+		-Ms. Doyle volunteered that, if a theater is called for, she could call in a favor, to which
+		 we all agreed she should.
+		-Pulling out a phone, she stepped away for a moment, and then, returning, said, "It is done."
+		 "Well, shall we? I'll have Ms. Veck pull my car around. Mr. Nightwalker, would you please
+		  do the same?"
+	-Ms. Doyle directed us to a place well-familiar to the coterie, the Toreador-owned theater in
+	 which we'd witnessed Ms. Doyle's version of the play in a previous iteration.
+	-There, we set about setting up the play.
+		-Ms. Doyle seemed to know quite a bit about what was available in the theater's storage.
+		-We were also eventually joined by a number of Mr. Nier's swivel-eyed acquaintences, his
+		 cult, who he had evidently summoned and who he proposed using as a chorus. . .
+		-Mr. Horton too soon arrived, with our requested supplies, including some of his own
+		 additions, bags of firearms shared with Mr. Corelli and his men, working security at the
+		 door.
+			-"It's getting crazy out there, boss. . ."
+			 "Good instinct, Mr. Horton. And, you have my thanks. What's going on here is a great
+			  deal more important than it may seem."
+	-Those on stage then began the play, but, only a scant few moments in, the whole building shook,
+	 and we heard the deafening sound of an explosion.
+		-I, along with the rest of the theater, turned to look at the building's entrance, where
+		 one of Mr. Corelli's men was shouting, "There's people coming! Shit! Are those _zombies_?!?"
+	-I got up and rushed toward the theater's entrance, only to stop suddenly, as I noticed we'd
+	 joined by a guest.
+		-Sitting in one of the theater's boxes, there was a familiar man, Mr. Nier's blonde stranger,
+		 who he'd turned his isotopes over to.
+		-Next to him, leaning against the wall, was a spear wrapped in a flag.
+		-Returning from the theater's entrance, I approached the "man" in his box, asking, "Have
+		  you come to witness our performance?"
+		 "I believe this may help you in your performance," he said, gesturing to the spear, and
+		 then getting up and turning to leave the box, disappearing into the theater's halls.
+		-I looked about, wishing one of our occultists were about and not on stage, but, biting, I
+		 leaned into the box, retrieving the spear.
+		-Unfurling the flag a bit, it looked like an medieval war banner, and bore a star-like 
+		 device on a field of red.
+		-As I did unfurl it, a felt a feeling of power and grace wash over me. The stranger's offer
+		 did indeed seem genuine.
+		-Showing the banner to those on stage, I said, "Perhaps a prop for one of our actresses?"
+		 "Hand it to me, if you please," Ms. Arnautovic said.
+		-I complied, and then walked back to a seat in the audience.
+	-The play then resumed, after the interruption, quickly moving on to Ms. Layla's solo.
+		-It was a stirring performance, and Ms. Arnautovic followed it with one of her own, speaking
+		 her lines concerning the removal of masks, to Mr. Nier's protest that he wore no mask.
+		-Mr. Nier then began to convulse, his body shedding a sickly yellow light.
+		-His body too began to stretch and convulse, growing taller, and his face indeed no longer wore
+		 a mask, but had instead twisted into a noseless, pallid visage.
+		-He then spoke in a terrible voice, asking Ms. Arnautovic, "Camilla, I have already said I will
+		 return. What more must I do to prove I love you?"
+		-In response, with only the barest hesitency in the beginning, Ms. Arnautovic recited the
+		 binding we'd formulated for the demon vexing us.
+		-Agreeing, the being that was Mr. Nier turned to go, walking toward the wall behind the stage,
+		 or what _was_ the wall behind the stage, as it now appeared to instead open onto a full-moon
+		 night, the moon flanked by great pillars.
+		-The creature strode towards this landscape, Mr. Nier's body slamming into the apparently-still-
+		 there wall while the image of what must clearly be The Man in the Pallid Mask strode off into
+		 the stary night.
+		-Several of Mr. Nier's cultists rushed to him, pulling his limp form upright and dragging him
+		 over to Ms. Arnautovic and I at her instruction.
+	-The next thing I knew, I was in the shared haven, awakening from rest. . .
+		-In a now uncomfortably familiar ritual, I frantically grabbed at my phone, checking the
+		 date on it. It was _the following evening_!
+		-Poking further through the news, many events I recalled from the previous evening were not
+		 in evidence. No reports of sea monsters or angels existed, and the city was free of goblin
+		 riots or the like.
+		-Investigating further over the next few hours, we found many things we recalled undone,
+		 the earthbound's influence removed.
+		-Only the coterie, those members of Clan Tremere (who had warded themselves at Ms.
+		 Arnautovic's instruction), and Ariel (who benefitted from the same wards) recall the
+		 previous version of things.
+			-Primogen Wright was surprised to find his friend Ms. May in custody of Clan Tremere,
+			 and an accused traitor and demon-servant, claiming he'd never known her to commit a
+			 dishonerable act.
+	-We then had three months of downtime.
+		-Over the course of that, we each encountered many instances where we confused people,
+		 seemingly confused ourselves, as things we remembered were not in the end so.
+		-In particular, Mr. Scotts's people ended up proving quite helpful to the Camarilla and its
+		 court, but also don't seem to understand why they're being so helpful. . .
+		-Also included among new Elysium regulars is Professor Brukelen's roommate, Ms. Ariel, who
+		 now comes to most of them.
+			-She now seems rather chummy with the Tremere.
+		-One evening during those months, I was walking down the street when a disturbing sight
+		 caught my eye. In a nearby shop window, I spotted the spider-coin (a _spider-coin_?) in a
+		 pawn shop's window
+			-I immediately snapped a picture and texted it along the location to my coterie.
+			-As I watched, a small, hunchbacked, Middle-Eastern man walked into view. Clearly, he'd
+			 been injured terribly at some point, as his skin was scarred and covered in patches
+			 suggestive of grafts.
+			-The man pointed at the coin, clearly speaking with the proprietor, who removed it from
+			 it's case and handed it to the man. The man glanced at it, reached into his coat, pulled
+			 out a gun and shot the shopkeeper.
+			-As people on the street around me screamed and fled, I saw the man emerge from the
+			 shop. I followed him down an alley, turning the corner in time to see him descending
+			 into a sewer.
+			-I rushed forward and, looking into the open sewer, the gear I still wore on a chain
+			 about my neck grew warm. Inside, I could see a scarred green goblin. He grimaced at me
+			 and quickly ran from my sight, but not before I saw that he wore the familiar sigil of
+			 House Baelor.
+				-I've not seen Ms. Barron or the duchess since their demise in Under-bridge, despite
+				 what _had_ been undone since the play.
+		-During this time I was also called in for a meeting of The Board.
+			-Arriving at Primogen Wright's tower, I was ushered up to a suite where several of his
+			 ghouls had me strip and I was given a simple white robe to wear.
+			-I was then led to the penthouse suite, and, within it, to the swimming pool.
+			-The pool had been drained and, scattered around it's edges, there were both elders of
+			 Clan Ventrue, dressed much as I was, and dead bulls. They were draining the blood of
+			 the bulls into the pool.
+			-Among them was Primogen Wright, who greeted me and then said, "I have spoken with your
+			  coterie and others of our city. In the recent events, you have very much proven
+			  yourself, and served this clan and sect with distinction. As such, it has been decided
+			  that you are to be named Strategos for New York."
+			 "It is a great and grave distinction to be named so, Primogen. You do me a great honor."
+				-In NYC, within Clan Ventrue, you are considered to be the guiding hand of the clan.
+				-However, you may not, as Strategos hold position within the Camarilla. While
+				 Strategos, you will not be prince. But, if the prince is Ventrue, you are set
+				 above them.
+				-Clanbook Ventrue and this both further detail the position: https://whitewolf.fandom.com/wiki/Strategoi
+				-You answer to the Ephorate, often called the Directorate in modern nights.
+					-Nominally the twelve oldest Ventrue, many are a bit on the younger side than
+					 that might imply, due both to the destruction of many elders in recent
+					 centuries and to some of the survivors not wanting the target on their back.
+				-Below you, there are the Lictors, the field operatives of the Strategoi.
+					-Usually younger, in New York, many are unusually old.
+					-Clanbook Ventrue and this both further detail the position: https://whitewolf.fandom.com/wiki/Lictor
+				-Wright was your predecessor in this role. He's effectively retiring, though he'll
+				 be sticking around a long while, to guide me as I get used to my new role.
+			-That pronouncement was followed by a ceremony, a baptism in the bulls' blood and the 
+			 taking of a new honor-name (usually the name of a Roman emperor, though, prior to the
+			 nights of Rome, they were typically Vedic names).
+		-Ms. Arnautovic also seemed to have received similar honors among her clan. She is now
+		 often away, and appears to have many members of her clan now reporting to her.
+			-She also took a moment to pull me aside, saying that she had spoken with my grandsire
+			 about what transpired during the loops, in the course of returning the relic he'd lent
+			 her, offering nothing but the utmost praise where I was concerned. In return, I offered
+			 her my deepfelt thanks.
+			-We also renewed our discussions of that blood businesss, to turn our guest haven into
+			 a true bed and breakfast, now that changes to the world around us were likely to persist.
+
+
+TODO:
+	-Spend XP! You now have 51!
+		-Politics?
+			4  Politics 3
+			6  Politics 4 (Camarilla specialty!)
+		-Leadership?
+			6  Leadership 4 (Oratory specialty)
+		-Talk with Mr. Nier, and perhaps Primogen Wright?
+			10 Dementation 1?
+			10 Auspex 1 (Who's blood? Nier's, for Obfuscate and Dementation too?)
+			7  Auspex 2
+			9  Impeccable Manners (Wright knows it!)
+		-Other Wright-taught combos? What would the non-XP cost be?
+		-Willpower? Fortitude?
+	-Add a 2 pt. Supernatural Ally, Agent Cladwell.
+		-Hmm. . . where? Backgrounds is full already, and that's an awkward place to put the name
+		 anyways.
+	-Look into ownership of the building the haven is in.
+		-Probably _somewhat_ sorted, given the where we got the haven from, but maybe more could be
+		 done.
+		-Can you buy the building with your new-found (greater) wealth?
+			-Or, at least and more likely (since you'd do it even if you could afford it outright),
+			 purchase it as the majority shareholder among a coalition of other investors?
+			-Pointing at your recent stroke of "financial genius" would even be a decent way to
+			 attract other investors, beyond your more. . . heavy-handed tools.
+		-If you gain further control of the building, and maybe even if not, move some of your
+		 companies into space there?
+			-The easy access to blood would be huge, and there are other synergies to be had.
+		-I did so! I secured the deed.
+		-Flesh out what you're doing with this further!
+	-Similarly flesh out that blood business with Ms. Arnautovic?
+	-Look below (search "Resources 6") 
+	-_Only_ the Strategoi know who the Ephorate are. That's a privilege I should explore the
+	 implications, given it's international scope and potentially revelatory nature. . .
+	-Figure out that honor-name you're taking as Strategos.
+		-Trajan is obvious, but a good fit: https://en.wikipedia.org/wiki/Trajan
+			-Associations with expansion of the empire and public building are both good fits for
+			 a rising Camarilla NYC.
 
 
 TODO:
@@ -4936,12 +5223,6 @@ TODO:
 		-About moving against Ms. Fadel.
 		-Ask Primogen Wright for some signal, should we have another dream-skip?
 			-Given that he's familiar with these things, and assisting us in the matter.
-	-Exploit the time loop for market profits.
-		-I set Ms. Veck to watching for remembered movements when first I woke up.
-		-Talked about it again in Discord here: https://discord.com/channels/930231429286207539/930231429286207542/1009868500896059462
-		-The length and timing of the loop:
-			lesley (DM) — Today at 11:59 AM
-			it all takes place in the span of a week i believe in early july
     -Have Ms. Arnautovic preserve some blood for me?
         -She now seems to have the ritual necessary, and expressed interest in some joint venture.
         -Our currently. . . non-linear circumstances limit it's potential, but it can still benefit
@@ -4970,6 +5251,8 @@ TODO:
          to the city, who might naturally face difficulties finding sustenance in an unfamiliar
          city and appreciate provisions.
             -They've also already placed great trust in us, sleeping in our care.
+	-The ritual from The Yellow Sign could be used again, by another requester.
+	-There's also the (even more dangerous) matter of the demon bound to our service. . .
 
 
 The Coterie:
@@ -5131,3 +5414,9 @@ TODONE:
 			"Oh, and Mr. Nielsen has also asked me to do the usual evaluation of the floor's fire suppression systems, doing what I can to improve them myself. If something more extensive is required, we'll see about finding some discrete contractors, but we'll avoid that if we can."
 	-Follow up on the missing caitiff, Ms. Cat's friend.
 	-Research Mastodon Pharmaceuticals.
+	-Exploit the time loop for market profits.
+		-I set Ms. Veck to watching for remembered movements when first I woke up.
+		-Talked about it again in Discord here: https://discord.com/channels/930231429286207539/930231429286207542/1009868500896059462
+		-The length and timing of the loop:
+			lesley (DM) — Today at 11:59 AM
+			it all takes place in the span of a week i believe in early july

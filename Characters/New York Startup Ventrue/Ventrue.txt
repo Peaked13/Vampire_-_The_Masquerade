@@ -127,7 +127,7 @@ Advancement:
 	*	5  Fortitude 2
 	*	2  Politics 2
 	*	20 Presence 5, or sooner?
-		6  Intimidation 4 (specialty!)
+	*	6  Intimidation 4 (specialty!)
 		5  Willpower 6?
 		10 Fortitude 3
 		15 Rescue Beacon (Wright knows it!)
