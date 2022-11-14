@@ -5144,6 +5144,16 @@ TODO:
 			9  Impeccable Manners (Wright knows it!)
 		-Other Wright-taught combos? What would the non-XP cost be?
 		-Willpower? Fortitude?
+		-Proposal:
+			4  Politics 3
+			6  Politics 4 (Camarilla specialty!)
+			10 Dementation 1?
+			10 Auspex 1 (Who's blood? Nier's, for Obfuscate and Dementation too?)
+			7  Auspex 2
+			9  Impeccable Manners (Wright knows it!)?
+			5  Willpower 6
+			--
+			51
 	-Add a 2 pt. Supernatural Ally, Agent Cladwell.
 		-Hmm. . . where? Backgrounds is full already, and that's an awkward place to put the name
 		 anyways.
@@ -5168,6 +5178,8 @@ TODO:
 		-Trajan is obvious, but a good fit: https://en.wikipedia.org/wiki/Trajan
 			-Associations with expansion of the empire and public building are both good fits for
 			 a rising Camarilla NYC.
+	-Oh! There's also that spear-and-banner: https://discord.com/channels/930231429286207539/930231429286207542/1040120699886510091
+		-Make sure to record it's properties and existence somewhere you'll remember it.
 
 
 TODO:
