@@ -4917,7 +4917,7 @@ TODO:
 			-Hopefully here, I suggested, I having spoken with Cat yesterday evening, though we also
 			 discussed options for trying to find them.
 		-Help from the "Tagger" spirit also requires certain supplies. I had Ms. Veck wake up Mr.
-		 Horton, this being a all-hands-on-deck situation, and asked her to let him know I'd be
+		 Horton, this being an all-hands-on-deck situation, and asked her to let him know I'd be
 		 sending him a shopping list shortly. She nodded and pulled out her phone.
 			-While she was talking, I conferred with the coterie, drawing up that list, of green
 			 costumes, masks, boots, and the like.
@@ -4987,11 +4987,14 @@ TODO:
 		-Ms. Arnautovic is evidently a science fiction fan, and we settled on her general proposal
 		 with some slight refinements:
 			Law 1
-			He may not harm humanity, Shapeshifter, mage  or Kindred society, or, by inaction, allow these to come to harm.
+			He may not harm humanity, Shapeshifter, mage  or Kindred society, or, by inaction,
+			allow these to come to harm.
 			Law 2
-			He may not injure a human being, a Shapehifter, mage  or Kindred or, through inaction, allow a human being, a Shapehifter or Kindred being to come to harm with the First law.
+			He may not injure a human being, a Shapehifter, mage  or Kindred or, through inaction,
+			allow a human being, a Shapehifter or Kindred being to come to harm with the First law.
 			Law 3
-			He must obey orders given it by the three  kindred standing in this arcane circle as this wish is made except where such orders would conflict with the first  or second laws
+			He must obey orders given it by the three  kindred standing in this arcane circle as
+			this wish is made except where such orders would conflict with the first or second laws.
 	-We then discussed a venue, the haven having it's limits.
 		-Ms. Doyle volunteered that, if a theater is called for, she could call in a favor, to which
 		 we all agreed she should.
@@ -5023,7 +5026,7 @@ TODO:
 		  you come to witness our performance?"
 		 "I believe this may help you in your performance," he said, gesturing to the spear, and
 		 then getting up and turning to leave the box, disappearing into the theater's halls.
-		-I looked about, wishing one of our occultists were about and not on stage, but, biting, I
+		-I looked about, wishing one of our occultists were here and not on stage, but, biting, I
 		 leaned into the box, retrieving the spear.
 		-Unfurling the flag a bit, it looked like an medieval war banner, and bore a star-like 
 		 device on a field of red.
@@ -5059,14 +5062,14 @@ TODO:
 		-Investigating further over the next few hours, we found many things we recalled undone,
 		 the earthbound's influence removed.
 		-Only the coterie, those members of Clan Tremere (who had warded themselves at Ms.
-		 Arnautovic's instruction), and Ariel (who benefitted from the same wards) recall the
+		 Arnautovic's instruction), and Ariel (who benefitted from the same wards) recalled the
 		 previous version of things.
 			-Primogen Wright was surprised to find his friend Ms. May in custody of Clan Tremere,
 			 and an accused traitor and demon-servant, claiming he'd never known her to commit a
 			 dishonerable act.
 	-We then had three months of downtime.
 		-Over the course of that, we each encountered many instances where we confused people,
-		 seemingly confused ourselves, as things we remembered were not in the end so.
+		 seeming confused ourselves, as things we remembered were not in the end so.
 		-In particular, Mr. Scotts's people ended up proving quite helpful to the Camarilla and its
 		 court, but also don't seem to understand why they're being so helpful. . .
 		-Also included among new Elysium regulars is Professor Brukelen's roommate, Ms. Ariel, who
@@ -5131,7 +5134,7 @@ TODO:
 
 
 TODO:
-	-Spend XP! You now have 51!
+	-(DONE!) Spend XP! You now have 51!
 		-Politics?
 			4  Politics 3
 			6  Politics 4 (Camarilla specialty!)
@@ -5142,6 +5145,7 @@ TODO:
 			10 Auspex 1 (Who's blood? Nier's, for Obfuscate and Dementation too?)
 			7  Auspex 2
 			9  Impeccable Manners (Wright knows it!)
+		-Jake signed off on Mr. Nier's tutelage in exchange for wiping away his debt to me: https://discord.com/channels/@me/899005792487895051/1044455755291557988
 		-Other Wright-taught combos? What would the non-XP cost be?
 		-Willpower? Fortitude?
 		-Proposal:
@@ -5154,37 +5158,71 @@ TODO:
 			5  Willpower 6
 			--
 			51
-	-Add a 2 pt. Supernatural Ally, Agent Cladwell.
+	-(DONE!) Add a 2 pt. Supernatural Ally, Agent Caldwell.
 		-Hmm. . . where? Backgrounds is full already, and that's an awkward place to put the name
 		 anyways.
-	-Look into ownership of the building the haven is in.
-		-Probably _somewhat_ sorted, given the where we got the haven from, but maybe more could be
-		 done.
-		-Can you buy the building with your new-found (greater) wealth?
-			-Or, at least and more likely (since you'd do it even if you could afford it outright),
-			 purchase it as the majority shareholder among a coalition of other investors?
-			-Pointing at your recent stroke of "financial genius" would even be a decent way to
-			 attract other investors, beyond your more. . . heavy-handed tools.
-		-If you gain further control of the building, and maybe even if not, move some of your
-		 companies into space there?
-			-The easy access to blood would be huge, and there are other synergies to be had.
-		-I did so! I secured the deed.
-		-Flesh out what you're doing with this further!
+		-Ah! Looks like Backgrounds has it's own tab in the sheet, which should allow an unlimited
+		 number, and offers a description box. Add this one there, and transfer the existing ones.
 	-Similarly flesh out that blood business with Ms. Arnautovic?
-	-Look below (search "Resources 6") 
+	-Look below (search "Resources 6").
 	-_Only_ the Strategoi know who the Ephorate are. That's a privilege I should explore the
-	 implications, given it's international scope and potentially revelatory nature. . .
-	-Figure out that honor-name you're taking as Strategos.
+	 implications of, given it's international scope and potentially revelatory nature. . .
+	-(DONE!) Figure out that honor-name you're taking as Strategos.
 		-Trajan is obvious, but a good fit: https://en.wikipedia.org/wiki/Trajan
 			-Associations with expansion of the empire and public building are both good fits for
 			 a rising Camarilla NYC.
+		-Yeah, lets go with Trajan. I let Lesley know: https://discord.com/channels/@me/772891797726822481/1045104395886534796
+		-Ah, lol, apparently Trajan is a Nosferatu still active in Rome!
+		-Lets see if I can come up with something better by the time it becomes relevant, I suppose.
+			-What about Claudius: https://en.wikipedia.org/wiki/Claudius
+				-He has similar associations with expansion and building.
 	-Oh! There's also that spear-and-banner: https://discord.com/channels/930231429286207539/930231429286207542/1040120699886510091
 		-Make sure to record it's properties and existence somewhere you'll remember it.
+		-Fuck it. Here:
+			Pennen
+			Exalt: The power of the Namaru's commanding voice is enough to instill hope in the weakest of hearts, spurring mortals to put aside their fears and steal triumph from the jaws of defeat.
+			System: Roll Willpower. Each success is a bonus Successes that the target may add to a single dice pool for that turn. The demon may affect a number of mortals (including thralls) up to her willpower rating. Each individual benefits from the full amount of bonus successes. Demons cannot be affected by this evocation
+
+
+11/23/22:
+	-Mostly a setup session, this time.
+	-The Anarchs are alleging that the Camarilla are losing control of New York.
+		-They're largely located in the Bronx, and are dominated by the Brujah.
+		-To date, they'd been mostly on good terms with the Camarilla of the city, following the
+		 sect's laws, if not taking orders from it's elders.
+		-The recent past, though, has seen them leveling charges of widespread infernalism in the
+		 city (something I know a thing or two about. . .) and failures to keep the Sabbat in check.
+			-The Sabbat are said to be spreading from their holdings on Staten Island in recent
+			 nights.
+	-Ms. Arnautovic has been elevated to head a chantry of her own.
+		-It's caused some substantial disruption and chaos in Clan Tremere, with only Aisling
+		 Sturbridge, High Regent of the Chantry of the Five Boroughs, appearing comfortable with
+		 the situation.
+	-There is also a growing Assamite presence in the city.
+		-Once thought to number only 10, the most prominent of them was the Vizier Samira.
+		-She has lately been bringing in shipping containers full of her clanmates, who has
+		 established control over a portion of Red Hook.
+		-The Ventrue now believe them to number 70 or 80, making them one of the most numerous
+		 clans in the city.
+		-Samira has been negotiating with The Camarilla, though, with her aim apparently being to
+		 join The Camarilla.
+		-In the very recent past, she's become quite a bit more accommadating, accepting greater and
+		 greater requests made by The Ventrue to facilitate the membership of her Assamites.
+	-The Anarch Baron of the Bronx, a Brujah named Simon, has been working with The Ventrue to
+	 prevent the city from descending into chaos.
+		-The Brujah of the city are organized much like mafia families, with the Anarchs and the
+		 Brujah of the Camarilla maintaining separate organizations, albeit ones on good terms with
+		 one another.
+		-There are rumors, though, that the two organizations are seeking to unify in some manner. . .
 
 
 TODO:
-	-Time to look into combo disciplines?
-		-Oh god. . . for boons? Given the spider-dream. . .
+	-Claudius, as your honor-name?
+		-Search for is name in the TODOs before the session just above.
+
+
+TODO:
+	-Time to look into combo disciplines?.
 		-Talked briefly with Lesley and Primogen Wright is known to know several.
 			-You can see them in Roll20, on his handout. He has Impeccable Manners, Lifesong, Rescue
 			 Beacon, and Denial Of Aphrodite's Kiss.
@@ -5200,28 +5238,24 @@ TODO:
 			-Security, in particular.
 			-_More_ havens?
 		-More herd? They're employees, after all.
-	-Look into Mr. Nier's "biker with a journal".
-		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
-		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
-		 situation.
-	-What do we do abour Ms. Barron?
-		-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
-		-As a fairy, she's a nightmare, and seemingly. . . no longer Ms. Barron.
-		-Ms. May may ultimately have had the right of it, with her embrace.
-			-As a kindred, though depressed, she was a lot more herself (and less of an asshole),
-			 and it's surely preferable to dead-dead (certainly in Mr. Nightwalker's eyes).
-			-Perhaps, though, a different sire?
-				-I got the impression from the prince that more Gangrel was _particularly_ touchy,
-				 politically.
-				-The fourth Tradition, The Accounting, might make that risky for the sire, though.
+	-Look into ownership of the building the haven is in.
+		-Probably _somewhat_ sorted, given the where we got the haven from, but maybe more could be
+		 done.
+		-Can you buy the building with your new-found (greater) wealth?
+			-Or, at least and more likely (since you'd do it even if you could afford it outright),
+			 purchase it as the majority shareholder among a coalition of other investors?
+			-Pointing at your recent stroke of "financial genius" would even be a decent way to
+			 attract other investors, beyond your more. . . heavy-handed tools.
+		-If you gain further control of the building, and maybe even if not, move some of your
+		 companies into space there?
+			-The easy access to blood would be huge, and there are other synergies to be had.
+		-I did so! I secured the deed.
+		-Flesh out what you're doing with this further!
 	-Follow up on the traitorous Ms. Fadel.
 		-Politically and. . . more directly.
 		-Sounds like I might be doing that for a bit off camera, during a rescheduled session I had
 		 to miss: https://discord.com/channels/930231429286207539/930231429286207542/1006273772153737316
-	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
-		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
 	-Follow up on our relationship with Agent Caldwell and her fellows?
-		-I wish I'd spoken more with Primogen Wright about the subject at our last meeting.
 	-Figure out who Mr. Nier gave that radioactive material to, the blonde man.
 	-Who is "Conrad Carter", who Ms. May mentioned?
 	-Speak more with Primogen Wright:
@@ -5372,16 +5406,9 @@ Boons owed to you:
 			-You can probably still argue you're owed this, despite it being a spider-dream. You
 			 both remember it, and the fact of it being later magically undone doesn't change the
 			 risk I took.
-	-Ms. Ashley Barron, of Clan Gangrel: 
-		-Life boon: You intervened with Prince Panhard, indebting yourself to her, to save Ms.
-					Barron's (un)life.
-			-Or maybe not? That was a spider-dream. Does _she_ remember?
-                -And, if so, would _Duchess Sayoshyant_ honor it?
 	-Professor Brukelen, of Clan Nosferatu:
 		-Minor boon: You taught her Fortitude.
 			-She asked that the boon not be traded to another Kindred, which you assented to: https://discord.com/channels/930231429286207539/930231429286207542/999641547207348375
-	-Mr. Nier, of Clan Malkavian:
-		-Minor boon: You taught him Fortitude.
 
 Boons owed: 
 	-Primogen Morgan Durley, of Clan Tremere:
@@ -5393,6 +5420,8 @@ Boons owed:
 		-2 pt. boon:
 			-For the introduction that made the above boon possible, and his assistance in winning
 			 a favorable deal there.
+		-Minor boon:
+			-For teaching you Impeccable Manners.
 	-Mr. Reece Dooley, your sire:
 		-2 pt. boon:
 			-Though the Kindred of your city and Clan very much hold him responsible for his childe,
@@ -5432,3 +5461,22 @@ TODONE:
 		-The length and timing of the loop:
 			lesley (DM) — Today at 11:59 AM
 			it all takes place in the span of a week i believe in early july
+
+
+TODON'T:
+	-Look into Mr. Nier's "biker with a journal".
+		-Suggested he and Professor Brukelen dive into the subject here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
+		-Given the symbols the journal contained, there may be some relevance to Ms. Barron's
+		 situation.
+	-What do we do abour Ms. Barron?
+		-_Who_ gets Ms. Barron, if she dies? Ms. May mentioned something about that. . .
+		-As a fairy, she's a nightmare, and seemingly. . . no longer Ms. Barron.
+		-Ms. May may ultimately have had the right of it, with her embrace.
+			-As a kindred, though depressed, she was a lot more herself (and less of an asshole),
+			 and it's surely preferable to dead-dead (certainly in Mr. Nightwalker's eyes).
+			-Perhaps, though, a different sire?
+				-I got the impression from the prince that more Gangrel was _particularly_ touchy,
+				 politically.
+				-The fourth Tradition, The Accounting, might make that risky for the sire, though.
+	-Ask Professor Brukelen and Ms. Arnautovic what this sons and daughters stuff is about.
+		-Asked about it here: https://discord.com/channels/930231429286207539/933428895863160913/1000162629752463420
