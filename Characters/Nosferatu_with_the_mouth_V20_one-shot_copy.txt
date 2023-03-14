@@ -28,7 +28,8 @@ Abilities: (13/9/5, max of 3)
 		Brawl: 5
 			Specialty: Wrestling
 		Subterfuge: 1
-		Intimidation: 3
+		Intimidation: 4
+			Specialty: Physical Coercion
 	Skills: (9 + 1 for Freebie Point spent) 
 		Animal Ken: 3
 		Stealth: 4
@@ -43,7 +44,7 @@ Abilities: (13/9/5, max of 3)
 
 Disciplines: (3)
 	Obfuscate: 2
-	Potence: 1
+	Potence: 2
 
 Backgrounds: (5)
 	Generation: 5
@@ -54,7 +55,7 @@ Virtues: (7 above base of 1 in each)
 	Conscience: 1
 	Self-Control: 4
 	Courage: 5
-	
+
 Willpower: 5 (equal to Courage)
 Blood Pool: (roll a d10 for start of game, max is based on generation)
 
@@ -85,7 +86,7 @@ Merits & Flaws: (-9 Freebie Points)
 	Short Fuse (2 pt. Mental Flaw, V20 Core pg. 486):
 		-You're easily angered. Difficulties to avoid frenzy are two greater.
 		-The cages were a dog-eat-dog world, sometimes rather literally. Violent outbursts were part
-		 of staying alive, and dinner time.
+		 of staying alive. . . and of dinner time.
 	Sleep Unseen (2 pt. Supernatural Merit, Clanbook: Nosferatu pg. 71):
 		-You can Obfuscate when you sleep, requiring one extra blood point to stay hidden for the day.
 	Tough Hide (2 pt. Physical Merit, Clanbook: Nosferatu pg. 71):
@@ -94,7 +95,6 @@ Merits & Flaws: (-9 Freebie Points)
 Freebie Points: 6 (15 - 9 for Merits and Flaws)
 	4	Brawl 4 & 5
 	2	Stealth 4
-	
 
 Character Description and Background:
 	-Appearance:
@@ -133,6 +133,10 @@ Character Description and Background:
 Equipment (stuff to start with or obtain):
 	
 
+XP: 1 available
+	5	Potence 2
+	6	Intimidation 4
+
 Advancement:
 	-Tentative schedule:
 		
@@ -143,3 +147,5 @@ Advancement:
 			-Auspex would also be very interesting.
 			-Serpentis would be very complementary, especially the third rank.
 	-Plenty of your abilities would be worth improving, as would your physical attributes.
+	-This turned into more than a one-shot, so you have 12 XP to spend before the second session.
+		-
