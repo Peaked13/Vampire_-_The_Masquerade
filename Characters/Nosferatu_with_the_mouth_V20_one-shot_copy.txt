@@ -50,7 +50,7 @@ Backgrounds: (5)
 	Generation: 5
 		-Eighth generation: 15 blood pool, can spend 3 blood per turn.
 
-Humanity Rating: 5 (Conscience + Self-Control)
+Humanity Rating: 4 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
 	Conscience: 1
 	Self-Control: 4
@@ -133,9 +133,17 @@ Character Description and Background:
 Equipment (stuff to start with or obtain):
 	
 
-XP: 1 available
+XP: 7 available
+Spent:
 	5	Potence 2
 	6	Intimidation 4
+	
+	Possible:
+		3	Expression 1
+		2	Expression 2
+		3	Survival 1
+		2	Survival 2
+		4	Intelligence 2
 
 Advancement:
 	-Tentative schedule:
@@ -147,5 +155,3 @@ Advancement:
 			-Auspex would also be very interesting.
 			-Serpentis would be very complementary, especially the third rank.
 	-Plenty of your abilities would be worth improving, as would your physical attributes.
-	-This turned into more than a one-shot, so you have 12 XP to spend before the second session.
-		-
