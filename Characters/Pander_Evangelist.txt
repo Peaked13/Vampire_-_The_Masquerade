@@ -1,6 +1,6 @@
 Name: 
 Clan: Pander
-Nature: Fanatic (about the Sababt)
+Nature: Fanatic (about the Sabbabt)
 Demeanor: Visionary
 Ruleset: Revised
 

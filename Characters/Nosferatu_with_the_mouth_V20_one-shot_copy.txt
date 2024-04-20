@@ -138,12 +138,15 @@ Spent:
 	5	Potence 2
 	6	Intimidation 4
 	
-	Possible:
+	Possiblly attractive for the near future:
 		3	Expression 1
 		2	Expression 2
 		3	Survival 1
 		2	Survival 2
 		4	Intelligence 2
+		8	Humanity 5
+		10	Potence 3
+		10	New Discipline
 
 Advancement:
 	-Tentative schedule:
@@ -152,6 +155,6 @@ Advancement:
 		-More Potence is very much what you're about.
 		-Other than that, I guess it depends on who you eat and what Disciplines they had. . .
 			-You'd particularly benefit from Celerity.
-			-Auspex would also be very interesting.
+			-Auspex would also be very interesting, for the 1st and (very long term) 4th ranks.
 			-Serpentis would be very complementary, especially the third rank.
 	-Plenty of your abilities would be worth improving, as would your physical attributes.

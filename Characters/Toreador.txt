@@ -135,7 +135,7 @@ Advancement:
 		 of the vampiric condition.
 			-You clearly share a bit of the Tremere approach to vampirisim, at least that of the
 			 first Tremere, anyways, albeit with a more modern approach to exploring.
-			-Paths like Biothamaturgy or The Green Path would excite you to no end.
+			-Paths like Biothaumaturgy or The Green Path would excite you to no end.
 		-Similarly, the potential applications of Vicisstude are. . . fascinating.
 	-Tentative schedule:
 		
