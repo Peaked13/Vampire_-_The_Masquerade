@@ -96,7 +96,7 @@ Merits & Flaws: (-7 Freebie Points)
 		 bond or bond step.
 		-Perhaps you're two steps bonded to your sire, and one step to his rival?
 	Rival Sires (2 pt. Flaw, Guide to the Camarilla pg. 78):
-		-Someone else wante dto embrace you too, and now is pissed at you, your sire, or both of
+		-Someone else wanted to embrace you too, and now is pissed at you, your sire, or both of
 		 you. They're at +2 difficulty vs. frenzy when you're around, and may work against you.
 		-This does seem to be a thing with the way Giovanni elders determine who embraces who when.
 
@@ -135,4 +135,5 @@ Advancement:
 		 the first two dots.
 		-The Sepulchre Path 4 will enable you to participate directly in the family's great project,
 		 and to contribute souls to the tithing.
+		-The Cenotaph Path also seems attractive.
 	-More Auspex also clearly contribute helps you as a seeker, especially dots 2 and 3.
