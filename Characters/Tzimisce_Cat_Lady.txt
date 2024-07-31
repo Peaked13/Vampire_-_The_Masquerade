@@ -39,7 +39,7 @@ Abilities: (13/9/5, max of 3)
 		Academics: 1
 		Koldunism: 2
 		Linguistics: 1
-			-Polish, your long dead parent's first language.
+			-Polish, your long dead parents' first language.
 		Occult: 1
 
 Disciplines: (4)
@@ -112,7 +112,7 @@ Character Description and Background:
 	 your embrace was a funny joke (and never called you anything by "gran'ma vampire").
 	-On the other hand, a life time of experience with church social events, and the backbiting
 	 vipers that rule them, prepared you surprisingly well for some aspects of The Sabbat.
-		-You now have a circle of  "ladies" you have by for "tea".
+		-You now have a circle of "ladies" you have by for "tea".
 		-One of them took a particular liking to you, and you to her, especially after she adopted
 		 several of your darling cats. She's your mentor.
 			-She taught you a thing or two about "witchcraft" when you complained about some
