@@ -70,3 +70,6 @@ Advancement:
 	-Tentative schedule:
 		
 	-
+
+Character Design Notes:
+	-

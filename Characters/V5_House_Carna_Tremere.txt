@@ -19,24 +19,44 @@ Attributes: (1@4, 3@3, 4@2, 1@1)
 
 Skills: (1@3, 8@2, 10@1  or  3@3, 5@2, 7@1  or  1@4, 3@3, 3@2, 3@1  ;  1 free specialty)
 	Physical:
-		
+		Athletics: 1
 	Social:
-		
+		Etiquette: 2
+		Insight: 3
+		Intimidation: 1
+		Leadership: 1
+		Performance: 1
+			Specialties:
+				Dance (free with one dot)
+		Persuasion: 3
+			Specialties:
+				Seduction (free from Predator Type)
+		Subterfuge: 2
 	Mental:
-		
+		Academics: 2
+			Specialties:
+				TODO (free with one dot)
+		Awareness: 2
+		Investigation: 2
+		Medicine: 1
+		Occult: 3
+			Specialties:
+				Blood Magic (free one at character creation)
+		Politics: 1
+		Technology: 1
 
 Disciplines: (2 plus Predator Type dot)
 	Blood Sorcery 2:
 		A Taste for Blood (Level 1):
-			
+			-
 		Extinguish Vitae (Level 2):
-			
+			-
 		Rituals:
 			Wake with Evening's Freshness (Level 1):
-				
+				-
 	Presence 1:
 		Awe (Level 1):
-			
+			-
 
 Predator Type: Siren
 	Specialty: Persuasion (Seduction) or Subterfuge (Seduction)
@@ -50,7 +70,7 @@ Predator Type: Siren
 
 Flaws: (2 pts.)
 	Bond Junkie (1 pt. Bonding Flaw):
-		
+		-
 	Enemy (1 pt. Flaw from Predator Type):
 		-TODO: See Predator Type notes above. It's not exactly clear what this is. . .
 	Stalkers (1 pt. Retainers Background Flaw):
