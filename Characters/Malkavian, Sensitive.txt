@@ -1,0 +1,105 @@
+Name: 
+Clan: Malkavian
+Nature: 
+Demeanor: 
+Ruleset: V20
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: ()
+		Strength: 1
+		Dexterity: 3
+		Stamina: 2
+	Social: ()
+		Charisma: 2
+		Manipulation: 4 (A4)
+			Specialty: TODO
+		Appearance: 2
+	Mental: ()
+		Perception: 5 (A1, A2, A3, A5)
+			Specialty: TODO
+		Intelligence: 3 (A4)
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Alertness: 3 (A1)
+		Awareness: 3 (A5)
+		Empathy: 3 (A2, A3)
+		Streetwise: 2
+		Subterfuge: 2 (A4)
+	Skills: (9)
+		Drive: 1
+		Larceny: 3
+		Stealth: 3
+		Survival: 2
+	Knowledges: (5)
+		Investigation: 3
+		Law: 1
+			Specialty: Vagrancy
+		Occult: 1
+
+Derangement:
+	Fugue (Core pg. 291):
+		-Nesting? Seeking shelter, or escape from the stress. _Building_ weird "shelter"?
+
+Disciplines: (3 + 2 for Freebie Points spent)
+	Auspex: 5
+
+Backgrounds: (5)
+	Generation: ?
+	Contacts: ?
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 3
+	Self-Control: 2
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (+1 Freebie Points)
+	Short (1 pt. Flaw, Core pg. 481):
+		-Half running speed and difficulty using things meant for normal adult size.
+	Tic/Twitch (1 pt. Flaw, Core pg. 481):
+		-Hand wringing?
+		-I like that it presages the fugue state.
+	Disfigured (2 pt. Flaw, Core pg. 481):
+		-Appearance is max 2 and all social rolls have +2 difficulty.
+		-Tied to your short height, some development issues or malformation?
+			-Or a rude awakening acquired shortly after running away from home?
+	Concentration (1 pt. Merit, Core pg. 484):
+		-Unaffected by penalties stemming from distracting circumstances.
+	Eidetic Memory (2 pt. Merit, Core pg. )?
+		-You remember things with perfect detail, including documents, photos, conversations, etc.
+		-Under "stressful conditions involving numerous distractions", roll Perception + Alertness
+		 (difficulty 6) to do so.
+			-Unless Concentration means you never have to?!?
+	Phobia (2 pt. Flaw, Core pg. 486):
+		-Courage roll or retreat everytime you encounter your phobia.
+		-Snakes? Best of the suggested ones for this, but search other examples online.
+	Medium (2 pt. Merit, Core pg. 493)?
+		Or Oracular Ability from the same page? Or drop it entirely for more Willpower?
+			That last is probably best, especially with your derangement and Auspex 5. . .
+
+Freebie Points: (15)
+	14	Auspex 4 & 5
+	
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-Homeless?
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
