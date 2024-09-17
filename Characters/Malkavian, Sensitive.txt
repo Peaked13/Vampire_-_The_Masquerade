@@ -5,16 +5,16 @@ Demeanor:
 Ruleset: V20
 
 Attributes: (7/5/3 above base of 1 in each)
-	Physical: ()
+	Physical: (3)
 		Strength: 1
 		Dexterity: 3
 		Stamina: 2
-	Social: ()
+	Social: (5)
 		Charisma: 2
 		Manipulation: 4 (A4)
 			Specialty: TODO
 		Appearance: 2
-	Mental: ()
+	Mental: (7)
 		Perception: 5 (A1, A2, A3, A5)
 			Specialty: TODO
 		Intelligence: 3 (A4)
@@ -45,9 +45,10 @@ Derangement:
 Disciplines: (3 + 2 for Freebie Points spent)
 	Auspex: 5
 
-Backgrounds: (5)
-	Generation: ?
-	Contacts: ?
+Backgrounds: (5 + 1 for Freebie Points spent)
+	Contacts: 1
+		-Someone else living on the streets, knowledgeable about relevant matters.
+	Generation: 5
 
 Humanity Rating: 5 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
@@ -55,10 +56,10 @@ Virtues: (7 above base of 1 in each)
 	Self-Control: 2
 	Courage: 5
 	
-Willpower: 5 (equal to Courage)
+Willpower: 8 (equal to Courage + 3 for Freebie Points spent)
 Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
-Merits & Flaws: (+1 Freebie Points)
+Merits & Flaws: (+3 Freebie Points)
 	Short (1 pt. Flaw, Core pg. 481):
 		-Half running speed and difficulty using things meant for normal adult size.
 	Tic/Twitch (1 pt. Flaw, Core pg. 481):
@@ -78,13 +79,11 @@ Merits & Flaws: (+1 Freebie Points)
 	Phobia (2 pt. Flaw, Core pg. 486):
 		-Courage roll or retreat everytime you encounter your phobia.
 		-Snakes? Best of the suggested ones for this, but search other examples online.
-	Medium (2 pt. Merit, Core pg. 493)?
-		Or Oracular Ability from the same page? Or drop it entirely for more Willpower?
-			That last is probably best, especially with your derangement and Auspex 5. . .
 
-Freebie Points: (15)
+Freebie Points: (15 + 3 for Merits & Flaws)
 	14	Auspex 4 & 5
-	
+	 3	Willpower 6, 7, & 8
+	 1	Contacts 1
 
 Character Description and Background:
 	-Appearance:
