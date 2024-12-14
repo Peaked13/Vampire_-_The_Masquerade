@@ -1,0 +1,79 @@
+Name: 
+Clan: 
+Nature: 
+Demeanor: 
+Ruleset: 
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (5)
+		Strength: 2
+		Dexterity: 3
+		Stamina: 3
+	Social: (7)
+		Charisma: 4 (P1, P2, P4, P5, D4, D5)
+			Specialty: 
+		Manipulation: 4 (D1, D2)
+			Specialty: 
+		Appearance: 2
+	Mental: (3)
+		Perception: 2
+		Intelligence: 2
+		Wits: 2 (D3)
+
+Abilities: (13/9/5, max of 3)
+	Talents: ()
+		Empathy:  (P3, D3)
+		Intimidation:  (P2, P5, D1, D5)
+		Leadership:  (D2, D4)
+		Subterfuge:  (P4)
+		
+	Skills: ()
+		
+	Knowledges: ()
+		
+
+Disciplines: (3)
+	Dominate: 3
+
+Backgrounds: (5)
+	Generation: 5
+	Herd?
+	Influence?
+	Resources?
+	Retainers?
+
+Humanity Rating: 5 (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower: 5 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: ( Freebie Points)
+	
+
+Freebie Points: (15)
+		Fortitude 1?
+		Dominate 4?
+		Virtues?
+		Backgrounds?
+		Attributes?
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
