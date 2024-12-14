@@ -9,9 +9,11 @@ Attributes: (7/5/3 above base of 1 in each)
 		Strength: 3
 		Dexterity: 2
 		Stamina: 5
+			Specialty: 
 	Social: (5)
 		Charisma: 2
 		Manipulation: 4
+			Specialty: 
 		Appearance: 2
 	Mental: (3)
 		Perception: 2
