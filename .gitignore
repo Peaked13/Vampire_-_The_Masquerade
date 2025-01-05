@@ -1,3 +1,4 @@
 Source\ Books/
 Novels/
 *.pdf
+.DS_Store
