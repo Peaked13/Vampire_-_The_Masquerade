@@ -1,8 +1,8 @@
-Name: 
+Name: Desmond Lee
 Clan: Pander
-Nature: Fanatic (about the Sabbabt)
+Nature: Fanatic (about the Sabbabt, particularly the Panders)
 Demeanor: Visionary
-Ruleset: Revised
+Ruleset: V20
 
 Attributes: (7/5/3 above base of 1 in each)
 	Physical: (3)
