@@ -87,6 +87,9 @@
 			-Physical character sheet.
 			-Sire is Abraham DuSable.
 				-TODO: What race is the PC? DuSable probably has strong feeling about the subject. . .
+			-Why did Prince Lodin grant permission for his embrace?
+				-I don't think he knew exactly who the target was.
+				-But open ended permission might even be a _bigger_ ask. . .
 		-Wesley:
 			-Clan Malkavian, but is under the delusion he is a Toreador.
 				-A kind of multiple personality disorder.
@@ -106,6 +109,12 @@
 				 they're murderer, doing they're damndest (heh) to keep that legacy alive (and
 				 there's some secrets that might lead an elder vampire to think there might be more
 				 to it than just insanity)."
+	-Our evangelist:
+		-Name given: Desmond Lee
+			-Eventually "Des" to those friendly with him.
+		-Cashing in some boon to settle (publicly!) in Chicago?
+			-Boon held by "Brandon McCarthy"?
+			-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
 	-First story:
 		-On the way to presentation to Prince Lodin:
 			-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
@@ -121,6 +130,8 @@
 					-"Madame" is the perfect person to spred a salacious rumor like this.
 		-Presentation to the prince:
 			-TODO: Rohit is loathed by Prince Lodin and Joseph Peterson, due to TODO: Tremere maneuvering around his Embrace.
+			-Introduce Desmond Lee at the same time?
+				-
 			-Do the Malkavians show?
 				-I don't think TODO: Wesley's actual clan will be known. . . but Malkavians have ways of knowing things. . .
 				-Ah, make the date October 8th, the anniversary of the Great Chicago Fire and the
@@ -164,6 +175,9 @@
 					-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-Pushed (by who?) to address a Masquerade violation?
 			-The Tremere? Joseph Peterson? Someone else at the presentation?
+			-Do the Ventrue demand this of _TODO: Wesley_, rather than TODO: Rohit?
+				-Something tied to the art world? Filmmaker? (CbN guy ties?)
+				-
 			-
 	-Second story:
 		-
