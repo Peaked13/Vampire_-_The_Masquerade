@@ -1,0 +1,142 @@
+Name: 
+Clan: Pander
+Nature: Fanatic (about the Sabbabt)
+Demeanor: Visionary
+Ruleset: Revised
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7 + 1 for Freebie Points spent)
+		Charisma: 4
+		Manipulation: 5
+		Appearance: 2
+	Mental: (5)
+		Perception: 2
+		Intelligence: 4
+			Specialty: Creative
+		Wits: 2
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13 + 1 for Freebie Points spent)
+		Alertness: 1
+		Brawl: 3
+		Dodge: 1
+		Empathy: 1
+		Intimidation: 1
+		Leadership: 1
+		Streetwise: 2
+		Subterfuge: 4
+			Specialty: Impeccable Lies
+	Skills: (9)
+		Body Crafts: 1
+		Drive: 1
+		Firearms: 1
+		Performance: 3
+		Security: 1
+		Stealth: 1
+		Suvival: 1
+	Knowledges: (5)
+		Camarilla Lore (Secondary): 1
+		Investigation: 2
+		Law: 1
+		Politics: 1
+		Sabbat Lore (Secondary): 1
+
+Disciplines: (4 + 1 for Freebie Points spent)
+	Celerity: 1
+	Presence: 1
+	Obfuscate: 1
+	Vicissitude: 2
+
+Backgrounds: (0 + 5 for Freebie Points spent)
+	Alternate Identity: ?
+	Generation: 4
+		-Ninth generation: 14 blood pool, can spend 2 per turn.
+		-Max allowed as a Pander at character creation. Represents successful diablerie on your
+		 sire's part.
+		-This windfall of lineage is an integral part of your "blood grail" scheme.
+	Rituals: 1 (3 auctoris ritae)
+		The Vaulderie
+		Creation Rites
+		Blood Feast
+	
+Path: The Path of Power and the Inner Voice
+Path Rating: 3 (Conviction + Instinct)
+Virtues: (7 above base of 1 in Courage, none in alternate virtues)
+	Conviction: 2
+	Instinct: 1
+	Courage: 5
+	
+Willpower: 5 (equal to Courage, minimum 5 to follow a path)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (+3 Freebie Points)
+	Repulsed by Garlic (1 pt. Flaw, Core pg. 301):
+		-You cannot abide garlic and the scent will drive you from a room unless you succeed on a
+		 Willpower roll with difficulty based on the strength of the odor.
+	Vulnerability to Silver (2 pt. Flaw, Guide to the Sabbat pg. 95):
+		-Silver weapons deal aggravated to you, and the mere touch of silver discomfits you.
+	Potential extras, depending on game:
+		New Arrival (1 pt. Flaw, Guide to the Camarilla pg. 77):
+			-Potentially appropriate for using this character in a Camarilla game where you're
+			 claiming to be a newly arrived Caitiff.
+		Dark Secret (1 pt. Flaw, Core pg. 300):
+			-Also very appropriate for a Camarilla game, given that you're Sabbat
+		-Points from the above, both suited to a Camarilla game, should probably go to dots in
+		 the Alternate Identity background, to tie the whole thing together and put you on a
+		 somewhat solid footing.
+
+Freebie Points: (15 + 3 for Merits and Flaws)
+	4	Generation 4
+	1	Rituals 1
+	7	Vicissitude 2
+	2	Subterfuge 4
+	4	Manipulation 5
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-Activist? Streetkid?
+	-Your embrace:
+		-
+	-Your sire was a fierce advocate for the standing of the clanless in the Sabbat, and was 
+	 involved in the struggle that won them recognition as "Panders".
+		-He made you to continue that struggle, sharing his blood and knowledge both, to create a
+		 proud and capable Pander, example and advocate both for the cause.
+		-He disappeared amidst the turmoil of a Sabbat crusade, and you presume he met is final
+		 death. An all too common fate for Panders, with the way the other clans see them as cannon
+		 fodder.
+	-You seek to bring that message to other clanless, to show the "Caitiff" of the Camarilla that
+	 there's a better way out there, and a better home for them.
+		-You're not above _forcing_ them to see the way, though, and don't see any real need to be
+		 forthright about what their getting into until there's no way back out.
+		-To that end, you'd be very interested in selling them on a couple of things:
+			-The Vaulderie, as a "ritual of togetherness", and also as a cure for the blood bond,
+			 if a mark is so inflicted.
+			-"Blood Grails", a thing of your own invention. Misshapen lumps of flesh, to be offered
+			 up to other vampires, they're your fleshshaped childer.
+				-You see no need to explain that to the ignorant, though.
+				-Instead, you talk of the power it offers, the cure to the usually very thin blood
+				 of the clanless, and to the abuse they receive from other vampires.
+				-You also see no need to reveal how diablerie marks them, at least until it suits
+				 you to explain that there's no going back. . .
+	-You revere Joseph Pander. You've never met him, but your sire claimed to have known him and you
+	 believe it, given their dedication to a shared cause.
+	-Only slightly behind Pander himself, you revere the Sabbat. The status the clanless have
+	 achieved in the sect could have arisen nowhere else and you hold it's ideals of equality and
+	 freedom close to your dead heart (at least as long as they continue to dictate toppling those
+	 who sewed up all the power in the world before you were even made).
+	-You see no real contradiction between your ideals and your _own_ advancement.
+		-After all, every Pander that rises to prominence aids the cause.
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
