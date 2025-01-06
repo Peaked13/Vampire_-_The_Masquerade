@@ -60,9 +60,19 @@
 				-He's perhaps concerned that his involvement could hurt them, but not at all
 				 turned off by their revealed affiliation.
 	-Utility of existing Caitiff:
-		-
+		-Gordon Keaton is a terrible fit for the sympathy I have in mind, but actually _great_ for
+		 building some for Priscilla Gibbs / "Madame Zharinsky".
+			-She is also a fantastic person for "togetherness ritual" stuff, since she's bound to
+			 him.
+		-Richard Fulcher ("Dickie") I'm redefining as a Brujah.
+		-Carol Davis ("Maldavis") I'm deeply uncertain of the use of. . .
+		-Derrick Stack ("Uriah") might be another great one to play with bond stuff, and to even
+		 tie in Maldavis.
+		-Jimmy Holcomb ("Neon") is _perfect_ for the stuff I have in mind, though his close ties to
+		 Damien will need to be watched carefully.
 -Invent more Caitiffs:
 	-Ideally some pathetic ones. . .
+	-My "more prey than predator" Caitiff is great for this.
 	-
 -Set one or more of coterie up for the bond?
 	-Ignorantly falling into it is a common them in Chicago by Night.
@@ -103,13 +113,10 @@
 			 they're murderer, doing they're damndest (heh) to keep that legacy alive (and
 			 there's some secrets that might lead an elder vampire to think there might be more
 			 to it than just insanity)."
--Our evangelist:
-	-Name given: Desmond Lee
-		-Eventually "Des" to those friendly with him.
-	-Cashing in some boon to settle (publicly!) in Chicago?
-		-Boon held by "Brandon McCarthy"?
-		-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
+	-Give them each Camarilla Lore dot?
+		-Maybe a clan Lore dot too, at least for Rohit?
 -First story:
+	-Takes place October 8th, 1991.
 	-On the way to presentation to Prince Lodin:
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
 		 (Brujah), and Marc Levesque (Brujah; "Frenchie", but _hates_ it).
@@ -123,19 +130,8 @@
 					-If his PC is male, old, closeted Republican is a trope.
 				-"Madame" is the perfect person to spred a salacious rumor like this.
 	-Presentation to the prince:
-		-TODO: Rohit is loathed by Prince Lodin and Joseph Peterson, due to TODO: Tremere maneuvering around his Embrace.
-		-Introduce Desmond Lee at the same time?
-			-
-			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
-				-Limits initial familiarity with the stranger, while also showing off Ballard's
-				 disgusting talent.
-					-Oh! Have some mortal who shows a family resemblance. to Horatio and Lawrence
-					 both, deliver it, to wedge in another detail?
-		-Do the Malkavians show?
-			-I don't think TODO: Wesley's actual clan will be known. . . but Malkavians have ways of knowing things. . .
-			-Ah, make the date October 8th, the anniversary of the Great Chicago Fire and the
-			 one day Prince Lodin forces O'Leary to attend to him, rather than avoiding him at
-			 all costs?
+		-TODO: Rohit is loathed by Prince Lodin and Joseph Peterson, due to Tremere maneuvering
+		 around his Embrace.
 		-Only other Tremere present will be Garwood Marshall.
 			-This event is more about the general public than the Primogen so Nicolai feels no
 			 need to be present, and he and DuSable would rather let TODO: Rohit suffer the
@@ -143,6 +139,22 @@
 			-Garwood will be socializing with his bandmates, Sophia (Toreador stripper), and 
 			 maybe Annabelle.
 			-TODO: Rohit should recognize him.
+		-Do the Malkavians show?
+			-I don't think TODO: Wesley's actual clan will be known. . . but Malkavians have ways
+			 of knowing things. . .
+			-Ah, make the date October 8th, the anniversary of the Great Chicago Fire and the
+			 one day Prince Lodin forces O'Leary to attend to him, rather than avoiding him at
+			 all costs?
+		-Introduce Desmond Lee at the same time?
+			-Cashing in some boon to settle (publicly!) in Chicago?
+				-Boon held by "Brandon McCarthy"?
+				-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
+			-
+			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
+				-Limits initial familiarity with the stranger, while also showing off Ballard's
+				 disgusting talent.
+					-Oh! Have some mortal who shows a family resemblance. to Horatio and Lawrence
+					 both, deliver it, to wedge in another detail?
 		-Prince will certainly snub TODO: Rohit, and maybe TODO: Wesley by association.
 			-Use this as an opportunity to push them toward the Caitiff.
 				-"Stand with the rabble. I have other business to attend to. . ."?
@@ -172,11 +184,21 @@
 					-She's clearly sniffing around TODO: Wesley to use him as a potential new
 					 novelty to spice up her parties.
 				-The party will draw heavily on the "Annabelle's Party Elite" coterie.
-	-Pushed (by who?) to address a Masquerade violation?
-		-The Tremere? Joseph Peterson? Someone else at the presentation?
-		-Do the Ventrue demand this of _TODO: Wesley_, rather than TODO: Rohit?
-			-Something tied to the art world? Filmmaker? (CbN guy ties?)
+		-Pushed Joseph Peterson to address a Masquerade violation.
+			-The Ventrue demand this of _TODO: Wesley_, rather than TODO: Rohit.
+				-Tied to the art world, it's a filmmaker creating problematic films.
+				-His name is Arthur Webb.
+				-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
+					-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
+					 brushing up against concepts and themes adjacent to _Golconda_.
+					-That, though, led Webb to do further research, and start incorporating more
+					 obviously problematic concepts in his own films.
+					-But, that wouldn't necessarily mean a ruthless PC couldn't use the link to
+					 make trouble for Weltmann.
+					-On the other hand, a differently disposed PC could use this to pick up the
+					 trail of Golconda. . .
+					-Weltmann is just generally a fantastic NPC for TODO: Wesley to interact with.
+				-
 			-
-		-
 -Second story:
 	-
