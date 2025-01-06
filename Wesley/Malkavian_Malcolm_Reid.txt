@@ -17,11 +17,21 @@ Backstory:
 
 	Malcolm lusted after a somewhat well known but reclusive English Toreador painter named Cade Hall for many years. After getting two close he was embraced by another vampire in his orbit. After the embrace Malcom became even more infatuated. Cade rejected him as a as a creepy, talentless Malkavian bodhran player from the backwaters of Scotland. One night Malcolm killed Cade in a fit of rage, after which Malcolm disocciated and now thinks that he himself is Cade.
 
-	Malcolm now forgets about his beloved bodhran and has transformed Cade's classical painting style into advent guard music video performance peices combining vibrant colors (usually favoring a red hue), multiple subjects scantily clad in flesh tone leather, and etheral synth pads.
+	Malcolm now forgets about his beloved bodhran and has transformed Cade's classical painting style into bleeding edge avant-guard music video performance peices combining vibrant colors (usually favoring a red hue), multiple subjects scantily clad in flesh tone leather, and etheral synth pads.
 
 	A mysterious Toreador figure was enraged at Cade's death but is oddly still invested in his career. He has acknowledged Malcolm the artist Cade Hall but still cannot stand to see sight of Malcolm's face. This mysterious benefactor called a favor from a connection in Chicago, got Malcolm on a cargo ship, and made him an offer of a fresh start that he really can't refuse.
 
 	As a Malkavian, Malcolm was a bit of a loner and found most of his food from night clubs. Cade Hall, on the other hand, entrances his artistic subjects and drinks, sometimes sloppily, in between takes.
+
+
+
+
+	Presentation to the Prince on October, 8th, 1991. Malcolm has been in the city for a week or so. 
+
+
+	Cargo ship to pleasure craft in the Great Lakes. Freed from the crate by people in charge of my passage. Handed a glass and packaged blood. Meet Kianu 
+
+
 
 
 
@@ -48,15 +58,14 @@ Attributes: (7/5/3 above base of 1 in each)
 
 
 
-
 Abilities: (13/9/5, max of 3)
 	Talents: (13)
 
-		- Alertness (pg. 100):		3			* Auspex
+		- Alertness (pg. 100):		3
 		- Awareness (pg. 100):		1
-		- Empathy (pg. 101):		3			**/*** Auspex, * Dementation
+		- Empathy (pg. 101):		3
 		- Expression (pg. 101):		3
-		- Subterfuge (pg. 103):		3			**** Auspex - Telepathy
+		- Subterfuge (pg. 103):		3
 
 
 		
@@ -119,13 +128,13 @@ Backgrounds: (5)
 Humanity Rating:  (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
 	Conscience: 	(1) + 1 = 2
-	Self-Control:	(1) + 2 = 3 		** Dementation
+	Self-Control:	(1) + 2 = 3
 	Courage: 		(1) + 4 = 5
-	
-Willpower:  (equal to Courage) = 5 + (2) = 7
+		
+Willpower:		5 + (2) = 7
 
 
-Blood Pool:  (roll a d10 for start of game, max is based on generation)
+Blood Pool:		7 + 3 = 10
 
 Merits & Flaws: (Freebie Points)
 	
@@ -137,7 +146,6 @@ Merits & Flaws: (Freebie Points)
 
 
 	- Impatient (pg. 485):				-1
-
 
 
 	- Speech Impediment (pg. 485):		-1
@@ -168,23 +176,46 @@ Freebie Points: (15)
 	
 
 Character Description and Background:
-	-Appearance:
+	- Appearance:
 		- Pale skinned, freckles, and obscenely bright red hair.
 		- Skinny with a pale and sickly vibe
 		- Malcolm's signature warddrobe is an off-white leather tank top and black leather capri pants.
 
-	-As a mortal:
+	- As a mortal:
 		-
-	-Your embrace:
-		-
-	-
+	- Your embrace:
+		- 
+	- 
 
 Equipment (stuff to start with or obtain):
 	
 
 Advancement:
-	-Tentative schedule:
+	- Tentative schedule:
 		
-	-
+	- 
+
+Items:
+
+	- Phone Number of plump lady in club
+
+
+
+
+Notes:
+
+	- The Rack - Feeding areas of the city. In Chicago, mainly River North bar scene.
+	- The Blue Velvet
+	- Succubus Club
+	- 
+
+
+Next Step:
+
+	- How does Malcolm get set up with studio space and/or place to live?
+	- What security measures does he take?
+	- What are next steps to get a Herd?
+	- Why do they let me take their blood?
+	- Doing something with blood?
 
 
