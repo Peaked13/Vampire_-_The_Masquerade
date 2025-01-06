@@ -84,7 +84,7 @@
 	-Yeah, talked with the players and they're good with starting in '91, the publication date
 	 of the first Chicago by Night.
 -Players:
-	-Rohit:
+	-Quiana Gannon (Rohit):
 		-Clan Tremere.
 		-TV journalist and gambler.
 		-Family money.
@@ -94,8 +94,8 @@
 		-Why did Prince Lodin grant permission for his embrace?
 			-I don't think he knew exactly who the target was.
 			-But open ended permission might even be a _bigger_ ask. . .
-	-Wesley:
-		-Clan Malkavian, but is under the delusion he is a Toreador.
+	-Malcolm Reid / Cade Hall (Wesley):
+		-Clan Malkavian (Malcolm Reid), but is under the delusion he is a Toreador (Cade Hall).
 			-A kind of multiple personality disorder.
 		-Abstract painter and performance artist, throwing paint on models.
 			-Feeds from his models too.
@@ -105,8 +105,8 @@
 			 came from Abraham DuSable, and he's pushing that responsibility of onto Rohit as
 			 the cost of his continued patronage of his childe.
 		-Wesley was open to the idea of there having once _been_ a Toreador: https://discord.com/channels/@me/1152273978954625064/1323148189460729919
-			-Once a promising artist, and an object of envy for TODO: Wesley, now dead by
-			 TODO: Wesley's hand with him assuming the identity, to one degree or another.
+			-Once a promising artist, and an object of envy for Cade, now dead by
+			 Cade's hand with him assuming the identity, to one degree or another.
 			-Danced around it with him, but I'm clearly imagining diablerie.
 			-Could also explain why "someone powerful paid your way in favors to do so: a
 			 promising young Toreador was gone too soon, but here's a Malkavian, admittedly
@@ -115,6 +115,16 @@
 			 to it than just insanity)."
 	-Give them each Camarilla Lore dot?
 		-Maybe a clan Lore dot too, at least for Rohit?
+	-Quiana was asked by DuSable to help get Cade set up in Chicago, in return for some long ago
+	 boon.
+	 	-He was in town for ~1 week before his presentation.
+		-Quiana met him at the marina next to Grant Park as he got off a small boat, having traveled
+		 by sea from the UK (there was a transfer from a seagoing cargo ship).
+		-She immediately took him clubbing, by his request.
+			- plump Melinda, blow, bathroom, number, glaring at Cade and Quiana after Cade goes straight back to her at the bar
+		-Afterwards, Quiana took him back to the Tremere Chantry, an old mansion in the Gold Coast
+		 neighborhood.
+		 	-Cade was briefly greet DuSable.
 -First story:
 	-Takes place October 8th, 1991.
 	-On the way to presentation to Prince Lodin:
@@ -126,21 +136,21 @@
 		-Saved by Caitiff, Priscilla/"Madame".
 			-Lover of the prince's childe?
 				-Ah, maybe claims there's more to why Joseph Peterson is pissed about
-				 TODO: Rohit than is widely known?
-					-If his PC is male, old, closeted Republican is a trope.
+				 Quiana than is widely known?
+					-Yeah, this is perfect.
 				-"Madame" is the perfect person to spred a salacious rumor like this.
 	-Presentation to the prince:
-		-TODO: Rohit is loathed by Prince Lodin and Joseph Peterson, due to Tremere maneuvering
+		-Quiana is loathed by Prince Lodin and Joseph Peterson, due to Tremere maneuvering
 		 around his Embrace.
 		-Only other Tremere present will be Garwood Marshall.
 			-This event is more about the general public than the Primogen so Nicolai feels no
-			 need to be present, and he and DuSable would rather let TODO: Rohit suffer the
+			 need to be present, and he and DuSable would rather let Quiana suffer the
 			 brunt of the Ventrues' displeasure over their scheme.
 			-Garwood will be socializing with his bandmates, Sophia (Toreador stripper), and 
 			 maybe Annabelle.
-			-TODO: Rohit should recognize him.
+			-Quiana should recognize him.
 		-Do the Malkavians show?
-			-I don't think TODO: Wesley's actual clan will be known. . . but Malkavians have ways
+			-I don't think Cade's actual clan will be known. . . but Malkavians have ways
 			 of knowing things. . .
 			-Ah, make the date October 8th, the anniversary of the Great Chicago Fire and the
 			 one day Prince Lodin forces O'Leary to attend to him, rather than avoiding him at
@@ -155,7 +165,7 @@
 				 disgusting talent.
 					-Oh! Have some mortal who shows a family resemblance. to Horatio and Lawrence
 					 both, deliver it, to wedge in another detail?
-		-Prince will certainly snub TODO: Rohit, and maybe TODO: Wesley by association.
+		-Prince will certainly snub Quiana, and maybe Cade by association.
 			-Use this as an opportunity to push them toward the Caitiff.
 				-"Stand with the rabble. I have other business to attend to. . ."?
 				-Or simply have those more elite follow the Prince's lead and turn away from them?
@@ -165,27 +175,27 @@
 					 her by them ("Whore") and her fawning over him.
 		-Maureen O'Leary and her clanmates should be the first to rescue the PCs from their
 		 snubbing.
-			-Son wheels her over to them, to examine TODO: Wesley.
+			-Son wheels her over to them, to examine Cade.
 				-Remember the Humanity roll in Son's description!
 			-Who else is with them?
 				-Eh, probably no one else. The Smith's rarely leave the asylum and the others
 				 are not strongly associated with the inmates.
-			-TODO: Wesley should be subjected uncomfortable examination by O'Leary: lots of
+			-Cade should be subjected uncomfortable examination by O'Leary: lots of
 			 staring and face touching.
 				-Afterwards, she should seem satisfied, maybe with a knowing nod, but mostly
 				 speak gibberish.
 				-"Artist who changes people. . ."?
-		-Annabelle Treabelle should then use that as giving her leave to approach TODO: Wesley
+		-Annabelle Treabelle should then use that as giving her leave to approach Cade
 		 too.
 			-Excellent opportunity for her to snub Caitiff and display scorn for them.
-			-She'll extend invitations to TODO: Wesley.
+			-She'll extend invitations to Cade.
 				-Both over to her clique in Elysium and to a party later, at her mansion.
 					-She should emphasize the word "mansion". . .
-					-She's clearly sniffing around TODO: Wesley to use him as a potential new
+					-She's clearly sniffing around Cade to use him as a potential new
 					 novelty to spice up her parties.
 				-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-Pushed Joseph Peterson to address a Masquerade violation.
-			-The Ventrue demand this of _TODO: Wesley_, rather than TODO: Rohit.
+			-The Ventrue demand this of _Cade_, rather than Quiana.
 				-Tied to the art world, it's a filmmaker creating problematic films.
 				-His name is Arthur Webb.
 				-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
@@ -197,7 +207,7 @@
 					 make trouble for Weltmann.
 					-On the other hand, a differently disposed PC could use this to pick up the
 					 trail of Golconda. . .
-					-Weltmann is just generally a fantastic NPC for TODO: Wesley to interact with.
+					-Weltmann is just generally a fantastic NPC for Cade to interact with.
 				-
 			-
 -Second story:
