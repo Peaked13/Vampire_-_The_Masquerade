@@ -1,0 +1,190 @@
+Name: Malcolm Reid (Cade Hall)
+Clan: Malkavian
+Nature: Chameleon (pg. 89)
+Demeanor: Bon Vivant (pg. 88)
+Ruleset: 
+
+
+	Switch between Malkavian and Toreador identities:
+
+		- If confronted with evidence that he is not a Toreador, he remembers who he is and goes into a funk. He does not have the will to remain 
+
+		have to make a willpower roll.
+		- If failed switch back to Malkavian. Lose access to Presence.
+
+
+Backstory:
+
+	Malcolm lusted after a somewhat well known but reclusive English Toreador painter named Cade Hall for many years. After getting two close he was embraced by another vampire in his orbit. After the embrace Malcom became even more infatuated. Cade rejected him as a as a creepy, talentless Malkavian bodhran player from the backwaters of Scotland. One night Malcolm killed Cade in a fit of rage, after which Malcolm disocciated and now thinks that he himself is Cade.
+
+	Malcolm now forgets about his beloved bodhran and has transformed Cade's classical painting style into advent guard music video performance peices combining vibrant colors (usually favoring a red hue), multiple subjects scantily clad in flesh tone leather, and etheral synth pads.
+
+	A mysterious Toreador figure was enraged at Cade's death but is oddly still invested in his career. He has acknowledged Malcolm the artist Cade Hall but still cannot stand to see sight of Malcolm's face. This mysterious benefactor called a favor from a connection in Chicago, got Malcolm on a cargo ship, and made him an offer of a fresh start that he really can't refuse.
+
+	As a Malkavian, Malcolm was a bit of a loner and found most of his food from night clubs. Cade Hall, on the other hand, entrances his artistic subjects and drinks, sometimes sloppily, in between takes.
+
+
+
+
+
+
+Attributes: (7/5/3 above base of 1 in each)
+	Social: (7)
+		Charisma: 		(1) + 3 		= 4
+		Manipulation: 	(1) + 2 		= 3
+		Appearance: 	(1) + 2 		= 3
+
+	Mental: (5)
+		Perception: 	(1) + 3 		= 4
+		Intelligence: 	(1) + 1 		= 2
+		Wits: 			(1) + 1 + (1) 	= 3
+
+	Physical: (3)
+		Strength:		(1) + 0 		= 1
+		Dexterity:		(1) + 1 		= 2
+		Stamina:		(1) + 2 		= 3
+
+
+
+
+
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+
+		- Alertness (pg. 100):		3			* Auspex
+		- Awareness (pg. 100):		1
+		- Empathy (pg. 101):		3			**/*** Auspex, * Dementation
+		- Expression (pg. 101):		3
+		- Subterfuge (pg. 103):		3			**** Auspex - Telepathy
+
+
+		
+	Skills: (9)
+
+		- Crafts (pg. 104): 		3
+			Malcolm makes his own bodhrans, including the frame bending and skin stretching. Cade dresses his models in light-colored leather clothing that he makes himself. Sometimes the look rubs other anit-Tzimisce Kindred the wrong way.
+
+		
+		- Etiquette (pg 104):		2
+
+		- Larceny (pg. 105):		1
+			Malcolm the bodhran player has been known to steal some supplies on and off. And he had to break into Cade's lockbox to get his identity papers somehow.
+
+
+		- Performance (pg. 105):	3
+
+
+	Knowledges: (5)
+
+
+		- Technology (pg. 110):		3
+			Malcolm has gotten quite proficient at tool repair. In Cade's quest to design even more exotic setpeices and costumes he has started to dable in creating new tools to suit his needs.
+
+
+		- Computer (pg. 108):		2
+
+		
+
+Disciplines: (3)
+
+	- Auspex (pg. 134):			1
+		* 	Heightened Senses (Perception + Alertness)
+
+	- Dementation (pg. 147): 	1
+		* 	Passion (Charisma + Empathy)
+
+	- Obfuscate (pg. 184): 		0
+
+	- Presence (pg. 193): 		1
+		* 	Awe (Charisma + Performance)
+	
+
+Backgrounds: (5)
+
+	- Alternate Identity (pg. 111):	3
+
+	- Fame (pg. 114): 				1
+
+	- Generation (pg 114): 			0 + (5) = 5
+
+	- Herd (pg. 114):				1
+		Lackies that participate in Malcolm's performance art pieces ???
+
+
+	- Resources (pg. 115):			0 + (3) = 3
+		Malcolm fled the UK after pilfering all of Cade's assets, which were reasonably hefty. Of course Cade was just taking all of his assets with him as he relocated across the pond.
+
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 	(1) + 1 = 2
+	Self-Control:	(1) + 2 = 3 		** Dementation
+	Courage: 		(1) + 4 = 5
+	
+Willpower:  (equal to Courage) = 5 + (2) = 7
+
+
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (Freebie Points)
+	
+
+ 	- Additional Disipline (pg. 494): 	+5 points
+	
+
+	- Bad Sight (pg. 481):				-1
+
+
+	- Impatient (pg. 485):				-1
+
+
+
+	- Speech Impediment (pg. 485):		-1
+		Malcolm has a strong Scottish accent that is often quite hard to understand.
+
+
+	- Dark Secret (pg. 489):			-1
+		Malcolm killed a Toreador and was packed off to Chicago under false pretenses.
+
+
+	- New Arrival (pg. 490):			-1
+
+
+
+
+
+Freebie Points: (15)
+
+	
+	- Merits and Flaws: 	5 - 5   = 0
+	- Background:			5 + 3   = 8
+	- Willpower: 			2		= 2
+	- Attributes: 			5 		= 5
+
+
+
+
+	
+
+Character Description and Background:
+	-Appearance:
+		- Pale skinned, freckles, and obscenely bright red hair.
+		- Skinny with a pale and sickly vibe
+		- Malcolm's signature warddrobe is an off-white leather tank top and black leather capri pants.
+
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
+
+
