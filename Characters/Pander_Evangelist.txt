@@ -58,6 +58,8 @@ Backgrounds: (0 + 5 for Freebie Points spent)
 		-Max allowed as a Pander at character creation. Represents successful diablerie on your
 		 sire's part.
 		-This windfall of lineage is an integral part of your "blood grail" scheme.
+		-The fact that you yourself have not engaged in diablerie is also essential to your role as
+		 an infiltrator.
 	Rituals: 1 (3 auctoris ritae)
 		The Vaulderie
 		Creation Rites

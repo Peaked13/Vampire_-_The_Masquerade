@@ -8,7 +8,7 @@ Attributes: (7/5/3 above base of 1 in each)
 	Physical: (7)
 		Strength: 3
 		Dexterity: 4
-			Specialty: 
+			Specialty: Swift
 		Stamina: 3
 	Social: (3)
 		Charisma: 1
@@ -46,6 +46,7 @@ Disciplines: (3 + 1 for freebie points spent)
 
 Backgrounds: (5)
 	Generation: 4
+		TODO: Trade this for something for Chicago game?
 	Resources: 2
 
 Humanity Rating: 8 (Conscience + Self-Control)
@@ -70,7 +71,9 @@ Freebie points: 12 (15 - 3 for merits)
 
 Character Description and Background:
 	-Appearance:
-		-
+		-Square face with short brown hair and green eyes.
+		-Your build reflects your past as a football player.
+		-Ragged letter jacket, from some unknown, out-of-town high school.
 	-As a mortal:
 		-High school and college athelete.
 			-Played football.

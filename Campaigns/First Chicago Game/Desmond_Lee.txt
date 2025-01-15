@@ -32,17 +32,15 @@ Abilities: (13/9/5, max of 3)
 		Subterfuge: 4
 			Specialty: Impeccable Lies
 	Skills: (9)
-		Body Crafts: 1
 		Drive: 1
 		Firearms: 1
 		Performance: 3
 		Security: 1
-		Stealth: 1
-		Suvival: 1
+		Stealth: 3
 	Knowledges: (5)
 		Camarilla Lore (Secondary): 1
-		Investigation: 2
-		Law: 1
+		Investigation: 1
+		Medicine: 2
 		Politics: 1
 		Sabbat Lore (Secondary): 1
 
@@ -59,6 +57,8 @@ Backgrounds: (0 + 5 for Freebie Points spent)
 		-Max allowed as a Pander at character creation. Represents successful diablerie on your
 		 sire's part.
 		-This windfall of lineage is an integral part of your "blood grail" scheme.
+		-The fact that you yourself have not engaged in diablerie is also essential to your role as
+		 an infiltrator of the Camarilla.
 	Rituals: 1 (3 auctoris ritae)
 		The Vaulderie
 		Creation Rites
@@ -99,7 +99,10 @@ Freebie Points: (15 + 3 for Merits and Flaws)
 
 Character Description and Background:
 	-Appearance:
-		-
+		-Short, wavy, black hair and blue eyes.
+		-Warm skin tone (well, for one of the undead).
+		-Sharp, angular face. Distinctive.
+			-And not likely original to him. . .
 	-As a mortal:
 		-Activist? Streetkid?
 	-Your embrace:
