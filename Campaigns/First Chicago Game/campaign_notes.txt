@@ -108,7 +108,7 @@
 			 boons to get to the city, and get set up there. At least one such favor called in
 			 came from Abraham DuSable, and he's pushing that responsibility of onto Rohit as
 			 the cost of his continued patronage of his childe.
-		-Wesley was open to the idea of there having once _been_ a Toreador: https://discord.com/channels/@me/1152273978954625064/1323148189460729919
+		-There once _was_ a Toreador: https://discord.com/channels/@me/1152273978954625064/1323148189460729919
 			-Once a promising artist, and an object of envy for Cade, now dead by
 			 Cade's hand with him assuming the identity, to one degree or another.
 			-Danced around it with him, but I'm clearly imagining diablerie.
@@ -117,8 +117,11 @@
 			 they're murderer, doing they're damndest (heh) to keep that legacy alive (and
 			 there's some secrets that might lead an elder vampire to think there might be more
 			 to it than just insanity)."
+		-Owing to a Camarilla Lore botch concerning ghouls, he's convinced that he _shouldn't_ let
+		 humans drink is blood, and that they're always fiending for his precious bodily fluids.
 	-Give them each Camarilla Lore dot?
 		-Maybe a clan Lore dot too, at least for Rohit?
+		-Yeah, gave them each the Camarilla one.
 -Prelude:
 	-Quiana was asked by DuSable to help get Cade set up in Chicago, in return for some long ago
 	 boon.
@@ -140,8 +143,12 @@
 	 on the direction he goes, Kevin Jackson or Capone.
 		-Have him be recoginzed for what he is, given the drugs for no money, but told he know owes
 		 on or the other?
+		- Yep! ; thousands in drugs ; You know Kevin? . . . You owe Kevin Jackson." ; ". . . Where do we find Kevin?" ; "He'll find you. Don't worry about it."
+			-Both Cade and Quiana went.
+			-Everyone at the place was wearing red.
 -First story:
-	-Takes place October 8th, 1991.
+	-Took place October 8th, 1991.
+	- TODO: painting
 	-On the way to presentation to Prince Lodin:
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
 		 (Brujah), and Marc Levesque (Brujah; "Frenchie", but _hates_ it).
@@ -165,17 +172,19 @@
 			 maybe Annabelle.
 				-Damien might hit on Quiana.
 			-Quiana should recognize him.
-		-Do the Malkavians show?
+		-Maureen O'Leary attends, wheeled in by Son and escorted by Ventrue goons.
 			-I don't think Cade's actual clan will be known. . . but Malkavians have ways
 			 of knowing things. . .
-			-Ah, make the date October 8th, the anniversary of the Great Chicago Fire and the
+			-Ah, madee the date October 8th, the anniversary of the Great Chicago Fire and the
 			 one day Prince Lodin forces O'Leary to attend to him, rather than avoiding him at
-			 all costs?
-		-Introduce Desmond Lee at the same time?
-			-Cashing in some boon to settle (publicly!) in Chicago?
+			 all costs.
+		-Introduce Desmond Lee at the same time:
+			-Coming from Corpus Christi, "fleeing" the Sabbat.
+			-Cashing in some boon to settle (publicly!) in Chicago.
 				-Boon held by "Brandon McCarthy"?
 				-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
-			-
+			-Recognized by Wolf Pack member?
+				-Tyrus, their leader?
 			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
 				-Limits initial familiarity with the stranger, while also showing off Ballard's
 				 disgusting talent.
