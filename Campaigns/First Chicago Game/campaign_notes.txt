@@ -94,10 +94,11 @@
 		-Family money.
 		-Physical character sheet.
 		-Sire is Abraham DuSable.
-			-TODO: What race is the PC? DuSable probably has strong feeling about the subject. . .
+			-Quiana is black. DuSable has strong feeling about the subject. . .
 		-Why did Prince Lodin grant permission for his embrace?
 			-I don't think he knew exactly who the target was.
 			-But open ended permission might even be a _bigger_ ask. . .
+		-She has a room at the Tremere chantry, but also a highrise apartment nearby.
 	-Malcolm Reid / Cade Hall (Wesley):
 		-Clan Malkavian (Malcolm Reid), but is under the delusion he is a Toreador (Cade Hall).
 			-A kind of multiple personality disorder.
@@ -117,11 +118,16 @@
 			 they're murderer, doing they're damndest (heh) to keep that legacy alive (and
 			 there's some secrets that might lead an elder vampire to think there might be more
 			 to it than just insanity)."
+		-Herd is a crowd of artsy party goers he plies with drugs and promises of fame through his
+		 performance art.
+			-Melinda, who he met (and fed on) on his first night in Chicago was the seed of that.
+		-Haven is currently a rented artist's loft, with a dark room possessed of a steel door and
+		 locks that he sleeps in.
 		-Owing to a Camarilla Lore botch concerning ghouls, he's convinced that he _shouldn't_ let
 		 humans drink is blood, and that they're always fiending for his precious bodily fluids.
 	-Give them each Camarilla Lore dot?
+		-Yeah, gave them each the Camarilla dot.
 		-Maybe a clan Lore dot too, at least for Rohit?
-		-Yeah, gave them each the Camarilla one.
 -Prelude:
 	-Quiana was asked by DuSable to help get Cade set up in Chicago, in return for some long ago
 	 boon.
@@ -141,14 +147,44 @@
 	-Since Cade's experience with Melinda left him thinking that procuring some actual drugs might
 	 make feeding easier, there might be an opportunity there to get him involved with, depending
 	 on the direction he goes, Kevin Jackson or Capone.
-		-Have him be recoginzed for what he is, given the drugs for no money, but told he know owes
+		-Have him be recognized for what he is, given the drugs for no money, but told he know owes
 		 on or the other?
-		- Yep! ; thousands in drugs ; You know Kevin? . . . You owe Kevin Jackson." ; ". . . Where do we find Kevin?" ; "He'll find you. Don't worry about it."
+		-Yep! Cade reached out to Quiana about procuring some ketamine and benzos and she, in turn,
+		 called her contact, "Carty" about the subject.
+			-She'd gotten cocaine from him in the past, but the downers weren't his thing. He was,
+			 however, able to call someone in turn and then called her back with an address "just
+			 South of Old Town".
+				-She (and Rohit himself) recognized this as near Cabrini Green, and the danger.
 			-Both Cade and Quiana went.
 			-Everyone at the place was wearing red.
+			-Knocking on the door and asking for "Eddy", they were let in and directed down a beat
+			 up hallway.
+			-Quiana Dominated the guy who answered the door, having him fetch her the drugs, rather
+			 that go further into the rowhouse.
+			-That resulted in an audible beating for the Dominated gang member, due to the breach
+			 of protocol, and a gold chain bedecked man storming down the hallway towards them,
+			 hand on the grip of a pistol at his waist.
+			-Before things got too out of hand, though, the guy paused, stared at them a moment, and
+			 then said, ". . . I know what you are. C'mere. . ."
+			-He led them down the hallway to a worn livingroom and, confirming what they wanted,
+			 handed them a half pound of ketamine, a grab bad of ~100 assorted pills, and some crack.
+			-Instead of asking for payment, though, he said, "You know Kevin? . . . You owe Kevin
+			 Jackson."
+				-". . . Where do we find Kevin?" Quiana asked.
+				 "He'll find you. Don't worry about it. You'll see him around one of your lots'
+				 things."
+			-Boons:
+				-Cade now owes a minor boon to Quiana for this.
+				-Both players owe a minor boon to Kevin Jackson, or maybe a bit more, for the drugs
+				 and for having fucked around in his domain (particularly Dominating that guy).
+-TODO: XP for prelude!
+	-Core pg. 131 (PDF numbering) is useful.
+	-I don't especially like giving differing amounts to different people (_maybe_ for out-of-session
+	 work), but 2 pts. to both does feel reasonaby justified after the prelude.
 -First story:
 	-Took place October 8th, 1991.
-	- TODO: painting
+	-Quiana drove, picking up Cade at his studio, along with an enormous painted triptych.
+		-They parked the car in a garage, roughly a block and a half from the museum.
 	-On the way to presentation to Prince Lodin:
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
 		 (Brujah), and Marc Levesque (Brujah; "Frenchie", but _hates_ it).
