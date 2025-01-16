@@ -59,6 +59,7 @@ Attributes: (7/5/3 above base of 1 in each)
 
 
 Abilities: (13/9/5, max of 3)
+
 	Talents: (13)
 
 		- Alertness (pg. 100):		3
@@ -68,24 +69,20 @@ Abilities: (13/9/5, max of 3)
 		- Subterfuge (pg. 103):		3
 
 
-		
 	Skills: (9)
 
 		- Crafts (pg. 104): 		3
 			Malcolm makes his own bodhrans, including the frame bending and skin stretching. Cade dresses his models in light-colored leather clothing that he makes himself. Sometimes the look rubs other anit-Tzimisce Kindred the wrong way.
 
-		
 		- Etiquette (pg 104):		2
 
 		- Larceny (pg. 105):		1
-			Malcolm the bodhran player has been known to steal some supplies on and off. And he had to break into Cade's lockbox to get his identity papers somehow.
-
+			Malcolm the bodhran player has been known to steal some supplies from time to time. And he did have to break into Cade's lockbox to get his identity papers somehow.
 
 		- Performance (pg. 105):	3
 
 
 	Knowledges: (5)
-
 
 		- Technology (pg. 110):		3
 			Malcolm has gotten quite proficient at tool repair. In Cade's quest to design even more exotic setpeices and costumes he has started to dable in creating new tools to suit his needs.
@@ -93,39 +90,37 @@ Abilities: (13/9/5, max of 3)
 
 		- Computer (pg. 108):		2
 
-		
+		- Camarilla Lore (pg. 38):	1
+
+
 
 Disciplines: (3)
 
 	- Auspex (pg. 134):			1
-		* 	Heightened Senses (Perception + Alertness)
+		* 	Heightened Senses (Decreases difficulty in die roll for perception rolls)
 
 	- Dementation (pg. 147): 	1
-		* 	Passion (Charisma + Empathy)
+		* 	Passion (Turn up or down emotions, roll Charisma + Empathy @ victim Humanity or Path)
 
 	- Obfuscate (pg. 184): 		0
 
 	- Presence (pg. 193): 		1
-		* 	Awe (Charisma + Performance)
-	
+		* 	Awe (Desire to be close and become receptive to POV, blood point and roll Charisma + Performance @ 7)
+
 
 Backgrounds: (5)
 
 	- Alternate Identity (pg. 111):	3
-
 	- Fame (pg. 114): 				1
-
 	- Generation (pg 114): 			0 + (5) = 5
-
 	- Herd (pg. 114):				1
-		Lackies that participate in Malcolm's performance art pieces ???
-
-
+		Lackies that participate in Malcolm's performance art pieces
 	- Resources (pg. 115):			0 + (3) = 3
 		Malcolm fled the UK after pilfering all of Cade's assets, which were reasonably hefty. Of course Cade was just taking all of his assets with him as he relocated across the pond.
 
 
 Humanity Rating:  (Conscience + Self-Control)
+
 Virtues: (7 above base of 1 in each)
 	Conscience: 	(1) + 1 = 2
 	Self-Control:	(1) + 2 = 3
@@ -140,22 +135,12 @@ Merits & Flaws: (Freebie Points)
 	
 
  	- Additional Disipline (pg. 494): 	+5 points
-	
-
 	- Bad Sight (pg. 481):				-1
-
-
 	- Impatient (pg. 485):				-1
-
-
 	- Speech Impediment (pg. 485):		-1
 		Malcolm has a strong Scottish accent that is often quite hard to understand.
-
-
 	- Dark Secret (pg. 489):			-1
 		Malcolm killed a Toreador and was packed off to Chicago under false pretenses.
-
-
 	- New Arrival (pg. 490):			-1
 
 
@@ -202,20 +187,108 @@ Items:
 
 
 
+Minor Boon:
+
+- To Quiana - 
+	- Asked for connection for dealer for Ketamine (Tonk) and Benzos (Blueys).
+
+
+- 
+
 Notes:
 
 	- The Rack - Feeding areas of the city. In Chicago, mainly River North bar scene.
 	- The Blue Velvet
 	- Succubus Club
+		- 	Met wonderful Melinda and got her number
 	- 
+
+
+	- Know where The Chanchery is of the Tremere of Chicago (including Bonnie Lass Quiana Gannon)
+
+
+	- 1/2 ketamine
+	- 4+ ounces benzos
+	- lots of crack cocaine
+	- 50+ other pharmaceuticals
+
+
+
+	- How does Malcolm get set up with studio space and/or place to live?
+		- Studio in Wicker Park
+		- Sleep in the locked dark room (locks from the inside)
+	- What security measures does he take?
+		- Steel doors on the dark room  --- are they thick enough???
+	- What are next steps to get a Herd?
+		- Take pictures and video of his victims, er, rather models after splashing them with red and purple paint. Provide them with ample amounts of ketamine and benzos.
+			- Careful to only give the kiss to sleeping models after it's worn off a bit.
+			- This is hard to do; sometimes he is not as careful as he'd like
+	- Why do they let him take their blood?
+		- They are passed out or making out with him in the dark room
+
+
+	- Cade is paranoid that he "Shouldn't let humans steal my blood, because they are after my bodily fluids. They are fiending for it."
+		- Fat ones are a little safer because they already got the fluids probably.
+
+
+
+
+
+
+
+
+Slang:
+
+	- "Braw business"	- Good businesshel
+	- "Toot"			- Cocaine
+	- "Aye"				- Yes
+	- "Awfy"			- awfully, very
+	- "Ah ken"			- I know
+	- "Aboot"			- about
+	- "Hame"			- Home
+
 
 
 Next Step:
 
-	- How does Malcolm get set up with studio space and/or place to live?
-	- What security measures does he take?
-	- What are next steps to get a Herd?
-	- Why do they let me take their blood?
+
 	- Doing something with blood?
+		- 
+
+
+	- Extra security for for the studio for daytime?
+
+		- I'm looking for a really fat guy, ideally named Arturo, that sits outside the front door during the day to make sure the fiends don't eat me
+
+
+
+	- For presentation Cade will bring a 6x12 triptych (6x4 panels) of abstracts painted in blood, semen, and oil. The panels represent the three parts of the unlife of the kindred.
+
+
+		- Speech:
+
+		To Kindred, blood is not merely sustenance; it is the very essence of life, a sacred and intoxicating elixir that transcends mere physical need. It is the lifeblood of their existence, a conduit to their immortality and power, and a deep, unyielding link to the living world they are forever separated from.
+
+		Blood is glory itself. Each drop is a symphony of vitality, carrying with it the primal force of existence—a rhythm that pulses in the veins of every mortal being. To taste it is to taste life itself, raw and unfiltered. To drain it is to siphon the very soul of the living, to momentarily capture a fleeting spark of what it means to be truly alive. The act of feeding is not just a hunger, but a sacred ritual, a powerful assertion of the vampire’s dominance over death, a reclaiming of what time has taken away.
+
+		Every vessel that holds blood is a treasure trove of memories, experiences, and emotions—sublime and ephemeral. The blood of a warrior is seasoned with pride and valor; the blood of an artist hums with creativity and passion. To a vampire, each unique flavor, each distinct pulse, is a brushstroke in the grand painting of existence. The more one feeds, the deeper their connection to the tapestry of life becomes, a kaleidoscope of sensations that floods the senses.
+
+		Yet, blood is also a dangerous drug. For a vampire, the allure of blood is a siren’s call, a maddening obsession that beckons with the promise of power, but can drag them into madness or endless thirst. Its glory is matched only by its peril—its sweetness is addictive, its potential to corrupt infinite. The vampire who loses control may be lost to the frenzy, consumed by their own need.
+
+		In their eternal night, where time stands still and the world changes without them, blood is the one constant—unchanging, immortal, glorious. It is both the key to their survival and the very thing that defines them. Blood is their strength and their curse, their power and their prison. To drink is to embrace their true nature: both predator and parasite, divine and damned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
