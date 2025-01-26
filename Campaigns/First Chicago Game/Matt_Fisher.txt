@@ -1,0 +1,72 @@
+Name: Matt Fisher
+Clan: Caitiff
+Nature: 
+Demeanor: 
+Ruleset: V20
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: ()
+		Strength: 
+		Dexterity: 
+		Stamina: 
+	Social: ()
+		Charisma: 
+		Manipulation: 
+		Appearance: 
+	Mental: ()
+		Perception: 
+		Intelligence: 
+		Wits: 
+
+Abilities: (13/9/5, max of 3)
+	Talents: ()
+		
+	Skills: ()
+		Performance: 3
+			Specialty: Guitar
+		
+	Knowledges: ()
+		
+
+Disciplines: (3)
+	Chimerstry: 3
+
+Backgrounds: (5)
+	
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 
+	Self-Control: 
+	Courage: 
+	
+Willpower:  (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: ( Freebie Points)
+	
+
+Freebie Points: (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-Long, lank brown hair, generally dirty.
+		-Brown eyes.
+		-Weathered white skin.
+		-Apparent age is in his 40s.
+		-Pierced ears and a lip piercing, though the last is lacks any jewelry these days.
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-Burnout sired by a passing Ravnos.
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-

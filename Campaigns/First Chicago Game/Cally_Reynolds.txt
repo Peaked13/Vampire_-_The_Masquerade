@@ -1,0 +1,108 @@
+Name: California "Cally" Reynolds
+	-"Mom always wanted to move West but, when she got pregnant, she decided she had her California
+	 right here. . ."
+Clan: Caitiff
+Nature: 
+Demeanor: 
+Ruleset: V20
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (3)
+		Strength: 2
+		Dexterity: 2
+		Stamina: 2
+	Social: (7)
+		Charisma: 5
+			Specialty: Sympathetic (invented by me)
+		Manipulation: 2
+		Appearance: 3
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: ()
+		
+	Skills: ()
+		
+	Knowledges: ()
+		
+
+Disciplines: (3)
+	Animalism: 1
+	Auspex: 1
+	Presence: 1
+	
+	Design notes:
+		-Presence lullabies?
+			-Second dot too maybe?
+		-Auspex?
+		-Animalism?
+
+Backgrounds: (5)
+	Allies: 1
+		-Your family: husband, mother, son.
+		-Hardly of "moderate influence", hence the low Allies rating despite two adults.
+	Contacts: ?
+		-Old hippies she knows, both through her mom and more personally. They offer a connection
+		 for drugs, places to crash nationwide, and other related favors.
+	Resources: 1 (maybe 2)
+	Retainers: 1
+		-Your two (regular) dogs, albeit large-ish breeds (golden retriever and another?).
+		-You can't create ghouls, hence two dogs for one retainer dot.
+	TODO: More!
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 
+	Self-Control: 
+	Courage: 
+	
+Willpower:  (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: (No change to Freebie Points)
+	Blush of Health (2 pt. Merit):
+		-You look more human than your most vampires, retaining the color of the living, and your
+		 skin feels only slightly cool to the touch.
+	Fifteenth Generation (4 pt. Flaw):
+		-Only 6 of your 10 blood points can be used for anything but waking up.
+		-Blood costs for anything but waking are doubled.
+		-No blood bonding others, ghouls, or siring. No disciplines above 3.
+		-Sunlight is lethal damage, can eat food like the merit, and might be able to birth a child.
+	Friendly Face (1 pt. Merit):
+		-Appropriate Social rolls (yes for Seduction, no for Intimidation) get -1 difficutly with
+		 strangers during first meeting only.
+	Inoffensive to Animals (1 pt. Merit):
+		-Animals don't treat you any different from a hunam.
+
+Freebie Points: (15)
+	
+
+Character Description and Background:
+	-Appearance:
+		-White woman with long, wavy, brown hair and brown eyes.
+		-She stands 164cm (5'4") tall and is slender.
+		-She has an open, easy to trust face.
+		-More pretty than beautiful.
+	-As a mortal:
+		-
+	-Your embrace:
+		-
+	-Has a family she still lives with.
+		-Husband and young kid.
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
+
+Design notes:
+	 female; afraid
+	
+		

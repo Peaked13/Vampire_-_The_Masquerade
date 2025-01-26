@@ -74,10 +74,10 @@
 	-Ideally some pathetic ones. . .
 	-Fred Pearson:
 		-My "more prey than predator" Caitiff. He's great for this.
-	- female; afraid
-		-Has a family.
-		-Presence lullabies?
-	-
+	-Cally Reynolds:
+		-Thinblooded family woman.
+	-Matt Fisher:
+		-Burnout sired by a passing Ravnos.
 -Set one or more of coterie up for the bond?
 	-Ignorantly falling into it is a common them in Chicago by Night.
 -Set in 1991.
@@ -183,12 +183,20 @@
 	 work), but 2 pts. to both does feel reasonaby justified after the prelude.
 -First story:
 	-Took place October 8th, 1991.
-	-Quiana drove, picking up Cade at his studio, along with an enormous painted triptych.
+	-Quiana drove, picking up Cade at his studio, along with an enormous painted triptych he made
+	 for the occasion.
+		-Wesley found a real painting made with blood and semen that he's modeling it after.
+			-TODO: Has Cade made something like this before? Has it yellowed? Could be mistaken as
+			 fitting the fire theme of the event. . .
+				-
 		-They parked the car in a garage, roughly a block and a half from the museum.
 	-On the way to presentation to Prince Lodin:
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
 		 (Brujah), and Marc Levesque (Brujah; "Frenchie", but _hates_ it).
-			-
+			-Threatening the "baby Cammies":
+				""
+				"Don't think telling any tales will help you. Your Cammie 'friends' will pounce on
+				 any weakness you show."
 			-Gengis: "Yeah! You tell him, Dick. . . head.
 			 Dickie, sarcastically: ". . . Nice one, dumbshit."
 		-Saved by Caitiff, Priscilla/"Madame".
@@ -198,8 +206,10 @@
 					-Yeah, this is perfect.
 				-"Madame" is the perfect person to spred a salacious rumor like this.
 	-Presentation to the prince:
+		-Hosted at the Art Institute, in a large gallery filled, for the occasion, with paintings
+		 of flames and, especially, burning cities.
 		-Quiana is loathed by Prince Lodin and Joseph Peterson, due to Tremere maneuvering
-		 around his Embrace.
+		 around her Embrace.
 		-Only other Tremere present will be Garwood Marshall.
 			-This event is more about the general public than the Primogen so Nicolai feels no
 			 need to be present, and he and DuSable would rather let Quiana suffer the
@@ -208,23 +218,50 @@
 			 maybe Annabelle.
 				-Damien might hit on Quiana.
 			-Quiana should recognize him.
+		-Ventrue present:
+			-Lodin, of course.
+				-His Status is obvious from both how his broods are arranged around him and by the
+				 near-throne on which he sits.
+					-A Knowledge or other roll related to the arts (or maybe Chicago) would identify
+					 this and much of the rest of the furnishings as objects from the Institute's
+					 collections.
+					-An _especially_ good roll would identify other bits as _not_ from the
+					 collection, or anywhere else you know, but being of _at least_ as lavish
+					 quality.
+			-Capone:
+				-No roll necessary here: there are at least 5 spots within a block where you could
+				 buy a t-shirt with his face on it, and he has taken to playing up the gangster
+				 aesthetic even more than he did in life.
+			-Joseph Peterson:
+				-Quiana should recognize him, having interacted with him at least briefly before
+				 her embrace.
+			-Kevin Jackson:
+				-Red suit, surrounded by black kine showing the same gang colors.
+			-Horatio and Lawrence Ballard:
+				-Perception + Alertness to notice a family resemblence.
+				-Perception + Empathy to notice TODO
+				-Either way, Horatio's corpulence certainly stands out.
+			-Alan TODO
+			-Edward Neally waiting on Lodin.
+				-Same Perception + Empathy roll to notice the relationship.
+			- TODO more
 		-Maureen O'Leary attends, wheeled in by Son and escorted by Ventrue goons.
 			-I don't think Cade's actual clan will be known. . . but Malkavians have ways
 			 of knowing things. . .
-			-Ah, madee the date October 8th, the anniversary of the Great Chicago Fire and the
+			-Ah, made the date October 8th, the anniversary of the Great Chicago Fire and the
 			 one day Prince Lodin forces O'Leary to attend to him, rather than avoiding him at
 			 all costs.
 		-Introduce Desmond Lee at the same time:
 			-Coming from Corpus Christi, "fleeing" the Sabbat.
 			-Cashing in some boon to settle (publicly!) in Chicago.
-				-Boon held by "Brandon McCarthy"?
+				-Boon held by "Brandon McCarthy".
 				-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
 			-Recognized by Wolf Pack member?
 				-Tyrus, their leader?
 			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
 				-Limits initial familiarity with the stranger, while also showing off Ballard's
 				 disgusting talent.
-					-Oh! Have some mortal who shows a family resemblance. to Horatio and Lawrence
+					-Oh! Have some mortal who shows a family resemblance, to Horatio and Lawrence
 					 both, deliver it, to wedge in another detail?
 		-Prince will certainly snub Quiana, and maybe Cade by association.
 			-Use this as an opportunity to push them toward the Caitiff.
@@ -255,11 +292,24 @@
 					-She should emphasize the word "mansion". . .
 					-She's clearly sniffing around Cade to use him as a potential new
 					 novelty to spice up her parties.
+				-Complement the triptych and it's right-on-theme nature (apparently).
+					-"The flames and. . . *sniff* commemorating the. . . seminal moment of the
+					  Prince's reign. . . It's. . . *chef's kiss*"
+				-"This city needed some new excitement. Why, I was bored enough attend Drummond's
+				  _railroad_ exhibition last month. . ."
+					-It's an opportunity to plant a seed that could be used if I run the "Anabelle's
+					 Party" story from Succubus Club.
+					-Maybe even have the musician or sculptor mentioned on page 40 at Anabelle's
+					 first party?
+				-How can I work Desmond, or other Caitiff, into either party?
+					-
 				-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-Pushed by Joseph Peterson to address a Masquerade violation.
-			-The Ventrue demand this of _Cade_, rather than Quiana.
+			-The Ventrue demands this of _Cade_, rather than Quiana.
 				-Tied to the art world, it's a filmmaker creating problematic films.
-				-His name is Arthur Webb.
+					-"He's very much your sort of _degenerate_ art. . ." with a glance at the
+					 triptych.
+				-The filmmaker's name is Arthur Webb.
 				-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
 					-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
 					 brushing up against concepts and themes adjacent to _Golconda_.
@@ -270,7 +320,9 @@
 					-On the other hand, a differently disposed PC could use this to pick up the
 					 trail of Golconda. . .
 					-Weltmann is just generally a fantastic NPC for Cade to interact with.
-				-
+				-"Here's your opportunity to associate with a better class of Kindred. . . and do a
+				  favor for one."
+		-Kevin Jackson then breaks in, saying, "He (they?) already _owe_ better than you. . ."
 			-
 -Second story:
 	-
