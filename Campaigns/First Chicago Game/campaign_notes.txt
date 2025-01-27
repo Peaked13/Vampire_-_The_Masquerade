@@ -177,18 +177,19 @@
 				-Cade now owes a minor boon to Quiana for this.
 				-Both players owe a minor boon to Kevin Jackson, or maybe a bit more, for the drugs
 				 and for having fucked around in his domain (particularly Dominating that guy).
--TODO: XP for prelude!
+-Gave XP for the prelude.
 	-Core pg. 131 (PDF numbering) is useful.
 	-I don't especially like giving differing amounts to different people (_maybe_ for out-of-session
 	 work), but 2 pts. to both does feel reasonaby justified after the prelude.
+	-Opted for 3.
 -First story:
 	-Took place October 8th, 1991.
 	-Quiana drove, picking up Cade at his studio, along with an enormous painted triptych he made
 	 for the occasion.
 		-Wesley found a real painting made with blood and semen that he's modeling it after.
-			-TODO: Has Cade made something like this before? Has it yellowed? Could be mistaken as
+			-Has Cade made something like this before? Has it yellowed? Could be mistaken as
 			 fitting the fire theme of the event. . .
-				-
+				-No, he hasn't, so it has indeed yellowed!
 		-They parked the car in a garage, roughly a block and a half from the museum.
 	-On the way to presentation to Prince Lodin:
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
@@ -205,9 +206,14 @@
 				 Quiana than is widely known?
 					-Yeah, this is perfect.
 				-"Madame" is the perfect person to spred a salacious rumor like this.
+			-They heard her referred to as "Pris".
+		-They heard the names "Marc" and Gengis and Marc's "French" accent.
+		-They saw Dickie Obfuscated as a black man, theough did hear the "Dick. . . head" bit.
 	-Presentation to the prince:
 		-Hosted at the Art Institute, in a large gallery filled, for the occasion, with paintings
 		 of flames and, especially, burning cities.
+		-Upon entering the room, have the PCs roll Perception + Empathy _and_ Perception +
+		 Ettiquette to get information about the people present.
 		-Quiana is loathed by Prince Lodin and Joseph Peterson, due to Tremere maneuvering
 		 around her Embrace.
 		-Only other Tremere present will be Garwood Marshall.
@@ -239,12 +245,12 @@
 				-Red suit, surrounded by black kine showing the same gang colors.
 			-Horatio and Lawrence Ballard:
 				-Perception + Alertness to notice a family resemblence.
-				-Perception + Empathy to notice TODO
+				-Perception + Empathy to notice the relationship.
 				-Either way, Horatio's corpulence certainly stands out.
-			-Alan TODO
+			-Alan Sovereign waiting on Horatio.
 			-Edward Neally waiting on Lodin.
-				-Same Perception + Empathy roll to notice the relationship.
-			- TODO more
+			-Schumpter and Thornhill are circulating, while Bobby Weatherbottom stands alone in one
+			 corner.
 		-Maureen O'Leary attends, wheeled in by Son and escorted by Ventrue goons.
 			-I don't think Cade's actual clan will be known. . . but Malkavians have ways
 			 of knowing things. . .
