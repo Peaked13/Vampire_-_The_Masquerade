@@ -50,8 +50,9 @@ Disciplines: (4 + 1 for Freebie Points spent)
 	Obfuscate: 1
 	Vicissitude: 2
 
-Backgrounds: (0 + 5 for Freebie Points spent)
-	Alternate Identity: ?
+Backgrounds: (0 + 7 for Freebie Points spent)
+	Alternate Identity: 2
+		-"Desmond Lee" _is_ the alternate identity.
 	Generation: 4
 		-Ninth generation: 14 blood pool, can spend 2 per turn.
 		-Max allowed as a Pander at character creation. Represents successful diablerie on your
@@ -74,21 +75,17 @@ Virtues: (7 above base of 1 in Courage, none in alternate virtues)
 Willpower: 5 (equal to Courage, minimum 5 to follow a path)
 Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
-Merits & Flaws: (+3 Freebie Points)
-	Repulsed by Garlic (1 pt. Flaw, Core pg. 301):
+Merits & Flaws: (+5 Freebie Points)
+	Dark Secret (1 pt. Flaw, Core pg. 489):
+		-Also very appropriate for a Camarilla game, given that you're Sabbat
+	New Arrival (1 pt. Flaw, Guide to the Camarilla pg. 77):
+		-Potentially appropriate for using this character in a Camarilla game where you're
+		 claiming to be a newly arrived Caitiff.
+	Repulsed by Garlic (1 pt. Flaw, Core pg. 494):
 		-You cannot abide garlic and the scent will drive you from a room unless you succeed on a
 		 Willpower roll with difficulty based on the strength of the odor.
 	Vulnerability to Silver (2 pt. Flaw, Guide to the Sabbat pg. 95):
 		-Silver weapons deal aggravated to you, and the mere touch of silver discomfits you.
-	Potential extras, depending on game:
-		New Arrival (1 pt. Flaw, Guide to the Camarilla pg. 77):
-			-Potentially appropriate for using this character in a Camarilla game where you're
-			 claiming to be a newly arrived Caitiff.
-		Dark Secret (1 pt. Flaw, Core pg. 300):
-			-Also very appropriate for a Camarilla game, given that you're Sabbat
-		-Points from the above, both suited to a Camarilla game, should probably go to dots in
-		 the Alternate Identity background, to tie the whole thing together and put you on a
-		 somewhat solid footing.
 
 Freebie Points: (15 + 3 for Merits and Flaws)
 	4	Generation 4

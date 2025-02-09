@@ -252,12 +252,17 @@
 				-Red suit, surrounded by black kine showing the same gang colors.
 			-Horatio and Lawrence Ballard:
 				-Perception + Alertness to notice a family resemblence.
-				-Perception + Empathy to notice the relationship.
+				-Perception + Empathy to notice the power relationship.
 				-Either way, Horatio's corpulence certainly stands out.
 			-Alan Sovereign waiting on Horatio.
 			-Edward Neally waiting on Lodin.
 			-Schumpter and Thornhill are circulating, while Bobby Weatherbottom stands alone in one
 			 corner.
+		-Rolls:
+			-Quiana and Cade each got 3 or 4 successes on their Perception + Alertness and Perception
+			 + Empathy rolls (one each on each, and with opposite results, Alertness vs. Empathy, but
+			 I don't remember who was which). Close enough that they both get similar info in both
+			 categories.
 		-Maureen O'Leary attends, wheeled in by Son and escorted by Ventrue goons.
 			-I don't think Cade's actual clan will be known. . . but Malkavians have ways
 			 of knowing things. . .
@@ -269,13 +274,6 @@
 			-Son was rather offputting to Cade (one success on the humanity roll) and Quiana
 			 recognized him for the stone-cold psychopath he is (six successes!).
 		-Prince will certainly snub Quiana, and maybe Cade by association.
-			-Use this as an opportunity to push them toward the Caitiff.
-				-"Stand with the rabble. I have other business to attend to. . ."?
-				-Or simply have those more elite follow the Prince's lead and turn away from them?
-				-Priscilla/"Madame" will be there with them, and she's almost a friendly face
-				 for them by this point, hopefully.
-					-Gordon Keaton will be there too, and they should both see mistreatment of
-					 her by them ("Whore") and her fawning over him.
 			-They actually ended up presenting separately, Quiana delaying the event as much as
 			 possible, but Cade walking up very shortly after entering, almost as fast as he could
 			 drag his enormous triptych (that Quiana had stopped helping carry to talk with Garwood)
@@ -292,8 +290,15 @@
 				-She then attempted (hard) to converse with Joseph Peterson, ignoring him turning
 				 his back to her and trying to insist, only for him to shout angrily at her to "Get
 				 the fuck away from me!"
+					-I wonder if she believed Priscilla at face value. . .
 				-It was then that the Prince intervened again, telling her to leave Mr. Peterson
 				 alone and go stand with the other rabble, pointing at the Caitiff.
+			-Used this as an opportunity to push Quiana toward the Caitiff.
+				-"Stand with the rabble, and leave Mr. Peterson be. . ."
+				-Priscilla/"Madame" will be there with them, and she's almost a friendly face
+				 for them by this point, hopefully.
+					-Gordon Keaton will be there too, and they should both see mistreatment of
+					 her by them ("Whore") and her fawning over him.
 		-THE SESSION LEFT OFF HERE.
 		-Introduce Desmond Lee at the same time:
 			-Coming from Corpus Christi, "fleeing" the Sabbat.
@@ -302,6 +307,8 @@
 				-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
 			-Recognized by Wolf Pack member?
 				-Tyrus, their leader?
+				-Could verify both the presence of "Des" and McCarthy when last they rode through.
+				-Perhaps they visited _due_ to it's impending danger from The Sabbat.
 			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
 				-Limits initial familiarity with the stranger, while also showing off Ballard's
 				 disgusting talent.
@@ -312,13 +319,15 @@
 			-Son wheels her over to them, to examine Cade.
 				-Remember the Humanity roll in Son's description!
 			-Who else is with them?
-				-Eh, probably no one else. The Smith's rarely leave the asylum and the others
+				-Eh, probably no one else. The Smiths rarely leave the asylum and the others
 				 are not strongly associated with the inmates.
 			-Cade should be subjected uncomfortable examination by O'Leary: lots of
 			 staring and face touching.
 				-Afterwards, she should seem satisfied, maybe with a knowing nod, but mostly
 				 speak gibberish.
-				-"Artist who changes people. . ."?
+				-Useful phrases:
+					"Artist who changes people. . ."
+					"Pale of skin. . . dark of vein."
 		-Annabelle Treabelle should then use that as giving her leave to approach Cade
 		 too.
 			-She's likely escorted by Bret.
@@ -337,9 +346,25 @@
 					 Party" story from Succubus Club.
 					-Maybe even have the musician or sculptor mentioned on page 40 at Anabelle's
 					 first party?
+				-Her clique there:
+					-Bret
+					-Sophia
+					-Michael
+					-Tamoszius?
 				-How can I work Desmond, or other Caitiff, into either party?
 					-
 				-The party will draw heavily on the "Annabelle's Party Elite" coterie.
+		-Kevin Jackson, or at least one of his men, should approach both players.
+			-Might be a good option for interacting with Quiana if the two of them stay apart, he
+			 not being afraid of Lodin, much less Peterson.
+				-Ask her about Tremere shit?
+				-Definitely won't accept any denials of debt, having it "on a good authority that
+				 _she_ made the call."
+					-Protests that she gave the drugs to Cade should be met with, "Well, I hope he
+					 knows how much he owes you, then, but that doesn't change what _you_ owe."
+		-One of the Ballards might also approach Quiana, if I need more of that?
+			-_Especially_ after Jackson is seen to do so, Horatio being a major rival of Capone, and
+			 seeing opportunity in Capone and Jackson's incipent rivalry.
 		-Pushed by Joseph Peterson to address a Masquerade violation.
 			-The Ventrue demands this of _Cade_, rather than Quiana.
 				-Tied to the art world, it's a filmmaker creating problematic films.
@@ -358,7 +383,28 @@
 					-Weltmann is just generally a fantastic NPC for Cade to interact with.
 				-"Here's your opportunity to associate with a better class of Kindred. . . and do a
 				  favor for one."
-		-Kevin Jackson then breaks in, saying, "He (they?) already _owe_ better than you. . ."
+				-Hmm. . . occult symbolism and the like might be a way to push Cade to draw Quiana
+				 into this. . .
+		-Kevin Jackson could also break in here, saying, "He (they?) already _owe_ better than
+		 you. . ."
 			-
+		-Khalid or another Nosferatu gently interrogating Quiana would also be an option.
+			-Especially useful if she's floundering a bit, given all the cold shoulders and her (at
+			 time of writing) separation from the more approachable Cade.
+			-Khalid certainly is curious about why she was made, given that it has signs of a shift
+			 in power and allegiances amongst he Prince and Primogen.
+			-Hmm. . . Khalid rarely reveals himself to non-Nosferatu Kindred, but none of the other
+			 Nosferatu are really suitable for this.
+				-I was figuring he'd appear Masked, but I guess he will do so only if unobserved and
+				 not reveal much of himself.
+		-Followed home by bloods?
+			-Perception + Alertness to detect.
+			-Where does Quiana head back to?
+				-If she _eventually_ goes back to the condo, well, they can wait patiently if need
+				 be, though that may open more opportunities to learn about the tail, before or
+				 after making it home.
+			-If so, _both_ of them will eventually have a package waiting for them one evening.
+				-Inside are three bricks, labeled K, C, and H, along with a paper heart, in blood
+				 red, labeled KJ.
 -Second story:
 	-
