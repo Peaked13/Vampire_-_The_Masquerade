@@ -299,25 +299,52 @@
 				 for them by this point, hopefully.
 					-Gordon Keaton will be there too, and they should both see mistreatment of
 					 her by them ("Whore") and her fawning over him.
-		-THE SESSION LEFT OFF HERE.
-		-Introduce Desmond Lee at the same time:
+		-Introduced Desmond Lee at the same time:
 			-Coming from Corpus Christi, "fleeing" the Sabbat.
 			-Cashing in some boon to settle (publicly!) in Chicago.
 				-Boon held by "Brandon McCarthy".
-				-Delivers to Lodin the colonel's insignia Lodin brandished about in Vera Cruz?
-			-Recognized by Wolf Pack member?
-				-Tyrus, their leader?
-				-Could verify both the presence of "Des" and McCarthy when last they rode through.
-				-Perhaps they visited _due_ to it's impending danger from The Sabbat.
-			-Drive him off with the smell of garlic, due to Horatio Ballard eating?
+				-Delivered to Lodin the colonel's insignia Lodin brandished about in Vera Cruz.
+			-Recognized by Wolf Pack member.
+				-Tyrus, their leader, said he remembered meeting McCarthy there when last they rode
+				 through, and thought he saw Des there too.
+				-They visited _due_ to it's impending danger from The Sabbat.
+			-Drove him off with the smell of garlic, due to Horatio Ballard eating.
 				-Limits initial familiarity with the stranger, while also showing off Ballard's
 				 disgusting talent.
-					-Oh! Have some mortal who shows a family resemblance, to Horatio and Lawrence
-					 both, deliver it, to wedge in another detail?
-		-Maureen O'Leary and her clanmates should be the first to rescue the PCs from their
-		 snubbing.
-			-Son wheels her over to them, to examine Cade.
-				-Remember the Humanity roll in Son's description!
+					-Had some mortal who shows a family resemblance, to Horatio and Lawrence both,
+					 deliver it, to wedge in another detail.
+				-Mentioned, mostly to Rohit, the smell of the food, wedging garlic in among the
+				 various Italian food spices, and also mentioned garlic bread, but he didn't seem
+				 to pick up on the carefully disguised significance.
+		-Cade approached Kevin Jackson.
+			-He introduced himself (though Jackson seemed to know who he was) and rather graciously
+			 thanked Jackson for his help.
+			-He mentioned an interest in moving "product" of his own, but, once he made it clear
+			 he was referring to his _art_, Jackson pointed Cade at his "fellow Toreador".
+		-So Cade then approached Annabelle Treabelle and her clique.
+			-She was carefully escorted by Bret.
+			-She took the opportunity to display scorn for the Caitiff.
+			-She extended an invitation to Cade to a party later, at her mansion.
+				-She emphasized the word "mansion". . .
+				-She's clearly sniffing around Cade to use him as a potential new
+				 novelty to spice up her parties.
+				-She gave the date as 10/12, two hours after sundown, and had Brett give Cade her
+				 "calling card".
+				-She also told him to bring a guest.
+			-Complemented the triptych and it's right-on-theme nature (apparently).
+				-"The flames and. . . *sniff* commemorating the. . . seminal moment of the
+				  Prince's reign. . . It's. . . *chef's kiss*"
+			-"This city needed some new excitement. Why, I was bored enough attend Drummond's
+			  _railroad_ exhibition last month. . ."
+				-It was an opportunity to plant a seed that could be used if I run the "Anabelle's
+				 Party" story from Succubus Club.
+			-Her clique there:
+				-Bret
+				-Sophia
+				-Michael
+		-Maureen O'Leary examined Cade and babbled at him.
+			-Son wheeled her over to her, standing with Michael Payne (who beat a hasty retreat
+			 while she was focused on Cade and holding his head in place.)
 			-Who else is with them?
 				-Eh, probably no one else. The Smiths rarely leave the asylum and the others
 				 are not strongly associated with the inmates.
@@ -325,71 +352,91 @@
 			 staring and face touching.
 				-Afterwards, she should seem satisfied, maybe with a knowing nod, but mostly
 				 speak gibberish.
-				-Useful phrases:
+				-Phrases used:
 					"Artist who changes people. . . who changed. . ."
 					"What is that infernal racket?!?"
 					"Pale of skin. . . dark of vein. Kin and kindred. . ."
-		-Annabelle Treabelle should then use that as giving her leave to approach Cade
-		 too.
-			-She's likely escorted by Bret.
-			-Excellent opportunity for her to snub Caitiff and display scorn for them.
-			-She'll extend invitations to Cade.
-				-Both over to her clique in Elysium and to a party later, at her mansion.
-					-She should emphasize the word "mansion". . .
-					-She's clearly sniffing around Cade to use him as a potential new
-					 novelty to spice up her parties.
-				-Complement the triptych and it's right-on-theme nature (apparently).
-					-"The flames and. . . *sniff* commemorating the. . . seminal moment of the
-					  Prince's reign. . . It's. . . *chef's kiss*"
-				-"This city needed some new excitement. Why, I was bored enough attend Drummond's
-				  _railroad_ exhibition last month. . ."
-					-It's an opportunity to plant a seed that could be used if I run the "Anabelle's
-					 Party" story from Succubus Club.
-					-Maybe even have the musician or sculptor mentioned on page 40 at Anabelle's
-					 first party?
-				-Her clique there:
-					-Bret
-					-Sophia
-					-Michael
-					-Tamoszius?
-				-How can I work Desmond, or other Caitiff, into either party?
-					-
-				-The party will draw heavily on the "Annabelle's Party Elite" coterie.
-				- invited to the party on the 12th; told to bring a guest
-		-Kevin Jackson, or at least one of his men, should approach both players.
-			-Might be a good option for interacting with Quiana if the two of them stay apart, he
-			 not being afraid of Lodin, much less Peterson.
-				-Ask her about Tremere shit?
-				-Definitely won't accept any denials of debt, having it "on a good authority that
-				 _she_ made the call."
-					-Protests that she gave the drugs to Cade should be met with, "Well, I hope he
-					 knows how much he owes you, then, but that doesn't change what _you_ owe."
+				-Cade successfully made a(n easy) Willpower roll after his clanmate hinted she
+				 recognized the relation.
+		-Quiana got to spend a lot of time talking with the Caitiff.
+			-She met:
+				Gordon
+				Priscilla
+					-Quiana called her Pris, but was corrected: "Pri_scilla_, but you can call me
+					 Madam."
+					-Rohit got a strong sense of Pris's bond, even asking what sort of spell she was
+					 under.
+						-I played it up pretty hard, with her fawning over Gordon despite abuse
+						 hurled her way, but playing it a mix of mean and cool towards everyone else.
+				Cally
+					-Described with "housewife dressed up for night out", "JC Penny dress".
+				Matt
+					-Described with long, greasy hair and a beat-up leather jacket.
+				Fred
+					-He didn't say a word to her, and quickly fled when Jackson's men eventually
+					 approached. She and Des only got his name from Matt.
+				Eventually, Des
+			-Des was long on "us", "clanless" (not Caitiff), and pride.
+				-Gordon left shortly after he arrived, in part due to the implied familiarity, and
+				 implying he's as low as the rest of the Caitiff.
+					-He went to go talk to Garwood.
+				-Matt eventually corrected his assumption that Quiana was a Caitiff.
+				-Des displayed some alarm at that, but was interrupted by the smell of Ballard's
+				 dinner.
+				-I certainly played up his disgust, and carefully had it begin when the _smell_
+				 began, before Ballard began eating, but also threw in a lot of chaff concerning
+				 how the various Kindred present found Ballard's eating disgusting too.
+				-As he left, he choked out a invitation to all there (though he probably didn't
+				 mean to extend it to Quiana) to meet him at The Succubus Club sometime.
+			-Quiana then asked the Caitiff a variety of questions.
+				-Why the Caitiff were held in such low esteem.
+				-Who various people were, and what Clans they represented, including:
+					-Baby Chorus
+						-Only learned Damien's clan.
+					-The Wolf Pack
+					-Jackson and his men.
+		-Kevin Jackson, noticing the attention from Quiana and the Caitiff, sent two of his men
+		 over to collect Quiana.
+			-She did make a somewhat sly attempt to pin the debt on Cade, but he responded that he
+			 had it "on a good authority that _she_ made the call."
+				-She mentioned she gave the drugs to Cade which met with, "Well, I hope he knows
+				 how much he owes you, then, but that doesn't change what _you_ owe."
+			-He mentioned an interest in Tremere shit: "A lot you can do with a witch. . ."
+			-He also generally suggested (in a suggestive fashion) that she find ways to be useful.
+			-She did offer a bit of her journalist role, though he didn't really bite.
+		-Cade was asked by Joseph Peterson to address a Masquerade violation.
+			-Tied to the art world, it's a filmmaker creating problematic films.
+			-"He's very much your sort of _degenerate_ art. . ." with a glance at the triptych.
+				-There was another easily passed Willpower role.
+			-The filmmaker's name is Arthur Webb.
+			-"Here's your opportunity to associate with a better class of Kindred. . . and do a
+			  favor for one."
+				-JP also sort of name dropped Lodin, implying some gratitude there too.
+			-Cade expressed not-quite-feigned interest in what Peterson was selling, and agreed to
+			 the plan.
+			-Peterson gave him a business card, asking him to call and let him know when the matter
+			 had been dealt with.
+		-They both then spent some time talking with Baby Chorus.
+			-Cade went over first, followed a little while later by Quiana.
+			-Mentioned Succubus Club.
+			-Told Cade about a gig at Blue Velvet on Friday.
+			-Keaton was still there.
+				-When Cade walked up, he heard Keaton and Garwood discussing a deal for blood, and
+				 sending "two girls" over to the chantry.
+				-Once Quiana arrived, Keaton said something about maybe seeing her around the chantry,
+				 then left.
+					-That prompted some questions for Garwood, who said, "Keaton is a resourceful
+					 man. Resources The Pyramid can use. And you know well that Clan Tremere has a
+					 lot to offer.
+			-Both met all of the band, and got some sense of what's going on with Ray.
+				-Space-cadet-y most of the time, but they saw flickers of other behavior, and Ray
+				 even introduced himself to Quiana as Cliff, with a firm handshake.
+				-Questions were mostly met with "Leave Ray alone. . ." and, once, "Also, stay away
+				 from Cliff."
+		-THE SESSION LEFT OFF HERE.
 		-One of the Ballards might also approach Quiana, if I need more of that?
 			-_Especially_ after Jackson is seen to do so, Horatio being a major rival of Capone, and
 			 seeing opportunity in Capone and Jackson's incipent rivalry.
-		-Pushed by Joseph Peterson to address a Masquerade violation.
-			-The Ventrue demands this of _Cade_, rather than Quiana.
-				-Tied to the art world, it's a filmmaker creating problematic films.
-					-"He's very much your sort of _degenerate_ art. . ." with a glance at the
-					 triptych.
-				-The filmmaker's name is Arthur Webb.
-				-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
-					-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
-					 brushing up against concepts and themes adjacent to _Golconda_.
-					-That, though, led Webb to do further research, and start incorporating more
-					 obviously problematic concepts in his own films.
-					-But, that wouldn't necessarily mean a ruthless PC couldn't use the link to
-					 make trouble for Weltmann.
-					-On the other hand, a differently disposed PC could use this to pick up the
-					 trail of Golconda. . .
-					-Weltmann is just generally a fantastic NPC for Cade to interact with.
-				-"Here's your opportunity to associate with a better class of Kindred. . . and do a
-				  favor for one."
-				-Hmm. . . occult symbolism and the like might be a way to push Cade to draw Quiana
-				 into this. . .
-		-Kevin Jackson could also break in here, saying, "He (they?) already _owe_ better than
-		 you. . ."
-			-
 		-Khalid or another Nosferatu gently interrogating Quiana would also be an option.
 			-Especially useful if she's floundering a bit, given all the cold shoulders and her (at
 			 time of writing) separation from the more approachable Cade.
@@ -408,7 +455,35 @@
 			-If so, _both_ of them will eventually have a package waiting for them one evening.
 				-Inside are three bricks, labeled K, C, and H, along with a paper heart, in blood
 				 red, labeled KJ.
-		-
-			- gig at Blue Velvet on Friday
 -Second story:
-	-
+	-Baby Chorus gig at Blue Velvet on Friday, 10/11/91:
+		-
+	-Anabelle's party at her mansion on Saturday 10/12/91:
+		-She's clearly sniffing around Cade to use him as a potential new novelty to spice up her
+		 parties.
+		-Maybe even have the musician or sculptor mentioned on page 40 of Succubus Club at
+		 Anabelle's first party?
+			-
+		-How can I work Desmond, or other Caitiff, into either party?
+			-
+		-The party will draw heavily on the "Annabelle's Party Elite" coterie.
+		-
+	-Arthur Webb's films, a Masquerade violation:
+		-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
+			-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
+			 brushing up against concepts and themes adjacent to _Golconda_.
+			-That, though, led Webb to do further research, and start incorporating more
+			 obviously problematic concepts in his own films.
+				- "resisting dark, bestial urges ; I mean ; vampires were a natural fit!"
+			-But, that wouldn't necessarily mean a ruthless PC couldn't use the link to
+			 make trouble for Weltmann.
+			-On the other hand, a differently disposed PC could use this to pick up the
+			 trail of Golconda. . .
+			-Weltmann is just generally a fantastic NPC for Cade to interact with.
+		-What Webb knows about Weltman:
+			- more recent films are the ones that included this theme of "enlightenment"
+				- his films aren't obviously dated, but content and production techniques enable strong guesses
+			- unsure if he's still alive, but his age if so. . .
+		-Hmm. . . occult symbolism and the like might be a way to push Cade to draw Quiana
+		 into this. . .
+		-
