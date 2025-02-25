@@ -481,9 +481,18 @@
 				-If so, _both_ of them will eventually have a package waiting for them one evening.
 					-Inside are three bricks, labeled K, C, and H, along with a paper heart, in blood
 					red, labeled KJ.
+-TODO:
+	-Humanity roll for the accident?
+		-Eh, it's on the border of what would call for it, and the rulebook explicitly recommends
+		 warning before making players roll.
+		-So, maybe just discuss it.
+	-Remind folks that spending blood for physical stats is a thing! Could have been handy in the
+	 chase, if any of us had thought of it.
 -Second story:
 	-Arthur Webb's films, a Masquerade violation:
-		-Ultimately, he saw films by Johann Weltmann, which led Webb down this path.
+		-The PCs discussed this in the car on the way home from The Art Institute, making plans to
+		 look into the matter the next night.
+		-Ultimately, Webb saw films by Johann Weltmann, which led Webb down this path.
 			-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
 			 brushing up against concepts and themes adjacent to _Golconda_.
 			-That, though, led Webb to do further research, and start incorporating more
@@ -495,14 +504,42 @@
 			 trail of Golconda. . .
 			-Weltmann is just generally a fantastic NPC for Cade to interact with.
 		-What Webb knows about Weltman:
-			- more recent films are the ones that included this theme of "enlightenment"
-				- his films aren't obviously dated, but content and production techniques enable strong guesses
-			- unsure if he's still alive, but his age if so. . .
+			-Weltman's more later films are the ones that included this theme of
+			 "enlightenment".
+				-His films aren't obviously dated, but content and production techniques (though
+				 they're all black and white) enable strong guesses.
+			-Webb is unsure if he's still alive, but he'd be pushing 100 if so. . .
+			-Weltman's relevant films:
+				-One about a over-sexed, cheating man who meets someone he desires greatly, only
+				 for her to die (tied to some action of his?) leading to increased depravity but
+				 decreased satisfaction, and eventually happiness only when he repents to those
+				 harmed and abandons desire.
+				-Stop motion film of a raging, wolf-like creature violently gobbling down small
+				 creatures, bloating further and further, until they're all explosively expelled
+				 forth, alive and whole, leaving a more dog-like creature that goes and lies down
+				 with the flock of sheep he now guards.
+					-Colorized blood?
+				- climbing mountain, pulling others down along the way ; tumbling again back down again and again ; making peace with the others ; buoyed up by them to enlightenment
 		-Hmm. . . occult symbolism and the like might be a way to push Cade to draw Quiana
 		 into this. . .
-		-The PCs discussed this in the car on the way home from The Art Institute, making plans to
-		 look into the matter the next night.
-		-
+		-Webb's inspiration from Weltman's films lead to him drawing on other inspiration with more
+		 explicit ties to the Kindred, and thus more overtly endangering The Masquerade.
+			-It was something at the University of Chicago, Webb's alma mater.
+				-An opportunity to involve Critias?
+			-While a student there, he encountered a misfiled document, a translation of a
+			 fragmentary Phoenecian inscription encountered during a North African expedition
+			 financed by the university's Oriental Institute in the 50's.
+				-It described the blood tithe due "Ba'al" (sometimes a god, but originally a word
+				 simply meanng "lord"), "as his father's father's father" *illegible inscription*
+				 "after his parents left the garden."
+				-My intended implication is a reference to Caine and a "lord" of the 4th generation.
+					-_Menele's_ generation. . .
+				-As such, Critias would _certainly_ be very interested in this document, and I'm
+				 intending to imply he might have been involved in sending the expedition out in the
+				 first place.
+				-Webb doesn't know where this document is. . . but knows where it _was_, and could
+				 offer clues to finding it.
+		-TODO: The above doc lead to ; depicts Caine, already a vampire, murdering his brother
 	-Baby Chorus gig at Blue Velvet on Friday, 10/11/91:
 		-End up at Succubus club after?
 			-Damien would go, and probably some of the others. Got the impression in one book or
@@ -524,8 +561,11 @@
 		-A wound to a the prince, but also a rather cruel thing to do.
 	-Import or make others?
 		-A (brutal) Pander of Des's past acquaintance?
+			-With Quietus
 	-Longterm:
 		-Des is obviously looking to change control of the city. . .
+-Are the Methuselahs aware of this new arrival and his plots? What do they think, if so?
+	-
 -XP given:
 	-Prologue: 3 XP
 	-The Presentation: 6 XP
