@@ -99,13 +99,15 @@ Disciplines: (3)
 	- Auspex (pg. 134):			1
 		* 	Heightened Senses (Decreases difficulty in die roll for perception rolls)
 
-	- Dementation (pg. 147): 	1
+
+	- Dementation (pg. 147): 	1      (GROW NEXT!)
 		* 	Passion (Turn up or down emotions, roll Charisma + Empathy @ victim Humanity or Path)
 
 	- Obfuscate (pg. 184): 		0
 
 	- Presence (pg. 193): 		1
 		* 	Awe (Desire to be close and become receptive to POV, blood point and roll Charisma + Performance @ 7)
+		*   Dread Gaze (frighten others by revealing vampiric nature, roll Charisma + Intimidation)
 
 
 Backgrounds: (5)
@@ -126,13 +128,14 @@ Virtues: (7 above base of 1 in each)
 	Self-Control:	(1) + 2 = 3
 	Courage: 		(1) + 4 = 5
 		
-Willpower:		5 + (2) = 7
+Willpower:		(Max 7)		5 + (2) = 7
 
 
-Blood Pool:		7 + 3 = 10 - 1 = 9
+Blood Pool:		(Max 15)	7 + 3 = 10 - 1 = 9 - 1 = 8 + 2 = 10
+
 
 Merits & Flaws: (Freebie Points)
-	
+
 
  	- Additional Disipline (pg. 494): 	+5 points
 	- Bad Sight (pg. 481):				-1
@@ -158,7 +161,7 @@ Freebie Points: (15)
 
 
 
-	
+
 
 Character Description and Background:
 	- Appearance:
@@ -180,21 +183,23 @@ Equipment/Items (stuff to start with or obtain):
 
 Advancement:
 	- Tentative schedule:
-		
+
 	- 
 
 
 Experience (pg. 124 / 132): 
 
-	- 3 pts
- 
+	- 3 pts + 6 pts = 9 pts - 5 = 4 pts
 
 
 
-Minor Boon:
 
-- To Quiana - 
-	- Asked for connection for dealer for Ketamine (Tonk) and Benzos (Blueys).
+Boons:
+
+	- To Quiana - 
+		- Asked for connection for dealer for Ketamine (Tonk) and Benzos (Blueys).
+	- To Kevin Anderson
+		- For receiving copious amounts of drugs to feed his hoard
 
 
 
@@ -211,7 +216,22 @@ Current Motives:
 	- Need to move my merchandise (artwork) to buyers
 
 
+	- Do a favor for Mr. Peterson, get a boon
+		- Find out what this Arthur Webb is doing
+		- Making films with problemantic concepts
+		- Upcoming showing at the Music Box
+		- some of his films are available on video tape indepedent stores
 
+
+Slang:
+
+	- "Braw business"	- Good businesshel
+	- "Toot"			- Cocaine
+	- "Aye"				- Yes
+	- "Awfy"			- awfully, very
+	- "Ah ken"			- I know
+	- "Aboot"			- about
+	- "Hame"			- Home
 
 
 Notes:
@@ -252,24 +272,17 @@ Notes:
 
 
 
+Social Calendar:
+
+	- Baby Chorus, Blue Velvet - Friday Night (11th) @ 11pm
+	- Miss Anabell Treabell Mansion Party - Saturday Night (12th) @ 2 hours past nightfall
+	- Thursday Night Indie Night @ 9pm
+	- 
 
 
 
 
-Slang:
-
-	- "Braw business"	- Good businesshel
-	- "Toot"			- Cocaine
-	- "Aye"				- Yes
-	- "Awfy"			- awfully, very
-	- "Ah ken"			- I know
-	- "Aboot"			- about
-	- "Hame"			- Home
-
-
-
-Next Step:
-
+Night 2 Elysium:
 
 
 	- Queen Anne is Vampire Prince of London
@@ -305,46 +318,46 @@ Next Step:
 		Behold, the blood! My most profound masterpeice! This vessel is the rightful 
 
 
-- Ghangis - bald white guy
-- French accent guy - 4 scars on his face (oh no!)
-- Pris - woman in cocktail dress coming up, early 40's, absolutely gorgeous
-- guy in suit - Mark
+	- Ghangis - bald white guy
+	- French accent guy - 4 scars on his face (oh no!)
+	- Pris - woman in cocktail dress coming up, early 40's, absolutely gorgeous
+	- guy in suit - Mark
 
 
 
 
-- suit guy with facial scar
-- guy behind me
+	- suit guy with facial scar
+	- guy behind me
 
 
-- 2 in front
-- 1 in back
-
-
-
-- room full on couple dozen people, most of them richly dressed
-- Pris 
-
-
-- Al Capone - Dressed like 1940's gangster
-- Prince Loden
-
-- Can see party aranged around him
-
-- two people, one super fat (look related to each other)
+	- 2 in front
+	- 1 in back
 
 
 
-- outlaw bikers
+	- room full on couple dozen people, most of them richly dressed
+	- Pris 
 
 
-- lady in wheelchair in sixties (looks afraid)
+	- Al Capone - Dressed like 1940's gangster
+	- Prince Loden
+
+	- Can see party aranged around him
+
+	- two people, one super fat (look related to each other)
 
 
-- 
+
+	- outlaw bikers
 
 
-- prince springs up for the woman
+	- lady in wheelchair in sixties (looks afraid)
+
+
+ 
+
+
+	- prince springs up for the woman
 
 
 
@@ -401,7 +414,7 @@ Next Step:
 				- Malkavian?
 
 
-			- 
+
 
 
 
@@ -463,6 +476,63 @@ Next Step:
 		- people started at name of the city (capone, biker gang, prince)
 		- clanless 
 		- brendon mccarthy -- friend on common (vera cruz?)
+
+
+
+
+Night 3 Looking for this videotape:
+
+	- Earl wants some porn
+	- video store looks like it used to be takeout place
+	- Ed's Videos
+	- White guy with greasy pony tail
+	- Video cassette with handwritten red marker, "The Beast Within"
+		- Slip of paper falls out, has more information handwritten:
+			- Arthur Webb's Masterpeice of Morality
+			- A tale of Rage and Murder
+			- As screened at the Music Box's Thursday Night Indie Night
+			- Appearing Regularly with Q&A
+
+	- Recognize locations around Chicago
+		- Title card scene, then cuts to alley at night 
+		- Another man jumps another tearing at his throat, sprayed with ketchup
+		- Messey plot
+		- Similar vampire violence scenes, same actor, dressed in period costumes
+			- cowboy outfits
+			- knight's outfits
+		- each time jumping someone for blood
+		- character struggles to not attack but gives in
+		- final scene toga wearing, same actor
+			- retelling of caine and able vampire story
+			- vampire figure bringing cardboard alter on cloudy day looking up at the sky
+		- cutting to a scene on bright sunny day another actor in same bedsheet togas bringing stuff lamb to the alter
+		- bright sunny blue sky with choir of angels
+		- cuts to vampire figure crouching behind bushes stairing
+		- cuts back to second actor at alter with stuffed lamb gone with vampire character grabs figure, then bites the lamb guy in the throat
+		- cuts to reverse of sequence, forward in time, covered in blood shaking fist at the sky
+		- back to modern city scene young child of 8 playing (at night) while creepy vampire is watching from the bushes
+		- steps out from bushes with hands shaking
+		- falls to kneeds with hands shaking
+		- kid turns around, sees vampire looming, and kid asks, "what's your name"
+		- vampire then turns and runs off
+		- 1:15 hr:mm running time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
