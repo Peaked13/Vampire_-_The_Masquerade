@@ -493,13 +493,31 @@
 		-The PCs discussed this in the car on the way home from The Art Institute, making plans to
 		 look into the matter the next night.
 			-Quiana does have a _job_ though. . .
-		- video store ; copy of Webb's movie ; brought it home and watched the (terrible) movie
+		-Due to Quina's job, Cade was able to investigate first, going to a Wicker Park video store
+		 recommended by Earl.
 			-Earl, a member of Cade's herd, is a big guy and watches the place for Cade while he
-			 sleep.
+			 sleeps.
+			-He got a copy of Webb's movie there, brought it home, and watched the (terrible) movie.
+			-I failed to include any mention of arcane symbols or the like, sadly, in my description
+			 of the movie.
+			-I _did_ include mention of vampire feeding scenes and a Caine & Abel scene implying
+			 Caine was a vampire.
+				-The Caine bit on it's own may be enough to work in mentions of the "Phoenecian
+				 inscription" bits below.
 		-Quiana met Cade at her apartment after work.
 			-Scanned the room with Aura Perception, botched, and thought all of the herd were ghouls.
-		- fed ; Johnny ; slept with him and got his number
+		-She fed on a man there named Johnny, sleeping with him in Cade's dark room and getting his
+		 number.
+		-Quiana then went back to the chantry for the evening, where she encountered her sire/mentor
+		 and asked him about tons of stuff, including:
+			-Who the primogen of the city are.
+			-Gordon Keaton, Pris, and the blood bond:
+				-She now has a good idea of how blood bonds work and what's going on there.
+			-What she should study further (being told the basics of Thaumaturgy and Occult).
+		-TODO: LEFT OFF HERE!
 		- planning on going to Thursday showing (of other film) at Music Box ; as seen in card in tape
+			-Good opportunity for Son's assault, probably on Cally!
+			-
 		-Ultimately, Webb saw films by Johann Weltmann, which led Webb down this path.
 			-Weltmann's films aren't really a danger to the Masquerade _themselves_, instead
 			 brushing up against concepts and themes adjacent to _Golconda_.
@@ -556,6 +574,8 @@
 			-Damien would go, and probably some of the others. Got the impression in one book or
 			 another that Kathy has an issue with it, but maybe that's just _playing_ there.
 			-Good opportunity to run into Des and some of the caitiff (Matt is easiest candidate).
+			-Des would be _very_ interested in word of Pris's plight or an assault by Son on a
+			 Caitiff.
 		-
 	-Anabelle's party at her mansion on Saturday 10/12/91:
 		-She's clearly sniffing around Cade to use him as a potential new novelty to spice up her
@@ -566,7 +586,8 @@
 		-How can I work Desmond, or other Caitiff, into either party?
 			-Cally invited there for mockery?
 			-Sophia and/or Brett linked to Pris and the sex trade?
-			-
+			-Des invited by Anabelle to complete "her trio" of the newest Kindred in the city for
+			 the party?
 		-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-
 -What are the caitiff aiming to do?
@@ -582,4 +603,7 @@
 -XP given:
 	-Prologue: 3 XP
 	-The Presentation: 6 XP
+	-The Filmmaker:	
+		-Sessions:
+			-Finding the film and watching it.
 	-
