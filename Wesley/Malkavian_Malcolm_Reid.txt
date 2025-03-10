@@ -195,7 +195,9 @@ Advancement:
 
 Experience (pg. 124 / 132): 
 
-	- 3 pts + 6 pts = 9 pts - 5 = 4 pts
+	10/8: 3 + 6 = 9 - 5 = 4 pts
+	10/9: 4 + 2 = 6
+	10/10: 6 + 3 = 9
 
 
 
