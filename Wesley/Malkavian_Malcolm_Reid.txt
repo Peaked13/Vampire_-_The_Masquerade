@@ -50,8 +50,8 @@ Attributes: (7/5/3 above base of 1 in each)
 		Wits: 			(1) + 1 + (1) 	= 3
 
 	Physical: (3)
-		Strength:		(1) + 0 		= 1
-		Dexterity:		(1) + 1 		= 2
+		Strength:		(1) + 0 		= 1    (+ 1 = 2) TEMP
+		Dexterity:		(1) + 1 		= 2    (+ 4 = 6) TEMP
 		Stamina:		(1) + 2 		= 3
 
 
@@ -133,6 +133,11 @@ Willpower:		(Max 7)		5 + (2) = 7
 
 Blood Pool:		(Max 15)	7 + 3 = 10 - 1 = 9 - 1 = 8 + 2 = 10
 
+	10/9: 9 - 1 = 8 + 2 = 10
+	10/10: 10 - 1 = 9 + 3 = 12 - 3 = 9 - 2 = 7 - 3 = 4 + 3 = 7
+
+
+
 
 Merits & Flaws: (Freebie Points)
 
@@ -141,7 +146,7 @@ Merits & Flaws: (Freebie Points)
 	- Bad Sight (pg. 481):				-1
 	- Impatient (pg. 485):				-1
 	- Speech Impediment (pg. 485):		-1
-		Malcolm has a strong Scottish accent that is often quite hard to understand.
+		Malcolm has a strong Scottish accent that is often quite hard to understand. Difficulty increased by 2.
 	- Dark Secret (pg. 489):			-1
 		Malcolm killed a Toreador and was packed off to Chicago under false pretenses.
 	- New Arrival (pg. 490):			-1
@@ -180,16 +185,19 @@ Equipment/Items (stuff to start with or obtain):
 		- Phone Number of plump lady in club (Melinda)
 		- Calling card for Anabell Treabell
 		- Calling card for Mr. Peterson
+		- Phone Number for Arther Webb
+
 
 Advancement:
 	- Tentative schedule:
 
-	- 
 
 
 Experience (pg. 124 / 132): 
 
-	- 3 pts + 6 pts = 9 pts - 5 = 4 pts
+	10/8: 3 + 6 = 9 - 5 = 4 pts
+	10/9: 4 + 2 = 6
+	10/10: 6 + 3 = 9
 
 
 
@@ -201,6 +209,8 @@ Boons:
 	- To Kevin Anderson
 		- For receiving copious amounts of drugs to feed his hoard
 
+	- From Callie
+		- For saving her life from Son, the creepy guy
 
 
 Current Motives:
@@ -277,12 +287,9 @@ Social Calendar:
 	- Baby Chorus, Blue Velvet - Friday Night (11th) @ 11pm
 	- Miss Anabell Treabell Mansion Party - Saturday Night (12th) @ 2 hours past nightfall
 	- Thursday Night Indie Night @ 9pm
-	- 
 
 
-
-
-Night 2 Elysium:
+Tues Night 10/8: Elysium
 
 
 	- Queen Anne is Vampire Prince of London
@@ -373,7 +380,7 @@ Night 2 Elysium:
 
 
 		- pris + scruffy looking guy + suit
-			- 80's guy
+			- 80's guy (gordan keaton)
 			- woman in JC Penny's dress/outfit
 			- young looking man wearing beat up H.S. letterman jacket
 
@@ -407,13 +414,11 @@ Night 2 Elysium:
 			- Damen - with a 14 year old boy (expensive, garish lime green suit, expensive, fits poorly) - Rythm Guitar, Vocals
 			- Gordon - in expensive well suited black suit talking to jazz musician (patrick bateman vibes) - 80's guy
 				- Baby Chorus, Blue Velvet
-				- Have a gig Friday Night (11th) @ 11pm 
+				- Have a gig Friday Night (11th) @ 11pm
 			- Ray -- "I really see something in it" (about the artwork)
 				- he doesn't really seem all there, for most of the conversation he has seemed a little dreaming, not all present
 				- every once in a while a flash of some different affect -- stares Cade down randomly, then dreamy randomly
 				- Malkavian?
-
-
 
 
 
@@ -452,10 +457,10 @@ Night 2 Elysium:
 			- Kevin Jackson
 
 
-		- biker gang group
+		- Biker gang group
 			- on prince's side
 			- Tirus 
-			- don't spend a lot of time in chicago - thick with the prince, act as bully boys (like when sheriff isn't here)
+			- Don't spend a lot of time in chicago - thick with the prince, act as bully boys (like when sheriff isn't here)
 			- 
 
 
@@ -478,9 +483,7 @@ Night 2 Elysium:
 		- brendon mccarthy -- friend on common (vera cruz?)
 
 
-
-
-Night 3 Looking for this videotape:
+Wed Night 10/9: Looking for this videotape:
 
 	- Earl wants some porn
 	- video store looks like it used to be takeout place
@@ -518,6 +521,149 @@ Night 3 Looking for this videotape:
 		- 1:15 hr:mm running time
 
 
+
+Thu Night 10/10:
+
+	- Blue Velvet, 8pm-ish?
+	- Bouncer pauses before letting Cade in
+	- Not super crowded, DJ playing top 100
+	- Audience:
+		- leaning against the wall, Katiff - Matt
+			- long hair, leather jacket, torn jeans, looks like in ramones, rocker vibe
+			- late 30's, early 40's
+		- 
+
+	- girl in gothy black dress
+		- blood doll, swapping blood -- carrying straight razors
+		- got blood from girl
+		- Matt barges in and sucks more blood from her
+		- Cade makes an exit as he drains her much more than is probably wise
+		- 
+	- 
+	- 
+	- Music Box - Thursday Night Indie Night
+		- in lobby, sparsely filled (20 minutes before showing starts)
+		- people in theater are charateristic of indie movie
+			- young white people, some different races
+			- varying subcultures, some dirty
+			- many reek of weed
+			- none of them clearly low humanity vampires
+			- most of them have drinks in hand, chatting in knots (2-3 people)
+			- one group of 7 people crowded around a person holding court
+				- he is saying,
+					- "the production of the film took place last year"
+					- "both actors are from columbia"
+					- "difficult to get time, able to get time for venue"
+			- "TRAPPED" -- his film
+				- John Delaney
+
+	- looking for people I recognize from the film...
+		- hear someone come in, say, "how's it going", bit hard to tell
+			- think he looks a little like Victim #3/#7 sit in the back of the theater
+
+
+	- Film rolls
+		- credits begin to roll
+		- "John Delaney"
+		- man and woman get into the elevator
+		- "trapped!" what's going on
+		- a lot of conversations while trapped for two hours
+		- something growing out of woman's arm, it's a circuit board
+		- she's turning into machine/duct work
+		- still sexual tension
+		- end of movie, she's a circuit board
+		- he still fucks her
+		- elevator opens
+		- he crashes into man carrying box of crayfish
+
+
+	- guy that is actor in Webb's movie, calls at, "Art, someone was looking for you" --
+		- why black and white? cost?
+
+	- Weltman's expressions of these ideas
+	- Redemption arc
+	- Late Weltman fan, look at production technique -- if he's still around he has to be pushing 100 now
+	- last three pushed enlightenment, pushed enlightenment, repression of desire
+	- resisting darkness
+	- vampires were a natural fit
+	- reminds of of stuff from my undergrad
+	- Weltman's films dealt with wolves and lust, bloodier and lust
+	- Chicagoan, earliest films were from the turn of the century
+	- as undergrad, came across record of old inscription -- talking about "blood tithe" to a old lord, got me thinking of "dark vampiric" aristacracy
+	- 
+
+	- Exit theater headed towards the bus stop
+	- To left down the side street, hear woman's voice yelling, distressed
+		- "The Prince won't allow this!"
+	- Hear half muffled scream, Male voice says "Stop! Stop!"
+	- See man and woman 40-50 feet down the alley 
+		- man's back to me
+		- woman looking towards me, looks terrified
+		- her left arm and part of shirt are bloody, coming from cut up and down bicep
+		- recognize woman:
+			- one of the catiff women (not pris)
+			- looks like late 20's, early 30's
+			- doesn't look like kindred (though presence in elysium implies)
+			- dressed cheaply, shirt and denim jeans (department store off the rack)
+		- man's arm holds long knife
+		- she starts to turn, back away
+		- male figure calls out: "STOP"
+		- she freezes, eyes looking out
+	- man pale, white, hair slicked back
+		- shirt tucked into slacks
+		- not super expensive, not very fashionable
+		- looks sort of out of date, slightly upscale middle America
+	- man approaches woman still frozen, reaches out, again with knife (she is not moving)
+		- takes knife and cuts her right bicep in the same fashion, hear giggle from him
+		- 
+	- Cade takes out his smokes and leans agains the wall the watch
+	- when cut she unfreezes and takes a step back
+		- says, "please help!"
+	- 
+
+	- man is creep that was pushing around woman in the presentation
+		- young man, looks late tens/early twenties
+		- looks offputting 
+		- dead eyes
+		- flat expression, flat affect
+
+
+	- man says "RUN!" to Cade, he runs
+	- stops, "where the fuck do you think you're going"
+	- 
+
+	- Callie
+	- He was stalking me
+	- 
+
+	- Wounds on her arms have healed
+	- She feels warm to the touch, feels human
+
+
+	- "Son" - the guy pushing O'Leary's wheelchair
+
+
+	- Matt is her friend, Cade calls him, he comes and picks them up
+	- Callie doesn't want to go home (she has family there)
+		- She has a husband there
+	- 
+
+	- Drops off at bar, woman mid 40's, sloshed, sitting at the bar, glass of whiskey on the rocks
+		- Brown jacket hanging on the back of her chair
+		- 
+
+	- "How do you know Callie?"
+		- Us catiff have to stick together
+		- She first showed up a year or two ago
+		- nobody else will talk to use at these things
+	- 
+
+	- Matt will be at Blue Velvet tomorrow?
+		- Yes
+		- Aside from bad, not sure
+		- Cathy sire probably will, Mosy (?) will
+	- 
+	- 
 
 
 
