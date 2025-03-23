@@ -53,14 +53,14 @@ Backgrounds: (5)
 		-You can't create ghouls, hence two dogs for one retainer dot.
 	TODO: More!
 
-Humanity Rating:  (Conscience + Self-Control)
+Humanity Rating: 9 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
-	Conscience: 
-	Self-Control: 
-	Courage: 
+	Conscience: 4
+	Self-Control: 5
+	Courage: 2
 	
-Willpower:  (equal to Courage)
-Blood Pool:  (roll a d10 for start of game, max is based on generation)
+Willpower: 2 (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max 10, last 4 only spent waking)
 
 Merits & Flaws: (No change to Freebie Points)
 	Blush of Health (2 pt. Merit):
@@ -78,7 +78,8 @@ Merits & Flaws: (No change to Freebie Points)
 		-Animals don't treat you any different from a hunam.
 
 Freebie Points: (15)
-	
+	2	Self-Control 5
+	TODO: More!
 
 Character Description and Background:
 	-Appearance:
@@ -92,7 +93,10 @@ Character Description and Background:
 		-
 	-Has a family she still lives with.
 		-Husband and young kid.
-	-
+
+Stuff From the Game:
+	-Attacked by Son.
+	-Has tasted Cade's blood once.
 
 Equipment (stuff to start with or obtain):
 	

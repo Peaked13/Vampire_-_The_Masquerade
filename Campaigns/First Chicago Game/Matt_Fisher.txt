@@ -32,15 +32,24 @@ Disciplines: (3)
 	Chimerstry: 3
 
 Backgrounds: (5)
-	
+	Contacts: 2 (or more?)
+		-One music related, tied to local gigs and the like.
+		-Another a regular and capable drug source.
+	Resources: 1
+	Retainers: 1
+		-A roommate dependend on him for "the best drugs": in reality a mix of Matt's Chimerstry
+		 and blood.
+		-There's probably a dose of counterculture mysticism in the mix too, a rock-n-roll shaman
+		 thing.
+	TODO: More!
 
-Humanity Rating:  (Conscience + Self-Control)
+Humanity Rating: 6 (Conscience + Self-Control)
 Virtues: (7 above base of 1 in each)
-	Conscience: 
-	Self-Control: 
-	Courage: 
+	Conscience: 4
+	Self-Control: 2
+	Courage: 4
 	
-Willpower:  (equal to Courage)
+Willpower: 4 (equal to Courage)
 Blood Pool:  (roll a d10 for start of game, max is based on generation)
 
 Merits & Flaws: ( Freebie Points)
@@ -61,7 +70,15 @@ Character Description and Background:
 	-Your embrace:
 		-
 	-Burnout sired by a passing Ravnos.
-	-
+	-Lived to see the hippies dissolve into darkness and harder drugs, coloring his outlook, and
+	 probably his relationship with Cally.
+		-He's not a Charles Manson, but was heavily disillusioned as the type started to appear.
+
+Stuff From the Game:
+	-He roughly shared a vessel Cade lured, taking blood after Cade to the amount that he surely
+	 injured her.
+	-He's acquainted with Cally, enough that he showed up when Cade called him on her behalf.
+	
 
 Equipment (stuff to start with or obtain):
 	
