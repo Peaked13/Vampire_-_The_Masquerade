@@ -131,10 +131,13 @@ Virtues: (7 above base of 1 in each)
 Willpower:		(Max 7)		5 + (2) = 7
 
 
-Blood Pool:		(Max 15)	7 + 3 = 10 - 1 = 9 - 1 = 8 + 2 = 10
+Blood Pool:		(Max 15)	
 
+
+	10/8: 7 + 3 = 10 - 1 = 9 - 1 = 8 + 2 = 10
 	10/9: 9 - 1 = 8 + 2 = 10
-	10/10: 10 - 1 = 9 + 3 = 12 - 3 = 9 - 2 = 7 - 3 = 4 + 3 = 7
+	10/10: 10 - 1 = 9 + 3 = 12 - 3 = 9 - 2 = 7 - 3 = 4 + 3 = 10
+	10/11: 10 - 1 = 9
 
 
 
@@ -198,6 +201,8 @@ Experience (pg. 124 / 132):
 	10/8: 3 + 6 = 9 - 5 = 4 pts
 	10/9: 4 + 2 = 6
 	10/10: 6 + 3 = 9
+	11/11: 9 + 3 = 12
+
 
 
 
@@ -483,6 +488,7 @@ Tues Night 10/8: Elysium
 		- brendon mccarthy -- friend on common (vera cruz?)
 
 
+
 Wed Night 10/9: Looking for this videotape:
 
 	- Earl wants some porn
@@ -667,9 +673,72 @@ Thu Night 10/10:
 
 
 
+Fri Night 10/11:
+
+	- Cally calls, usually only sees him with O'Leary
+
+	- Blue Velvet is close to the Tremere chancery 
+	- Blue Velvet bouncer name is Ian Gibson
+	- 
+
+	- Call Callie on phone, get impression of Anger and "who the fuck is that"
+
+
+	- In video store
+		- John (video store guy)
+			- "No Returns"
+		- Weltman - Johann Weltman
+			- production quality is better
+			- arthouse vibe
+			- have a variety of tapes
+			- six films by Weltman
+		- films:
+			- Holy Mountain
+			- The Beast of Hunger
+			- One with a picture of a man rending his shirt with a frenzied look on his face
+			- One with a pair of lovers dancing
+			- One with a city scape
+			- One with a sailing ship
+		- 
+	- meet Callie at blue line station, take hackie to the blue velvet
+
+	- line outside, punk rocker vibe on line outside
+	- looking around
+		- near one of the stairs near balcony, see sign that says VIP
+		- 
+
+
+	- milling by bathrooms is Matt (from yesterday)
+	- Tucked into a booth on ground floor (part of balcony) are three young women plus in the middle Damien (the apparent 14-year-old from baby chorus), he's wearing a vibrant blue suit
+	- left of the stage Kathy and Garwood (black dude, clan tremere, wearing grey suit)
+		- Garewood talking to another member of baby chorus
+		- kathy dressed in t-shirt and jeans, probably band t-shirt
+	- Callie wearing "nice side of house wify"
+		- Wearing two peace side earings
+	- 
+
+
+	- Walk up to VIP area
+	- End up in a wing of VIP section
+	- 
+
+	- Callie's Sire:
+		- "The guy that did this, he didn't fucking stick around."
+		- 
+
+	- Callie hits Matt 
+
+	- Cade admits that he drank a little bit much before sharing with Matt
 
 
 
+	- Stopped at 9:30pm
+	- 
+
+
+
+
+	- 
 
 
 
