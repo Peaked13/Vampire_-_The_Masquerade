@@ -493,7 +493,7 @@
 		-The PCs discussed this in the car on the way home from The Art Institute, making plans to
 		 look into the matter the next night.
 			-Quiana does have a _job_ though. . .
-		-Due to Quina's job, Cade was able to investigate first, going to a Wicker Park video store
+		-Due to Quiana's job, Cade was able to investigate first, going to a Wicker Park video store
 		 recommended by Earl.
 			-Earl, a member of Cade's herd, is a big guy and watches the place for Cade while he
 			 sleeps.
@@ -662,29 +662,54 @@
 			-Also now a chance to insert occult symbolism as a Quiana/Tremere tie-in!
 		-Cade fed at a nearby bar and then headed home.
 	-Baby Chorus gig at Blue Velvet on Friday, 10/11/91:
-		-Cally should call Cade early this evening.
-			-Extremely early, the first time, before Cade is awake, and then calling again later.
-				-Emphasize this aspect of Humanity, and Cally's high humanity.
-			-And emphasize the start of the bond. . .
-			-Wants to thank him.
-			-They talked about what to do about Son, and where the Malkavians say.
-			- Cade mentioned Baby Chorus gig ; Cally mentioned she thinks Ray may be a Malkavian
-			- Cade mentioned he was planning on going with Quiana and needed to call her
-			- Cally gave Cade her number, to call her back and let her know the plan
-			- jealous husband answered ; pulled the phone from him
-		- Cally met Cade by the Blue Line ;  got cab ; headed to gig
-		- Quiana woke earlier and grabbed a snack in a nearby alley, then headed to the club, so was already there
-		-Kindred at the gig:
-			-The band, of course.
-			-Matt
-			-Tamoszius?
-				-He has Auspex 2 and can learn what Cade did. . .
+		-Cally called Cade early that evening.
+			-Extremely early, the first time, before Cade was awake, and then calling again later.
+				-Emphasized this aspect of Humanity, and Cally's high humanity.
+			-And emphasized the start of the bond. . .
+			-Thanked him profusely, and also expressed concern about what she's going to do from here.
+			-They talked about what to do about Son, and where the Malkavians stay ("an asylum. . .
+			 but I don't know which.").
+			-Cade mentioned the Baby Chorus gig, and they ended up planning to both go.
+				-Cally mentioned she thinks Ray may be a Malkavian, though Cade didn't want anything
+				 to do with him and seemed creeped out by what he'd seen before.
+				-Cade mentioned he was planning on going with Quiana and needed to talk to her.
+				-Cally gave Cade her number, to call her back and let her know the plan.
+				-After Quiana called him from a payphone, he did call back. . . and her jealous
+				 husband answered.
+					-Cally eventually pulled the phone from him, but I think Cade got a sense of the
+					 issues there.
+			-Cally met Cade by the North Ave. Blue Line and they got cab from there to the gig.
+		-Quiana woke earlier and grabbed a snack in a nearby alley
+			-She then called Cade from that payphone and headed to the club, so was already there
+			 when Cade and Cally arrived.
+			-She knows the bouncer, Ian Gibson, by name, and he knows hers.
+			-Gibson gave her a VIP pass and she asked him to look out for a man of Cade's
+			 description, Gibson remembering him from his arrival last night.
+		-Cade rolled fantastically on Perception and so spotted the following Kindred he recognized:
+			-Matt, standing near the bathrooms.
+			-Damien, in a booth with several young women.
+			-Garwood and Kathy talking, just backstage, still visible from the the floor.
+		-Cade and Cally met up with Quiana in the VIP section.
+			-Cade mentioned to the other two who he saw tonight, and his past encounter with Matt
+			 here.
+		-Cade and Cally then went to go talk to Matt.
+			-Cally scolded him for what Cade told her about the previous night here.
+		-LEFT OFF: at 9:30 PM, Cade and Cally talking to Matt while Quiana sat upstairs
+		-Tamoszius may be at the gig somewhere.
+			-He has Auspex 2 and can learn what Cade did. . .
 		-End up at Succubus club after?
 			-Damien would go, and probably some of the others. Got the impression in one book or
 			 another that Kathy has an issue with it, but maybe that's just _playing_ there.
+				-Lure the kine he's with into the labryinth
 			-Good opportunity to run into Des and some of the caitiff (Matt is easiest candidate).
 			-Des would be _very_ interested in word of Pris's plight or an assault by Son on a
 			 Caitiff.
+			-Can I work Fred into this? If not, how later?
+				-
+			-Gengis could be there too.
+				-Slam dancing!
+				-Great opportunity for a mention of Pris.
+			-A run in with Portia too?
 		-
 	-Anabelle's party at her mansion on Saturday 10/12/91:
 		-She's clearly sniffing around Cade to use him as a potential new novelty to spice up her
@@ -699,9 +724,11 @@
 			 the party?
 		-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-
--What are the caitiff aiming to do?
+-What are the Caitiff aiming to do?
 	-Strike at Neally?
 		-A wound to a the prince, but also a rather cruel thing to do.
+		-Oh! Both he and Pris have a fondness for opiates, a thing that might offer the Caitiff an
+		 opening. . .
 	-Import or make others?
 		-A (brutal) Pander of Des's past acquaintance?
 			-With Quietus. Silently beats people to death.
@@ -719,6 +746,6 @@
 	-Prologue: 3 XP
 	-The Presentation: 6 XP
 	-Buying a movie and attending a screening: 5 XP
-	-
+	- TODO: XP for first session at Blue Velvet?
 -Useful references:
 	-Wikipedia's year pages: https://en.wikipedia.org/wiki/1991
