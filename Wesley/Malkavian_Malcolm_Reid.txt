@@ -50,8 +50,8 @@ Attributes: (7/5/3 above base of 1 in each)
 		Wits: 			(1) + 1 + (1) 	= 3
 
 	Physical: (3)
-		Strength:		(1) + 0 		= 1    (+ 1 = 2) TEMP
-		Dexterity:		(1) + 1 		= 2    (+ 4 = 6) TEMP
+		Strength:		(1) + 0 		= 1
+		Dexterity:		(1) + 1 		= 2
 		Stamina:		(1) + 2 		= 3
 
 
@@ -80,6 +80,7 @@ Abilities: (13/9/5, max of 3)
 			Malcolm the bodhran player has been known to steal some supplies from time to time. And he did have to break into Cade's lockbox to get his identity papers somehow.
 
 		- Performance (pg. 105):	3
+			TODO: Need to pick a speciality
 
 
 	Knowledges: (5)
@@ -107,7 +108,7 @@ Disciplines: (3)
 
 	- Presence (pg. 193): 		1
 		* 	Awe (Desire to be close and become receptive to POV, blood point and roll Charisma + Performance @ 7)
-		*   Dread Gaze (frighten others by revealing vampiric nature, roll Charisma + Intimidation)
+		**  Dread Gaze (frighten others by revealing vampiric nature, roll Charisma + Intimidation)
 
 
 Backgrounds: (5)
@@ -137,7 +138,7 @@ Blood Pool:		(Max 15)
 	10/8: 7 + 3 = 10 - 1 = 9 - 1 = 8 + 2 = 10
 	10/9: 9 - 1 = 8 + 2 = 10
 	10/10: 10 - 1 = 9 + 3 = 12 - 3 = 9 - 2 = 7 - 3 = 4 + 3 = 10
-	10/11: 10 - 1 = 9
+	10/11: 10 - 1 = 9 + 1 = 10
 
 
 
@@ -247,6 +248,7 @@ Slang:
 	- "Ah ken"			- I know
 	- "Aboot"			- about
 	- "Hame"			- Home
+	- "Seppo"			- Septic American
 
 
 Notes:
@@ -725,21 +727,68 @@ Fri Night 10/11:
 	- Callie's Sire:
 		- "The guy that did this, he didn't fucking stick around."
 		- 
-
 	- Callie hits Matt 
 
 	- Cade admits that he drank a little bit much before sharing with Matt
 
-
-
 	- Stopped at 9:30pm
 	- 
 
+	- With Matt found pimply fat kid and took him to the bathroom
+
+	- See a purple orangutan 
+		- Not an actual orangutan!
+		- Some edges are translucent, seems a little cartoony
+		- 
+		- 
 
 
+	- get up to got talk to Damien
+		- Matt stays up at the table
+
+	- At little bit after 10pm
+
+	- Sitting at booth with three young women -- he in expensive suit, dressed with gold chain around his neck, leaning against the back of the booth, arm around the back of the booth
+	- Ray is backstage, Damien will find us after the set to show us to him
+	- Damien invites us to the sucubus club basement after the show
+
+
+	- At 11pm baby chorus comes out
+	- Damien steps out shouts -- "we're baby chorus, launches into first number"
+	- Drummer is young dark haired woman (we don't recognize her)
+		- Not the star of the show
+	- Damien and Ray (bass) are competent 
+		- Ray is weird, goes from hog the spotlight to going back in the corner (back and forth)
+	- Garwood and Cathy are genuinely good
+		- Garwood is great saxophonist and half the vocals
+		- Cathy (lead guitar) stands out -- plays fast, virtous guitarist -- plays suspiciously fast -- shouldn't be humanly able to do that
+	- Lyrically, punk "fight the power" aspect to the songs
+		- not all of it is expressly political
+		- messaging not great considering Camerera 
+
+
+	- standing ovation from Callie
+	- Garwood appears out of backstage first after show, with case for sax across back
+	- 
+
+
+	- Ray emerges from the same door
+	- He has a share of adoring fans
+	- Young man and woman walk up to him
+	- After brief verbal exhange, Ray hugs both of them for several seconds, then Ray walks away from them; Ray says something to another woman and she runs away in tears
+	- Nobody approaches after that, he walks to the bar, orders a drink, nobody approaches him
+
+	- Callie turns to Cade, says: Is that him
+	- The two go up to Ray, Quina follows
+		- Bruce Homes
+		- Lawerence
+		- 
+
+	- Bruce -- I think we're connected somehow!
 
 	- 
 
+	- 
 
 
 
