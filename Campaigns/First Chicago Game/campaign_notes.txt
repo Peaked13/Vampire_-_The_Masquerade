@@ -12,7 +12,7 @@
 						-The wanted by Lodin aspect could be an issue, though.
 					-Gengis is a decent candidate, and even the book is unclear on whether he's
 					 Caitiff or Brujah.
-					-Levesque is probably to suave for the purpose, but his hat for the Sheriff
+					-Levesque is probably too suave for the purpose, but his hate for the Sheriff
 					 easily could transfer to Cammies in general.
 					-Damien is a bit better, but not by much.
 					-The rest, Euclid and Neon, are more the kind of charity cases I want to
@@ -99,6 +99,10 @@
 			-I don't think he knew exactly who the target was.
 			-But open ended permission might even be a _bigger_ ask. . .
 		-She has a room at the Tremere chantry, but also a highrise apartment nearby.
+		-She developing a tendency to give what she promised, at least in the case of kine while
+		 feeding.
+			-There was the sex with a member of Cade's heard and then drugs handed over to a woman
+			 at Blue Velvet, even though she was manipulating the woman's memory anyways.
 	-Malcolm Reid / Cade Hall (Wesley):
 		-Clan Malkavian (Malcolm Reid), but is under the delusion he is a Toreador (Cade Hall).
 			-A kind of multiple personality disorder.
@@ -195,7 +199,6 @@
 		-Confronted by the trio of Dickie (Brujah in my game, instead of Caitiff), Gengis
 		 (Brujah), and Marc Levesque (Brujah; "Frenchie", but _hates_ it).
 			-Threatening the "baby Cammies":
-				""
 				"Don't think telling any tales will help you. Your Cammie 'friends' will pounce on
 				 any weakness you show."
 			-Gengis: "Yeah! You tell him, Dick. . . head.
@@ -717,7 +720,8 @@
 				-They then headed back up the VIP stairs.
 		-Tamoszius may be at the gig somewhere.
 			-He has Auspex 2 and can learn what Cade did. . .
-			-Quiana spotted his as he sat at a table on the balcony near her.
+				-And, indeed, I tried to have his conversation with Quiana imply as much.
+			-Quiana spotted him as he sat at a table on the balcony near her.
 				-Staring, as she noticed, at the group of Cade, Cally, and Matt below.
 			-She went to talk to him.
 			-She established he's Kathy's sire (having recognized his name after someone at the
@@ -731,8 +735,11 @@
 			 interest should Quiana learn more about the subject.
 			-Cally eventually joined them, though Tamoszius took his leave before Matt and Cade also
 			 made their way up.
+				-To go see his childe, he said.
 		-A short while later, they left Matt holding the table with it's excellent view and went
 		 down to greet Damien, ensconed in a booth with three young women.
+			-Damien immediately asked Cally-and-coterie to join them, having them slide into the
+			 booth.
 			-He proposed to all six of them more partying after the gig, maybe heading to the
 			 Succubus Club.
 				-He asked the kine with him if they'd ever been to the labryinth in the basement.
@@ -757,6 +764,9 @@
 			 that forced Cade to roll his Willpower.
 			-He failed that Willpower roll, getting zero successes but not botching.
 				- TODO: So, what exactly does that lead to?
+				-A loss of Presence, certainly, until he manage somehow to reassure himself.
+				-Maybe something else, more psychological? Self-control rolls and frenzy risk at
+				 further insults to his artistry or insinuations he's no Toreador? Or depression?
 		-End up at Succubus club after?
 			-Damien would go, and probably some of the others. Got the impression in one book or
 			 another that Kathy has an issue with it, but maybe that's just _playing_ there.
@@ -765,7 +775,9 @@
 			-Des would be _very_ interested in word of Pris's plight or an assault by Son on a
 			 Caitiff.
 			-Can I work Fred into this? If not, how later?
-				-
+				-Auspex rolls might reveal his presence somewhere.
+				-Or perhaps if some danger is encountered, particularly a threat to Cally, out on
+				 the street or elsewhere?
 			-Gengis could be there too.
 				-Slam dancing!
 				-Great opportunity for a mention of Pris.
@@ -774,16 +786,21 @@
 	-Anabelle's party at her mansion on Saturday 10/12/91:
 		-She's clearly sniffing around Cade to use him as a potential new novelty to spice up her
 		 parties.
+			-Quiana too may be of similar interest.
 		-Maybe even have the musician or sculptor mentioned on page 40 of Succubus Club at
-		 Anabelle's first party?
+		 _this_ part of Anabelle's?
 			-
 		-How can I work Desmond, or other Caitiff, into either party?
 			-Cally invited there for mockery?
 			-Sophia and/or Brett linked to Pris and the sex trade?
 			-Des invited by Anabelle to complete "her trio" of the newest Kindred in the city for
 			 the party?
+				-This is a good one so long as I get Quiana there.
 		-The party will draw heavily on the "Annabelle's Party Elite" coterie.
-		-
+		-This Reddit thread helped me get a handle on the Harpy role, a thing I expect Anabelle
+		 serves as in Chicago: https://old.reddit.com/r/vtm/comments/1jzw4hb/in_few_words_or_sentences_can_someone_explain_to/
+			-I could see her putting an arm around Quiana, making friendly, and gossiping with her
+			 about her embrace and drama between the Tremere and Ventrue.
 -What are the Caitiff aiming to do?
 	-Strike at Neally?
 		-A wound to a the prince, but also a rather cruel thing to do.
@@ -807,5 +824,6 @@
 	-The Presentation: 6 XP
 	-Buying a movie and attending a screening: 5 XP
 	- TODO: XP for both sessions at Blue Velvet
+		-4?
 -Useful references:
 	-Wikipedia's year pages: https://en.wikipedia.org/wiki/1991

@@ -139,5 +139,6 @@ Equipment (stuff to start with or obtain):
 
 Advancement:
 	-Tentative schedule:
-		
+		6	Obfuscate 2
+			Abilities?
 	-
