@@ -755,8 +755,8 @@
 		 political, and at least a bit problematically "fight the power".
 		-Afterwards, Garwood approached them in the booth, having seen Quiana, but the woozy Damien
 		 groupy soon drove him off with questions about her boy rocker king.
-		-After the gig, coterie and Cally having approached Ray, Damien later joining them.
-			-He greeted them in his Bruce persona, and seemed very interested in Cade, though the
+		-After the gig, coterie and Cally approached Ray, with Damien later joining them.
+			-Ray greeted them in his Bruce persona, and seemed very interested in Cade, though the
 			 bartender referred to him as Lawrence and he responded when Damien greeted him as Ray.
 			-Before launching into a discussion of their set with Damien (despite apparently being
 			 unaware of being in the band in discussions with the coterie moments before), he said
@@ -768,7 +768,9 @@
 				-Maybe something else, more psychological? Self-control rolls and frenzy risk at
 				 further insults to his artistry or insinuations he's no Toreador? Or depression?
 				 	-Eh, only if he fails more provoked Willpower rolls before recovering.
-				- get out of it with more Willpower rolls ; affirm his identity ; total successes?
+				-I decided (and described to Wesley) that he'd get out of his funk with more
+				 Willpower rolls after things that affirm his identity (the difficulty varying
+				 based on how affirming some event is) until he reached 5 total successes.
 					-3 thus far.
 		-Ended up at Succubus club after.
 			-Damien would go, and probably some of the others. Got the impression in one book or
@@ -778,10 +780,10 @@
 				-Quiana and Cade took a little bit of convincing, but, once set on it, Damien asked
 				 Quiana to talk Garwood, and maybe Kathy, into it.
 					-Ray then led them backstage to do so.
-					-Quiana's attempt was particularly half hearted, though, and they had no luck
+					-Quiana's attempt was particularly half-hearted, though, and they had no luck
 					 convincing either of them.
-					-Garwood said that Thursday's at The Succubus were "too disco" for him.
-						-Though, once they arrived, they had some doubts about what Garwood\
+					-Garwood said that Thursdays at The Succubus were "too disco" for him.
+						-Though, once they arrived, they had some doubts about what Garwood
 						 considered disco, with me playing that Music from the Succubus Club album
 						 for the players: https://whitewolf.fandom.com/wiki/Music_from_the_Succubus_Club
 						-Guess he's getting a bit out of touch. . .
@@ -793,6 +795,9 @@
 				 him save for them upstairs.
 					-In large part, that's because both players and I forgot entirely about him
 					 being there until it occurred to me after they were already at The Succubus Club.
+					-Maybe something that could feed into some resentment on Matt's part later ("You
+					 ditched me to hang out with the golden boy! You're just like those other stuck
+					 up shits after all. . .) and maybe drive him into Des's pro-Caitiff arms.
 			-They walked to The Succubus Club from Blue Velvet.
 				-On the way, Quiana spotted an Obfuscated Fred lurking in an alley as they passed,
 				 then pointed him out to the rest.
@@ -808,7 +813,7 @@
 				-Eventually the combo of Cally and Damien convinced him to come to the club.
 					-Fred didn't expect that he'd be let in, in his tattered letter jacket, but
 					 Damien said he'd worry about that.
-			-Damien was as good as his word to Fred as, with just a few brief words to the bouncer,
+			-Damien was as good as his word to Fred, as, with just a few brief words to the bouncer,
 			 he led the group past the line and right into the club, with no cover, checking of IDs,
 			 or comments on dress.
 			-Damien and Ray split shortly after entering, Ray saying he saw someone he recognized
@@ -817,9 +822,10 @@
 				-Slam dancing!
 				-(DIDN'T HAPPEN!) Great opportunity for a mention of Pris.
 					-Pris came up with Des in another way.
-			-Quiana also noticed Portia at a bar as they came in, appearing to look right at the
+			-Quiana also noticed "Portia" at a bar as they came in, appearing to look right at the
 			 coterie.
-				-Quiana noticed both Portia's beauty and the apparent attention from her.
+				-Quiana noticed both Portia's beauty and the apparent attention from her, but didn't
+				 end up interacting with her yet.
 			-Looking in no small part to avoid Gengis, the coterie and caitiff headed for the
 			 basement and The Labryinth.
 				-Shortly after exiting the stairwell, Quiana spotted Des as a botch-rolling Cade
@@ -827,6 +833,10 @@
 					-That led to a lengthy conversation.
 					-Des learned that Cade "is" a Toreador, and he referred to Quiana as clanless
 					 without anyone correcting him.
+						-Cade (to my delight!) tried to act a bit snooty, and brag of his invite to
+						 Annabelle's party the next night, but Des said he'd actually received an
+						 invite too, after one of her brood followed him out of the museum to
+						 deliver it during the fire anniversary party.
 					-Des also learned about Son's attack on Cally, using it as an opportunity to
 					 expound on how the clanless need to stick together, and to doubt that help
 					 could be had from the Camarilla's powers-that-be.
@@ -835,7 +845,7 @@
 					-Des then asked about the other Caitiff he saw at the fire anniversary event.
 						-He raised the subject of Keaton and Priscilla.
 							-He was a bit unclear on Keaton's name, describing him as something like
-							 the douchebag in a suit, but was then informed of it.
+							 "the douchebag in a suit", but was then informed of it.
 							-The kindred also discussed her fawning on Keaton, despite the way he
 							 treated her.
 								-The subject was raised, I think, by Cally?
@@ -868,6 +878,8 @@
 			-Des invited by Anabelle to complete "her trio" of the newest Kindred in the city for
 			 the party?
 				-This is a good one so long as I get Quiana there.
+				-Yeah, after Cade tried to brag about his invite to the party the night before at
+				 The Succubus Club, Des said that he'd received an invite too.
 		-The party will draw heavily on the "Annabelle's Party Elite" coterie.
 		-This Reddit thread helped me get a handle on the Harpy role, a thing I expect Anabelle
 		 serves as in Chicago: https://old.reddit.com/r/vtm/comments/1jzw4hb/in_few_words_or_sentences_can_someone_explain_to/
