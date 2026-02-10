@@ -1,0 +1,111 @@
+Name: 
+Clan: Gargoyle
+Nature: 
+Demeanor: 
+Ruleset: V20
+
+Attributes: (7/5/3 above base of 1 in each)
+	Physical: (7)
+		Strength: 3
+		Dexterity: 4
+			Specialty: Feline Grace
+		Stamina: 3
+	Social: (3)
+		Charisma: 2
+		Manipulation: 3
+		Appearance: 0
+	Mental: (5)
+		Perception: 3
+		Intelligence: 2
+		Wits: 3
+
+Abilities: (13/9/5, max of 3)
+	Talents: (13)
+		Alertness: 3
+		Athletics: 3
+		Awareness: 3
+		Brawl: 3
+		Subterfuge: 1
+	Skills: (9)
+	    Firearms: 1
+		Melee: 2
+		Stealth: 3
+		Survival: 3
+	Knowledges: (5)
+		Investigation: 3
+		Occult: 2
+
+Disciplines: (3)
+	Flight: 1 (1 dot free)
+	    -Freebies for another?
+	Fortitude: 1
+	Potence: 1
+	Visceratika: 1
+
+Backgrounds: (5)
+	Generation: 2
+	Mentor: 2
+	    -Your sire.
+	    -From the description of the ranks, 2 is as high as I can imagine a gargoyle being.
+	Status: 1
+	    -Though gargoyles are generally afforded little respect, they themselves _do_ have reasonable
+	     to respect the traditions of the Camarilla and you've at least been properly presented and
+	     are a known neonate of the city.
+
+Humanity Rating:  (Conscience + Self-Control)
+Virtues: (7 above base of 1 in each)
+	Conscience: 2
+	Self-Control: 3
+	Courage: 5
+	
+Willpower:  (equal to Courage)
+Blood Pool:  (roll a d10 for start of game, max is based on generation)
+
+Merits & Flaws: ( Freebie Points)
+	Huge Size (4 pt. Physical Merit, V20 Core pg. 480): ?
+		-
+	Enemy (1-5 pt. Social Flaw, V20 Core pg. 490):
+		-Maybe multiple instances of the flaw?
+		    -One a Tremere (or group of them)?
+		        -Plenty of reason they might be inclined to mistreat a gargoyle.
+	        -One from before your embrace, unknown to you?
+	            -More Storyteller fun. . .
+	            -An enemy that could still identify (and threaten) you after the gargoyle embrace
+	             probably implies _something_ supernatural.
+    -The supernatural flaws present some options for more minor ones, if need be, though none were
+     extremely attractive at first glance.
+
+Freebie Points: (15)
+	
+	
+	High Willpower? Somewhat counteracts the Gargoyle mind-control vulnerability and feels right.
+
+Character Description and Background:
+	-Appearance:
+		-
+	-As a mortal:
+		-
+	-Your embrace:
+		-Gargoyles seem to be able to embrace in modern nights. . .
+        -. . . but still lose their memories (V20 Core pg. 401 confirms that).
+            -Interesting fun to offer a Storyteller: "Who _am_ I? . . . _Was_ I?"
+        -So, I'm imagining your sire found you bleeding in an alley somewhere, the source of your
+         wounds nowhere to be seen.
+            -Your sire was interested in building/expanding a community of gargoyles in the city,
+             for company, protection, etc.
+            -And here you were, dying, and even the disfigured existence of a gargoyle was surely
+             better than _death_?
+                -You're inclined to agree, and thus inclined to regard your sire warmly enough
+                 (though I suppose you mostly have your sire's word for this situation. . .).
+            -Perhaps you also had an obvious capacity for violence even as a mortal, presumably
+             having more than a bit to do with your violent near-death, further qualifying you for
+             a gargoyle's embrace?
+	-
+
+Equipment (stuff to start with or obtain):
+	
+
+Advancement:
+	-Tentative schedule:
+		
+	-
