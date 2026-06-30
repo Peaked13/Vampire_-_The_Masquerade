@@ -1,6 +1,6 @@
 Name: 
 Clan: Tzimisce
-Nature: Celebrant (You love kitties! Also, you're starting to rather enjoy Sabbat ritual.)
+Nature: Celebrant (You love kitties! Also, you're starting to rather enjoy Sabbat rituals.)
 Demeanor: Director
 Ruleset: Revised
 
@@ -47,7 +47,8 @@ Disciplines: (4)
 	Auspex: 1
 	Koldunic Sorcery: 1
 		Way of Fire: 1 (Manipulation + Koldunism)
-			-There are a lot of burned out buildings in your (admittedly rough) neighborhood these days. . .
+			-There are a lot of burned out buildings in your (admittedly rough) neighborhood these
+			 days. . .
 		Rituals: (Intelligence + Koldunism)
 			Level 1:
 				Mephistophelean Minx (Sins of the Blood pg. 98)
@@ -109,7 +110,7 @@ Character Description and Background:
 	-Your embrace:
 		-
 	-Your sire is (was?) a brute. You have no affection for him and, for his part, he thought
-	 your embrace was a funny joke (and never called you anything by "gran'ma vampire").
+	 your embrace was a funny joke (and never called you anything by "gramma vampire").
 	-On the other hand, a life time of experience with church social events, and the backbiting
 	 vipers that rule them, prepared you surprisingly well for some aspects of The Sabbat.
 		-You now have a circle of "ladies" you have by for "tea".
@@ -121,9 +122,9 @@ Character Description and Background:
 	-You've taken to the classic trope of sleeping in a (dirt smeared) coffin in your basement.
 		-With the death-like sleep of your unlife, you began to wake up with bites from some of
 		 your more ill-mannered cats beginning to eat you, and so resorted to this.
-		-Henry purchased went mad for funeral planning at one point, purchasing adjoining grave
-		 plots and, when he got sick, matching coffins ("It was a package deal!"). The plot will
-		 be going to waste now, but you're getting good use out of the coffin.
+		-Dear Henry went mad for funeral planning at one point, purchasing adjoining grave plots
+		 and, when he got sick, matching coffins ("It was a package deal!"). The plot will be going
+		 to waste now, but you're getting good use out of the coffin.
 
 Equipment (stuff to start with or obtain):
 	

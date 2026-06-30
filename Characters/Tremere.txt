@@ -27,11 +27,11 @@ Abilities: (13/9/5, max of 3)
 		Subterfuge: 2
 	Skills: (5)
 		Drive: 1
-		Firearms: 2 (maybe change to melee?)
+		Firearms: 2 (Maybe change to melee? Or shift just 1 pt. to it?)
 		Security: 2
 	Knowledges: (13)
 		Academics: 3
-		Occult: 5 (+ 2 from freebie points)
+		Occult: 5 (+2 from Freebie Points spent)
 			Specialty: Rituals
 		Computer: 2
 		Investigation: 2
@@ -45,7 +45,7 @@ Disciplines: (3)
 	Thaumaturgy: 5
 		Path of Blood (Primary): 5
 		Rituals: (1 free lvl. 1 ritual)
-			Expedient Paperwork (lvl. 1, Blood Magic: Secrets of Thaumaturgy	Pg. 87)
+			Expedient Paperwork (lvl. 1, Blood Magic: Secrets of Thaumaturgy Pg. 87)
 
 Backgrounds: (5)
 	Generation: 5
@@ -83,53 +83,57 @@ Character Description and Background:
 			-It began after your embrace and grew with your arcane studies.
 			-Your height probably doesn't help the impression much.
 	-As a mortal:
-		-
+		-You were a tenure-track academic.
 		-You swear your aversion to garlic preexisted your embrace, and are tired of the jokes about it.
 			-You'd really prefer that others simply didn't find out.
 	-Sire embraced you to help in some grand ritual, his (un)life's work.
 		-You will be pissed if you ever learn that your height was a factor.
 			-"You had to fit in the ritual apparatus!"
-				-The Path of Conjuration's limit of object size to the size of the caster is probably a factor here.
+				-The Path of Conjuration's limit of object size to the size of the caster is probably
+				 a factor here.
 		-As such, your training in Thaumaturgy was narrow and relentless.
 			-His focus was on making you into a high level ritual practitioner as soon as possible.
 				-Your stats reflect both that training and what he selected you for.
-			-You quickly resented this, a feeling that grew dramatically as your reading and limited interaction
-			 with the rest of Clan Tremere suggested it wasn't typically like this.
-				-Other apprentices, even at the same chantry, clearly saw vastly more of (un)life outside it.
-				-You were also fascinated by the various Paths, but your sire refused you instruction in any but
-				 that of blood.
+			-You quickly resented this, a feeling that grew dramatically as your reading and limited
+			 interaction with the rest of Clan Tremere suggested it wasn't typically like this.
+				-Other apprentices, even at the same chantry, clearly saw vastly more of (un)life
+				 outside it.
+				-You were also fascinated by the various Paths, but your sire refused you instruction
+				 in any but that of blood.
 					-He went so far as to interfere with any instruction from fellow apprentices too.
 					-"You only need master the blood for our great work!"
 						-You really hated that "our".
 		-He was regent of the isolated chantry where you were trained.
 			-It was actually a rather low position for one so old and well versed in Thaumaturgy.
-			-He somehow prevented you from being transfered, staying at one chantry far longer than the clan would
-			 usually allow.
-			-That, and the freedom and resources he had to pursue his ritual, suggested some kind of pull higher in
-			 the pyramid.
+			-He somehow prevented you from being transfered, staying at one chantry far longer than
+			 the clan would usually allow.
+			-That, and the freedom and resources he had to pursue his ritual, suggested some kind of
+			 pull higher in the pyramid.
 			-That changed abruptly one night.
-				-You awoke and your sire was already gone, replaced by a stranger who introduced herself as the new
-				 regent.
-				-Your sire's ritual laboratory and notes were packed away and shipped to an unknown location.
+				-You awoke and your sire was already gone, replaced by a stranger who introduced
+				 herself as the new regent.
+				-Your sire's ritual laboratory and notes were packed away and shipped to an unknown
+				 location.
 		-The new regent interviewed and tested you extensively.
 			-What she found clearly impressed her.
-				-Though you're training had been narrow, you were indeed a powerful thaumaturge.
-			-As such, when she arranged the transfer you were long overdue for, there were many regents eager to
-			 claim some credit for the talent your sire had hidden away.
-			-You had, in your interviews with your sire's replacement, mentioned an interest in The Path of the
-			 Focused Mind.
-				-Perhaps that's why you found yourself in the chantry you were recently relocated to, as it's
-				 regent is a master of the path.
-				-Or, perhaps, the clan sees in the path an opportunity to further hone the ritual practitioner it
-				 has been handed.
-	-Your rescue from your sire at the hands of Clan Tremere's standard practices have engendered in you a lot of
-	 affection for, and faith in, The Pyramid.
-		-Accurate or not (probably at least a little bit), you view your sire's treatment of you as pretty typical
-		 of the average vampire.
-			-You believe Clan Tremere to be different, as it's normal rules should have prevented your sire's
-			 monopolization of an apprentice and The Pyramid at least claims to be for the good of all it's members.
-		-It's politics are also a somewhat comfortable return to the politics of your beloved academia, at least
-		 compared to your sire's dictatorial mandates.
+				-Though your training had been narrow, you were indeed a powerful thaumaturge.
+			-As such, when she arranged the transfer you were long overdue for, there were many
+			 regents eager to claim some credit for the talent your sire had hidden away.
+			-You had, in your interviews with your sire's replacement, mentioned an interest in The
+			 Path of the Focused Mind.
+				-Perhaps that's why you found yourself in the chantry you were recently relocated
+				 to, as it's regent is a master of the path.
+				-Or, perhaps, the clan sees in the path an opportunity to further hone the ritual
+				 practitioner it has been handed.
+	-Your rescue from your sire at the hands of Clan Tremere's standard practices have engendered in
+	 you a lot of affection for, and faith in, The Pyramid.
+		-Accurate or not (probably at least a little bit), you view your sire's treatment of you as
+		 pretty typical of the average vampire.
+			-You believe Clan Tremere to be different, as it's normal rules should have prevented
+			 your sire's monopolization of an apprentice and The Pyramid at least claims to be for
+			 the good of all it's members.
+		-It's politics are also a somewhat comfortable return to the politics of your beloved
+		 academia, at least compared to your sire's dictatorial mandates.
 	-You seek training in additional paths, particularly The Focused Mind.
 		-First, though, you likely need to prove yourself to your new regent.
 		-In other words, you've a ready made plot hook for anything your regent would support.
@@ -139,8 +143,9 @@ Character Description and Background:
 	-Do you know any rituals other than the one that a single dot of Thaumaturgy grants you?
 		-Probably not, unless the Storyteller is feeling generous.
 		-If not, it's a bit odd, given your knowledge and Thaumaturgy rating.
-			-Still, it can be worked into your background. Your sire didn't much care about your ability to do any
-			 ritual but his grand one.
+			-Still, it can be worked into your background. Your sire didn't much care about your
+			 ability to do any ritual but his grand one.
+			-He didn't mind you taking some paperwork off his plate, though. . .
 		-You'd certainly like to learn more.
 
 Equipment (stuff to start with or obtain):
